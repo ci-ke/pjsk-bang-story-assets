@@ -65,7 +65,7 @@ async def main_async(args: argparse.Namespace) -> None:
 
     for p in args.paths:
         input_abs: str = os.path.abspath(p)
-        if not input_abs.startswith(SRC_ABS + os.sep):
+        if input_abs != SRC_ABS and not input_abs.startswith(SRC_ABS + os.sep):
             logging.error(f"Invalid path: {p}")
             continue
 

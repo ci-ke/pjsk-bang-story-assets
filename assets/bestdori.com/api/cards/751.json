@@ -1,0 +1,288 @@
+{
+  "characterId": 12,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res012033",
+  "sdResourceName": "sd012033",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1199,
+        "episodeType": "standard",
+        "situationId": 751,
+        "scenarioId": "episode751",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "俳句とお芝居",
+          "Haiku and Theater",
+          "俳句與戲劇",
+          "俳句和演戏",
+          "시조와 연극"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 1200,
+        "episodeType": "memorial",
+        "situationId": 751,
+        "scenarioId": "memorial751",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "儚さをかみしめて",
+          "Bite Into The Fleeting",
+          "將虛幻謹記於心",
+          "将梦幻融会贯通",
+          "덧없음을 곱씹으며"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 702,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "儚い一句",
+    "A Fleeting Haiku",
+    "虛幻的一句",
+    "梦幻的一句",
+    "덧없는 한 구절"
+  ],
+  "releasedAt": [
+    "1566280800000",
+    "1597885200000",
+    "1577602800000",
+    "1613451600000",
+    "1566280800000"
+  ],
+  "skillName": [
+    "心震わす五・七・五",
+    "Heart Fluttering Lines",
+    "震動人心的五・七・五",
+    "动人的五・七・五",
+    "마음을 울리는 5・7・5"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1800,
+      "technique": 1980,
+      "visual": 2100
+    },
+    "2": {
+      "performance": 1849,
+      "technique": 2033,
+      "visual": 2157
+    },
+    "3": {
+      "performance": 1901,
+      "technique": 2090,
+      "visual": 2217
+    },
+    "4": {
+      "performance": 1956,
+      "technique": 2150,
+      "visual": 2281
+    },
+    "5": {
+      "performance": 2014,
+      "technique": 2214,
+      "visual": 2349
+    },
+    "6": {
+      "performance": 2075,
+      "technique": 2282,
+      "visual": 2421
+    },
+    "7": {
+      "performance": 2140,
+      "technique": 2353,
+      "visual": 2496
+    },
+    "8": {
+      "performance": 2208,
+      "technique": 2428,
+      "visual": 2575
+    },
+    "9": {
+      "performance": 2279,
+      "technique": 2506,
+      "visual": 2658
+    },
+    "10": {
+      "performance": 2353,
+      "technique": 2588,
+      "visual": 2745
+    },
+    "11": {
+      "performance": 2431,
+      "technique": 2673,
+      "visual": 2836
+    },
+    "12": {
+      "performance": 2512,
+      "technique": 2762,
+      "visual": 2930
+    },
+    "13": {
+      "performance": 2596,
+      "technique": 2854,
+      "visual": 3028
+    },
+    "14": {
+      "performance": 2683,
+      "technique": 2950,
+      "visual": 3130
+    },
+    "15": {
+      "performance": 2773,
+      "technique": 3050,
+      "visual": 3236
+    },
+    "16": {
+      "performance": 2867,
+      "technique": 3153,
+      "visual": 3345
+    },
+    "17": {
+      "performance": 2964,
+      "technique": 3260,
+      "visual": 3458
+    },
+    "18": {
+      "performance": 3064,
+      "technique": 3370,
+      "visual": 3575
+    },
+    "19": {
+      "performance": 3167,
+      "technique": 3484,
+      "visual": 3696
+    },
+    "20": {
+      "performance": 3274,
+      "technique": 3601,
+      "visual": 3820
+    },
+    "21": {
+      "performance": 3384,
+      "technique": 3722,
+      "visual": 3948
+    },
+    "22": {
+      "performance": 3497,
+      "technique": 3846,
+      "visual": 4080
+    },
+    "23": {
+      "performance": 3613,
+      "technique": 3974,
+      "visual": 4216
+    },
+    "24": {
+      "performance": 3733,
+      "technique": 4106,
+      "visual": 4355
+    },
+    "25": {
+      "performance": 3856,
+      "technique": 4241,
+      "visual": 4498
+    },
+    "26": {
+      "performance": 3982,
+      "technique": 4380,
+      "visual": 4645
+    },
+    "27": {
+      "performance": 4111,
+      "technique": 4522,
+      "visual": 4796
+    },
+    "28": {
+      "performance": 4243,
+      "technique": 4668,
+      "visual": 4951
+    },
+    "29": {
+      "performance": 4379,
+      "technique": 4817,
+      "visual": 5109
+    },
+    "30": {
+      "performance": 4518,
+      "technique": 4970,
+      "visual": 5271
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

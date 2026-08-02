@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res010013",
+  "sdResourceName": "sd010013",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 469,
+        "episodeType": "standard",
+        "situationId": 295,
+        "scenarioId": "episode295",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "蟹座のエピソード",
+          "The Story of a Crab",
+          "巨蟹座的故事",
+          "巨蟹座的小故事",
+          "게 자리의 에피소드"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 470,
+        "episodeType": "memorial",
+        "situationId": 295,
+        "scenarioId": "memorial295",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "本番までのお楽しみ",
+          "Until the Actual Performance",
+          "把期待留到正式出場",
+          "保留起来的期待",
+          "기대되는 본 공연"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 359,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "夜空を見上げて",
+    "Night Sky Gazing",
+    "仰望夜空",
+    "仰望夜空",
+    "밤하늘을 올려다보며"
+  ],
+  "releasedAt": [
+    "1512799200000",
+    "1544317200000",
+    "1512802800000",
+    "1575954000000",
+    "1512799200000"
+  ],
+  "skillName": [
+    "一番星見つけた！",
+    "I Spotted the First Star!",
+    "找到第一顆星星了！",
+    "找到第一颗星星了！",
+    "가장 먼저 뜨는 별을 찾았어!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2400,
+      "technique": 1932,
+      "visual": 1548
+    },
+    "2": {
+      "performance": 2465,
+      "technique": 1984,
+      "visual": 1590
+    },
+    "3": {
+      "performance": 2534,
+      "technique": 2040,
+      "visual": 1635
+    },
+    "4": {
+      "performance": 2607,
+      "technique": 2099,
+      "visual": 1682
+    },
+    "5": {
+      "performance": 2685,
+      "technique": 2161,
+      "visual": 1732
+    },
+    "6": {
+      "performance": 2767,
+      "technique": 2227,
+      "visual": 1785
+    },
+    "7": {
+      "performance": 2853,
+      "technique": 2296,
+      "visual": 1841
+    },
+    "8": {
+      "performance": 2944,
+      "technique": 2369,
+      "visual": 1899
+    },
+    "9": {
+      "performance": 3039,
+      "technique": 2445,
+      "visual": 1960
+    },
+    "10": {
+      "performance": 3138,
+      "technique": 2525,
+      "visual": 2024
+    },
+    "11": {
+      "performance": 3241,
+      "technique": 2608,
+      "visual": 2091
+    },
+    "12": {
+      "performance": 3349,
+      "technique": 2695,
+      "visual": 2160
+    },
+    "13": {
+      "performance": 3461,
+      "technique": 2785,
+      "visual": 2232
+    },
+    "14": {
+      "performance": 3577,
+      "technique": 2879,
+      "visual": 2307
+    },
+    "15": {
+      "performance": 3698,
+      "technique": 2976,
+      "visual": 2385
+    },
+    "16": {
+      "performance": 3823,
+      "technique": 3077,
+      "visual": 2466
+    },
+    "17": {
+      "performance": 3952,
+      "technique": 3181,
+      "visual": 2549
+    },
+    "18": {
+      "performance": 4086,
+      "technique": 3289,
+      "visual": 2635
+    },
+    "19": {
+      "performance": 4224,
+      "technique": 3400,
+      "visual": 2724
+    },
+    "20": {
+      "performance": 4366,
+      "technique": 3514,
+      "visual": 2816
+    },
+    "21": {
+      "performance": 4512,
+      "technique": 3632,
+      "visual": 2910
+    },
+    "22": {
+      "performance": 4663,
+      "technique": 3753,
+      "visual": 3007
+    },
+    "23": {
+      "performance": 4818,
+      "technique": 3878,
+      "visual": 3107
+    },
+    "24": {
+      "performance": 4977,
+      "technique": 4006,
+      "visual": 3210
+    },
+    "25": {
+      "performance": 5141,
+      "technique": 4138,
+      "visual": 3316
+    },
+    "26": {
+      "performance": 5309,
+      "technique": 4273,
+      "visual": 3424
+    },
+    "27": {
+      "performance": 5481,
+      "technique": 4412,
+      "visual": 3535
+    },
+    "28": {
+      "performance": 5658,
+      "technique": 4554,
+      "visual": 3649
+    },
+    "29": {
+      "performance": 5839,
+      "technique": 4700,
+      "visual": 3766
+    },
+    "30": {
+      "performance": 6024,
+      "technique": 4849,
+      "visual": 3885
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

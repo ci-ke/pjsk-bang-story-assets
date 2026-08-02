@@ -1,0 +1,406 @@
+{
+  "characterId": 25,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res025007",
+  "sdResourceName": "sd025007",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 335,
+        "episodeType": "standard",
+        "situationId": 168,
+        "scenarioId": "episode168",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "慣れないショッピング",
+          "A New Shopping Experience",
+          "不習慣的購物",
+          "不习惯的购物",
+          "익숙하지 않은 쇼핑"
+        ],
+        "characterId": 25
+      },
+      {
+        "episodeId": 336,
+        "episodeType": "memorial",
+        "situationId": 168,
+        "scenarioId": "memorial168",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "海に必要な物",
+          "Beach Essentials",
+          "海邊所需物品",
+          "去海边的必需品",
+          "바다에서 필요한 물건"
+        ],
+        "characterId": 25
+      }
+    ]
+  },
+  "costumeId": 124,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "選んでもらった水着",
+    "A Swimsuit Chosen for Me",
+    "別人幫忙選的泳裝",
+    "大家挑选的泳衣",
+    "추천 받은 수영복"
+  ],
+  "releasedAt": [
+    "1501480800000",
+    "1533085200000",
+    "1501484400000",
+    "1501484400000",
+    "1501480800000"
+  ],
+  "skillName": [
+    "泳ぐの……得意じゃなくて",
+    "I don't... like swimming",
+    "我不太會……游泳",
+    "我不擅长……游泳",
+    "수영은…… 특기가 아니라서"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3321,
+      "technique": 2871,
+      "visual": 2349
+    },
+    "2": {
+      "performance": 3365,
+      "technique": 2909,
+      "visual": 2380
+    },
+    "3": {
+      "performance": 3411,
+      "technique": 2949,
+      "visual": 2413
+    },
+    "4": {
+      "performance": 3460,
+      "technique": 2991,
+      "visual": 2447
+    },
+    "5": {
+      "performance": 3511,
+      "technique": 3035,
+      "visual": 2483
+    },
+    "6": {
+      "performance": 3564,
+      "technique": 3081,
+      "visual": 2520
+    },
+    "7": {
+      "performance": 3619,
+      "technique": 3129,
+      "visual": 2559
+    },
+    "8": {
+      "performance": 3676,
+      "technique": 3179,
+      "visual": 2600
+    },
+    "9": {
+      "performance": 3736,
+      "technique": 3230,
+      "visual": 2642
+    },
+    "10": {
+      "performance": 3798,
+      "technique": 3283,
+      "visual": 2686
+    },
+    "11": {
+      "performance": 3862,
+      "technique": 3338,
+      "visual": 2731
+    },
+    "12": {
+      "performance": 3928,
+      "technique": 3395,
+      "visual": 2778
+    },
+    "13": {
+      "performance": 3996,
+      "technique": 3454,
+      "visual": 2826
+    },
+    "14": {
+      "performance": 4067,
+      "technique": 3515,
+      "visual": 2876
+    },
+    "15": {
+      "performance": 4140,
+      "technique": 3578,
+      "visual": 2927
+    },
+    "16": {
+      "performance": 4215,
+      "technique": 3643,
+      "visual": 2980
+    },
+    "17": {
+      "performance": 4292,
+      "technique": 3710,
+      "visual": 3035
+    },
+    "18": {
+      "performance": 4371,
+      "technique": 3779,
+      "visual": 3091
+    },
+    "19": {
+      "performance": 4453,
+      "technique": 3850,
+      "visual": 3149
+    },
+    "20": {
+      "performance": 4537,
+      "technique": 3922,
+      "visual": 3208
+    },
+    "21": {
+      "performance": 4623,
+      "technique": 3996,
+      "visual": 3269
+    },
+    "22": {
+      "performance": 4711,
+      "technique": 4072,
+      "visual": 3331
+    },
+    "23": {
+      "performance": 4801,
+      "technique": 4150,
+      "visual": 3395
+    },
+    "24": {
+      "performance": 4894,
+      "technique": 4230,
+      "visual": 3460
+    },
+    "25": {
+      "performance": 4989,
+      "technique": 4312,
+      "visual": 3527
+    },
+    "26": {
+      "performance": 5086,
+      "technique": 4396,
+      "visual": 3596
+    },
+    "27": {
+      "performance": 5185,
+      "technique": 4482,
+      "visual": 3666
+    },
+    "28": {
+      "performance": 5286,
+      "technique": 4570,
+      "visual": 3738
+    },
+    "29": {
+      "performance": 5390,
+      "technique": 4660,
+      "visual": 3811
+    },
+    "30": {
+      "performance": 5496,
+      "technique": 4752,
+      "visual": 3886
+    },
+    "31": {
+      "performance": 5604,
+      "technique": 4845,
+      "visual": 3962
+    },
+    "32": {
+      "performance": 5714,
+      "technique": 4940,
+      "visual": 4040
+    },
+    "33": {
+      "performance": 5826,
+      "technique": 5037,
+      "visual": 4120
+    },
+    "34": {
+      "performance": 5941,
+      "technique": 5136,
+      "visual": 4201
+    },
+    "35": {
+      "performance": 6058,
+      "technique": 5237,
+      "visual": 4284
+    },
+    "36": {
+      "performance": 6177,
+      "technique": 5340,
+      "visual": 4368
+    },
+    "37": {
+      "performance": 6298,
+      "technique": 5445,
+      "visual": 4454
+    },
+    "38": {
+      "performance": 6421,
+      "technique": 5552,
+      "visual": 4541
+    },
+    "39": {
+      "performance": 6547,
+      "technique": 5661,
+      "visual": 4630
+    },
+    "40": {
+      "performance": 6675,
+      "technique": 5772,
+      "visual": 4720
+    },
+    "41": {
+      "performance": 6861,
+      "technique": 5933,
+      "visual": 4851
+    },
+    "42": {
+      "performance": 7080,
+      "technique": 6122,
+      "visual": 5006
+    },
+    "43": {
+      "performance": 7332,
+      "technique": 6340,
+      "visual": 5184
+    },
+    "44": {
+      "performance": 7618,
+      "technique": 6587,
+      "visual": 5386
+    },
+    "45": {
+      "performance": 7937,
+      "technique": 6863,
+      "visual": 5612
+    },
+    "46": {
+      "performance": 8289,
+      "technique": 7167,
+      "visual": 5861
+    },
+    "47": {
+      "performance": 8674,
+      "technique": 7500,
+      "visual": 6134
+    },
+    "48": {
+      "performance": 9093,
+      "technique": 7862,
+      "visual": 6430
+    },
+    "49": {
+      "performance": 9545,
+      "technique": 8253,
+      "visual": 6750
+    },
+    "50": {
+      "performance": 10030,
+      "technique": 8672,
+      "visual": 7093
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

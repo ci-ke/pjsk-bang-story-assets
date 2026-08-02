@@ -1,0 +1,288 @@
+{
+  "characterId": 7,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res007002",
+  "sdResourceName": "sd007002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 51,
+        "episodeType": "standard",
+        "situationId": 26,
+        "scenarioId": "episode026",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 7
+      },
+      {
+        "episodeId": 52,
+        "episodeType": "memorial",
+        "situationId": 26,
+        "scenarioId": "memorial026",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "例のいつものとこ",
+          "The Usual Spot",
+          "那個老地方",
+          "惯例的那个地方",
+          "항상 모이는 그곳"
+        ],
+        "characterId": 7
+      }
+    ]
+  },
+  "costumeId": 32,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "むしゃむしゃ",
+    "Nom Nom",
+    "嚼嚼嚼",
+    "狼吞虎咽",
+    "우적우적"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2490,
+      "technique": 1320,
+      "visual": 1710
+    },
+    "2": {
+      "performance": 2558,
+      "technique": 1356,
+      "visual": 1757
+    },
+    "3": {
+      "performance": 2631,
+      "technique": 1394,
+      "visual": 1807
+    },
+    "4": {
+      "performance": 2708,
+      "technique": 1435,
+      "visual": 1860
+    },
+    "5": {
+      "performance": 2790,
+      "technique": 1478,
+      "visual": 1916
+    },
+    "6": {
+      "performance": 2876,
+      "technique": 1524,
+      "visual": 1975
+    },
+    "7": {
+      "performance": 2967,
+      "technique": 1572,
+      "visual": 2037
+    },
+    "8": {
+      "performance": 3062,
+      "technique": 1622,
+      "visual": 2102
+    },
+    "9": {
+      "performance": 3162,
+      "technique": 1675,
+      "visual": 2170
+    },
+    "10": {
+      "performance": 3266,
+      "technique": 1730,
+      "visual": 2242
+    },
+    "11": {
+      "performance": 3375,
+      "technique": 1788,
+      "visual": 2317
+    },
+    "12": {
+      "performance": 3488,
+      "technique": 1848,
+      "visual": 2395
+    },
+    "13": {
+      "performance": 3606,
+      "technique": 1910,
+      "visual": 2476
+    },
+    "14": {
+      "performance": 3728,
+      "technique": 1975,
+      "visual": 2560
+    },
+    "15": {
+      "performance": 3855,
+      "technique": 2042,
+      "visual": 2647
+    },
+    "16": {
+      "performance": 3986,
+      "technique": 2112,
+      "visual": 2737
+    },
+    "17": {
+      "performance": 4122,
+      "technique": 2184,
+      "visual": 2830
+    },
+    "18": {
+      "performance": 4262,
+      "technique": 2258,
+      "visual": 2926
+    },
+    "19": {
+      "performance": 4407,
+      "technique": 2335,
+      "visual": 3026
+    },
+    "20": {
+      "performance": 4556,
+      "technique": 2414,
+      "visual": 3129
+    },
+    "21": {
+      "performance": 4710,
+      "technique": 2496,
+      "visual": 3235
+    },
+    "22": {
+      "performance": 4869,
+      "technique": 2580,
+      "visual": 3344
+    },
+    "23": {
+      "performance": 5032,
+      "technique": 2666,
+      "visual": 3456
+    },
+    "24": {
+      "performance": 5200,
+      "technique": 2755,
+      "visual": 3571
+    },
+    "25": {
+      "performance": 5372,
+      "technique": 2846,
+      "visual": 3689
+    },
+    "26": {
+      "performance": 5549,
+      "technique": 2940,
+      "visual": 3810
+    },
+    "27": {
+      "performance": 5730,
+      "technique": 3036,
+      "visual": 3934
+    },
+    "28": {
+      "performance": 5916,
+      "technique": 3134,
+      "visual": 4061
+    },
+    "29": {
+      "performance": 6106,
+      "technique": 3235,
+      "visual": 4192
+    },
+    "30": {
+      "performance": 6301,
+      "technique": 3338,
+      "visual": 4326
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

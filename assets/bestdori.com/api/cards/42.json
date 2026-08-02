@@ -1,0 +1,288 @@
+{
+  "characterId": 11,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res011002",
+  "sdResourceName": "sd011002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 83,
+        "episodeType": "standard",
+        "situationId": 42,
+        "scenarioId": "episode042",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 84,
+        "episodeType": "memorial",
+        "situationId": 42,
+        "scenarioId": "memorial042",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "気合いドーン！",
+          "Enthusiastic Boom!",
+          "鼓足幹勁！",
+          "气势咚！",
+          "기합을 얍!"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 36,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "弦巻家の差し入れ",
+    "Tsurumaki Gift",
+    "弦卷家的慰勞品",
+    "弦卷家的慰问品",
+    "츠루마키 가문의 간식"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2250,
+      "technique": 1680,
+      "visual": 1950
+    },
+    "2": {
+      "performance": 2310,
+      "technique": 1725,
+      "visual": 2002
+    },
+    "3": {
+      "performance": 2374,
+      "technique": 1773,
+      "visual": 2057
+    },
+    "4": {
+      "performance": 2442,
+      "technique": 1824,
+      "visual": 2116
+    },
+    "5": {
+      "performance": 2514,
+      "technique": 1878,
+      "visual": 2178
+    },
+    "6": {
+      "performance": 2590,
+      "technique": 1935,
+      "visual": 2244
+    },
+    "7": {
+      "performance": 2670,
+      "technique": 1995,
+      "visual": 2313
+    },
+    "8": {
+      "performance": 2754,
+      "technique": 2058,
+      "visual": 2386
+    },
+    "9": {
+      "performance": 2842,
+      "technique": 2123,
+      "visual": 2462
+    },
+    "10": {
+      "performance": 2934,
+      "technique": 2191,
+      "visual": 2541
+    },
+    "11": {
+      "performance": 3030,
+      "technique": 2262,
+      "visual": 2624
+    },
+    "12": {
+      "performance": 3130,
+      "technique": 2336,
+      "visual": 2710
+    },
+    "13": {
+      "performance": 3234,
+      "technique": 2413,
+      "visual": 2800
+    },
+    "14": {
+      "performance": 3342,
+      "technique": 2493,
+      "visual": 2893
+    },
+    "15": {
+      "performance": 3454,
+      "technique": 2576,
+      "visual": 2990
+    },
+    "16": {
+      "performance": 3570,
+      "technique": 2662,
+      "visual": 3090
+    },
+    "17": {
+      "performance": 3690,
+      "technique": 2751,
+      "visual": 3194
+    },
+    "18": {
+      "performance": 3814,
+      "technique": 2843,
+      "visual": 3301
+    },
+    "19": {
+      "performance": 3942,
+      "technique": 2938,
+      "visual": 3412
+    },
+    "20": {
+      "performance": 4074,
+      "technique": 3036,
+      "visual": 3526
+    },
+    "21": {
+      "performance": 4210,
+      "technique": 3137,
+      "visual": 3643
+    },
+    "22": {
+      "performance": 4350,
+      "technique": 3241,
+      "visual": 3764
+    },
+    "23": {
+      "performance": 4493,
+      "technique": 3348,
+      "visual": 3888
+    },
+    "24": {
+      "performance": 4640,
+      "technique": 3458,
+      "visual": 4016
+    },
+    "25": {
+      "performance": 4791,
+      "technique": 3571,
+      "visual": 4147
+    },
+    "26": {
+      "performance": 4946,
+      "technique": 3687,
+      "visual": 4282
+    },
+    "27": {
+      "performance": 5105,
+      "technique": 3806,
+      "visual": 4420
+    },
+    "28": {
+      "performance": 5268,
+      "technique": 3928,
+      "visual": 4562
+    },
+    "29": {
+      "performance": 5435,
+      "technique": 4053,
+      "visual": 4707
+    },
+    "30": {
+      "performance": 5606,
+      "technique": 4181,
+      "visual": 4856
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

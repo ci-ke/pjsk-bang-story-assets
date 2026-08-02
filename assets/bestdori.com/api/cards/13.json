@@ -1,0 +1,229 @@
+{
+  "characterId": 4,
+  "rarity": 1,
+  "attribute": "powerful",
+  "levelLimit": 20,
+  "resourceSetName": "res004001",
+  "sdResourceName": "sd004001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 25,
+        "episodeType": "standard",
+        "situationId": 13,
+        "scenarioId": "episode013",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 4
+      },
+      {
+        "episodeId": 26,
+        "episodeType": "memorial",
+        "situationId": 13,
+        "scenarioId": "memorial013",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "材料の買出しの途中で",
+          "Off To The Store",
+          "要去買材料的路上",
+          "出去买材料的途中",
+          "장을 보러 가는 길에"
+        ],
+        "characterId": 4
+      }
+    ]
+  },
+  "costumeId": 1611,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "みんなのお姉ちゃん",
+    "Everybody's Sister",
+    "大家的姊姊",
+    "大家的姐姐",
+    "모두의 언니"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "１・２・３・４！",
+    "1, 2, 3, 4!",
+    "１・２・３・４！",
+    "1·2·3·4！",
+    "１・２・３・４ !"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 756,
+      "technique": 1191,
+      "visual": 909
+    },
+    "2": {
+      "performance": 788,
+      "technique": 1241,
+      "visual": 947
+    },
+    "3": {
+      "performance": 823,
+      "technique": 1296,
+      "visual": 989
+    },
+    "4": {
+      "performance": 861,
+      "technique": 1356,
+      "visual": 1035
+    },
+    "5": {
+      "performance": 902,
+      "technique": 1421,
+      "visual": 1085
+    },
+    "6": {
+      "performance": 946,
+      "technique": 1491,
+      "visual": 1138
+    },
+    "7": {
+      "performance": 993,
+      "technique": 1566,
+      "visual": 1195
+    },
+    "8": {
+      "performance": 1044,
+      "technique": 1646,
+      "visual": 1256
+    },
+    "9": {
+      "performance": 1098,
+      "technique": 1731,
+      "visual": 1321
+    },
+    "10": {
+      "performance": 1155,
+      "technique": 1821,
+      "visual": 1389
+    },
+    "11": {
+      "performance": 1215,
+      "technique": 1916,
+      "visual": 1461
+    },
+    "12": {
+      "performance": 1278,
+      "technique": 2016,
+      "visual": 1537
+    },
+    "13": {
+      "performance": 1344,
+      "technique": 2121,
+      "visual": 1617
+    },
+    "14": {
+      "performance": 1414,
+      "technique": 2231,
+      "visual": 1701
+    },
+    "15": {
+      "performance": 1487,
+      "technique": 2346,
+      "visual": 1788
+    },
+    "16": {
+      "performance": 1563,
+      "technique": 2465,
+      "visual": 1879
+    },
+    "17": {
+      "performance": 1642,
+      "technique": 2589,
+      "visual": 1974
+    },
+    "18": {
+      "performance": 1724,
+      "technique": 2718,
+      "visual": 2073
+    },
+    "19": {
+      "performance": 1809,
+      "technique": 2852,
+      "visual": 2176
+    },
+    "20": {
+      "performance": 1898,
+      "technique": 2991,
+      "visual": 2282
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

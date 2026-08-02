@@ -1,0 +1,288 @@
+{
+  "characterId": 24,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res024026",
+  "sdResourceName": "sd024026",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 971,
+        "episodeType": "standard",
+        "situationId": 602,
+        "scenarioId": "episode602",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ひとりでお使い割",
+          "Dividing Up the Work Myself",
+          "第一次跑腿優惠",
+          "跑腿打折",
+          "혼자서 심부름 할인"
+        ],
+        "characterId": 24
+      },
+      {
+        "episodeId": 972,
+        "episodeType": "memorial",
+        "situationId": 602,
+        "scenarioId": "memorial602",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "たぬき屋の新メニュー",
+          "Tanuki Restaurant's New Item",
+          "狸貓屋的新菜單",
+          "狸猫铺的新菜单",
+          "너구리집의 신메뉴"
+        ],
+        "characterId": 24
+      }
+    ]
+  },
+  "costumeId": 553,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "バイトデビュー？",
+    "Part-Time Debut?",
+    "首次打工？",
+    "首次打工？",
+    "아르바이트 데뷔?"
+  ],
+  "releasedAt": [
+    "1549778400000",
+    "1581210000000",
+    "1561014000000",
+    "1601355600000",
+    "1549778400000"
+  ],
+  "skillName": [
+    "秘技・トレイ返し……？",
+    "Secret Tray-Flip Trick?",
+    "秘技‧托盤歸來……？",
+    "秘技·打翻托盘……？",
+    "필살・쟁반 뒤집기……?"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2400,
+      "technique": 1434,
+      "visual": 1866
+    },
+    "2": {
+      "performance": 2466,
+      "technique": 1473,
+      "visual": 1917
+    },
+    "3": {
+      "performance": 2536,
+      "technique": 1515,
+      "visual": 1971
+    },
+    "4": {
+      "performance": 2610,
+      "technique": 1559,
+      "visual": 2029
+    },
+    "5": {
+      "performance": 2689,
+      "technique": 1606,
+      "visual": 2090
+    },
+    "6": {
+      "performance": 2772,
+      "technique": 1656,
+      "visual": 2155
+    },
+    "7": {
+      "performance": 2859,
+      "technique": 1708,
+      "visual": 2223
+    },
+    "8": {
+      "performance": 2951,
+      "technique": 1763,
+      "visual": 2294
+    },
+    "9": {
+      "performance": 3047,
+      "technique": 1820,
+      "visual": 2369
+    },
+    "10": {
+      "performance": 3147,
+      "technique": 1880,
+      "visual": 2447
+    },
+    "11": {
+      "performance": 3252,
+      "technique": 1943,
+      "visual": 2528
+    },
+    "12": {
+      "performance": 3361,
+      "technique": 2008,
+      "visual": 2613
+    },
+    "13": {
+      "performance": 3475,
+      "technique": 2076,
+      "visual": 2701
+    },
+    "14": {
+      "performance": 3593,
+      "technique": 2146,
+      "visual": 2793
+    },
+    "15": {
+      "performance": 3715,
+      "technique": 2219,
+      "visual": 2888
+    },
+    "16": {
+      "performance": 3842,
+      "technique": 2295,
+      "visual": 2986
+    },
+    "17": {
+      "performance": 3973,
+      "technique": 2373,
+      "visual": 3088
+    },
+    "18": {
+      "performance": 4108,
+      "technique": 2454,
+      "visual": 3193
+    },
+    "19": {
+      "performance": 4248,
+      "technique": 2537,
+      "visual": 3302
+    },
+    "20": {
+      "performance": 4392,
+      "technique": 2623,
+      "visual": 3414
+    },
+    "21": {
+      "performance": 4540,
+      "technique": 2712,
+      "visual": 3529
+    },
+    "22": {
+      "performance": 4693,
+      "technique": 2803,
+      "visual": 3648
+    },
+    "23": {
+      "performance": 4850,
+      "technique": 2897,
+      "visual": 3770
+    },
+    "24": {
+      "performance": 5012,
+      "technique": 2994,
+      "visual": 3896
+    },
+    "25": {
+      "performance": 5178,
+      "technique": 3093,
+      "visual": 4025
+    },
+    "26": {
+      "performance": 5348,
+      "technique": 3195,
+      "visual": 4157
+    },
+    "27": {
+      "performance": 5523,
+      "technique": 3299,
+      "visual": 4293
+    },
+    "28": {
+      "performance": 5702,
+      "technique": 3406,
+      "visual": 4432
+    },
+    "29": {
+      "performance": 5885,
+      "technique": 3516,
+      "visual": 4575
+    },
+    "30": {
+      "performance": 6073,
+      "technique": 3628,
+      "visual": 4721
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

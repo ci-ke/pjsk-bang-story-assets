@@ -1,0 +1,406 @@
+{
+  "characterId": 18,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res018033",
+  "sdResourceName": "sd018033",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1375,
+        "episodeType": "standard",
+        "situationId": 846,
+        "scenarioId": "episode846",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "はにかみのお願い",
+          "A Shy Request",
+          "容易害羞的人的願望",
+          "腼腆的请求",
+          "수줍은 부탁"
+        ],
+        "characterId": 18
+      },
+      {
+        "episodeId": 1376,
+        "episodeType": "memorial",
+        "situationId": 846,
+        "scenarioId": "memorial846",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "女優とアイドル",
+          "Actress and Idol",
+          "女演員與偶像",
+          "女演员和偶像",
+          "배우와 아이돌"
+        ],
+        "characterId": 18
+      }
+    ]
+  },
+  "costumeId": 797,
+  "gachaText": [
+    "そうね。\n 日菜ちゃんの期待には応えたいわ",
+    "Yes. I'd like to meet Hina-chan's expectations.",
+    "也是呢。\n 我想回應小菜的期待。",
+    "没错。\n必须回应小日菜的期待呢",
+    "그러네. \n히나 짱의 기대에는 부응하고 싶어."
+  ],
+  "prefix": [
+    "混ぜ方注意！",
+    "Careful Mixing!",
+    "注意攪拌方法！",
+    "要注意混合方法！",
+    "섞는 법 주의!"
+  ],
+  "releasedAt": [
+    "1580450400000",
+    "1612054800000",
+    "1593154800000",
+    "1622523600000",
+    "1580450400000"
+  ],
+  "skillName": [
+    "ワンポイントアドバイス☆",
+    "Important Advice☆",
+    "一點建議☆",
+    "重点建议☆",
+    "원 포인트 어드바이스☆"
+  ],
+  "skillId": 11,
+  "source": null,
+  "type": "limited",
+  "stat": {
+    "1": {
+      "performance": 3150,
+      "technique": 3321,
+      "visual": 2709
+    },
+    "2": {
+      "performance": 3191,
+      "technique": 3364,
+      "visual": 2744
+    },
+    "3": {
+      "performance": 3234,
+      "technique": 3409,
+      "visual": 2781
+    },
+    "4": {
+      "performance": 3279,
+      "technique": 3457,
+      "visual": 2820
+    },
+    "5": {
+      "performance": 3326,
+      "technique": 3507,
+      "visual": 2861
+    },
+    "6": {
+      "performance": 3375,
+      "technique": 3559,
+      "visual": 2903
+    },
+    "7": {
+      "performance": 3426,
+      "technique": 3613,
+      "visual": 2947
+    },
+    "8": {
+      "performance": 3479,
+      "technique": 3669,
+      "visual": 2993
+    },
+    "9": {
+      "performance": 3534,
+      "technique": 3727,
+      "visual": 3041
+    },
+    "10": {
+      "performance": 3591,
+      "technique": 3788,
+      "visual": 3090
+    },
+    "11": {
+      "performance": 3650,
+      "technique": 3851,
+      "visual": 3141
+    },
+    "12": {
+      "performance": 3712,
+      "technique": 3916,
+      "visual": 3194
+    },
+    "13": {
+      "performance": 3776,
+      "technique": 3983,
+      "visual": 3249
+    },
+    "14": {
+      "performance": 3842,
+      "technique": 4052,
+      "visual": 3305
+    },
+    "15": {
+      "performance": 3910,
+      "technique": 4123,
+      "visual": 3363
+    },
+    "16": {
+      "performance": 3980,
+      "technique": 4197,
+      "visual": 3423
+    },
+    "17": {
+      "performance": 4052,
+      "technique": 4273,
+      "visual": 3485
+    },
+    "18": {
+      "performance": 4126,
+      "technique": 4351,
+      "visual": 3548
+    },
+    "19": {
+      "performance": 4202,
+      "technique": 4431,
+      "visual": 3613
+    },
+    "20": {
+      "performance": 4280,
+      "technique": 4513,
+      "visual": 3680
+    },
+    "21": {
+      "performance": 4360,
+      "technique": 4597,
+      "visual": 3749
+    },
+    "22": {
+      "performance": 4442,
+      "technique": 4683,
+      "visual": 3820
+    },
+    "23": {
+      "performance": 4526,
+      "technique": 4772,
+      "visual": 3892
+    },
+    "24": {
+      "performance": 4612,
+      "technique": 4863,
+      "visual": 3966
+    },
+    "25": {
+      "performance": 4700,
+      "technique": 4956,
+      "visual": 4042
+    },
+    "26": {
+      "performance": 4790,
+      "technique": 5051,
+      "visual": 4120
+    },
+    "27": {
+      "performance": 4882,
+      "technique": 5148,
+      "visual": 4199
+    },
+    "28": {
+      "performance": 4976,
+      "technique": 5247,
+      "visual": 4280
+    },
+    "29": {
+      "performance": 5072,
+      "technique": 5349,
+      "visual": 4363
+    },
+    "30": {
+      "performance": 5170,
+      "technique": 5453,
+      "visual": 4448
+    },
+    "31": {
+      "performance": 5270,
+      "technique": 5559,
+      "visual": 4534
+    },
+    "32": {
+      "performance": 5373,
+      "technique": 5667,
+      "visual": 4622
+    },
+    "33": {
+      "performance": 5478,
+      "technique": 5777,
+      "visual": 4712
+    },
+    "34": {
+      "performance": 5585,
+      "technique": 5889,
+      "visual": 4804
+    },
+    "35": {
+      "performance": 5694,
+      "technique": 6004,
+      "visual": 4897
+    },
+    "36": {
+      "performance": 5805,
+      "technique": 6121,
+      "visual": 4992
+    },
+    "37": {
+      "performance": 5918,
+      "technique": 6240,
+      "visual": 5089
+    },
+    "38": {
+      "performance": 6033,
+      "technique": 6361,
+      "visual": 5188
+    },
+    "39": {
+      "performance": 6150,
+      "technique": 6484,
+      "visual": 5288
+    },
+    "40": {
+      "performance": 6269,
+      "technique": 6609,
+      "visual": 5390
+    },
+    "41": {
+      "performance": 6442,
+      "technique": 6791,
+      "visual": 5539
+    },
+    "42": {
+      "performance": 6646,
+      "technique": 7006,
+      "visual": 5714
+    },
+    "43": {
+      "performance": 6880,
+      "technique": 7253,
+      "visual": 5916
+    },
+    "44": {
+      "performance": 7145,
+      "technique": 7533,
+      "visual": 6144
+    },
+    "45": {
+      "performance": 7441,
+      "technique": 7845,
+      "visual": 6399
+    },
+    "46": {
+      "performance": 7768,
+      "technique": 8190,
+      "visual": 6680
+    },
+    "47": {
+      "performance": 8126,
+      "technique": 8568,
+      "visual": 6988
+    },
+    "48": {
+      "performance": 8515,
+      "technique": 8978,
+      "visual": 7323
+    },
+    "49": {
+      "performance": 8935,
+      "technique": 9421,
+      "visual": 7684
+    },
+    "50": {
+      "performance": 9386,
+      "technique": 9897,
+      "visual": 8072
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

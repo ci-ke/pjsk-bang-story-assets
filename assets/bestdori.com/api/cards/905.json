@@ -1,0 +1,229 @@
+{
+  "characterId": 29,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res029002",
+  "sdResourceName": "sd029002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1423,
+        "episodeType": "standard",
+        "situationId": 905,
+        "scenarioId": "episode905",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 29
+      },
+      {
+        "episodeId": 1424,
+        "episodeType": "memorial",
+        "situationId": 905,
+        "scenarioId": "memorial905",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "秘密の特訓",
+          "Secret Training",
+          "祕密特訓",
+          "秘密特训",
+          "비밀스러운 특훈"
+        ],
+        "characterId": 29
+      }
+    ]
+  },
+  "costumeId": 1636,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "いつも自信満々",
+    "Full of Confidence",
+    "總是自信滿滿",
+    "总是自信满满",
+    "언제나 자신만만"
+  ],
+  "releasedAt": [
+    "1584284400000",
+    "1616202000000",
+    "1584288000000",
+    "1584288000000",
+    "1584284400000"
+  ],
+  "skillName": [
+    "月ノ森のプライド",
+    "Tsukinomori Pride",
+    "月之森的驕傲",
+    "月森的自豪",
+    "츠키노모리 프라이드"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 666,
+      "technique": 1251,
+      "visual": 849
+    },
+    "2": {
+      "performance": 694,
+      "technique": 1304,
+      "visual": 885
+    },
+    "3": {
+      "performance": 725,
+      "technique": 1362,
+      "visual": 925
+    },
+    "4": {
+      "performance": 759,
+      "technique": 1426,
+      "visual": 968
+    },
+    "5": {
+      "performance": 796,
+      "technique": 1495,
+      "visual": 1015
+    },
+    "6": {
+      "performance": 836,
+      "technique": 1569,
+      "visual": 1065
+    },
+    "7": {
+      "performance": 878,
+      "technique": 1649,
+      "visual": 1119
+    },
+    "8": {
+      "performance": 923,
+      "technique": 1734,
+      "visual": 1177
+    },
+    "9": {
+      "performance": 971,
+      "technique": 1824,
+      "visual": 1238
+    },
+    "10": {
+      "performance": 1022,
+      "technique": 1919,
+      "visual": 1303
+    },
+    "11": {
+      "performance": 1076,
+      "technique": 2020,
+      "visual": 1371
+    },
+    "12": {
+      "performance": 1132,
+      "technique": 2126,
+      "visual": 1443
+    },
+    "13": {
+      "performance": 1191,
+      "technique": 2237,
+      "visual": 1519
+    },
+    "14": {
+      "performance": 1253,
+      "technique": 2354,
+      "visual": 1598
+    },
+    "15": {
+      "performance": 1318,
+      "technique": 2476,
+      "visual": 1681
+    },
+    "16": {
+      "performance": 1386,
+      "technique": 2603,
+      "visual": 1767
+    },
+    "17": {
+      "performance": 1457,
+      "technique": 2735,
+      "visual": 1857
+    },
+    "18": {
+      "performance": 1530,
+      "technique": 2873,
+      "visual": 1950
+    },
+    "19": {
+      "performance": 1606,
+      "technique": 3016,
+      "visual": 2047
+    },
+    "20": {
+      "performance": 1685,
+      "technique": 3164,
+      "visual": 2148
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

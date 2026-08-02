@@ -1,0 +1,288 @@
+{
+  "characterId": 11,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res011020",
+  "sdResourceName": "sd011020",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 525,
+        "episodeType": "standard",
+        "situationId": 348,
+        "scenarioId": "episode348",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "笑顔のマジシャン",
+          "Magician of Smiles",
+          "笑容的魔術師",
+          "笑容的魔法",
+          "웃는 얼굴의 마술사"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 526,
+        "episodeType": "memorial",
+        "situationId": 348,
+        "scenarioId": "memorial348",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "笑顔を呼ぶ笑顔",
+          "A Smile Called a Smile",
+          "呼喚笑容的笑臉",
+          "笑容会招来笑容",
+          "웃는 얼굴을 부르는 웃는 얼굴"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 252,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "笑顔のマジック",
+    "The Magic of Smiles",
+    "笑容的魔術",
+    "笑容的魔法",
+    "웃는 얼굴의 매직"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "マジシャンズスマイル",
+    "Magician's Smile",
+    "魔術師風格",
+    "魔术师笑容",
+    "매지션 스마일"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1884,
+      "technique": 2010,
+      "visual": 2226
+    },
+    "2": {
+      "performance": 1934,
+      "technique": 2063,
+      "visual": 2285
+    },
+    "3": {
+      "performance": 1987,
+      "technique": 2120,
+      "visual": 2348
+    },
+    "4": {
+      "performance": 2044,
+      "technique": 2181,
+      "visual": 2415
+    },
+    "5": {
+      "performance": 2104,
+      "technique": 2245,
+      "visual": 2486
+    },
+    "6": {
+      "performance": 2167,
+      "technique": 2313,
+      "visual": 2561
+    },
+    "7": {
+      "performance": 2234,
+      "technique": 2384,
+      "visual": 2640
+    },
+    "8": {
+      "performance": 2304,
+      "technique": 2459,
+      "visual": 2723
+    },
+    "9": {
+      "performance": 2377,
+      "technique": 2537,
+      "visual": 2810
+    },
+    "10": {
+      "performance": 2454,
+      "technique": 2619,
+      "visual": 2901
+    },
+    "11": {
+      "performance": 2534,
+      "technique": 2704,
+      "visual": 2996
+    },
+    "12": {
+      "performance": 2617,
+      "technique": 2793,
+      "visual": 3095
+    },
+    "13": {
+      "performance": 2704,
+      "technique": 2886,
+      "visual": 3198
+    },
+    "14": {
+      "performance": 2794,
+      "technique": 2982,
+      "visual": 3304
+    },
+    "15": {
+      "performance": 2887,
+      "technique": 3082,
+      "visual": 3414
+    },
+    "16": {
+      "performance": 2984,
+      "technique": 3185,
+      "visual": 3528
+    },
+    "17": {
+      "performance": 3084,
+      "technique": 3292,
+      "visual": 3646
+    },
+    "18": {
+      "performance": 3187,
+      "technique": 3402,
+      "visual": 3768
+    },
+    "19": {
+      "performance": 3294,
+      "technique": 3516,
+      "visual": 3894
+    },
+    "20": {
+      "performance": 3404,
+      "technique": 3634,
+      "visual": 4024
+    },
+    "21": {
+      "performance": 3517,
+      "technique": 3755,
+      "visual": 4158
+    },
+    "22": {
+      "performance": 3634,
+      "technique": 3880,
+      "visual": 4296
+    },
+    "23": {
+      "performance": 3754,
+      "technique": 4008,
+      "visual": 4438
+    },
+    "24": {
+      "performance": 3877,
+      "technique": 4140,
+      "visual": 4584
+    },
+    "25": {
+      "performance": 4004,
+      "technique": 4275,
+      "visual": 4734
+    },
+    "26": {
+      "performance": 4134,
+      "technique": 4414,
+      "visual": 4888
+    },
+    "27": {
+      "performance": 4267,
+      "technique": 4556,
+      "visual": 5046
+    },
+    "28": {
+      "performance": 4404,
+      "technique": 4702,
+      "visual": 5208
+    },
+    "29": {
+      "performance": 4544,
+      "technique": 4852,
+      "visual": 5374
+    },
+    "30": {
+      "performance": 4687,
+      "technique": 5005,
+      "visual": 5544
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "characterId": 2,
+  "rarity": 1,
+  "attribute": "cool",
+  "levelLimit": 20,
+  "resourceSetName": "res002001",
+  "sdResourceName": "sd002001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 9,
+        "episodeType": "standard",
+        "situationId": 5,
+        "scenarioId": "episode005",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 10,
+        "episodeType": "memorial",
+        "situationId": 5,
+        "scenarioId": "memorial005",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "新曲のヒント＝ごはん",
+          "Sing For Supper",
+          "新歌提示＝白飯",
+          "新歌提示=米饭",
+          "신곡의 힌트=밥"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 1609,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "天然ビューティー",
+    "Natural Beauty",
+    "天真的美人",
+    "天然美人",
+    "천연 뷰티"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "テンポアップ",
+    "Tempo Up",
+    "加快節奏",
+    "加快节拍",
+    "템포 업"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 954,
+      "technique": 1146,
+      "visual": 804
+    },
+    "2": {
+      "performance": 993,
+      "technique": 1193,
+      "visual": 837
+    },
+    "3": {
+      "performance": 1036,
+      "technique": 1245,
+      "visual": 874
+    },
+    "4": {
+      "performance": 1083,
+      "technique": 1302,
+      "visual": 914
+    },
+    "5": {
+      "performance": 1134,
+      "technique": 1364,
+      "visual": 957
+    },
+    "6": {
+      "performance": 1189,
+      "technique": 1430,
+      "visual": 1004
+    },
+    "7": {
+      "performance": 1248,
+      "technique": 1501,
+      "visual": 1054
+    },
+    "8": {
+      "performance": 1311,
+      "technique": 1577,
+      "visual": 1107
+    },
+    "9": {
+      "performance": 1378,
+      "technique": 1657,
+      "visual": 1163
+    },
+    "10": {
+      "performance": 1449,
+      "technique": 1742,
+      "visual": 1223
+    },
+    "11": {
+      "performance": 1524,
+      "technique": 1832,
+      "visual": 1286
+    },
+    "12": {
+      "performance": 1603,
+      "technique": 1927,
+      "visual": 1352
+    },
+    "13": {
+      "performance": 1686,
+      "technique": 2026,
+      "visual": 1422
+    },
+    "14": {
+      "performance": 1773,
+      "technique": 2130,
+      "visual": 1495
+    },
+    "15": {
+      "performance": 1863,
+      "technique": 2239,
+      "visual": 1571
+    },
+    "16": {
+      "performance": 1957,
+      "technique": 2352,
+      "visual": 1651
+    },
+    "17": {
+      "performance": 2055,
+      "technique": 2470,
+      "visual": 1734
+    },
+    "18": {
+      "performance": 2157,
+      "technique": 2593,
+      "visual": 1820
+    },
+    "19": {
+      "performance": 2263,
+      "technique": 2721,
+      "visual": 1910
+    },
+    "20": {
+      "performance": 2373,
+      "technique": 2853,
+      "visual": 2003
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

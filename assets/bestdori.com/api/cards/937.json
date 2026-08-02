@@ -1,0 +1,288 @@
+{
+  "characterId": 17,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res017039",
+  "sdResourceName": "sd017039",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1492,
+        "episodeType": "standard",
+        "situationId": 937,
+        "scenarioId": "episode937",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "羽女妹座談会",
+          "Haneoka Little Sister Meeting",
+          "羽女妹妹座談會",
+          "羽丘女子学园妹妹座谈会",
+          "하네여고 좌담회"
+        ],
+        "characterId": 17
+      },
+      {
+        "episodeId": 1493,
+        "episodeType": "memorial",
+        "situationId": 937,
+        "scenarioId": "memorial937",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ドラマに触発されて",
+          "Inspired by the Drama",
+          "受到戲劇啟發",
+          "被电视剧触动",
+          "드라마에 자극을 받아"
+        ],
+        "characterId": 17
+      }
+    ]
+  },
+  "costumeId": 883,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "あたしに任せて！",
+    "You Can Count On Me!",
+    "交給我吧！",
+    "交给我吧！",
+    "나한테 맡겨!"
+  ],
+  "releasedAt": [
+    "1587362400000",
+    "1618966800000",
+    "1600585200000",
+    "1627966800000",
+    "1587362400000"
+  ],
+  "skillName": [
+    "よーい、アクション！",
+    "And... Action!",
+    "就位，Action！",
+    "准备，开拍！",
+    "준비, 액션!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1734,
+      "technique": 2100,
+      "visual": 1866
+    },
+    "2": {
+      "performance": 1781,
+      "technique": 2157,
+      "visual": 1917
+    },
+    "3": {
+      "performance": 1832,
+      "technique": 2218,
+      "visual": 1971
+    },
+    "4": {
+      "performance": 1886,
+      "technique": 2283,
+      "visual": 2029
+    },
+    "5": {
+      "performance": 1943,
+      "technique": 2352,
+      "visual": 2090
+    },
+    "6": {
+      "performance": 2003,
+      "technique": 2425,
+      "visual": 2155
+    },
+    "7": {
+      "performance": 2066,
+      "technique": 2501,
+      "visual": 2223
+    },
+    "8": {
+      "performance": 2132,
+      "technique": 2581,
+      "visual": 2294
+    },
+    "9": {
+      "performance": 2201,
+      "technique": 2665,
+      "visual": 2369
+    },
+    "10": {
+      "performance": 2274,
+      "technique": 2753,
+      "visual": 2447
+    },
+    "11": {
+      "performance": 2350,
+      "technique": 2845,
+      "visual": 2528
+    },
+    "12": {
+      "performance": 2429,
+      "technique": 2941,
+      "visual": 2613
+    },
+    "13": {
+      "performance": 2511,
+      "technique": 3040,
+      "visual": 2701
+    },
+    "14": {
+      "performance": 2596,
+      "technique": 3143,
+      "visual": 2793
+    },
+    "15": {
+      "performance": 2684,
+      "technique": 3250,
+      "visual": 2888
+    },
+    "16": {
+      "performance": 2775,
+      "technique": 3361,
+      "visual": 2986
+    },
+    "17": {
+      "performance": 2870,
+      "technique": 3476,
+      "visual": 3088
+    },
+    "18": {
+      "performance": 2968,
+      "technique": 3594,
+      "visual": 3193
+    },
+    "19": {
+      "performance": 3069,
+      "technique": 3716,
+      "visual": 3302
+    },
+    "20": {
+      "performance": 3173,
+      "technique": 3842,
+      "visual": 3414
+    },
+    "21": {
+      "performance": 3280,
+      "technique": 3972,
+      "visual": 3529
+    },
+    "22": {
+      "performance": 3390,
+      "technique": 4106,
+      "visual": 3648
+    },
+    "23": {
+      "performance": 3504,
+      "technique": 4244,
+      "visual": 3770
+    },
+    "24": {
+      "performance": 3621,
+      "technique": 4385,
+      "visual": 3896
+    },
+    "25": {
+      "performance": 3741,
+      "technique": 4530,
+      "visual": 4025
+    },
+    "26": {
+      "performance": 3864,
+      "technique": 4679,
+      "visual": 4157
+    },
+    "27": {
+      "performance": 3990,
+      "technique": 4832,
+      "visual": 4293
+    },
+    "28": {
+      "performance": 4119,
+      "technique": 4989,
+      "visual": 4432
+    },
+    "29": {
+      "performance": 4251,
+      "technique": 5149,
+      "visual": 4575
+    },
+    "30": {
+      "performance": 4387,
+      "technique": 5313,
+      "visual": 4721
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

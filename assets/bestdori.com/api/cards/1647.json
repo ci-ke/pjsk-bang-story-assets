@@ -1,0 +1,456 @@
+{
+  "characterId": 12,
+  "rarity": 4,
+  "attribute": "happy",
+  "levelLimit": 50,
+  "resourceSetName": "res012061",
+  "sdResourceName": "sd012061",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2711,
+        "episodeType": "standard",
+        "situationId": 1647,
+        "scenarioId": "episode1647",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "瀬田薫第二楽章",
+          "Kaoru Seta, Second Movement",
+          "瀨田薰第二樂章",
+          "濑田薰第二乐章",
+          "세타 카오루 제2악장"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 2712,
+        "episodeType": "memorial",
+        "situationId": 1647,
+        "scenarioId": "memorial1647",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "瀬田薫の恩返し",
+          "Kaoru Seta Gives Back",
+          "瀨田薰的報恩",
+          "濑田薰的报恩",
+          "세타 카오루의 보은"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 1540,
+  "gachaText": [
+    "本当に、\n君はそれでいいの……！？",
+    "Are you really okay with this...?!",
+    "你真的願意\n接受這樣的結果嗎……！？",
+    "你真的，\n觉得那样就好吗……！？",
+    "정말로\n너는 그걸로 괜찮은 거니……!?"
+  ],
+  "prefix": [
+    "『学園の王子様』",
+    "“School Prince”",
+    "「學園的王子殿下」",
+    "『学校里的王子殿下』",
+    "「학원의 왕자님」"
+  ],
+  "releasedAt": [
+    "1669788000000",
+    "1691715600000",
+    "1679900400000",
+    "1690952400000",
+    "1697176800000"
+  ],
+  "skillName": [
+    "瀬田薫の道",
+    "Kaoru Seta's Path",
+    "瀨田薰的路",
+    "濑田薰的道路",
+    "세타 카오루의 길"
+  ],
+  "skillId": 22,
+  "source": null,
+  "type": "limited",
+  "stat": {
+    "1": {
+      "performance": 3175,
+      "technique": 2752,
+      "visual": 4355
+    },
+    "2": {
+      "performance": 3208,
+      "technique": 2780,
+      "visual": 4400
+    },
+    "3": {
+      "performance": 3242,
+      "technique": 2810,
+      "visual": 4447
+    },
+    "4": {
+      "performance": 3277,
+      "technique": 2841,
+      "visual": 4495
+    },
+    "5": {
+      "performance": 3314,
+      "technique": 2873,
+      "visual": 4545
+    },
+    "6": {
+      "performance": 3352,
+      "technique": 2906,
+      "visual": 4597
+    },
+    "7": {
+      "performance": 3391,
+      "technique": 2940,
+      "visual": 4651
+    },
+    "8": {
+      "performance": 3432,
+      "technique": 2975,
+      "visual": 4707
+    },
+    "9": {
+      "performance": 3474,
+      "technique": 3011,
+      "visual": 4764
+    },
+    "10": {
+      "performance": 3517,
+      "technique": 3048,
+      "visual": 4823
+    },
+    "11": {
+      "performance": 3562,
+      "technique": 3087,
+      "visual": 4884
+    },
+    "12": {
+      "performance": 3608,
+      "technique": 3127,
+      "visual": 4947
+    },
+    "13": {
+      "performance": 3655,
+      "technique": 3168,
+      "visual": 5012
+    },
+    "14": {
+      "performance": 3703,
+      "technique": 3210,
+      "visual": 5078
+    },
+    "15": {
+      "performance": 3753,
+      "technique": 3253,
+      "visual": 5146
+    },
+    "16": {
+      "performance": 3804,
+      "technique": 3297,
+      "visual": 5216
+    },
+    "17": {
+      "performance": 3856,
+      "technique": 3342,
+      "visual": 5288
+    },
+    "18": {
+      "performance": 3910,
+      "technique": 3389,
+      "visual": 5362
+    },
+    "19": {
+      "performance": 3965,
+      "technique": 3437,
+      "visual": 5437
+    },
+    "20": {
+      "performance": 4021,
+      "technique": 3486,
+      "visual": 5514
+    },
+    "21": {
+      "performance": 4079,
+      "technique": 3536,
+      "visual": 5593
+    },
+    "22": {
+      "performance": 4138,
+      "technique": 3587,
+      "visual": 5674
+    },
+    "23": {
+      "performance": 4198,
+      "technique": 3639,
+      "visual": 5757
+    },
+    "24": {
+      "performance": 4260,
+      "technique": 3692,
+      "visual": 5841
+    },
+    "25": {
+      "performance": 4323,
+      "technique": 3746,
+      "visual": 5927
+    },
+    "26": {
+      "performance": 4387,
+      "technique": 3802,
+      "visual": 6015
+    },
+    "27": {
+      "performance": 4452,
+      "technique": 3859,
+      "visual": 6105
+    },
+    "28": {
+      "performance": 4519,
+      "technique": 3917,
+      "visual": 6197
+    },
+    "29": {
+      "performance": 4587,
+      "technique": 3976,
+      "visual": 6290
+    },
+    "30": {
+      "performance": 4656,
+      "technique": 4036,
+      "visual": 6385
+    },
+    "31": {
+      "performance": 4727,
+      "technique": 4097,
+      "visual": 6482
+    },
+    "32": {
+      "performance": 4799,
+      "technique": 4159,
+      "visual": 6581
+    },
+    "33": {
+      "performance": 4872,
+      "technique": 4223,
+      "visual": 6682
+    },
+    "34": {
+      "performance": 4947,
+      "technique": 4288,
+      "visual": 6784
+    },
+    "35": {
+      "performance": 5023,
+      "technique": 4354,
+      "visual": 6888
+    },
+    "36": {
+      "performance": 5100,
+      "technique": 4421,
+      "visual": 6994
+    },
+    "37": {
+      "performance": 5179,
+      "technique": 4489,
+      "visual": 7102
+    },
+    "38": {
+      "performance": 5259,
+      "technique": 4558,
+      "visual": 7212
+    },
+    "39": {
+      "performance": 5340,
+      "technique": 4628,
+      "visual": 7323
+    },
+    "40": {
+      "performance": 5422,
+      "technique": 4699,
+      "visual": 7436
+    },
+    "41": {
+      "performance": 5506,
+      "technique": 4772,
+      "visual": 7551
+    },
+    "42": {
+      "performance": 5591,
+      "technique": 4846,
+      "visual": 7668
+    },
+    "43": {
+      "performance": 5677,
+      "technique": 4921,
+      "visual": 7786
+    },
+    "44": {
+      "performance": 5765,
+      "technique": 4997,
+      "visual": 7906
+    },
+    "45": {
+      "performance": 5854,
+      "technique": 5074,
+      "visual": 8028
+    },
+    "46": {
+      "performance": 5944,
+      "technique": 5152,
+      "visual": 8152
+    },
+    "47": {
+      "performance": 6036,
+      "technique": 5231,
+      "visual": 8278
+    },
+    "48": {
+      "performance": 6129,
+      "technique": 5312,
+      "visual": 8405
+    },
+    "49": {
+      "performance": 6223,
+      "technique": 5394,
+      "visual": 8534
+    },
+    "50": {
+      "performance": 6319,
+      "technique": 5477,
+      "visual": 8665
+    },
+    "51": {
+      "performance": 6493,
+      "technique": 5628,
+      "visual": 8904
+    },
+    "52": {
+      "performance": 6698,
+      "technique": 5806,
+      "visual": 9186
+    },
+    "53": {
+      "performance": 6934,
+      "technique": 6011,
+      "visual": 9510
+    },
+    "54": {
+      "performance": 7202,
+      "technique": 6243,
+      "visual": 9877
+    },
+    "55": {
+      "performance": 7501,
+      "technique": 6502,
+      "visual": 10287
+    },
+    "56": {
+      "performance": 7831,
+      "technique": 6788,
+      "visual": 10740
+    },
+    "57": {
+      "performance": 8192,
+      "technique": 7101,
+      "visual": 11235
+    },
+    "58": {
+      "performance": 8584,
+      "technique": 7441,
+      "visual": 11773
+    },
+    "59": {
+      "performance": 9008,
+      "technique": 7808,
+      "visual": 12354
+    },
+    "60": {
+      "performance": 9463,
+      "technique": 8202,
+      "visual": 12978
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

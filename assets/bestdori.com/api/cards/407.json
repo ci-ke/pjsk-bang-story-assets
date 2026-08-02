@@ -1,0 +1,406 @@
+{
+  "characterId": 7,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res007016",
+  "sdResourceName": "sd007016",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 623,
+        "episodeType": "standard",
+        "situationId": 407,
+        "scenarioId": "episode407",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "旅のお供",
+          "Travel Buddies",
+          "旅行好夥伴",
+          "旅行的同伴",
+          "여행과 함께"
+        ],
+        "characterId": 7
+      },
+      {
+        "episodeId": 624,
+        "episodeType": "memorial",
+        "situationId": 407,
+        "scenarioId": "memorial407",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "食生活への不安",
+          "Dietary Worries",
+          "對通吃生活的不安",
+          "对每天的饮食感到不安",
+          "식생활에 대한 불안"
+        ],
+        "characterId": 7
+      }
+    ]
+  },
+  "costumeId": 301,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ちょっと寄り道",
+    "A Quick Detour",
+    "稍微繞點路",
+    "稍微绕个远路",
+    "잠깐 샛길로"
+  ],
+  "releasedAt": [
+    "1521612000000",
+    "1553043600000",
+    "1521615600000",
+    "1582606800000",
+    "1521612000000"
+  ],
+  "skillName": [
+    "ここはモカちゃんが食い止める！",
+    "I'll Hold Them Off!",
+    "小卡要在這邊阻止他！",
+    "这里就由小摩卡来阻挡！",
+    "여기는 모카 짱이 막을게!"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2763,
+      "technique": 2583,
+      "visual": 3474
+    },
+    "2": {
+      "performance": 2800,
+      "technique": 2617,
+      "visual": 3520
+    },
+    "3": {
+      "performance": 2839,
+      "technique": 2653,
+      "visual": 3568
+    },
+    "4": {
+      "performance": 2879,
+      "technique": 2691,
+      "visual": 3619
+    },
+    "5": {
+      "performance": 2921,
+      "technique": 2730,
+      "visual": 3672
+    },
+    "6": {
+      "performance": 2965,
+      "technique": 2771,
+      "visual": 3727
+    },
+    "7": {
+      "performance": 3011,
+      "technique": 2814,
+      "visual": 3785
+    },
+    "8": {
+      "performance": 3059,
+      "technique": 2859,
+      "visual": 3845
+    },
+    "9": {
+      "performance": 3109,
+      "technique": 2905,
+      "visual": 3907
+    },
+    "10": {
+      "performance": 3160,
+      "technique": 2953,
+      "visual": 3972
+    },
+    "11": {
+      "performance": 3213,
+      "technique": 3003,
+      "visual": 4039
+    },
+    "12": {
+      "performance": 3268,
+      "technique": 3054,
+      "visual": 4108
+    },
+    "13": {
+      "performance": 3325,
+      "technique": 3107,
+      "visual": 4180
+    },
+    "14": {
+      "performance": 3384,
+      "technique": 3162,
+      "visual": 4254
+    },
+    "15": {
+      "performance": 3445,
+      "technique": 3219,
+      "visual": 4330
+    },
+    "16": {
+      "performance": 3507,
+      "technique": 3277,
+      "visual": 4408
+    },
+    "17": {
+      "performance": 3571,
+      "technique": 3337,
+      "visual": 4489
+    },
+    "18": {
+      "performance": 3637,
+      "technique": 3399,
+      "visual": 4572
+    },
+    "19": {
+      "performance": 3705,
+      "technique": 3462,
+      "visual": 4657
+    },
+    "20": {
+      "performance": 3775,
+      "technique": 3527,
+      "visual": 4745
+    },
+    "21": {
+      "performance": 3847,
+      "technique": 3594,
+      "visual": 4835
+    },
+    "22": {
+      "performance": 3920,
+      "technique": 3663,
+      "visual": 4927
+    },
+    "23": {
+      "performance": 3995,
+      "technique": 3733,
+      "visual": 5022
+    },
+    "24": {
+      "performance": 4072,
+      "technique": 3805,
+      "visual": 5119
+    },
+    "25": {
+      "performance": 4151,
+      "technique": 3879,
+      "visual": 5218
+    },
+    "26": {
+      "performance": 4232,
+      "technique": 3954,
+      "visual": 5320
+    },
+    "27": {
+      "performance": 4315,
+      "technique": 4031,
+      "visual": 5424
+    },
+    "28": {
+      "performance": 4399,
+      "technique": 4110,
+      "visual": 5530
+    },
+    "29": {
+      "performance": 4485,
+      "technique": 4191,
+      "visual": 5638
+    },
+    "30": {
+      "performance": 4573,
+      "technique": 4273,
+      "visual": 5749
+    },
+    "31": {
+      "performance": 4663,
+      "technique": 4357,
+      "visual": 5862
+    },
+    "32": {
+      "performance": 4755,
+      "technique": 4443,
+      "visual": 5977
+    },
+    "33": {
+      "performance": 4849,
+      "technique": 4530,
+      "visual": 6095
+    },
+    "34": {
+      "performance": 4944,
+      "technique": 4619,
+      "visual": 6215
+    },
+    "35": {
+      "performance": 5041,
+      "technique": 4710,
+      "visual": 6337
+    },
+    "36": {
+      "performance": 5140,
+      "technique": 4803,
+      "visual": 6462
+    },
+    "37": {
+      "performance": 5241,
+      "technique": 4897,
+      "visual": 6589
+    },
+    "38": {
+      "performance": 5344,
+      "technique": 4993,
+      "visual": 6718
+    },
+    "39": {
+      "performance": 5449,
+      "technique": 5091,
+      "visual": 6849
+    },
+    "40": {
+      "performance": 5555,
+      "technique": 5190,
+      "visual": 6983
+    },
+    "41": {
+      "performance": 5709,
+      "technique": 5334,
+      "visual": 7177
+    },
+    "42": {
+      "performance": 5891,
+      "technique": 5504,
+      "visual": 7406
+    },
+    "43": {
+      "performance": 6101,
+      "technique": 5700,
+      "visual": 7670
+    },
+    "44": {
+      "performance": 6338,
+      "technique": 5922,
+      "visual": 7969
+    },
+    "45": {
+      "performance": 6603,
+      "technique": 6170,
+      "visual": 8302
+    },
+    "46": {
+      "performance": 6896,
+      "technique": 6444,
+      "visual": 8670
+    },
+    "47": {
+      "performance": 7217,
+      "technique": 6744,
+      "visual": 9073
+    },
+    "48": {
+      "performance": 7565,
+      "technique": 7070,
+      "visual": 9511
+    },
+    "49": {
+      "performance": 7941,
+      "technique": 7421,
+      "visual": 9984
+    },
+    "50": {
+      "performance": 8345,
+      "technique": 7798,
+      "visual": 10491
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

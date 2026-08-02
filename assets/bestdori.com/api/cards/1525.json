@@ -1,0 +1,436 @@
+{
+  "characterId": 9,
+  "rarity": 5,
+  "attribute": "powerful",
+  "levelLimit": 60,
+  "resourceSetName": "res009055",
+  "sdResourceName": "sd009055",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2537,
+        "episodeType": "animation",
+        "situationId": 1525,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "茜色の水たまり",
+          "Sunset Red Puddle",
+          "茜色的水灘",
+          "茜色水洼",
+          "붉은색 웅덩이"
+        ],
+        "characterId": 9
+      },
+      {
+        "episodeId": 2538,
+        "episodeType": "memorial",
+        "situationId": 1525,
+        "scenarioId": "memorial1525",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "傾ける傘",
+          "A Tilted Umbrella",
+          "傾斜的傘",
+          "倾斜的雨伞",
+          "기울인 우산"
+        ],
+        "characterId": 9
+      }
+    ]
+  },
+  "costumeId": 1431,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "茜色の水たまり",
+    "Sunset Red Puddle",
+    "茜色的水灘",
+    "茜色水洼",
+    "검붉은색 물웅덩이"
+  ],
+  "releasedAt": [
+    "1653976800000",
+    "1654009200000",
+    "1662447600000",
+    "1653980400000",
+    "1653976800000"
+  ],
+  "skillName": [
+    "笑顔運ぶ雨",
+    "The Rain That Brings Smiles",
+    "運送笑容的雨",
+    "带来笑容的雨",
+    "웃는 얼굴 옮기는 비"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1525,
+    "assetBundleName": "mov009001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3588,
+      "technique": 3630,
+      "visual": 3493
+    },
+    "2": {
+      "performance": 3653,
+      "technique": 3695,
+      "visual": 3556
+    },
+    "3": {
+      "performance": 3720,
+      "technique": 3763,
+      "visual": 3621
+    },
+    "4": {
+      "performance": 3789,
+      "technique": 3833,
+      "visual": 3688
+    },
+    "5": {
+      "performance": 3860,
+      "technique": 3905,
+      "visual": 3757
+    },
+    "6": {
+      "performance": 3933,
+      "technique": 3979,
+      "visual": 3828
+    },
+    "7": {
+      "performance": 4008,
+      "technique": 4055,
+      "visual": 3902
+    },
+    "8": {
+      "performance": 4086,
+      "technique": 4133,
+      "visual": 3978
+    },
+    "9": {
+      "performance": 4166,
+      "technique": 4214,
+      "visual": 4056
+    },
+    "10": {
+      "performance": 4248,
+      "technique": 4297,
+      "visual": 4136
+    },
+    "11": {
+      "performance": 4332,
+      "technique": 4382,
+      "visual": 4218
+    },
+    "12": {
+      "performance": 4418,
+      "technique": 4469,
+      "visual": 4302
+    },
+    "13": {
+      "performance": 4506,
+      "technique": 4558,
+      "visual": 4388
+    },
+    "14": {
+      "performance": 4597,
+      "technique": 4649,
+      "visual": 4476
+    },
+    "15": {
+      "performance": 4690,
+      "technique": 4743,
+      "visual": 4566
+    },
+    "16": {
+      "performance": 4785,
+      "technique": 4839,
+      "visual": 4658
+    },
+    "17": {
+      "performance": 4882,
+      "technique": 4937,
+      "visual": 4753
+    },
+    "18": {
+      "performance": 4981,
+      "technique": 5037,
+      "visual": 4850
+    },
+    "19": {
+      "performance": 5082,
+      "technique": 5139,
+      "visual": 4949
+    },
+    "20": {
+      "performance": 5185,
+      "technique": 5244,
+      "visual": 5050
+    },
+    "21": {
+      "performance": 5291,
+      "technique": 5351,
+      "visual": 5153
+    },
+    "22": {
+      "performance": 5399,
+      "technique": 5460,
+      "visual": 5258
+    },
+    "23": {
+      "performance": 5509,
+      "technique": 5571,
+      "visual": 5365
+    },
+    "24": {
+      "performance": 5621,
+      "technique": 5684,
+      "visual": 5474
+    },
+    "25": {
+      "performance": 5735,
+      "technique": 5799,
+      "visual": 5585
+    },
+    "26": {
+      "performance": 5851,
+      "technique": 5917,
+      "visual": 5698
+    },
+    "27": {
+      "performance": 5970,
+      "technique": 6037,
+      "visual": 5814
+    },
+    "28": {
+      "performance": 6091,
+      "technique": 6159,
+      "visual": 5932
+    },
+    "29": {
+      "performance": 6214,
+      "technique": 6283,
+      "visual": 6052
+    },
+    "30": {
+      "performance": 6339,
+      "technique": 6409,
+      "visual": 6174
+    },
+    "31": {
+      "performance": 6466,
+      "technique": 6538,
+      "visual": 6298
+    },
+    "32": {
+      "performance": 6595,
+      "technique": 6669,
+      "visual": 6424
+    },
+    "33": {
+      "performance": 6726,
+      "technique": 6802,
+      "visual": 6552
+    },
+    "34": {
+      "performance": 6860,
+      "technique": 6937,
+      "visual": 6682
+    },
+    "35": {
+      "performance": 6996,
+      "technique": 7074,
+      "visual": 6814
+    },
+    "36": {
+      "performance": 7134,
+      "technique": 7213,
+      "visual": 6948
+    },
+    "37": {
+      "performance": 7274,
+      "technique": 7355,
+      "visual": 7085
+    },
+    "38": {
+      "performance": 7416,
+      "technique": 7499,
+      "visual": 7224
+    },
+    "39": {
+      "performance": 7560,
+      "technique": 7645,
+      "visual": 7365
+    },
+    "40": {
+      "performance": 7707,
+      "technique": 7793,
+      "visual": 7508
+    },
+    "41": {
+      "performance": 7856,
+      "technique": 7943,
+      "visual": 7653
+    },
+    "42": {
+      "performance": 8007,
+      "technique": 8095,
+      "visual": 7800
+    },
+    "43": {
+      "performance": 8160,
+      "technique": 8250,
+      "visual": 7949
+    },
+    "44": {
+      "performance": 8315,
+      "technique": 8407,
+      "visual": 8100
+    },
+    "45": {
+      "performance": 8472,
+      "technique": 8566,
+      "visual": 8253
+    },
+    "46": {
+      "performance": 8632,
+      "technique": 8727,
+      "visual": 8408
+    },
+    "47": {
+      "performance": 8794,
+      "technique": 8890,
+      "visual": 8566
+    },
+    "48": {
+      "performance": 8958,
+      "technique": 9056,
+      "visual": 8726
+    },
+    "49": {
+      "performance": 9124,
+      "technique": 9224,
+      "visual": 8888
+    },
+    "50": {
+      "performance": 9292,
+      "technique": 9394,
+      "visual": 9052
+    },
+    "51": {
+      "performance": 9462,
+      "technique": 9566,
+      "visual": 9218
+    },
+    "52": {
+      "performance": 9634,
+      "technique": 9740,
+      "visual": 9386
+    },
+    "53": {
+      "performance": 9809,
+      "technique": 9916,
+      "visual": 9556
+    },
+    "54": {
+      "performance": 9986,
+      "technique": 10095,
+      "visual": 9728
+    },
+    "55": {
+      "performance": 10165,
+      "technique": 10276,
+      "visual": 9902
+    },
+    "56": {
+      "performance": 10346,
+      "technique": 10459,
+      "visual": 10079
+    },
+    "57": {
+      "performance": 10529,
+      "technique": 10644,
+      "visual": 10258
+    },
+    "58": {
+      "performance": 10714,
+      "technique": 10831,
+      "visual": 10439
+    },
+    "59": {
+      "performance": 10902,
+      "technique": 11020,
+      "visual": 10622
+    },
+    "60": {
+      "performance": 11092,
+      "technique": 11212,
+      "visual": 10808
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

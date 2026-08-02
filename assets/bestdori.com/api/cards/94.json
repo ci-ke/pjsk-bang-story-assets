@@ -1,0 +1,288 @@
+{
+  "characterId": 24,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res024002",
+  "sdResourceName": "sd024002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 187,
+        "episodeType": "standard",
+        "situationId": 94,
+        "scenarioId": "episode094",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 24
+      },
+      {
+        "episodeId": 188,
+        "episodeType": "memorial",
+        "situationId": 94,
+        "scenarioId": "memorial094",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "闇の力がみなぎって！",
+          "Filled With Darkness!",
+          "湧出黑暗的力量！",
+          "黑暗的力量溢出来了！",
+          "어둠의 힘이 넘친다!"
+        ],
+        "characterId": 24
+      }
+    ]
+  },
+  "costumeId": 49,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "バーン！（相手は死ぬ）",
+    "Boom! (I Win)",
+    "砰─！（對方會死）",
+    "砰！（对方死了）",
+    "빵야~! (상대는 사망)"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1692,
+      "technique": 2262,
+      "visual": 1938
+    },
+    "2": {
+      "performance": 1737,
+      "technique": 2322,
+      "visual": 1990
+    },
+    "3": {
+      "performance": 1785,
+      "technique": 2386,
+      "visual": 2045
+    },
+    "4": {
+      "performance": 1836,
+      "technique": 2454,
+      "visual": 2103
+    },
+    "5": {
+      "performance": 1890,
+      "technique": 2526,
+      "visual": 2165
+    },
+    "6": {
+      "performance": 1947,
+      "technique": 2602,
+      "visual": 2230
+    },
+    "7": {
+      "performance": 2007,
+      "technique": 2682,
+      "visual": 2299
+    },
+    "8": {
+      "performance": 2070,
+      "technique": 2766,
+      "visual": 2371
+    },
+    "9": {
+      "performance": 2136,
+      "technique": 2854,
+      "visual": 2447
+    },
+    "10": {
+      "performance": 2205,
+      "technique": 2946,
+      "visual": 2526
+    },
+    "11": {
+      "performance": 2277,
+      "technique": 3042,
+      "visual": 2608
+    },
+    "12": {
+      "performance": 2352,
+      "technique": 3142,
+      "visual": 2694
+    },
+    "13": {
+      "performance": 2430,
+      "technique": 3246,
+      "visual": 2783
+    },
+    "14": {
+      "performance": 2511,
+      "technique": 3354,
+      "visual": 2876
+    },
+    "15": {
+      "performance": 2595,
+      "technique": 3466,
+      "visual": 2972
+    },
+    "16": {
+      "performance": 2682,
+      "technique": 3582,
+      "visual": 3072
+    },
+    "17": {
+      "performance": 2772,
+      "technique": 3702,
+      "visual": 3175
+    },
+    "18": {
+      "performance": 2865,
+      "technique": 3826,
+      "visual": 3281
+    },
+    "19": {
+      "performance": 2961,
+      "technique": 3954,
+      "visual": 3391
+    },
+    "20": {
+      "performance": 3060,
+      "technique": 4086,
+      "visual": 3504
+    },
+    "21": {
+      "performance": 3162,
+      "technique": 4222,
+      "visual": 3621
+    },
+    "22": {
+      "performance": 3267,
+      "technique": 4362,
+      "visual": 3741
+    },
+    "23": {
+      "performance": 3375,
+      "technique": 4506,
+      "visual": 3865
+    },
+    "24": {
+      "performance": 3486,
+      "technique": 4654,
+      "visual": 3992
+    },
+    "25": {
+      "performance": 3600,
+      "technique": 4806,
+      "visual": 4122
+    },
+    "26": {
+      "performance": 3717,
+      "technique": 4962,
+      "visual": 4256
+    },
+    "27": {
+      "performance": 3837,
+      "technique": 5122,
+      "visual": 4393
+    },
+    "28": {
+      "performance": 3960,
+      "technique": 5286,
+      "visual": 4534
+    },
+    "29": {
+      "performance": 4086,
+      "technique": 5454,
+      "visual": 4678
+    },
+    "30": {
+      "performance": 4215,
+      "technique": 5626,
+      "visual": 4826
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

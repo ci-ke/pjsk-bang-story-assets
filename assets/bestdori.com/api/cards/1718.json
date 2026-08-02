@@ -1,0 +1,436 @@
+{
+  "characterId": 24,
+  "rarity": 5,
+  "attribute": "happy",
+  "levelLimit": 60,
+  "resourceSetName": "res024064",
+  "sdResourceName": "sd024064",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2906,
+        "episodeType": "animation",
+        "situationId": 1718,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "魔法のように咲き誇れ！",
+          "Bloom like Magic!",
+          "像魔法一樣綻放！",
+          "像魔法一样绽放吧！",
+          null
+        ],
+        "characterId": 24
+      },
+      {
+        "episodeId": 2907,
+        "episodeType": "memorial",
+        "situationId": 1718,
+        "scenarioId": "memorial1718",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "薄染桜幻影術",
+          "Sakura Illusion",
+          "薄染櫻幻影術",
+          "浅粉樱花幻影术",
+          null
+        ],
+        "characterId": 24
+      }
+    ]
+  },
+  "costumeId": 1695,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "魔法のように咲き誇れ！",
+    "Bloom like Magic!",
+    "像魔法一樣綻放！",
+    "像魔法一样绽放！",
+    null
+  ],
+  "releasedAt": [
+    "1679724000000",
+    "1704070800000",
+    "1692169200000",
+    "1700197200000",
+    null
+  ],
+  "skillName": [
+    "桜前線最前線！",
+    "Where Sakura Blossom!",
+    "櫻前線最前線",
+    "樱花前线最前线！",
+    null
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1718,
+    "assetBundleName": "mov024001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3546,
+      "technique": 3461,
+      "visual": 3704
+    },
+    "2": {
+      "performance": 3610,
+      "technique": 3524,
+      "visual": 3771
+    },
+    "3": {
+      "performance": 3676,
+      "technique": 3589,
+      "visual": 3840
+    },
+    "4": {
+      "performance": 3744,
+      "technique": 3656,
+      "visual": 3911
+    },
+    "5": {
+      "performance": 3814,
+      "technique": 3725,
+      "visual": 3984
+    },
+    "6": {
+      "performance": 3886,
+      "technique": 3796,
+      "visual": 4060
+    },
+    "7": {
+      "performance": 3961,
+      "technique": 3869,
+      "visual": 4138
+    },
+    "8": {
+      "performance": 4038,
+      "technique": 3944,
+      "visual": 4218
+    },
+    "9": {
+      "performance": 4117,
+      "technique": 4021,
+      "visual": 4300
+    },
+    "10": {
+      "performance": 4198,
+      "technique": 4100,
+      "visual": 4384
+    },
+    "11": {
+      "performance": 4281,
+      "technique": 4181,
+      "visual": 4471
+    },
+    "12": {
+      "performance": 4366,
+      "technique": 4264,
+      "visual": 4560
+    },
+    "13": {
+      "performance": 4453,
+      "technique": 4349,
+      "visual": 4651
+    },
+    "14": {
+      "performance": 4543,
+      "technique": 4437,
+      "visual": 4744
+    },
+    "15": {
+      "performance": 4635,
+      "technique": 4527,
+      "visual": 4840
+    },
+    "16": {
+      "performance": 4729,
+      "technique": 4619,
+      "visual": 4938
+    },
+    "17": {
+      "performance": 4825,
+      "technique": 4713,
+      "visual": 5038
+    },
+    "18": {
+      "performance": 4923,
+      "technique": 4809,
+      "visual": 5140
+    },
+    "19": {
+      "performance": 5023,
+      "technique": 4907,
+      "visual": 5244
+    },
+    "20": {
+      "performance": 5125,
+      "technique": 5007,
+      "visual": 5351
+    },
+    "21": {
+      "performance": 5229,
+      "technique": 5109,
+      "visual": 5460
+    },
+    "22": {
+      "performance": 5336,
+      "technique": 5213,
+      "visual": 5571
+    },
+    "23": {
+      "performance": 5445,
+      "technique": 5319,
+      "visual": 5684
+    },
+    "24": {
+      "performance": 5556,
+      "technique": 5427,
+      "visual": 5800
+    },
+    "25": {
+      "performance": 5669,
+      "technique": 5537,
+      "visual": 5918
+    },
+    "26": {
+      "performance": 5784,
+      "technique": 5650,
+      "visual": 6038
+    },
+    "27": {
+      "performance": 5901,
+      "technique": 5765,
+      "visual": 6160
+    },
+    "28": {
+      "performance": 6020,
+      "technique": 5882,
+      "visual": 6284
+    },
+    "29": {
+      "performance": 6142,
+      "technique": 6001,
+      "visual": 6411
+    },
+    "30": {
+      "performance": 6266,
+      "technique": 6122,
+      "visual": 6540
+    },
+    "31": {
+      "performance": 6392,
+      "technique": 6245,
+      "visual": 6671
+    },
+    "32": {
+      "performance": 6520,
+      "technique": 6370,
+      "visual": 6804
+    },
+    "33": {
+      "performance": 6650,
+      "technique": 6497,
+      "visual": 6940
+    },
+    "34": {
+      "performance": 6782,
+      "technique": 6626,
+      "visual": 7078
+    },
+    "35": {
+      "performance": 6916,
+      "technique": 6757,
+      "visual": 7218
+    },
+    "36": {
+      "performance": 7052,
+      "technique": 6890,
+      "visual": 7360
+    },
+    "37": {
+      "performance": 7191,
+      "technique": 7025,
+      "visual": 7504
+    },
+    "38": {
+      "performance": 7332,
+      "technique": 7163,
+      "visual": 7651
+    },
+    "39": {
+      "performance": 7475,
+      "technique": 7303,
+      "visual": 7800
+    },
+    "40": {
+      "performance": 7620,
+      "technique": 7445,
+      "visual": 7951
+    },
+    "41": {
+      "performance": 7767,
+      "technique": 7589,
+      "visual": 8104
+    },
+    "42": {
+      "performance": 7916,
+      "technique": 7735,
+      "visual": 8259
+    },
+    "43": {
+      "performance": 8067,
+      "technique": 7883,
+      "visual": 8417
+    },
+    "44": {
+      "performance": 8220,
+      "technique": 8033,
+      "visual": 8577
+    },
+    "45": {
+      "performance": 8376,
+      "technique": 8185,
+      "visual": 8739
+    },
+    "46": {
+      "performance": 8534,
+      "technique": 8339,
+      "visual": 8903
+    },
+    "47": {
+      "performance": 8694,
+      "technique": 8495,
+      "visual": 9070
+    },
+    "48": {
+      "performance": 8856,
+      "technique": 8653,
+      "visual": 9239
+    },
+    "49": {
+      "performance": 9020,
+      "technique": 8813,
+      "visual": 9410
+    },
+    "50": {
+      "performance": 9186,
+      "technique": 8976,
+      "visual": 9583
+    },
+    "51": {
+      "performance": 9354,
+      "technique": 9141,
+      "visual": 9758
+    },
+    "52": {
+      "performance": 9525,
+      "technique": 9308,
+      "visual": 9936
+    },
+    "53": {
+      "performance": 9698,
+      "technique": 9477,
+      "visual": 10116
+    },
+    "54": {
+      "performance": 9873,
+      "technique": 9648,
+      "visual": 10298
+    },
+    "55": {
+      "performance": 10050,
+      "technique": 9821,
+      "visual": 10482
+    },
+    "56": {
+      "performance": 10229,
+      "technique": 9996,
+      "visual": 10669
+    },
+    "57": {
+      "performance": 10410,
+      "technique": 10173,
+      "visual": 10858
+    },
+    "58": {
+      "performance": 10593,
+      "technique": 10352,
+      "visual": 11049
+    },
+    "59": {
+      "performance": 10778,
+      "technique": 10533,
+      "visual": 11242
+    },
+    "60": {
+      "performance": 10966,
+      "technique": 10717,
+      "visual": 11437
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

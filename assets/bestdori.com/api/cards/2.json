@@ -1,0 +1,288 @@
+{
+  "characterId": 1,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res001002",
+  "sdResourceName": "sd001002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3,
+        "episodeType": "standard",
+        "situationId": 2,
+        "scenarioId": "episode002",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 1
+      },
+      {
+        "episodeId": 4,
+        "episodeType": "memorial",
+        "situationId": 2,
+        "scenarioId": "memorial002",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "一目でズキューン！",
+          "Love At First Sight!",
+          "一眼就心動！",
+          "一击即中！",
+          "한눈에 심쿵!"
+        ],
+        "characterId": 1
+      }
+    ]
+  },
+  "costumeId": 26,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "キラキラコード",
+    "Sparkling Chords",
+    "閃亮的和弦",
+    "闪亮和弦",
+    "반짝이는 코드"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2370,
+      "technique": 1500,
+      "visual": 1830
+    },
+    "2": {
+      "performance": 2434,
+      "technique": 1540,
+      "visual": 1879
+    },
+    "3": {
+      "performance": 2502,
+      "technique": 1583,
+      "visual": 1932
+    },
+    "4": {
+      "performance": 2574,
+      "technique": 1629,
+      "visual": 1988
+    },
+    "5": {
+      "performance": 2651,
+      "technique": 1678,
+      "visual": 2047
+    },
+    "6": {
+      "performance": 2732,
+      "technique": 1729,
+      "visual": 2109
+    },
+    "7": {
+      "performance": 2817,
+      "technique": 1783,
+      "visual": 2175
+    },
+    "8": {
+      "performance": 2906,
+      "technique": 1840,
+      "visual": 2244
+    },
+    "9": {
+      "performance": 3000,
+      "technique": 1899,
+      "visual": 2316
+    },
+    "10": {
+      "performance": 3098,
+      "technique": 1961,
+      "visual": 2392
+    },
+    "11": {
+      "performance": 3200,
+      "technique": 2026,
+      "visual": 2471
+    },
+    "12": {
+      "performance": 3306,
+      "technique": 2093,
+      "visual": 2553
+    },
+    "13": {
+      "performance": 3417,
+      "technique": 2163,
+      "visual": 2638
+    },
+    "14": {
+      "performance": 3532,
+      "technique": 2236,
+      "visual": 2727
+    },
+    "15": {
+      "performance": 3651,
+      "technique": 2311,
+      "visual": 2819
+    },
+    "16": {
+      "performance": 3774,
+      "technique": 2389,
+      "visual": 2914
+    },
+    "17": {
+      "performance": 3902,
+      "technique": 2470,
+      "visual": 3013
+    },
+    "18": {
+      "performance": 4034,
+      "technique": 2553,
+      "visual": 3115
+    },
+    "19": {
+      "performance": 4170,
+      "technique": 2639,
+      "visual": 3220
+    },
+    "20": {
+      "performance": 4310,
+      "technique": 2728,
+      "visual": 3328
+    },
+    "21": {
+      "performance": 4455,
+      "technique": 2820,
+      "visual": 3440
+    },
+    "22": {
+      "performance": 4604,
+      "technique": 2914,
+      "visual": 3555
+    },
+    "23": {
+      "performance": 4757,
+      "technique": 3011,
+      "visual": 3673
+    },
+    "24": {
+      "performance": 4914,
+      "technique": 3111,
+      "visual": 3795
+    },
+    "25": {
+      "performance": 5076,
+      "technique": 3213,
+      "visual": 3920
+    },
+    "26": {
+      "performance": 5242,
+      "technique": 3318,
+      "visual": 4048
+    },
+    "27": {
+      "performance": 5412,
+      "technique": 3426,
+      "visual": 4179
+    },
+    "28": {
+      "performance": 5586,
+      "technique": 3536,
+      "visual": 4314
+    },
+    "29": {
+      "performance": 5765,
+      "technique": 3649,
+      "visual": 4452
+    },
+    "30": {
+      "performance": 5948,
+      "technique": 3765,
+      "visual": 4593
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

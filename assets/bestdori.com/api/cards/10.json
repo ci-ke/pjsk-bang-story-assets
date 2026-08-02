@@ -1,0 +1,288 @@
+{
+  "characterId": 3,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res003002",
+  "sdResourceName": "sd003002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 19,
+        "episodeType": "standard",
+        "situationId": 10,
+        "scenarioId": "episode010",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 3
+      },
+      {
+        "episodeId": 20,
+        "episodeType": "memorial",
+        "situationId": 10,
+        "scenarioId": "memorial010",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "練習の見学は……",
+          "Watching Rehearsals",
+          "觀摩練習……",
+          "参观练习……",
+          "연습의 견학은……"
+        ],
+        "characterId": 3
+      }
+    ]
+  },
+  "costumeId": 28,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "癒しの音色",
+    "Healing Music",
+    "療癒之音色",
+    "治愈的音色",
+    "마음이 편해지는 음색"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2280,
+      "technique": 1920,
+      "visual": 1620
+    },
+    "2": {
+      "performance": 2341,
+      "technique": 1971,
+      "visual": 1663
+    },
+    "3": {
+      "performance": 2406,
+      "technique": 2025,
+      "visual": 1709
+    },
+    "4": {
+      "performance": 2475,
+      "technique": 2083,
+      "visual": 1758
+    },
+    "5": {
+      "performance": 2548,
+      "technique": 2144,
+      "visual": 1810
+    },
+    "6": {
+      "performance": 2625,
+      "technique": 2209,
+      "visual": 1865
+    },
+    "7": {
+      "performance": 2706,
+      "technique": 2277,
+      "visual": 1922
+    },
+    "8": {
+      "performance": 2791,
+      "technique": 2348,
+      "visual": 1982
+    },
+    "9": {
+      "performance": 2880,
+      "technique": 2423,
+      "visual": 2045
+    },
+    "10": {
+      "performance": 2973,
+      "technique": 2501,
+      "visual": 2111
+    },
+    "11": {
+      "performance": 3070,
+      "technique": 2583,
+      "visual": 2180
+    },
+    "12": {
+      "performance": 3171,
+      "technique": 2668,
+      "visual": 2252
+    },
+    "13": {
+      "performance": 3276,
+      "technique": 2756,
+      "visual": 2327
+    },
+    "14": {
+      "performance": 3385,
+      "technique": 2848,
+      "visual": 2405
+    },
+    "15": {
+      "performance": 3498,
+      "technique": 2943,
+      "visual": 2485
+    },
+    "16": {
+      "performance": 3615,
+      "technique": 3042,
+      "visual": 2568
+    },
+    "17": {
+      "performance": 3736,
+      "technique": 3144,
+      "visual": 2654
+    },
+    "18": {
+      "performance": 3861,
+      "technique": 3249,
+      "visual": 2743
+    },
+    "19": {
+      "performance": 3990,
+      "technique": 3358,
+      "visual": 2835
+    },
+    "20": {
+      "performance": 4123,
+      "technique": 3470,
+      "visual": 2930
+    },
+    "21": {
+      "performance": 4260,
+      "technique": 3586,
+      "visual": 3028
+    },
+    "22": {
+      "performance": 4401,
+      "technique": 3705,
+      "visual": 3128
+    },
+    "23": {
+      "performance": 4546,
+      "technique": 3827,
+      "visual": 3231
+    },
+    "24": {
+      "performance": 4695,
+      "technique": 3953,
+      "visual": 3337
+    },
+    "25": {
+      "performance": 4848,
+      "technique": 4082,
+      "visual": 3446
+    },
+    "26": {
+      "performance": 5005,
+      "technique": 4215,
+      "visual": 3558
+    },
+    "27": {
+      "performance": 5167,
+      "technique": 4351,
+      "visual": 3673
+    },
+    "28": {
+      "performance": 5333,
+      "technique": 4490,
+      "visual": 3791
+    },
+    "29": {
+      "performance": 5503,
+      "technique": 4633,
+      "visual": 3912
+    },
+    "30": {
+      "performance": 5677,
+      "technique": 4779,
+      "visual": 4035
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

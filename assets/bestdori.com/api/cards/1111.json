@@ -1,0 +1,406 @@
+{
+  "characterId": 5,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res005046",
+  "sdResourceName": "sd005046",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1811,
+        "episodeType": "standard",
+        "situationId": 1111,
+        "scenarioId": "episode1111",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "想いをチョコに込めて",
+          "Put My Feelings in the Chocolate",
+          "在巧克力裡放感情",
+          "将思念融入巧克力中",
+          "마음을 초콜릿에 담아"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 1812,
+        "episodeType": "memorial",
+        "situationId": 1111,
+        "scenarioId": "memorial1111",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "まだまだ甘々",
+          "A Long Way to Go",
+          "還太天真了",
+          "还很天真",
+          "아직 먼 달콤함"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 1052,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "スイートビタータイム",
+    "Bittersweet Time",
+    "甘苦與共時光",
+    "甜蜜又苦涩的时间",
+    "스위트 비터 타임"
+  ],
+  "releasedAt": [
+    "1612072800000",
+    "1642726800000",
+    "1625900400000",
+    "1612076400000",
+    "1612072800000"
+  ],
+  "skillName": [
+    "迷走する瞑想",
+    "Wandering Meditation",
+    "迷路的冥想",
+    "迷茫的冥想",
+    "헤매는 명상"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3294,
+      "technique": 2700,
+      "visual": 2826
+    },
+    "2": {
+      "performance": 3338,
+      "technique": 2736,
+      "visual": 2864
+    },
+    "3": {
+      "performance": 3384,
+      "technique": 2774,
+      "visual": 2903
+    },
+    "4": {
+      "performance": 3432,
+      "technique": 2813,
+      "visual": 2944
+    },
+    "5": {
+      "performance": 3482,
+      "technique": 2854,
+      "visual": 2987
+    },
+    "6": {
+      "performance": 3535,
+      "technique": 2897,
+      "visual": 3032
+    },
+    "7": {
+      "performance": 3590,
+      "technique": 2942,
+      "visual": 3079
+    },
+    "8": {
+      "performance": 3647,
+      "technique": 2989,
+      "visual": 3128
+    },
+    "9": {
+      "performance": 3706,
+      "technique": 3037,
+      "visual": 3179
+    },
+    "10": {
+      "performance": 3767,
+      "technique": 3087,
+      "visual": 3232
+    },
+    "11": {
+      "performance": 3830,
+      "technique": 3139,
+      "visual": 3286
+    },
+    "12": {
+      "performance": 3896,
+      "technique": 3193,
+      "visual": 3342
+    },
+    "13": {
+      "performance": 3964,
+      "technique": 3249,
+      "visual": 3400
+    },
+    "14": {
+      "performance": 4034,
+      "technique": 3306,
+      "visual": 3460
+    },
+    "15": {
+      "performance": 4106,
+      "technique": 3365,
+      "visual": 3522
+    },
+    "16": {
+      "performance": 4180,
+      "technique": 3426,
+      "visual": 3586
+    },
+    "17": {
+      "performance": 4257,
+      "technique": 3489,
+      "visual": 3652
+    },
+    "18": {
+      "performance": 4336,
+      "technique": 3554,
+      "visual": 3720
+    },
+    "19": {
+      "performance": 4417,
+      "technique": 3620,
+      "visual": 3789
+    },
+    "20": {
+      "performance": 4500,
+      "technique": 3688,
+      "visual": 3860
+    },
+    "21": {
+      "performance": 4585,
+      "technique": 3758,
+      "visual": 3933
+    },
+    "22": {
+      "performance": 4672,
+      "technique": 3830,
+      "visual": 4008
+    },
+    "23": {
+      "performance": 4762,
+      "technique": 3904,
+      "visual": 4085
+    },
+    "24": {
+      "performance": 4854,
+      "technique": 3979,
+      "visual": 4164
+    },
+    "25": {
+      "performance": 4948,
+      "technique": 4056,
+      "visual": 4245
+    },
+    "26": {
+      "performance": 5044,
+      "technique": 4135,
+      "visual": 4328
+    },
+    "27": {
+      "performance": 5142,
+      "technique": 4216,
+      "visual": 4412
+    },
+    "28": {
+      "performance": 5243,
+      "technique": 4298,
+      "visual": 4498
+    },
+    "29": {
+      "performance": 5346,
+      "technique": 4382,
+      "visual": 4586
+    },
+    "30": {
+      "performance": 5451,
+      "technique": 4468,
+      "visual": 4676
+    },
+    "31": {
+      "performance": 5558,
+      "technique": 4556,
+      "visual": 4768
+    },
+    "32": {
+      "performance": 5667,
+      "technique": 4646,
+      "visual": 4862
+    },
+    "33": {
+      "performance": 5779,
+      "technique": 4737,
+      "visual": 4958
+    },
+    "34": {
+      "performance": 5893,
+      "technique": 4830,
+      "visual": 5056
+    },
+    "35": {
+      "performance": 6009,
+      "technique": 4925,
+      "visual": 5155
+    },
+    "36": {
+      "performance": 6127,
+      "technique": 5022,
+      "visual": 5256
+    },
+    "37": {
+      "performance": 6247,
+      "technique": 5121,
+      "visual": 5359
+    },
+    "38": {
+      "performance": 6369,
+      "technique": 5221,
+      "visual": 5464
+    },
+    "39": {
+      "performance": 6494,
+      "technique": 5323,
+      "visual": 5571
+    },
+    "40": {
+      "performance": 6621,
+      "technique": 5427,
+      "visual": 5680
+    },
+    "41": {
+      "performance": 6805,
+      "technique": 5578,
+      "visual": 5838
+    },
+    "42": {
+      "performance": 7022,
+      "technique": 5756,
+      "visual": 6024
+    },
+    "43": {
+      "performance": 7272,
+      "technique": 5961,
+      "visual": 6239
+    },
+    "44": {
+      "performance": 7555,
+      "technique": 6193,
+      "visual": 6482
+    },
+    "45": {
+      "performance": 7871,
+      "technique": 6452,
+      "visual": 6753
+    },
+    "46": {
+      "performance": 8220,
+      "technique": 6738,
+      "visual": 7053
+    },
+    "47": {
+      "performance": 8602,
+      "technique": 7051,
+      "visual": 7381
+    },
+    "48": {
+      "performance": 9017,
+      "technique": 7391,
+      "visual": 7737
+    },
+    "49": {
+      "performance": 9465,
+      "technique": 7758,
+      "visual": 8122
+    },
+    "50": {
+      "performance": 9946,
+      "technique": 8152,
+      "visual": 8535
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

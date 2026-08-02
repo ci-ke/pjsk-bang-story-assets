@@ -1,0 +1,406 @@
+{
+  "characterId": 11,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res011027",
+  "sdResourceName": "sd011027",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 741,
+        "episodeType": "standard",
+        "situationId": 466,
+        "scenarioId": "episode466",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "言葉がなくても",
+          "Even Without Words",
+          "不需言語",
+          "无需言语",
+          "말을 하지 않아도"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 742,
+        "episodeType": "memorial",
+        "situationId": 466,
+        "scenarioId": "memorial466",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "果てなき冒険",
+          "Endless Adventure",
+          "無窮無盡的冒險",
+          "永无尽头的冒险",
+          "끝없는 모험"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 420,
+  "gachaText": [
+    "この地図があれば\n宝探しができるのね！",
+    "With this map, we can go on a treasure hunt!",
+    "有了這張地圖的話\n我們就能尋寶了呢！",
+    "有了这张地图，\n就能去寻宝了呢！",
+    "이 지도가 있으면\n보물찾기를 할 수 있어!"
+  ],
+  "prefix": [
+    "わくわく大発見",
+    "Exciting Find",
+    "令人期待的大發現",
+    "令人兴奋的大发现",
+    "두근두근 대발견"
+  ],
+  "releasedAt": [
+    "1531202400000",
+    "1563584400000",
+    "1531206000000",
+    "1589259600000",
+    "1531202400000"
+  ],
+  "skillName": [
+    "ハッピー・アドベンチャー",
+    "Happy Adventure",
+    "ＨＡＰＰＹ‧冒險者",
+    "开心·冒险",
+    "해피・어드벤처"
+  ],
+  "skillId": 17,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3357,
+      "technique": 2925,
+      "visual": 2808
+    },
+    "2": {
+      "performance": 3401,
+      "technique": 2963,
+      "visual": 2845
+    },
+    "3": {
+      "performance": 3447,
+      "technique": 3003,
+      "visual": 2883
+    },
+    "4": {
+      "performance": 3495,
+      "technique": 3045,
+      "visual": 2923
+    },
+    "5": {
+      "performance": 3545,
+      "technique": 3089,
+      "visual": 2965
+    },
+    "6": {
+      "performance": 3597,
+      "technique": 3135,
+      "visual": 3009
+    },
+    "7": {
+      "performance": 3652,
+      "technique": 3183,
+      "visual": 3055
+    },
+    "8": {
+      "performance": 3709,
+      "technique": 3233,
+      "visual": 3103
+    },
+    "9": {
+      "performance": 3768,
+      "technique": 3284,
+      "visual": 3152
+    },
+    "10": {
+      "performance": 3829,
+      "technique": 3337,
+      "visual": 3203
+    },
+    "11": {
+      "performance": 3892,
+      "technique": 3392,
+      "visual": 3256
+    },
+    "12": {
+      "performance": 3958,
+      "technique": 3449,
+      "visual": 3311
+    },
+    "13": {
+      "performance": 4026,
+      "technique": 3508,
+      "visual": 3368
+    },
+    "14": {
+      "performance": 4096,
+      "technique": 3569,
+      "visual": 3426
+    },
+    "15": {
+      "performance": 4168,
+      "technique": 3632,
+      "visual": 3486
+    },
+    "16": {
+      "performance": 4242,
+      "technique": 3697,
+      "visual": 3548
+    },
+    "17": {
+      "performance": 4318,
+      "technique": 3764,
+      "visual": 3612
+    },
+    "18": {
+      "performance": 4397,
+      "technique": 3833,
+      "visual": 3678
+    },
+    "19": {
+      "performance": 4478,
+      "technique": 3903,
+      "visual": 3746
+    },
+    "20": {
+      "performance": 4561,
+      "technique": 3975,
+      "visual": 3815
+    },
+    "21": {
+      "performance": 4646,
+      "technique": 4049,
+      "visual": 3886
+    },
+    "22": {
+      "performance": 4733,
+      "technique": 4125,
+      "visual": 3959
+    },
+    "23": {
+      "performance": 4823,
+      "technique": 4203,
+      "visual": 4034
+    },
+    "24": {
+      "performance": 4915,
+      "technique": 4283,
+      "visual": 4111
+    },
+    "25": {
+      "performance": 5009,
+      "technique": 4365,
+      "visual": 4190
+    },
+    "26": {
+      "performance": 5105,
+      "technique": 4449,
+      "visual": 4270
+    },
+    "27": {
+      "performance": 5203,
+      "technique": 4535,
+      "visual": 4352
+    },
+    "28": {
+      "performance": 5303,
+      "technique": 4623,
+      "visual": 4436
+    },
+    "29": {
+      "performance": 5406,
+      "technique": 4712,
+      "visual": 4522
+    },
+    "30": {
+      "performance": 5511,
+      "technique": 4803,
+      "visual": 4610
+    },
+    "31": {
+      "performance": 5618,
+      "technique": 4896,
+      "visual": 4700
+    },
+    "32": {
+      "performance": 5727,
+      "technique": 4991,
+      "visual": 4791
+    },
+    "33": {
+      "performance": 5838,
+      "technique": 5088,
+      "visual": 4884
+    },
+    "34": {
+      "performance": 5952,
+      "technique": 5187,
+      "visual": 4979
+    },
+    "35": {
+      "performance": 6068,
+      "technique": 5288,
+      "visual": 5076
+    },
+    "36": {
+      "performance": 6186,
+      "technique": 5391,
+      "visual": 5175
+    },
+    "37": {
+      "performance": 6306,
+      "technique": 5496,
+      "visual": 5276
+    },
+    "38": {
+      "performance": 6428,
+      "technique": 5603,
+      "visual": 5378
+    },
+    "39": {
+      "performance": 6553,
+      "technique": 5712,
+      "visual": 5482
+    },
+    "40": {
+      "performance": 6680,
+      "technique": 5822,
+      "visual": 5588
+    },
+    "41": {
+      "performance": 6864,
+      "technique": 5982,
+      "visual": 5742
+    },
+    "42": {
+      "performance": 7081,
+      "technique": 6171,
+      "visual": 5924
+    },
+    "43": {
+      "performance": 7331,
+      "technique": 6389,
+      "visual": 6133
+    },
+    "44": {
+      "performance": 7614,
+      "technique": 6636,
+      "visual": 6370
+    },
+    "45": {
+      "performance": 7930,
+      "technique": 6911,
+      "visual": 6634
+    },
+    "46": {
+      "performance": 8279,
+      "technique": 7215,
+      "visual": 6926
+    },
+    "47": {
+      "performance": 8661,
+      "technique": 7548,
+      "visual": 7245
+    },
+    "48": {
+      "performance": 9076,
+      "technique": 7909,
+      "visual": 7592
+    },
+    "49": {
+      "performance": 9524,
+      "technique": 8299,
+      "visual": 7966
+    },
+    "50": {
+      "performance": 10005,
+      "technique": 8718,
+      "visual": 8368
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

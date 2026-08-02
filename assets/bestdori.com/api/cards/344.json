@@ -1,0 +1,288 @@
+{
+  "characterId": 7,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res007012",
+  "sdResourceName": "sd007012",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 517,
+        "episodeType": "standard",
+        "situationId": 344,
+        "scenarioId": "episode344",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "下調べは任せて～",
+          "I'll Check~. Leave It to Me~.",
+          "調查就交給我了～",
+          "事前调查就交给我吧~",
+          "사전 조사는 맡겨줘~"
+        ],
+        "characterId": 7
+      },
+      {
+        "episodeId": 518,
+        "episodeType": "memorial",
+        "situationId": 344,
+        "scenarioId": "memorial344",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "二択……",
+          "Two Choices...",
+          "二選題……",
+          "两个选择……",
+          "두 가지 선택……"
+        ],
+        "characterId": 7
+      }
+    ]
+  },
+  "costumeId": 248,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "グロウアップロック",
+    "Rock and Glow",
+    "Grow up Rock",
+    "Grow Up Rock",
+    "글로우 업 록"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "ちょっとモカっちゃう？",
+    "Kinda Mocatastic, No?",
+    "要摩卡一下嗎？",
+    "要摩卡一下吗？",
+    "좀 모카한데?"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1764,
+      "technique": 2286,
+      "visual": 2010
+    },
+    "2": {
+      "performance": 1811,
+      "technique": 2347,
+      "visual": 2063
+    },
+    "3": {
+      "performance": 1861,
+      "technique": 2412,
+      "visual": 2120
+    },
+    "4": {
+      "performance": 1914,
+      "technique": 2481,
+      "visual": 2181
+    },
+    "5": {
+      "performance": 1970,
+      "technique": 2554,
+      "visual": 2245
+    },
+    "6": {
+      "performance": 2029,
+      "technique": 2631,
+      "visual": 2313
+    },
+    "7": {
+      "performance": 2092,
+      "technique": 2712,
+      "visual": 2384
+    },
+    "8": {
+      "performance": 2158,
+      "technique": 2797,
+      "visual": 2459
+    },
+    "9": {
+      "performance": 2227,
+      "technique": 2886,
+      "visual": 2537
+    },
+    "10": {
+      "performance": 2299,
+      "technique": 2979,
+      "visual": 2619
+    },
+    "11": {
+      "performance": 2374,
+      "technique": 3076,
+      "visual": 2704
+    },
+    "12": {
+      "performance": 2452,
+      "technique": 3177,
+      "visual": 2793
+    },
+    "13": {
+      "performance": 2533,
+      "technique": 3282,
+      "visual": 2886
+    },
+    "14": {
+      "performance": 2617,
+      "technique": 3391,
+      "visual": 2982
+    },
+    "15": {
+      "performance": 2704,
+      "technique": 3504,
+      "visual": 3082
+    },
+    "16": {
+      "performance": 2795,
+      "technique": 3621,
+      "visual": 3185
+    },
+    "17": {
+      "performance": 2889,
+      "technique": 3742,
+      "visual": 3292
+    },
+    "18": {
+      "performance": 2986,
+      "technique": 3868,
+      "visual": 3402
+    },
+    "19": {
+      "performance": 3086,
+      "technique": 3998,
+      "visual": 3516
+    },
+    "20": {
+      "performance": 3189,
+      "technique": 4132,
+      "visual": 3634
+    },
+    "21": {
+      "performance": 3295,
+      "technique": 4270,
+      "visual": 3755
+    },
+    "22": {
+      "performance": 3404,
+      "technique": 4412,
+      "visual": 3880
+    },
+    "23": {
+      "performance": 3516,
+      "technique": 4558,
+      "visual": 4008
+    },
+    "24": {
+      "performance": 3632,
+      "technique": 4708,
+      "visual": 4140
+    },
+    "25": {
+      "performance": 3751,
+      "technique": 4862,
+      "visual": 4275
+    },
+    "26": {
+      "performance": 3873,
+      "technique": 5020,
+      "visual": 4414
+    },
+    "27": {
+      "performance": 3998,
+      "technique": 5182,
+      "visual": 4556
+    },
+    "28": {
+      "performance": 4126,
+      "technique": 5348,
+      "visual": 4702
+    },
+    "29": {
+      "performance": 4257,
+      "technique": 5518,
+      "visual": 4852
+    },
+    "30": {
+      "performance": 4391,
+      "technique": 5692,
+      "visual": 5005
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

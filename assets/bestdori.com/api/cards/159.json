@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res010007",
+  "sdResourceName": "sd010007",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 317,
+        "episodeType": "standard",
+        "situationId": 159,
+        "scenarioId": "episode159",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "みんなでできること",
+          "What We Do Together",
+          "能大家一起做的事",
+          "齐心合力能做到的事",
+          "다 함께할 수 있는 일"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 318,
+        "episodeType": "memorial",
+        "situationId": 159,
+        "scenarioId": "memorial159",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "やっぱり５人がいいな",
+          "Five Is Best",
+          "還是五人比較好",
+          "果然还是5个人好啊",
+          "역시 다섯 명이 좋아"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 330,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "あたたかい気持ち",
+    "Warm Feeling",
+    "溫暖的心意",
+    "温暖的心情",
+    "따뜻한 기분"
+  ],
+  "releasedAt": [
+    "1499752800000",
+    "1531357200000",
+    "1499756400000",
+    "1499756400000",
+    "1499752800000"
+  ],
+  "skillName": [
+    "すぐ良くなるといいな",
+    "I Hope You Feel Better",
+    "希望能早日康復",
+    "希望能快点好起来",
+    "빨리 나으면 좋겠네"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2340,
+      "technique": 1818,
+      "visual": 1536
+    },
+    "2": {
+      "performance": 2403,
+      "technique": 1867,
+      "visual": 1577
+    },
+    "3": {
+      "performance": 2470,
+      "technique": 1919,
+      "visual": 1621
+    },
+    "4": {
+      "performance": 2541,
+      "technique": 1975,
+      "visual": 1668
+    },
+    "5": {
+      "performance": 2617,
+      "technique": 2034,
+      "visual": 1718
+    },
+    "6": {
+      "performance": 2697,
+      "technique": 2096,
+      "visual": 1770
+    },
+    "7": {
+      "performance": 2781,
+      "technique": 2161,
+      "visual": 1825
+    },
+    "8": {
+      "performance": 2869,
+      "technique": 2230,
+      "visual": 1883
+    },
+    "9": {
+      "performance": 2961,
+      "technique": 2302,
+      "visual": 1944
+    },
+    "10": {
+      "performance": 3058,
+      "technique": 2377,
+      "visual": 2007
+    },
+    "11": {
+      "performance": 3159,
+      "technique": 2455,
+      "visual": 2073
+    },
+    "12": {
+      "performance": 3264,
+      "technique": 2537,
+      "visual": 2142
+    },
+    "13": {
+      "performance": 3373,
+      "technique": 2622,
+      "visual": 2214
+    },
+    "14": {
+      "performance": 3486,
+      "technique": 2710,
+      "visual": 2288
+    },
+    "15": {
+      "performance": 3604,
+      "technique": 2801,
+      "visual": 2365
+    },
+    "16": {
+      "performance": 3726,
+      "technique": 2896,
+      "visual": 2445
+    },
+    "17": {
+      "performance": 3852,
+      "technique": 2994,
+      "visual": 2528
+    },
+    "18": {
+      "performance": 3982,
+      "technique": 3095,
+      "visual": 2613
+    },
+    "19": {
+      "performance": 4116,
+      "technique": 3199,
+      "visual": 2701
+    },
+    "20": {
+      "performance": 4255,
+      "technique": 3307,
+      "visual": 2792
+    },
+    "21": {
+      "performance": 4398,
+      "technique": 3418,
+      "visual": 2886
+    },
+    "22": {
+      "performance": 4545,
+      "technique": 3532,
+      "visual": 2982
+    },
+    "23": {
+      "performance": 4696,
+      "technique": 3649,
+      "visual": 3081
+    },
+    "24": {
+      "performance": 4851,
+      "technique": 3770,
+      "visual": 3183
+    },
+    "25": {
+      "performance": 5011,
+      "technique": 3894,
+      "visual": 3288
+    },
+    "26": {
+      "performance": 5175,
+      "technique": 4021,
+      "visual": 3396
+    },
+    "27": {
+      "performance": 5343,
+      "technique": 4152,
+      "visual": 3506
+    },
+    "28": {
+      "performance": 5515,
+      "technique": 4286,
+      "visual": 3619
+    },
+    "29": {
+      "performance": 5691,
+      "technique": 4423,
+      "visual": 3735
+    },
+    "30": {
+      "performance": 5872,
+      "technique": 4563,
+      "visual": 3854
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

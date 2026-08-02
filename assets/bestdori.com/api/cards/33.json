@@ -1,0 +1,229 @@
+{
+  "characterId": 9,
+  "rarity": 1,
+  "attribute": "powerful",
+  "levelLimit": 20,
+  "resourceSetName": "res009001",
+  "sdResourceName": "sd009001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 65,
+        "episodeType": "standard",
+        "situationId": 33,
+        "scenarioId": "episode033",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 9
+      },
+      {
+        "episodeId": 66,
+        "episodeType": "memorial",
+        "situationId": 33,
+        "scenarioId": "memorial033",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ドラマーの心得",
+          "Drummer's Wisdom",
+          "鼓手的心得",
+          "鼓手的心得",
+          "드러머의 마음가짐"
+        ],
+        "characterId": 9
+      }
+    ]
+  },
+  "costumeId": 1616,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "頼れる姉御肌",
+    "Sister Figure",
+    "可以依靠的姊姊",
+    "能够依靠的果断大姐姐",
+    "믿음직한 여장부"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "縁の下の力持ち",
+    "Unsung Hero",
+    "幕後功臣",
+    "暗自努力",
+    "숨은 조력자"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 936,
+      "technique": 1041,
+      "visual": 1059
+    },
+    "2": {
+      "performance": 974,
+      "technique": 1083,
+      "visual": 1102
+    },
+    "3": {
+      "performance": 1016,
+      "technique": 1130,
+      "visual": 1150
+    },
+    "4": {
+      "performance": 1062,
+      "technique": 1181,
+      "visual": 1202
+    },
+    "5": {
+      "performance": 1112,
+      "technique": 1236,
+      "visual": 1258
+    },
+    "6": {
+      "performance": 1165,
+      "technique": 1295,
+      "visual": 1318
+    },
+    "7": {
+      "performance": 1222,
+      "technique": 1359,
+      "visual": 1383
+    },
+    "8": {
+      "performance": 1283,
+      "technique": 1427,
+      "visual": 1452
+    },
+    "9": {
+      "performance": 1348,
+      "technique": 1499,
+      "visual": 1525
+    },
+    "10": {
+      "performance": 1417,
+      "technique": 1575,
+      "visual": 1603
+    },
+    "11": {
+      "performance": 1489,
+      "technique": 1656,
+      "visual": 1685
+    },
+    "12": {
+      "performance": 1565,
+      "technique": 1741,
+      "visual": 1771
+    },
+    "13": {
+      "performance": 1645,
+      "technique": 1830,
+      "visual": 1862
+    },
+    "14": {
+      "performance": 1729,
+      "technique": 1923,
+      "visual": 1957
+    },
+    "15": {
+      "performance": 1817,
+      "technique": 2020,
+      "visual": 2056
+    },
+    "16": {
+      "performance": 1908,
+      "technique": 2122,
+      "visual": 2159
+    },
+    "17": {
+      "performance": 2003,
+      "technique": 2228,
+      "visual": 2267
+    },
+    "18": {
+      "performance": 2102,
+      "technique": 2338,
+      "visual": 2379
+    },
+    "19": {
+      "performance": 2205,
+      "technique": 2452,
+      "visual": 2495
+    },
+    "20": {
+      "performance": 2312,
+      "technique": 2571,
+      "visual": 2616
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "characterId": 10,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res010016",
+  "sdResourceName": "sd010016",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 569,
+        "episodeType": "standard",
+        "situationId": 375,
+        "scenarioId": "episode375",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "今年のチョコレート",
+          "This Year's Chocolates",
+          "今年的巧克力",
+          "今年的巧克力",
+          "올해의 초콜릿"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 570,
+        "episodeType": "memorial",
+        "situationId": 375,
+        "scenarioId": "memorial375",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "バレンタインの思い出",
+          "Valentine's Day Memories",
+          "情人節的回憶",
+          "情人节的回忆",
+          "발렌타인의 추억"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 278,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "楽しい試食会",
+    "A Joyful Tasting Party",
+    "歡樂試吃會",
+    "开心的试吃会",
+    "즐거운 시식회"
+  ],
+  "releasedAt": [
+    "1517378400000",
+    "1548896400000",
+    "1517382000000",
+    "1579582800000",
+    "1517378400000"
+  ],
+  "skillName": [
+    "美味しくできたかな？",
+    "Did They Come Out Okay?",
+    "做得好吃嗎？",
+    "做得好吃吗？",
+    "맛있게 됐으려나?"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2754,
+      "technique": 2592,
+      "visual": 3474
+    },
+    "2": {
+      "performance": 2791,
+      "technique": 2626,
+      "visual": 3520
+    },
+    "3": {
+      "performance": 2829,
+      "technique": 2662,
+      "visual": 3568
+    },
+    "4": {
+      "performance": 2869,
+      "technique": 2700,
+      "visual": 3619
+    },
+    "5": {
+      "performance": 2911,
+      "technique": 2740,
+      "visual": 3672
+    },
+    "6": {
+      "performance": 2955,
+      "technique": 2781,
+      "visual": 3727
+    },
+    "7": {
+      "performance": 3001,
+      "technique": 2824,
+      "visual": 3785
+    },
+    "8": {
+      "performance": 3049,
+      "technique": 2869,
+      "visual": 3845
+    },
+    "9": {
+      "performance": 3098,
+      "technique": 2915,
+      "visual": 3907
+    },
+    "10": {
+      "performance": 3149,
+      "technique": 2963,
+      "visual": 3972
+    },
+    "11": {
+      "performance": 3202,
+      "technique": 3013,
+      "visual": 4039
+    },
+    "12": {
+      "performance": 3257,
+      "technique": 3065,
+      "visual": 4108
+    },
+    "13": {
+      "performance": 3314,
+      "technique": 3118,
+      "visual": 4180
+    },
+    "14": {
+      "performance": 3373,
+      "technique": 3173,
+      "visual": 4254
+    },
+    "15": {
+      "performance": 3433,
+      "technique": 3230,
+      "visual": 4330
+    },
+    "16": {
+      "performance": 3495,
+      "technique": 3289,
+      "visual": 4408
+    },
+    "17": {
+      "performance": 3559,
+      "technique": 3349,
+      "visual": 4489
+    },
+    "18": {
+      "performance": 3625,
+      "technique": 3411,
+      "visual": 4572
+    },
+    "19": {
+      "performance": 3693,
+      "technique": 3475,
+      "visual": 4657
+    },
+    "20": {
+      "performance": 3763,
+      "technique": 3540,
+      "visual": 4745
+    },
+    "21": {
+      "performance": 3834,
+      "technique": 3607,
+      "visual": 4835
+    },
+    "22": {
+      "performance": 3907,
+      "technique": 3676,
+      "visual": 4927
+    },
+    "23": {
+      "performance": 3982,
+      "technique": 3747,
+      "visual": 5022
+    },
+    "24": {
+      "performance": 4059,
+      "technique": 3819,
+      "visual": 5119
+    },
+    "25": {
+      "performance": 4138,
+      "technique": 3893,
+      "visual": 5218
+    },
+    "26": {
+      "performance": 4218,
+      "technique": 3969,
+      "visual": 5320
+    },
+    "27": {
+      "performance": 4300,
+      "technique": 4046,
+      "visual": 5424
+    },
+    "28": {
+      "performance": 4384,
+      "technique": 4125,
+      "visual": 5530
+    },
+    "29": {
+      "performance": 4470,
+      "technique": 4206,
+      "visual": 5638
+    },
+    "30": {
+      "performance": 4558,
+      "technique": 4289,
+      "visual": 5749
+    },
+    "31": {
+      "performance": 4648,
+      "technique": 4373,
+      "visual": 5862
+    },
+    "32": {
+      "performance": 4739,
+      "technique": 4459,
+      "visual": 5977
+    },
+    "33": {
+      "performance": 4832,
+      "technique": 4547,
+      "visual": 6095
+    },
+    "34": {
+      "performance": 4927,
+      "technique": 4636,
+      "visual": 6215
+    },
+    "35": {
+      "performance": 5024,
+      "technique": 4727,
+      "visual": 6337
+    },
+    "36": {
+      "performance": 5123,
+      "technique": 4820,
+      "visual": 6462
+    },
+    "37": {
+      "performance": 5224,
+      "technique": 4915,
+      "visual": 6589
+    },
+    "38": {
+      "performance": 5326,
+      "technique": 5011,
+      "visual": 6718
+    },
+    "39": {
+      "performance": 5430,
+      "technique": 5109,
+      "visual": 6849
+    },
+    "40": {
+      "performance": 5536,
+      "technique": 5209,
+      "visual": 6983
+    },
+    "41": {
+      "performance": 5690,
+      "technique": 5354,
+      "visual": 7177
+    },
+    "42": {
+      "performance": 5872,
+      "technique": 5525,
+      "visual": 7406
+    },
+    "43": {
+      "performance": 6081,
+      "technique": 5722,
+      "visual": 7670
+    },
+    "44": {
+      "performance": 6318,
+      "technique": 5945,
+      "visual": 7969
+    },
+    "45": {
+      "performance": 6582,
+      "technique": 6194,
+      "visual": 8302
+    },
+    "46": {
+      "performance": 6874,
+      "technique": 6469,
+      "visual": 8670
+    },
+    "47": {
+      "performance": 7193,
+      "technique": 6770,
+      "visual": 9073
+    },
+    "48": {
+      "performance": 7540,
+      "technique": 7097,
+      "visual": 9511
+    },
+    "49": {
+      "performance": 7915,
+      "technique": 7450,
+      "visual": 9984
+    },
+    "50": {
+      "performance": 8317,
+      "technique": 7829,
+      "visual": 10491
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

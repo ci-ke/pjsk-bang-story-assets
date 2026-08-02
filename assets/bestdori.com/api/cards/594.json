@@ -1,0 +1,406 @@
+{
+  "characterId": 25,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res025023",
+  "sdResourceName": "sd025023",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 959,
+        "episodeType": "standard",
+        "situationId": 594,
+        "scenarioId": "episode594",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "あこの好きなモノ",
+          "Things Ako Likes",
+          "亞子喜歡的東西",
+          "亚子喜欢的东西",
+          "아코가 좋아하는 것"
+        ],
+        "characterId": 25
+      },
+      {
+        "episodeId": 960,
+        "episodeType": "memorial",
+        "situationId": 594,
+        "scenarioId": "memorial594",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "眼ヂカラ",
+          "Power in the Eyes",
+          "眼力",
+          "眼睛的力量",
+          "강렬한 눈빛"
+        ],
+        "characterId": 25
+      }
+    ]
+  },
+  "costumeId": 545,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "あまいまなざし",
+    "A Sweet Gaze",
+    "甜蜜眼神",
+    "甜蜜的目光",
+    "달콤한 눈빛"
+  ],
+  "releasedAt": [
+    "1548914400000",
+    "1580432400000",
+    "1560150000000",
+    "1600750800000",
+    "1548914400000"
+  ],
+  "skillName": [
+    "アイコンタクト",
+    "Eye Contact",
+    "眼神交會",
+    "眼神接触",
+    "아이 콘택트"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3384,
+      "technique": 2637,
+      "visual": 2799
+    },
+    "2": {
+      "performance": 3429,
+      "technique": 2672,
+      "visual": 2836
+    },
+    "3": {
+      "performance": 3476,
+      "technique": 2709,
+      "visual": 2875
+    },
+    "4": {
+      "performance": 3525,
+      "technique": 2748,
+      "visual": 2916
+    },
+    "5": {
+      "performance": 3577,
+      "technique": 2788,
+      "visual": 2959
+    },
+    "6": {
+      "performance": 3631,
+      "technique": 2830,
+      "visual": 3004
+    },
+    "7": {
+      "performance": 3687,
+      "technique": 2874,
+      "visual": 3050
+    },
+    "8": {
+      "performance": 3745,
+      "technique": 2920,
+      "visual": 3098
+    },
+    "9": {
+      "performance": 3806,
+      "technique": 2967,
+      "visual": 3148
+    },
+    "10": {
+      "performance": 3869,
+      "technique": 3016,
+      "visual": 3200
+    },
+    "11": {
+      "performance": 3934,
+      "technique": 3067,
+      "visual": 3254
+    },
+    "12": {
+      "performance": 4001,
+      "technique": 3120,
+      "visual": 3310
+    },
+    "13": {
+      "performance": 4071,
+      "technique": 3174,
+      "visual": 3368
+    },
+    "14": {
+      "performance": 4143,
+      "technique": 3230,
+      "visual": 3427
+    },
+    "15": {
+      "performance": 4217,
+      "technique": 3288,
+      "visual": 3488
+    },
+    "16": {
+      "performance": 4293,
+      "technique": 3348,
+      "visual": 3551
+    },
+    "17": {
+      "performance": 4372,
+      "technique": 3409,
+      "visual": 3616
+    },
+    "18": {
+      "performance": 4453,
+      "technique": 3472,
+      "visual": 3683
+    },
+    "19": {
+      "performance": 4536,
+      "technique": 3537,
+      "visual": 3752
+    },
+    "20": {
+      "performance": 4621,
+      "technique": 3604,
+      "visual": 3823
+    },
+    "21": {
+      "performance": 4709,
+      "technique": 3672,
+      "visual": 3895
+    },
+    "22": {
+      "performance": 4799,
+      "technique": 3742,
+      "visual": 3969
+    },
+    "23": {
+      "performance": 4891,
+      "technique": 3814,
+      "visual": 4045
+    },
+    "24": {
+      "performance": 4985,
+      "technique": 3888,
+      "visual": 4123
+    },
+    "25": {
+      "performance": 5082,
+      "technique": 3963,
+      "visual": 4203
+    },
+    "26": {
+      "performance": 5181,
+      "technique": 4040,
+      "visual": 4285
+    },
+    "27": {
+      "performance": 5282,
+      "technique": 4119,
+      "visual": 4369
+    },
+    "28": {
+      "performance": 5385,
+      "technique": 4200,
+      "visual": 4454
+    },
+    "29": {
+      "performance": 5491,
+      "technique": 4282,
+      "visual": 4541
+    },
+    "30": {
+      "performance": 5599,
+      "technique": 4366,
+      "visual": 4630
+    },
+    "31": {
+      "performance": 5709,
+      "technique": 4452,
+      "visual": 4721
+    },
+    "32": {
+      "performance": 5821,
+      "technique": 4540,
+      "visual": 4814
+    },
+    "33": {
+      "performance": 5936,
+      "technique": 4629,
+      "visual": 4909
+    },
+    "34": {
+      "performance": 6053,
+      "technique": 4720,
+      "visual": 5006
+    },
+    "35": {
+      "performance": 6172,
+      "technique": 4813,
+      "visual": 5104
+    },
+    "36": {
+      "performance": 6293,
+      "technique": 4908,
+      "visual": 5204
+    },
+    "37": {
+      "performance": 6417,
+      "technique": 5004,
+      "visual": 5306
+    },
+    "38": {
+      "performance": 6543,
+      "technique": 5102,
+      "visual": 5410
+    },
+    "39": {
+      "performance": 6671,
+      "technique": 5202,
+      "visual": 5516
+    },
+    "40": {
+      "performance": 6801,
+      "technique": 5304,
+      "visual": 5624
+    },
+    "41": {
+      "performance": 6990,
+      "technique": 5452,
+      "visual": 5781
+    },
+    "42": {
+      "performance": 7213,
+      "technique": 5626,
+      "visual": 5966
+    },
+    "43": {
+      "performance": 7470,
+      "technique": 5826,
+      "visual": 6179
+    },
+    "44": {
+      "performance": 7761,
+      "technique": 6053,
+      "visual": 6420
+    },
+    "45": {
+      "performance": 8086,
+      "technique": 6306,
+      "visual": 6689
+    },
+    "46": {
+      "performance": 8445,
+      "technique": 6586,
+      "visual": 6986
+    },
+    "47": {
+      "performance": 8838,
+      "technique": 6892,
+      "visual": 7311
+    },
+    "48": {
+      "performance": 9265,
+      "technique": 7224,
+      "visual": 7664
+    },
+    "49": {
+      "performance": 9725,
+      "technique": 7583,
+      "visual": 8045
+    },
+    "50": {
+      "performance": 10219,
+      "technique": 7968,
+      "visual": 8454
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

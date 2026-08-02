@@ -1,0 +1,406 @@
+{
+  "characterId": 20,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res020056",
+  "sdResourceName": "sd020056",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2265,
+        "episodeType": "standard",
+        "situationId": 1389,
+        "scenarioId": "episode1389",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "歴史の楽しみ方",
+          "How to Enjoy History",
+          "享受歷史的方法",
+          "如何享受历史的乐趣",
+          "역사를 즐기는 법"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 2266,
+        "episodeType": "memorial",
+        "situationId": 1389,
+        "scenarioId": "memorial1389",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "知らなかった魅力",
+          "Things I Did Not Know",
+          "過去不曉得的魅力",
+          "未知的魅力",
+          "몰랐던 매력"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 1295,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "喝！テスト注意報",
+    "Take the Test Seriously",
+    "注意！考試來襲通知",
+    "哈！小心考试",
+    "갈! 시험 주의보"
+  ],
+  "releasedAt": [
+    "1641880800000",
+    "1667523600000",
+    "1653289200000",
+    "1641884400000",
+    "1641880800000"
+  ],
+  "skillName": [
+    "さながら用心棒です！",
+    "Like a Yojimbo Bodyguard!",
+    "簡直就是保鏢！",
+    "就像保镖一样！",
+    "흡사 경호원이에요!"
+  ],
+  "skillId": 24,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3312,
+      "technique": 2718,
+      "visual": 2790
+    },
+    "2": {
+      "performance": 3356,
+      "technique": 2754,
+      "visual": 2827
+    },
+    "3": {
+      "performance": 3402,
+      "technique": 2792,
+      "visual": 2866
+    },
+    "4": {
+      "performance": 3450,
+      "technique": 2832,
+      "visual": 2907
+    },
+    "5": {
+      "performance": 3501,
+      "technique": 2874,
+      "visual": 2950
+    },
+    "6": {
+      "performance": 3554,
+      "technique": 2917,
+      "visual": 2994
+    },
+    "7": {
+      "performance": 3609,
+      "technique": 2962,
+      "visual": 3040
+    },
+    "8": {
+      "performance": 3666,
+      "technique": 3009,
+      "visual": 3088
+    },
+    "9": {
+      "performance": 3725,
+      "technique": 3058,
+      "visual": 3138
+    },
+    "10": {
+      "performance": 3787,
+      "technique": 3109,
+      "visual": 3190
+    },
+    "11": {
+      "performance": 3851,
+      "technique": 3161,
+      "visual": 3244
+    },
+    "12": {
+      "performance": 3917,
+      "technique": 3215,
+      "visual": 3300
+    },
+    "13": {
+      "performance": 3985,
+      "technique": 3271,
+      "visual": 3357
+    },
+    "14": {
+      "performance": 4055,
+      "technique": 3329,
+      "visual": 3416
+    },
+    "15": {
+      "performance": 4128,
+      "technique": 3389,
+      "visual": 3477
+    },
+    "16": {
+      "performance": 4203,
+      "technique": 3450,
+      "visual": 3540
+    },
+    "17": {
+      "performance": 4280,
+      "technique": 3513,
+      "visual": 3605
+    },
+    "18": {
+      "performance": 4359,
+      "technique": 3578,
+      "visual": 3672
+    },
+    "19": {
+      "performance": 4440,
+      "technique": 3645,
+      "visual": 3741
+    },
+    "20": {
+      "performance": 4524,
+      "technique": 3714,
+      "visual": 3811
+    },
+    "21": {
+      "performance": 4610,
+      "technique": 3784,
+      "visual": 3883
+    },
+    "22": {
+      "performance": 4698,
+      "technique": 3856,
+      "visual": 3957
+    },
+    "23": {
+      "performance": 4788,
+      "technique": 3930,
+      "visual": 4033
+    },
+    "24": {
+      "performance": 4880,
+      "technique": 4006,
+      "visual": 4111
+    },
+    "25": {
+      "performance": 4975,
+      "technique": 4084,
+      "visual": 4191
+    },
+    "26": {
+      "performance": 5072,
+      "technique": 4163,
+      "visual": 4273
+    },
+    "27": {
+      "performance": 5171,
+      "technique": 4244,
+      "visual": 4356
+    },
+    "28": {
+      "performance": 5272,
+      "technique": 4327,
+      "visual": 4441
+    },
+    "29": {
+      "performance": 5375,
+      "technique": 4412,
+      "visual": 4528
+    },
+    "30": {
+      "performance": 5481,
+      "technique": 4499,
+      "visual": 4617
+    },
+    "31": {
+      "performance": 5589,
+      "technique": 4587,
+      "visual": 4708
+    },
+    "32": {
+      "performance": 5699,
+      "technique": 4677,
+      "visual": 4801
+    },
+    "33": {
+      "performance": 5811,
+      "technique": 4769,
+      "visual": 4895
+    },
+    "34": {
+      "performance": 5925,
+      "technique": 4863,
+      "visual": 4991
+    },
+    "35": {
+      "performance": 6042,
+      "technique": 4959,
+      "visual": 5089
+    },
+    "36": {
+      "performance": 6161,
+      "technique": 5056,
+      "visual": 5189
+    },
+    "37": {
+      "performance": 6282,
+      "technique": 5155,
+      "visual": 5291
+    },
+    "38": {
+      "performance": 6405,
+      "technique": 5256,
+      "visual": 5395
+    },
+    "39": {
+      "performance": 6530,
+      "technique": 5359,
+      "visual": 5501
+    },
+    "40": {
+      "performance": 6658,
+      "technique": 5464,
+      "visual": 5608
+    },
+    "41": {
+      "performance": 6843,
+      "technique": 5616,
+      "visual": 5764
+    },
+    "42": {
+      "performance": 7061,
+      "technique": 5795,
+      "visual": 5948
+    },
+    "43": {
+      "performance": 7313,
+      "technique": 6001,
+      "visual": 6160
+    },
+    "44": {
+      "performance": 7598,
+      "technique": 6235,
+      "visual": 6400
+    },
+    "45": {
+      "performance": 7916,
+      "technique": 6496,
+      "visual": 6668
+    },
+    "46": {
+      "performance": 8267,
+      "technique": 6784,
+      "visual": 6964
+    },
+    "47": {
+      "performance": 8651,
+      "technique": 7099,
+      "visual": 7288
+    },
+    "48": {
+      "performance": 9068,
+      "technique": 7442,
+      "visual": 7640
+    },
+    "49": {
+      "performance": 9519,
+      "technique": 7812,
+      "visual": 8020
+    },
+    "50": {
+      "performance": 10003,
+      "technique": 8209,
+      "visual": 8428
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

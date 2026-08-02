@@ -1,0 +1,406 @@
+{
+  "characterId": 2,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res002009",
+  "sdResourceName": "sd002009",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 413,
+        "episodeType": "standard",
+        "situationId": 262,
+        "scenarioId": "episode262",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "うさぎづくしの…",
+          "Rabbit-Shaped...",
+          "兔子全餐…",
+          "兔子的形状……",
+          "토끼투성이의…"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 414,
+        "episodeType": "memorial",
+        "situationId": 262,
+        "scenarioId": "memorial262",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "一生懸命って",
+          "What Is \"Doing One's Best\"?",
+          "全力以赴",
+          "拼命努力",
+          "「열심히」란"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 187,
+  "gachaText": [
+    "白組、頑張れー",
+    "Go~, team white~.",
+    "白隊，加油～",
+    "白组，加油——",
+    "백팀 이겨라~"
+  ],
+  "prefix": [
+    "パン食い競走！",
+    "Bread-Carrying Race!",
+    "吃麵包賽跑！",
+    "叼面包赛跑！",
+    "빵 먹기 경주!"
+  ],
+  "releasedAt": [
+    "1508479200000",
+    "1540083600000",
+    "1508482800000",
+    "1572930000000",
+    "1508479200000"
+  ],
+  "skillName": [
+    "パンキャッチ！",
+    "Bread Snatch!",
+    "麵包Catch！",
+    "咬面包！",
+    "빵 잡기!"
+  ],
+  "skillId": 13,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3357,
+      "technique": 2763,
+      "visual": 3060
+    },
+    "2": {
+      "performance": 3401,
+      "technique": 2799,
+      "visual": 3100
+    },
+    "3": {
+      "performance": 3447,
+      "technique": 2837,
+      "visual": 3142
+    },
+    "4": {
+      "performance": 3495,
+      "technique": 2877,
+      "visual": 3186
+    },
+    "5": {
+      "performance": 3545,
+      "technique": 2918,
+      "visual": 3232
+    },
+    "6": {
+      "performance": 3597,
+      "technique": 2961,
+      "visual": 3280
+    },
+    "7": {
+      "performance": 3652,
+      "technique": 3006,
+      "visual": 3330
+    },
+    "8": {
+      "performance": 3709,
+      "technique": 3053,
+      "visual": 3382
+    },
+    "9": {
+      "performance": 3768,
+      "technique": 3102,
+      "visual": 3436
+    },
+    "10": {
+      "performance": 3829,
+      "technique": 3152,
+      "visual": 3492
+    },
+    "11": {
+      "performance": 3892,
+      "technique": 3204,
+      "visual": 3550
+    },
+    "12": {
+      "performance": 3958,
+      "technique": 3258,
+      "visual": 3610
+    },
+    "13": {
+      "performance": 4026,
+      "technique": 3314,
+      "visual": 3672
+    },
+    "14": {
+      "performance": 4096,
+      "technique": 3372,
+      "visual": 3736
+    },
+    "15": {
+      "performance": 4168,
+      "technique": 3431,
+      "visual": 3802
+    },
+    "16": {
+      "performance": 4242,
+      "technique": 3492,
+      "visual": 3870
+    },
+    "17": {
+      "performance": 4318,
+      "technique": 3555,
+      "visual": 3940
+    },
+    "18": {
+      "performance": 4397,
+      "technique": 3620,
+      "visual": 4012
+    },
+    "19": {
+      "performance": 4478,
+      "technique": 3687,
+      "visual": 4086
+    },
+    "20": {
+      "performance": 4561,
+      "technique": 3755,
+      "visual": 4162
+    },
+    "21": {
+      "performance": 4646,
+      "technique": 3825,
+      "visual": 4240
+    },
+    "22": {
+      "performance": 4733,
+      "technique": 3897,
+      "visual": 4320
+    },
+    "23": {
+      "performance": 4823,
+      "technique": 3971,
+      "visual": 4402
+    },
+    "24": {
+      "performance": 4915,
+      "technique": 4047,
+      "visual": 4486
+    },
+    "25": {
+      "performance": 5009,
+      "technique": 4124,
+      "visual": 4572
+    },
+    "26": {
+      "performance": 5105,
+      "technique": 4203,
+      "visual": 4660
+    },
+    "27": {
+      "performance": 5203,
+      "technique": 4284,
+      "visual": 4750
+    },
+    "28": {
+      "performance": 5303,
+      "technique": 4367,
+      "visual": 4842
+    },
+    "29": {
+      "performance": 5406,
+      "technique": 4452,
+      "visual": 4936
+    },
+    "30": {
+      "performance": 5511,
+      "technique": 4538,
+      "visual": 5032
+    },
+    "31": {
+      "performance": 5618,
+      "technique": 4626,
+      "visual": 5130
+    },
+    "32": {
+      "performance": 5727,
+      "technique": 4716,
+      "visual": 5230
+    },
+    "33": {
+      "performance": 5838,
+      "technique": 4808,
+      "visual": 5332
+    },
+    "34": {
+      "performance": 5952,
+      "technique": 4901,
+      "visual": 5436
+    },
+    "35": {
+      "performance": 6068,
+      "technique": 4996,
+      "visual": 5542
+    },
+    "36": {
+      "performance": 6186,
+      "technique": 5093,
+      "visual": 5650
+    },
+    "37": {
+      "performance": 6306,
+      "technique": 5192,
+      "visual": 5760
+    },
+    "38": {
+      "performance": 6428,
+      "technique": 5293,
+      "visual": 5872
+    },
+    "39": {
+      "performance": 6553,
+      "technique": 5395,
+      "visual": 5985
+    },
+    "40": {
+      "performance": 6680,
+      "technique": 5499,
+      "visual": 6100
+    },
+    "41": {
+      "performance": 6864,
+      "technique": 5650,
+      "visual": 6268
+    },
+    "42": {
+      "performance": 7081,
+      "technique": 5829,
+      "visual": 6466
+    },
+    "43": {
+      "performance": 7331,
+      "technique": 6035,
+      "visual": 6694
+    },
+    "44": {
+      "performance": 7614,
+      "technique": 6268,
+      "visual": 6952
+    },
+    "45": {
+      "performance": 7930,
+      "technique": 6528,
+      "visual": 7240
+    },
+    "46": {
+      "performance": 8279,
+      "technique": 6815,
+      "visual": 7558
+    },
+    "47": {
+      "performance": 8661,
+      "technique": 7129,
+      "visual": 7906
+    },
+    "48": {
+      "performance": 9076,
+      "technique": 7470,
+      "visual": 8284
+    },
+    "49": {
+      "performance": 9524,
+      "technique": 7839,
+      "visual": 8692
+    },
+    "50": {
+      "performance": 10005,
+      "technique": 8235,
+      "visual": 9130
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

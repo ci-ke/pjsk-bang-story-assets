@@ -1,0 +1,288 @@
+{
+  "characterId": 11,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res011024",
+  "sdResourceName": "sd011024",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 655,
+        "episodeType": "standard",
+        "situationId": 423,
+        "scenarioId": "episode423",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "仲良くなりたい！",
+          "I Wanna Be Friends!",
+          "想變好朋友！",
+          "想要变得亲密！",
+          "친해지고 싶어!"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 656,
+        "episodeType": "memorial",
+        "situationId": 423,
+        "scenarioId": "memorial423",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ふわキャラの住処",
+          "Where Fluffy Mascots Live",
+          "可愛角色的住處",
+          "吉祥物的住处",
+          "푹신 캐릭터의 주소"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 377,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ふわキャラだいすき！",
+    "I Love Fluffy Mascots!",
+    "最喜歡軟呼呼的吉祥物了！",
+    "最喜欢软绵角色啦!",
+    "푹신푹신 캐릭터 정말 좋아!"
+  ],
+  "releasedAt": [
+    "1524204000000",
+    "1556413200000",
+    "1524207600000",
+    "1584421200000",
+    "1524204000000"
+  ],
+  "skillName": [
+    "宇宙へジャンプ！",
+    "A Jump to the Moon!",
+    "跳到宇宙吧！",
+    "朝宇宙飞跃！",
+    "우주로 점프!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2472,
+      "technique": 1380,
+      "visual": 1848
+    },
+    "2": {
+      "performance": 2540,
+      "technique": 1418,
+      "visual": 1898
+    },
+    "3": {
+      "performance": 2612,
+      "technique": 1458,
+      "visual": 1952
+    },
+    "4": {
+      "performance": 2689,
+      "technique": 1501,
+      "visual": 2009
+    },
+    "5": {
+      "performance": 2770,
+      "technique": 1546,
+      "visual": 2070
+    },
+    "6": {
+      "performance": 2855,
+      "technique": 1594,
+      "visual": 2134
+    },
+    "7": {
+      "performance": 2945,
+      "technique": 1644,
+      "visual": 2201
+    },
+    "8": {
+      "performance": 3039,
+      "technique": 1697,
+      "visual": 2272
+    },
+    "9": {
+      "performance": 3138,
+      "technique": 1752,
+      "visual": 2346
+    },
+    "10": {
+      "performance": 3241,
+      "technique": 1810,
+      "visual": 2423
+    },
+    "11": {
+      "performance": 3349,
+      "technique": 1870,
+      "visual": 2504
+    },
+    "12": {
+      "performance": 3461,
+      "technique": 1933,
+      "visual": 2588
+    },
+    "13": {
+      "performance": 3578,
+      "technique": 1998,
+      "visual": 2675
+    },
+    "14": {
+      "performance": 3699,
+      "technique": 2066,
+      "visual": 2766
+    },
+    "15": {
+      "performance": 3825,
+      "technique": 2136,
+      "visual": 2860
+    },
+    "16": {
+      "performance": 3955,
+      "technique": 2209,
+      "visual": 2957
+    },
+    "17": {
+      "performance": 4090,
+      "technique": 2284,
+      "visual": 3058
+    },
+    "18": {
+      "performance": 4229,
+      "technique": 2362,
+      "visual": 3162
+    },
+    "19": {
+      "performance": 4373,
+      "technique": 2442,
+      "visual": 3270
+    },
+    "20": {
+      "performance": 4521,
+      "technique": 2525,
+      "visual": 3381
+    },
+    "21": {
+      "performance": 4674,
+      "technique": 2610,
+      "visual": 3495
+    },
+    "22": {
+      "performance": 4831,
+      "technique": 2698,
+      "visual": 3613
+    },
+    "23": {
+      "performance": 4993,
+      "technique": 2788,
+      "visual": 3734
+    },
+    "24": {
+      "performance": 5159,
+      "technique": 2881,
+      "visual": 3858
+    },
+    "25": {
+      "performance": 5330,
+      "technique": 2976,
+      "visual": 3986
+    },
+    "26": {
+      "performance": 5505,
+      "technique": 3074,
+      "visual": 4117
+    },
+    "27": {
+      "performance": 5685,
+      "technique": 3174,
+      "visual": 4251
+    },
+    "28": {
+      "performance": 5869,
+      "technique": 3277,
+      "visual": 4389
+    },
+    "29": {
+      "performance": 6058,
+      "technique": 3382,
+      "visual": 4530
+    },
+    "30": {
+      "performance": 6251,
+      "technique": 3490,
+      "visual": 4674
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

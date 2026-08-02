@@ -1,0 +1,288 @@
+{
+  "characterId": 1,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res001008",
+  "sdResourceName": "sd001008",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 347,
+        "episodeType": "standard",
+        "situationId": 174,
+        "scenarioId": "episode174",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "サメつり",
+          "Shark Fishing",
+          "釣鯊魚",
+          "钓鲨鱼",
+          "상어 낚시"
+        ],
+        "characterId": 1
+      },
+      {
+        "episodeId": 348,
+        "episodeType": "memorial",
+        "situationId": 174,
+        "scenarioId": "memorial174",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "思い出の腕輪",
+          "Souvenir Bracelets",
+          "回憶的手鐲",
+          "回忆的手镯",
+          "추억의 팔찌"
+        ],
+        "characterId": 1
+      }
+    ]
+  },
+  "costumeId": 334,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "宣誓！花火大会！",
+    "For the Fireworks! I Swear!",
+    "宣誓！煙火大會！",
+    "宣誓！烟花大会！",
+    "선서! 불꽃놀이!"
+  ],
+  "releasedAt": [
+    "1502344800000",
+    "1533949200000",
+    "1502348400000",
+    "1502348400000",
+    "1502344800000"
+  ],
+  "skillName": [
+    "か～～～ぎや～～～！",
+    "Ka~giya~!",
+    "鍵～～～鍵屋～～～！",
+    "键～～～屋～～～！",
+    "카~~~키야~~~!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2334,
+      "technique": 1794,
+      "visual": 1386
+    },
+    "2": {
+      "performance": 2398,
+      "technique": 1843,
+      "visual": 1424
+    },
+    "3": {
+      "performance": 2466,
+      "technique": 1895,
+      "visual": 1464
+    },
+    "4": {
+      "performance": 2538,
+      "technique": 1951,
+      "visual": 1507
+    },
+    "5": {
+      "performance": 2614,
+      "technique": 2010,
+      "visual": 1552
+    },
+    "6": {
+      "performance": 2695,
+      "technique": 2072,
+      "visual": 1600
+    },
+    "7": {
+      "performance": 2780,
+      "technique": 2137,
+      "visual": 1650
+    },
+    "8": {
+      "performance": 2869,
+      "technique": 2206,
+      "visual": 1703
+    },
+    "9": {
+      "performance": 2962,
+      "technique": 2278,
+      "visual": 1759
+    },
+    "10": {
+      "performance": 3060,
+      "technique": 2353,
+      "visual": 1817
+    },
+    "11": {
+      "performance": 3162,
+      "technique": 2431,
+      "visual": 1878
+    },
+    "12": {
+      "performance": 3268,
+      "technique": 2513,
+      "visual": 1941
+    },
+    "13": {
+      "performance": 3378,
+      "technique": 2598,
+      "visual": 2007
+    },
+    "14": {
+      "performance": 3493,
+      "technique": 2686,
+      "visual": 2075
+    },
+    "15": {
+      "performance": 3612,
+      "technique": 2777,
+      "visual": 2146
+    },
+    "16": {
+      "performance": 3735,
+      "technique": 2872,
+      "visual": 2219
+    },
+    "17": {
+      "performance": 3862,
+      "technique": 2970,
+      "visual": 2295
+    },
+    "18": {
+      "performance": 3994,
+      "technique": 3071,
+      "visual": 2373
+    },
+    "19": {
+      "performance": 4130,
+      "technique": 3175,
+      "visual": 2454
+    },
+    "20": {
+      "performance": 4270,
+      "technique": 3283,
+      "visual": 2537
+    },
+    "21": {
+      "performance": 4414,
+      "technique": 3394,
+      "visual": 2623
+    },
+    "22": {
+      "performance": 4563,
+      "technique": 3508,
+      "visual": 2711
+    },
+    "23": {
+      "performance": 4716,
+      "technique": 3625,
+      "visual": 2802
+    },
+    "24": {
+      "performance": 4873,
+      "technique": 3746,
+      "visual": 2895
+    },
+    "25": {
+      "performance": 5034,
+      "technique": 3870,
+      "visual": 2991
+    },
+    "26": {
+      "performance": 5200,
+      "technique": 3997,
+      "visual": 3089
+    },
+    "27": {
+      "performance": 5370,
+      "technique": 4128,
+      "visual": 3190
+    },
+    "28": {
+      "performance": 5544,
+      "technique": 4262,
+      "visual": 3293
+    },
+    "29": {
+      "performance": 5722,
+      "technique": 4399,
+      "visual": 3399
+    },
+    "30": {
+      "performance": 5905,
+      "technique": 4539,
+      "visual": 3507
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

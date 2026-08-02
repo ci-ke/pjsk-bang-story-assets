@@ -1,0 +1,406 @@
+{
+  "characterId": 31,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res031007",
+  "sdResourceName": "sd031007",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1777,
+        "episodeType": "standard",
+        "situationId": 1094,
+        "scenarioId": "episode1094",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "心はずむ参拝列",
+          "A Fulfilling Shrine Visit",
+          "令人雀躍的參拜隊伍",
+          "兴高采烈的参拜队伍",
+          "마음 설레는 기도"
+        ],
+        "characterId": 31
+      },
+      {
+        "episodeId": 1778,
+        "episodeType": "memorial",
+        "situationId": 1094,
+        "scenarioId": "memorial1094",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "初・初詣",
+          "My First, First Shrine Visit",
+          "初・年初參拜",
+          "初次参拜",
+          "첫・첫 기도"
+        ],
+        "characterId": 31
+      }
+    ]
+  },
+  "costumeId": 1035,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "初めて記念",
+    "My First Celebration",
+    "初次紀念",
+    "初次纪念",
+    "처음 기념"
+  ],
+  "releasedAt": [
+    "1609394400000",
+    "1638493200000",
+    "1623049200000",
+    "1643086800000",
+    "1609394400000"
+  ],
+  "skillName": [
+    "とっておこうかな",
+    "A Keepsake",
+    "留下來好了",
+    "要不要拿走呢",
+    "간직해 둘까"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3069,
+      "technique": 2700,
+      "visual": 3321
+    },
+    "2": {
+      "performance": 3109,
+      "technique": 2735,
+      "visual": 3364
+    },
+    "3": {
+      "performance": 3151,
+      "technique": 2772,
+      "visual": 3409
+    },
+    "4": {
+      "performance": 3195,
+      "technique": 2811,
+      "visual": 3457
+    },
+    "5": {
+      "performance": 3241,
+      "technique": 2851,
+      "visual": 3507
+    },
+    "6": {
+      "performance": 3289,
+      "technique": 2893,
+      "visual": 3559
+    },
+    "7": {
+      "performance": 3339,
+      "technique": 2937,
+      "visual": 3613
+    },
+    "8": {
+      "performance": 3391,
+      "technique": 2983,
+      "visual": 3669
+    },
+    "9": {
+      "performance": 3445,
+      "technique": 3030,
+      "visual": 3727
+    },
+    "10": {
+      "performance": 3501,
+      "technique": 3079,
+      "visual": 3788
+    },
+    "11": {
+      "performance": 3559,
+      "technique": 3130,
+      "visual": 3851
+    },
+    "12": {
+      "performance": 3619,
+      "technique": 3183,
+      "visual": 3916
+    },
+    "13": {
+      "performance": 3681,
+      "technique": 3237,
+      "visual": 3983
+    },
+    "14": {
+      "performance": 3745,
+      "technique": 3293,
+      "visual": 4052
+    },
+    "15": {
+      "performance": 3811,
+      "technique": 3351,
+      "visual": 4123
+    },
+    "16": {
+      "performance": 3879,
+      "technique": 3411,
+      "visual": 4197
+    },
+    "17": {
+      "performance": 3949,
+      "technique": 3473,
+      "visual": 4273
+    },
+    "18": {
+      "performance": 4021,
+      "technique": 3536,
+      "visual": 4351
+    },
+    "19": {
+      "performance": 4095,
+      "technique": 3601,
+      "visual": 4431
+    },
+    "20": {
+      "performance": 4171,
+      "technique": 3668,
+      "visual": 4513
+    },
+    "21": {
+      "performance": 4249,
+      "technique": 3737,
+      "visual": 4597
+    },
+    "22": {
+      "performance": 4329,
+      "technique": 3807,
+      "visual": 4683
+    },
+    "23": {
+      "performance": 4411,
+      "technique": 3879,
+      "visual": 4772
+    },
+    "24": {
+      "performance": 4495,
+      "technique": 3953,
+      "visual": 4863
+    },
+    "25": {
+      "performance": 4581,
+      "technique": 4029,
+      "visual": 4956
+    },
+    "26": {
+      "performance": 4669,
+      "technique": 4106,
+      "visual": 5051
+    },
+    "27": {
+      "performance": 4759,
+      "technique": 4185,
+      "visual": 5148
+    },
+    "28": {
+      "performance": 4851,
+      "technique": 4266,
+      "visual": 5247
+    },
+    "29": {
+      "performance": 4945,
+      "technique": 4349,
+      "visual": 5349
+    },
+    "30": {
+      "performance": 5041,
+      "technique": 4433,
+      "visual": 5453
+    },
+    "31": {
+      "performance": 5139,
+      "technique": 4519,
+      "visual": 5559
+    },
+    "32": {
+      "performance": 5239,
+      "technique": 4607,
+      "visual": 5667
+    },
+    "33": {
+      "performance": 5341,
+      "technique": 4697,
+      "visual": 5777
+    },
+    "34": {
+      "performance": 5445,
+      "technique": 4788,
+      "visual": 5889
+    },
+    "35": {
+      "performance": 5551,
+      "technique": 4881,
+      "visual": 6004
+    },
+    "36": {
+      "performance": 5659,
+      "technique": 4976,
+      "visual": 6121
+    },
+    "37": {
+      "performance": 5769,
+      "technique": 5073,
+      "visual": 6240
+    },
+    "38": {
+      "performance": 5881,
+      "technique": 5171,
+      "visual": 6361
+    },
+    "39": {
+      "performance": 5995,
+      "technique": 5271,
+      "visual": 6484
+    },
+    "40": {
+      "performance": 6111,
+      "technique": 5373,
+      "visual": 6609
+    },
+    "41": {
+      "performance": 6279,
+      "technique": 5521,
+      "visual": 6791
+    },
+    "42": {
+      "performance": 6477,
+      "technique": 5696,
+      "visual": 7006
+    },
+    "43": {
+      "performance": 6706,
+      "technique": 5897,
+      "visual": 7253
+    },
+    "44": {
+      "performance": 6965,
+      "technique": 6125,
+      "visual": 7533
+    },
+    "45": {
+      "performance": 7254,
+      "technique": 6379,
+      "visual": 7845
+    },
+    "46": {
+      "performance": 7573,
+      "technique": 6660,
+      "visual": 8190
+    },
+    "47": {
+      "performance": 7922,
+      "technique": 6967,
+      "visual": 8568
+    },
+    "48": {
+      "performance": 8301,
+      "technique": 7301,
+      "visual": 8978
+    },
+    "49": {
+      "performance": 8710,
+      "technique": 7661,
+      "visual": 9421
+    },
+    "50": {
+      "performance": 9150,
+      "technique": 8048,
+      "visual": 9897
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

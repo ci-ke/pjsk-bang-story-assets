@@ -1,0 +1,406 @@
+{
+  "characterId": 1,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res001051",
+  "sdResourceName": "sd001051",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1815,
+        "episodeType": "standard",
+        "situationId": 1113,
+        "scenarioId": "episode1113",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "誘惑を振り払え！",
+          "Shake Off the Temptation!",
+          "驅除誘惑！",
+          "摆脱诱惑！",
+          "유혹을 떨쳐버려"
+        ],
+        "characterId": 1
+      },
+      {
+        "episodeId": 1816,
+        "episodeType": "memorial",
+        "situationId": 1113,
+        "scenarioId": "memorial1113",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "抑えられない衝動",
+          "Uncontrollable Urge",
+          "克制不了的衝動",
+          "无法抑制的冲动",
+          "억누를 수 없는 충동"
+        ],
+        "characterId": 1
+      }
+    ]
+  },
+  "costumeId": 1054,
+  "gachaText": [
+    "お菓子……食べた～～～い！",
+    "I want... candy~!",
+    "好想吃……甜食～～～！",
+    "好想……吃点心啊~~~",
+    "과자…… 먹고 싶어~~~!"
+  ],
+  "prefix": [
+    "メルティパラダイス",
+    "Melty Paradise",
+    "入口即化的天堂",
+    "丝滑巧克力乐园",
+    "멜티 파라다이스"
+  ],
+  "releasedAt": [
+    "1612072800000",
+    "1642726800000",
+    "1625900400000",
+    "1612076400000",
+    "1612072800000"
+  ],
+  "skillName": [
+    "お菓子を求めて",
+    "My Desire for Candy",
+    "徵求甜食",
+    "寻求点心",
+    "과자를 찾아서"
+  ],
+  "skillId": 13,
+  "source": null,
+  "type": "limited",
+  "stat": {
+    "1": {
+      "performance": 2691,
+      "technique": 3015,
+      "visual": 3474
+    },
+    "2": {
+      "performance": 2726,
+      "technique": 3054,
+      "visual": 3519
+    },
+    "3": {
+      "performance": 2763,
+      "technique": 3095,
+      "visual": 3567
+    },
+    "4": {
+      "performance": 2802,
+      "technique": 3138,
+      "visual": 3617
+    },
+    "5": {
+      "performance": 2842,
+      "technique": 3183,
+      "visual": 3669
+    },
+    "6": {
+      "performance": 2884,
+      "technique": 3230,
+      "visual": 3723
+    },
+    "7": {
+      "performance": 2928,
+      "technique": 3279,
+      "visual": 3780
+    },
+    "8": {
+      "performance": 2974,
+      "technique": 3330,
+      "visual": 3839
+    },
+    "9": {
+      "performance": 3021,
+      "technique": 3383,
+      "visual": 3900
+    },
+    "10": {
+      "performance": 3070,
+      "technique": 3438,
+      "visual": 3963
+    },
+    "11": {
+      "performance": 3121,
+      "technique": 3495,
+      "visual": 4029
+    },
+    "12": {
+      "performance": 3174,
+      "technique": 3554,
+      "visual": 4097
+    },
+    "13": {
+      "performance": 3228,
+      "technique": 3615,
+      "visual": 4167
+    },
+    "14": {
+      "performance": 3284,
+      "technique": 3678,
+      "visual": 4239
+    },
+    "15": {
+      "performance": 3342,
+      "technique": 3743,
+      "visual": 4314
+    },
+    "16": {
+      "performance": 3402,
+      "technique": 3810,
+      "visual": 4391
+    },
+    "17": {
+      "performance": 3463,
+      "technique": 3879,
+      "visual": 4470
+    },
+    "18": {
+      "performance": 3526,
+      "technique": 3950,
+      "visual": 4551
+    },
+    "19": {
+      "performance": 3591,
+      "technique": 4023,
+      "visual": 4635
+    },
+    "20": {
+      "performance": 3658,
+      "technique": 4098,
+      "visual": 4721
+    },
+    "21": {
+      "performance": 3726,
+      "technique": 4175,
+      "visual": 4809
+    },
+    "22": {
+      "performance": 3796,
+      "technique": 4253,
+      "visual": 4899
+    },
+    "23": {
+      "performance": 3868,
+      "technique": 4333,
+      "visual": 4992
+    },
+    "24": {
+      "performance": 3942,
+      "technique": 4415,
+      "visual": 5087
+    },
+    "25": {
+      "performance": 4017,
+      "technique": 4499,
+      "visual": 5184
+    },
+    "26": {
+      "performance": 4094,
+      "technique": 4585,
+      "visual": 5283
+    },
+    "27": {
+      "performance": 4173,
+      "technique": 4673,
+      "visual": 5385
+    },
+    "28": {
+      "performance": 4254,
+      "technique": 4763,
+      "visual": 5489
+    },
+    "29": {
+      "performance": 4336,
+      "technique": 4855,
+      "visual": 5595
+    },
+    "30": {
+      "performance": 4420,
+      "technique": 4949,
+      "visual": 5704
+    },
+    "31": {
+      "performance": 4506,
+      "technique": 5045,
+      "visual": 5815
+    },
+    "32": {
+      "performance": 4594,
+      "technique": 5143,
+      "visual": 5928
+    },
+    "33": {
+      "performance": 4683,
+      "technique": 5243,
+      "visual": 6043
+    },
+    "34": {
+      "performance": 4774,
+      "technique": 5345,
+      "visual": 6161
+    },
+    "35": {
+      "performance": 4867,
+      "technique": 5449,
+      "visual": 6281
+    },
+    "36": {
+      "performance": 4962,
+      "technique": 5555,
+      "visual": 6403
+    },
+    "37": {
+      "performance": 5058,
+      "technique": 5663,
+      "visual": 6527
+    },
+    "38": {
+      "performance": 5156,
+      "technique": 5773,
+      "visual": 6654
+    },
+    "39": {
+      "performance": 5256,
+      "technique": 5885,
+      "visual": 6783
+    },
+    "40": {
+      "performance": 5358,
+      "technique": 5999,
+      "visual": 6914
+    },
+    "41": {
+      "performance": 5506,
+      "technique": 6164,
+      "visual": 7104
+    },
+    "42": {
+      "performance": 5680,
+      "technique": 6359,
+      "visual": 7329
+    },
+    "43": {
+      "performance": 5880,
+      "technique": 6583,
+      "visual": 7588
+    },
+    "44": {
+      "performance": 6107,
+      "technique": 6837,
+      "visual": 7881
+    },
+    "45": {
+      "performance": 6360,
+      "technique": 7121,
+      "visual": 8208
+    },
+    "46": {
+      "performance": 6640,
+      "technique": 7434,
+      "visual": 8569
+    },
+    "47": {
+      "performance": 6946,
+      "technique": 7777,
+      "visual": 8964
+    },
+    "48": {
+      "performance": 7278,
+      "technique": 8150,
+      "visual": 9393
+    },
+    "49": {
+      "performance": 7637,
+      "technique": 8552,
+      "visual": 9856
+    },
+    "50": {
+      "performance": 8022,
+      "technique": 8984,
+      "visual": 10354
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

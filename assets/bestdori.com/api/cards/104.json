@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res020005",
+  "sdResourceName": "sd020005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 207,
+        "episodeType": "standard",
+        "situationId": 104,
+        "scenarioId": "episode104",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ニッポンの文化",
+          "Japanese Culture",
+          "日本的文化",
+          "日本文化",
+          "일본의 문화"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 208,
+        "episodeType": "memorial",
+        "situationId": 104,
+        "scenarioId": "memorial104",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "憧れのサクラ",
+          "Yearning For Sakura",
+          "嚮往的櫻花",
+          "憧憬已久的樱花",
+          "그리웠던 벚꽃"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 309,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "憧れのお花見",
+    "Longing For Sakura",
+    "嚮往的賞花",
+    "期待已久的赏樱",
+    "꿈꿔온 꽃놀이"
+  ],
+  "releasedAt": [
+    "1490335200000",
+    "1522890000000",
+    "1490338800000",
+    "1490338800000",
+    "1490335200000"
+  ],
+  "skillName": [
+    "お花見、憧れてましたっ！",
+    "I Dreamed Of Sakura!",
+    "我一直很嚮往賞花！",
+    "我一直都很期待赏樱！",
+    "꽃놀이 꼭 하고 싶었어요!"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1812,
+      "technique": 1452,
+      "visual": 2388
+    },
+    "2": {
+      "performance": 1861,
+      "technique": 1491,
+      "visual": 2452
+    },
+    "3": {
+      "performance": 1913,
+      "technique": 1533,
+      "visual": 2521
+    },
+    "4": {
+      "performance": 1968,
+      "technique": 1577,
+      "visual": 2594
+    },
+    "5": {
+      "performance": 2027,
+      "technique": 1624,
+      "visual": 2671
+    },
+    "6": {
+      "performance": 2089,
+      "technique": 1674,
+      "visual": 2753
+    },
+    "7": {
+      "performance": 2154,
+      "technique": 1726,
+      "visual": 2839
+    },
+    "8": {
+      "performance": 2222,
+      "technique": 1781,
+      "visual": 2929
+    },
+    "9": {
+      "performance": 2294,
+      "technique": 1838,
+      "visual": 3023
+    },
+    "10": {
+      "performance": 2369,
+      "technique": 1898,
+      "visual": 3122
+    },
+    "11": {
+      "performance": 2447,
+      "technique": 1961,
+      "visual": 3225
+    },
+    "12": {
+      "performance": 2528,
+      "technique": 2026,
+      "visual": 3332
+    },
+    "13": {
+      "performance": 2613,
+      "technique": 2094,
+      "visual": 3443
+    },
+    "14": {
+      "performance": 2701,
+      "technique": 2164,
+      "visual": 3559
+    },
+    "15": {
+      "performance": 2792,
+      "technique": 2237,
+      "visual": 3679
+    },
+    "16": {
+      "performance": 2886,
+      "technique": 2313,
+      "visual": 3803
+    },
+    "17": {
+      "performance": 2984,
+      "technique": 2391,
+      "visual": 3932
+    },
+    "18": {
+      "performance": 3085,
+      "technique": 2472,
+      "visual": 4065
+    },
+    "19": {
+      "performance": 3189,
+      "technique": 2555,
+      "visual": 4202
+    },
+    "20": {
+      "performance": 3296,
+      "technique": 2641,
+      "visual": 4343
+    },
+    "21": {
+      "performance": 3407,
+      "technique": 2730,
+      "visual": 4489
+    },
+    "22": {
+      "performance": 3521,
+      "technique": 2821,
+      "visual": 4639
+    },
+    "23": {
+      "performance": 3638,
+      "technique": 2915,
+      "visual": 4793
+    },
+    "24": {
+      "performance": 3758,
+      "technique": 3011,
+      "visual": 4952
+    },
+    "25": {
+      "performance": 3882,
+      "technique": 3110,
+      "visual": 5115
+    },
+    "26": {
+      "performance": 4009,
+      "technique": 3212,
+      "visual": 5282
+    },
+    "27": {
+      "performance": 4139,
+      "technique": 3316,
+      "visual": 5453
+    },
+    "28": {
+      "performance": 4272,
+      "technique": 3423,
+      "visual": 5629
+    },
+    "29": {
+      "performance": 4409,
+      "technique": 3532,
+      "visual": 5809
+    },
+    "30": {
+      "performance": 4549,
+      "technique": 3644,
+      "visual": 5993
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

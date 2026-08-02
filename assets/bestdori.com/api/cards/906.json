@@ -1,0 +1,229 @@
+{
+  "characterId": 30,
+  "rarity": 1,
+  "attribute": "pure",
+  "levelLimit": 20,
+  "resourceSetName": "res030002",
+  "sdResourceName": "sd030002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1425,
+        "episodeType": "standard",
+        "situationId": 906,
+        "scenarioId": "episode906",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 30
+      },
+      {
+        "episodeId": 1426,
+        "episodeType": "memorial",
+        "situationId": 906,
+        "scenarioId": "memorial906",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "合理的な振る舞い",
+          "Rational Behavior",
+          "合乎邏輯的舉止",
+          "合理的举止",
+          "합리적인 행동"
+        ],
+        "characterId": 30
+      }
+    ]
+  },
+  "costumeId": 1637,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "一目置かれる存在",
+    "Gaining Recognition",
+    "特別的存在",
+    "值得尊敬的存在",
+    "인정받는 존재"
+  ],
+  "releasedAt": [
+    "1584284400000",
+    "1616202000000",
+    "1584288000000",
+    "1584288000000",
+    "1584284400000"
+  ],
+  "skillName": [
+    "才色兼備",
+    "Brains and Beauty",
+    "才貌兼具",
+    "才貌双全",
+    "재색겸비"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 846,
+      "technique": 636,
+      "visual": 1254
+    },
+    "2": {
+      "performance": 882,
+      "technique": 663,
+      "visual": 1307
+    },
+    "3": {
+      "performance": 922,
+      "technique": 693,
+      "visual": 1366
+    },
+    "4": {
+      "performance": 965,
+      "technique": 725,
+      "visual": 1430
+    },
+    "5": {
+      "performance": 1012,
+      "technique": 760,
+      "visual": 1499
+    },
+    "6": {
+      "performance": 1062,
+      "technique": 798,
+      "visual": 1573
+    },
+    "7": {
+      "performance": 1116,
+      "technique": 838,
+      "visual": 1653
+    },
+    "8": {
+      "performance": 1173,
+      "technique": 881,
+      "visual": 1738
+    },
+    "9": {
+      "performance": 1234,
+      "technique": 927,
+      "visual": 1828
+    },
+    "10": {
+      "performance": 1299,
+      "technique": 976,
+      "visual": 1924
+    },
+    "11": {
+      "performance": 1367,
+      "technique": 1027,
+      "visual": 2025
+    },
+    "12": {
+      "performance": 1439,
+      "technique": 1081,
+      "visual": 2131
+    },
+    "13": {
+      "performance": 1514,
+      "technique": 1138,
+      "visual": 2243
+    },
+    "14": {
+      "performance": 1593,
+      "technique": 1197,
+      "visual": 2360
+    },
+    "15": {
+      "performance": 1675,
+      "technique": 1259,
+      "visual": 2482
+    },
+    "16": {
+      "performance": 1761,
+      "technique": 1324,
+      "visual": 2610
+    },
+    "17": {
+      "performance": 1851,
+      "technique": 1391,
+      "visual": 2743
+    },
+    "18": {
+      "performance": 1944,
+      "technique": 1461,
+      "visual": 2881
+    },
+    "19": {
+      "performance": 2041,
+      "technique": 1534,
+      "visual": 3024
+    },
+    "20": {
+      "performance": 2141,
+      "technique": 1609,
+      "visual": 3173
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

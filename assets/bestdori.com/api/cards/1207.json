@@ -1,0 +1,406 @@
+{
+  "characterId": 19,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res019046",
+  "sdResourceName": "sd019046",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2003,
+        "episodeType": "standard",
+        "situationId": 1207,
+        "scenarioId": "episode1207",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ゾンビメイクの研究中",
+          "Zombie Makeup Research",
+          "研究殭屍妝容中",
+          "正在研究丧尸妆容",
+          "좀비 메이크업 연구 중"
+        ],
+        "characterId": 19
+      },
+      {
+        "episodeId": 2004,
+        "episodeType": "memorial",
+        "situationId": 1207,
+        "scenarioId": "memorial1207",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "万が一に備えて",
+          "In Case The Unexpected Happens",
+          "以防萬一",
+          "以防万一",
+          "만약을 대비해서"
+        ],
+        "characterId": 19
+      }
+    ]
+  },
+  "costumeId": 1148,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "フヘヘゾンビ",
+    "Fuhehe Zombie",
+    "嘿嘿殭屍",
+    "呼嘿嘿僵尸",
+    "후헤헤 좀비"
+  ],
+  "releasedAt": [
+    "1624168800000",
+    "1652922000000",
+    "1643353200000",
+    "1652763600000",
+    "1624168800000"
+  ],
+  "skillName": [
+    "ときめきハートビート",
+    "Pounding Heartbeat",
+    "心動Heartbeat",
+    "心动Heart Beat",
+    "콩닥콩닥 하트 비트"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2844,
+      "technique": 3330,
+      "visual": 2916
+    },
+    "2": {
+      "performance": 2881,
+      "technique": 3373,
+      "visual": 2954
+    },
+    "3": {
+      "performance": 2920,
+      "technique": 3419,
+      "visual": 2994
+    },
+    "4": {
+      "performance": 2961,
+      "technique": 3467,
+      "visual": 3036
+    },
+    "5": {
+      "performance": 3004,
+      "technique": 3517,
+      "visual": 3080
+    },
+    "6": {
+      "performance": 3048,
+      "technique": 3569,
+      "visual": 3126
+    },
+    "7": {
+      "performance": 3094,
+      "technique": 3623,
+      "visual": 3173
+    },
+    "8": {
+      "performance": 3142,
+      "technique": 3679,
+      "visual": 3222
+    },
+    "9": {
+      "performance": 3192,
+      "technique": 3738,
+      "visual": 3273
+    },
+    "10": {
+      "performance": 3244,
+      "technique": 3799,
+      "visual": 3326
+    },
+    "11": {
+      "performance": 3298,
+      "technique": 3862,
+      "visual": 3381
+    },
+    "12": {
+      "performance": 3354,
+      "technique": 3927,
+      "visual": 3438
+    },
+    "13": {
+      "performance": 3411,
+      "technique": 3994,
+      "visual": 3497
+    },
+    "14": {
+      "performance": 3470,
+      "technique": 4063,
+      "visual": 3558
+    },
+    "15": {
+      "performance": 3531,
+      "technique": 4135,
+      "visual": 3621
+    },
+    "16": {
+      "performance": 3594,
+      "technique": 4209,
+      "visual": 3686
+    },
+    "17": {
+      "performance": 3659,
+      "technique": 4285,
+      "visual": 3752
+    },
+    "18": {
+      "performance": 3726,
+      "technique": 4363,
+      "visual": 3820
+    },
+    "19": {
+      "performance": 3795,
+      "technique": 4443,
+      "visual": 3890
+    },
+    "20": {
+      "performance": 3865,
+      "technique": 4525,
+      "visual": 3962
+    },
+    "21": {
+      "performance": 3937,
+      "technique": 4610,
+      "visual": 4036
+    },
+    "22": {
+      "performance": 4011,
+      "technique": 4697,
+      "visual": 4112
+    },
+    "23": {
+      "performance": 4087,
+      "technique": 4786,
+      "visual": 4190
+    },
+    "24": {
+      "performance": 4165,
+      "technique": 4877,
+      "visual": 4270
+    },
+    "25": {
+      "performance": 4245,
+      "technique": 4970,
+      "visual": 4352
+    },
+    "26": {
+      "performance": 4326,
+      "technique": 5065,
+      "visual": 4436
+    },
+    "27": {
+      "performance": 4409,
+      "technique": 5163,
+      "visual": 4521
+    },
+    "28": {
+      "performance": 4494,
+      "technique": 5263,
+      "visual": 4608
+    },
+    "29": {
+      "performance": 4581,
+      "technique": 5365,
+      "visual": 4697
+    },
+    "30": {
+      "performance": 4670,
+      "technique": 5469,
+      "visual": 4788
+    },
+    "31": {
+      "performance": 4761,
+      "technique": 5575,
+      "visual": 4881
+    },
+    "32": {
+      "performance": 4854,
+      "technique": 5683,
+      "visual": 4976
+    },
+    "33": {
+      "performance": 4948,
+      "technique": 5794,
+      "visual": 5073
+    },
+    "34": {
+      "performance": 5044,
+      "technique": 5907,
+      "visual": 5172
+    },
+    "35": {
+      "performance": 5142,
+      "technique": 6022,
+      "visual": 5273
+    },
+    "36": {
+      "performance": 5242,
+      "technique": 6139,
+      "visual": 5375
+    },
+    "37": {
+      "performance": 5344,
+      "technique": 6258,
+      "visual": 5479
+    },
+    "38": {
+      "performance": 5448,
+      "technique": 6379,
+      "visual": 5585
+    },
+    "39": {
+      "performance": 5554,
+      "technique": 6503,
+      "visual": 5693
+    },
+    "40": {
+      "performance": 5661,
+      "technique": 6629,
+      "visual": 5803
+    },
+    "41": {
+      "performance": 5817,
+      "technique": 6812,
+      "visual": 5963
+    },
+    "42": {
+      "performance": 6001,
+      "technique": 7027,
+      "visual": 6151
+    },
+    "43": {
+      "performance": 6213,
+      "technique": 7275,
+      "visual": 6368
+    },
+    "44": {
+      "performance": 6453,
+      "technique": 7556,
+      "visual": 6614
+    },
+    "45": {
+      "performance": 6721,
+      "technique": 7869,
+      "visual": 6888
+    },
+    "46": {
+      "performance": 7016,
+      "technique": 8215,
+      "visual": 7191
+    },
+    "47": {
+      "performance": 7339,
+      "technique": 8594,
+      "visual": 7523
+    },
+    "48": {
+      "performance": 7690,
+      "technique": 9005,
+      "visual": 7883
+    },
+    "49": {
+      "performance": 8069,
+      "technique": 9449,
+      "visual": 8272
+    },
+    "50": {
+      "performance": 8476,
+      "technique": 9926,
+      "visual": 8690
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

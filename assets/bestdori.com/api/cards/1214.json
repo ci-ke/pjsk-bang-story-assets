@@ -1,0 +1,288 @@
+{
+  "characterId": 4,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res004042",
+  "sdResourceName": "sd004042",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2017,
+        "episodeType": "standard",
+        "situationId": 1214,
+        "scenarioId": "episode1214",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "とっておきの一枚",
+          "A Special Photo",
+          "最特別的一張",
+          "珍藏的一张",
+          "소중히 간직해 둔 한 장"
+        ],
+        "characterId": 4
+      },
+      {
+        "episodeId": 2018,
+        "episodeType": "memorial",
+        "situationId": 1214,
+        "scenarioId": "memorial1214",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "うれしさの理由",
+          "Reason for Happiness",
+          "開心的理由",
+          "开心的理由",
+          "기쁨의 이유"
+        ],
+        "characterId": 4
+      }
+    ]
+  },
+  "costumeId": 1155,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "さわやかバケーション",
+    "Pleasant Vacation",
+    "清爽的假期",
+    "清爽的休假",
+    "상쾌한 휴가"
+  ],
+  "releasedAt": [
+    "1625032800000",
+    "1653613200000",
+    "1638169200000",
+    "1625036400000",
+    "1625032800000"
+  ],
+  "skillName": [
+    "ひまわりの咲くあの海へ",
+    "Where the Sunflowers Bloom",
+    "往向日葵盛開的那片海",
+    "前往盛开着向日葵的那片海",
+    "해바라기 피는 그 바다로"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2160,
+      "technique": 2064,
+      "visual": 1656
+    },
+    "2": {
+      "performance": 2218,
+      "technique": 2120,
+      "visual": 1701
+    },
+    "3": {
+      "performance": 2280,
+      "technique": 2179,
+      "visual": 1749
+    },
+    "4": {
+      "performance": 2346,
+      "technique": 2242,
+      "visual": 1800
+    },
+    "5": {
+      "performance": 2416,
+      "technique": 2309,
+      "visual": 1854
+    },
+    "6": {
+      "performance": 2490,
+      "technique": 2379,
+      "visual": 1911
+    },
+    "7": {
+      "performance": 2568,
+      "technique": 2453,
+      "visual": 1971
+    },
+    "8": {
+      "performance": 2649,
+      "technique": 2531,
+      "visual": 2033
+    },
+    "9": {
+      "performance": 2734,
+      "technique": 2613,
+      "visual": 2098
+    },
+    "10": {
+      "performance": 2823,
+      "technique": 2698,
+      "visual": 2166
+    },
+    "11": {
+      "performance": 2916,
+      "technique": 2787,
+      "visual": 2237
+    },
+    "12": {
+      "performance": 3013,
+      "technique": 2880,
+      "visual": 2311
+    },
+    "13": {
+      "performance": 3114,
+      "technique": 2976,
+      "visual": 2388
+    },
+    "14": {
+      "performance": 3219,
+      "technique": 3076,
+      "visual": 2468
+    },
+    "15": {
+      "performance": 3328,
+      "technique": 3180,
+      "visual": 2551
+    },
+    "16": {
+      "performance": 3440,
+      "technique": 3287,
+      "visual": 2637
+    },
+    "17": {
+      "performance": 3556,
+      "technique": 3398,
+      "visual": 2726
+    },
+    "18": {
+      "performance": 3676,
+      "technique": 3513,
+      "visual": 2818
+    },
+    "19": {
+      "performance": 3800,
+      "technique": 3632,
+      "visual": 2913
+    },
+    "20": {
+      "performance": 3928,
+      "technique": 3754,
+      "visual": 3011
+    },
+    "21": {
+      "performance": 4060,
+      "technique": 3880,
+      "visual": 3112
+    },
+    "22": {
+      "performance": 4196,
+      "technique": 4010,
+      "visual": 3216
+    },
+    "23": {
+      "performance": 4336,
+      "technique": 4143,
+      "visual": 3323
+    },
+    "24": {
+      "performance": 4479,
+      "technique": 4280,
+      "visual": 3433
+    },
+    "25": {
+      "performance": 4626,
+      "technique": 4421,
+      "visual": 3546
+    },
+    "26": {
+      "performance": 4777,
+      "technique": 4566,
+      "visual": 3662
+    },
+    "27": {
+      "performance": 4932,
+      "technique": 4714,
+      "visual": 3781
+    },
+    "28": {
+      "performance": 5091,
+      "technique": 4866,
+      "visual": 3903
+    },
+    "29": {
+      "performance": 5254,
+      "technique": 5022,
+      "visual": 4028
+    },
+    "30": {
+      "performance": 5421,
+      "technique": 5181,
+      "visual": 4156
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

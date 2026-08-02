@@ -1,0 +1,229 @@
+{
+  "characterId": 27,
+  "rarity": 1,
+  "attribute": "cool",
+  "levelLimit": 20,
+  "resourceSetName": "res027002",
+  "sdResourceName": "sd027002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1419,
+        "episodeType": "standard",
+        "situationId": 903,
+        "scenarioId": "episode903",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 27
+      },
+      {
+        "episodeId": 1420,
+        "episodeType": "memorial",
+        "situationId": 903,
+        "scenarioId": "memorial903",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ナントカのナントカ",
+          "One Way or Another",
+          "總是會有辦法的辦法",
+          "那句话叫什么来着",
+          "어떻게든 그럭저럭"
+        ],
+        "characterId": 27
+      }
+    ]
+  },
+  "costumeId": 1634,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "学園の人気者",
+    "Popular Girl",
+    "校園紅人",
+    "学校里的红人",
+    "학원의 인기인"
+  ],
+  "releasedAt": [
+    "1584284400000",
+    "1616202000000",
+    "1584288000000",
+    "1584288000000",
+    "1584284400000"
+  ],
+  "skillName": [
+    "ミクロンミクロン",
+    "No Big Deal",
+    "微米微米",
+    "微米微米",
+    "미크론 미크론"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1245,
+      "technique": 660,
+      "visual": 855
+    },
+    "2": {
+      "performance": 1298,
+      "technique": 688,
+      "visual": 891
+    },
+    "3": {
+      "performance": 1356,
+      "technique": 719,
+      "visual": 931
+    },
+    "4": {
+      "performance": 1419,
+      "technique": 753,
+      "visual": 975
+    },
+    "5": {
+      "performance": 1488,
+      "technique": 789,
+      "visual": 1022
+    },
+    "6": {
+      "performance": 1562,
+      "technique": 828,
+      "visual": 1073
+    },
+    "7": {
+      "performance": 1641,
+      "technique": 870,
+      "visual": 1127
+    },
+    "8": {
+      "performance": 1725,
+      "technique": 915,
+      "visual": 1185
+    },
+    "9": {
+      "performance": 1815,
+      "technique": 963,
+      "visual": 1247
+    },
+    "10": {
+      "performance": 1910,
+      "technique": 1013,
+      "visual": 1312
+    },
+    "11": {
+      "performance": 2010,
+      "technique": 1066,
+      "visual": 1381
+    },
+    "12": {
+      "performance": 2116,
+      "technique": 1122,
+      "visual": 1453
+    },
+    "13": {
+      "performance": 2227,
+      "technique": 1181,
+      "visual": 1529
+    },
+    "14": {
+      "performance": 2343,
+      "technique": 1243,
+      "visual": 1609
+    },
+    "15": {
+      "performance": 2464,
+      "technique": 1307,
+      "visual": 1692
+    },
+    "16": {
+      "performance": 2591,
+      "technique": 1374,
+      "visual": 1779
+    },
+    "17": {
+      "performance": 2723,
+      "technique": 1444,
+      "visual": 1870
+    },
+    "18": {
+      "performance": 2860,
+      "technique": 1517,
+      "visual": 1964
+    },
+    "19": {
+      "performance": 3002,
+      "technique": 1592,
+      "visual": 2062
+    },
+    "20": {
+      "performance": 3150,
+      "technique": 1670,
+      "visual": 2163
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

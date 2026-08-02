@@ -1,0 +1,406 @@
+{
+  "characterId": 24,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res024011",
+  "sdResourceName": "sd024011",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 405,
+        "episodeType": "standard",
+        "situationId": 258,
+        "scenarioId": "episode258",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "あこもスランプ！？",
+          "Ako's in a Slump too?!",
+          "亞子也意志消沉！？",
+          "亚子也萎靡了！？",
+          "아코도 슬럼프!?"
+        ],
+        "characterId": 24
+      },
+      {
+        "episodeId": 406,
+        "episodeType": "memorial",
+        "situationId": 258,
+        "scenarioId": "memorial258",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "憧れベストスリー",
+          "Top-Three-to-Be",
+          "憧憬的前三名",
+          "憧憬排行榜",
+          "동경하는 베스트 3"
+        ],
+        "characterId": 24
+      }
+    ]
+  },
+  "costumeId": 185,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "永遠の憧れ！",
+    "Eternal Aspiration!",
+    "永遠的憧憬！",
+    "永远的憧憬！",
+    "영원한 동경!"
+  ],
+  "releasedAt": [
+    "1507701600000",
+    "1539306000000",
+    "1507705200000",
+    "1572325200000",
+    "1507701600000"
+  ],
+  "skillName": [
+    "世界一カッコイイっ！",
+    "The Coolest in the World!",
+    "世界第一帥！",
+    "世界第一帅气！",
+    "세상에서 제일 멋있어!"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3438,
+      "technique": 3024,
+      "visual": 2628
+    },
+    "2": {
+      "performance": 3483,
+      "technique": 3063,
+      "visual": 2662
+    },
+    "3": {
+      "performance": 3530,
+      "technique": 3104,
+      "visual": 2698
+    },
+    "4": {
+      "performance": 3579,
+      "technique": 3147,
+      "visual": 2736
+    },
+    "5": {
+      "performance": 3630,
+      "technique": 3192,
+      "visual": 2775
+    },
+    "6": {
+      "performance": 3684,
+      "technique": 3239,
+      "visual": 2816
+    },
+    "7": {
+      "performance": 3740,
+      "technique": 3288,
+      "visual": 2859
+    },
+    "8": {
+      "performance": 3798,
+      "technique": 3339,
+      "visual": 2903
+    },
+    "9": {
+      "performance": 3858,
+      "technique": 3392,
+      "visual": 2949
+    },
+    "10": {
+      "performance": 3921,
+      "technique": 3447,
+      "visual": 2997
+    },
+    "11": {
+      "performance": 3986,
+      "technique": 3504,
+      "visual": 3047
+    },
+    "12": {
+      "performance": 4053,
+      "technique": 3563,
+      "visual": 3098
+    },
+    "13": {
+      "performance": 4122,
+      "technique": 3624,
+      "visual": 3151
+    },
+    "14": {
+      "performance": 4194,
+      "technique": 3687,
+      "visual": 3206
+    },
+    "15": {
+      "performance": 4268,
+      "technique": 3752,
+      "visual": 3262
+    },
+    "16": {
+      "performance": 4344,
+      "technique": 3819,
+      "visual": 3320
+    },
+    "17": {
+      "performance": 4422,
+      "technique": 3888,
+      "visual": 3380
+    },
+    "18": {
+      "performance": 4503,
+      "technique": 3959,
+      "visual": 3442
+    },
+    "19": {
+      "performance": 4586,
+      "technique": 4032,
+      "visual": 3505
+    },
+    "20": {
+      "performance": 4671,
+      "technique": 4107,
+      "visual": 3570
+    },
+    "21": {
+      "performance": 4758,
+      "technique": 4184,
+      "visual": 3637
+    },
+    "22": {
+      "performance": 4848,
+      "technique": 4263,
+      "visual": 3705
+    },
+    "23": {
+      "performance": 4940,
+      "technique": 4344,
+      "visual": 3775
+    },
+    "24": {
+      "performance": 5034,
+      "technique": 4427,
+      "visual": 3847
+    },
+    "25": {
+      "performance": 5130,
+      "technique": 4512,
+      "visual": 3921
+    },
+    "26": {
+      "performance": 5228,
+      "technique": 4599,
+      "visual": 3996
+    },
+    "27": {
+      "performance": 5329,
+      "technique": 4688,
+      "visual": 4073
+    },
+    "28": {
+      "performance": 5432,
+      "technique": 4779,
+      "visual": 4152
+    },
+    "29": {
+      "performance": 5537,
+      "technique": 4872,
+      "visual": 4232
+    },
+    "30": {
+      "performance": 5644,
+      "technique": 4966,
+      "visual": 4314
+    },
+    "31": {
+      "performance": 5754,
+      "technique": 5062,
+      "visual": 4398
+    },
+    "32": {
+      "performance": 5866,
+      "technique": 5160,
+      "visual": 4484
+    },
+    "33": {
+      "performance": 5980,
+      "technique": 5260,
+      "visual": 4571
+    },
+    "34": {
+      "performance": 6096,
+      "technique": 5362,
+      "visual": 4660
+    },
+    "35": {
+      "performance": 6215,
+      "technique": 5466,
+      "visual": 4751
+    },
+    "36": {
+      "performance": 6336,
+      "technique": 5572,
+      "visual": 4843
+    },
+    "37": {
+      "performance": 6459,
+      "technique": 5680,
+      "visual": 4937
+    },
+    "38": {
+      "performance": 6584,
+      "technique": 5790,
+      "visual": 5033
+    },
+    "39": {
+      "performance": 6712,
+      "technique": 5902,
+      "visual": 5130
+    },
+    "40": {
+      "performance": 6842,
+      "technique": 6016,
+      "visual": 5229
+    },
+    "41": {
+      "performance": 7030,
+      "technique": 6182,
+      "visual": 5373
+    },
+    "42": {
+      "performance": 7252,
+      "technique": 6377,
+      "visual": 5543
+    },
+    "43": {
+      "performance": 7508,
+      "technique": 6602,
+      "visual": 5739
+    },
+    "44": {
+      "performance": 7798,
+      "technique": 6857,
+      "visual": 5960
+    },
+    "45": {
+      "performance": 8121,
+      "technique": 7142,
+      "visual": 6207
+    },
+    "46": {
+      "performance": 8478,
+      "technique": 7456,
+      "visual": 6480
+    },
+    "47": {
+      "performance": 8869,
+      "technique": 7800,
+      "visual": 6779
+    },
+    "48": {
+      "performance": 9294,
+      "technique": 8174,
+      "visual": 7104
+    },
+    "49": {
+      "performance": 9752,
+      "technique": 8577,
+      "visual": 7454
+    },
+    "50": {
+      "performance": 10244,
+      "technique": 9010,
+      "visual": 7830
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

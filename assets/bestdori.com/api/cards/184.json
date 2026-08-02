@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res010008",
+  "sdResourceName": "sd010008",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 357,
+        "episodeType": "standard",
+        "situationId": 184,
+        "scenarioId": "episode184",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "声の主",
+          "Someone's Voice",
+          "聲音來源",
+          "声音的主人",
+          "목소리의 주인"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 358,
+        "episodeType": "memorial",
+        "situationId": 184,
+        "scenarioId": "memorial184",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "チャレンジ・入店",
+          "Enter the Shop Challenge",
+          "挑戰・走進店裡",
+          "挑战・入店",
+          "챌린지・입점"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 336,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "勇者つぐ",
+    "Tsugu the Fearless",
+    "勇者小鶇",
+    "勇者鸫鸫",
+    "용사 츠구"
+  ],
+  "releasedAt": [
+    "1503295200000",
+    "1534899600000",
+    "1503298800000",
+    "1503298800000",
+    "1503295200000"
+  ],
+  "skillName": [
+    "先頭、行くよ！",
+    "I'll... Go First!",
+    "往前進囉！",
+    "领头，出发吧！",
+    "앞에서 갈게!"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2100,
+      "technique": 2046,
+      "visual": 1908
+    },
+    "2": {
+      "performance": 2155,
+      "technique": 2100,
+      "visual": 1958
+    },
+    "3": {
+      "performance": 2214,
+      "technique": 2157,
+      "visual": 2011
+    },
+    "4": {
+      "performance": 2276,
+      "technique": 2218,
+      "visual": 2068
+    },
+    "5": {
+      "performance": 2342,
+      "technique": 2282,
+      "visual": 2128
+    },
+    "6": {
+      "performance": 2412,
+      "technique": 2350,
+      "visual": 2191
+    },
+    "7": {
+      "performance": 2485,
+      "technique": 2422,
+      "visual": 2258
+    },
+    "8": {
+      "performance": 2562,
+      "technique": 2497,
+      "visual": 2328
+    },
+    "9": {
+      "performance": 2643,
+      "technique": 2576,
+      "visual": 2401
+    },
+    "10": {
+      "performance": 2727,
+      "technique": 2658,
+      "visual": 2478
+    },
+    "11": {
+      "performance": 2815,
+      "technique": 2744,
+      "visual": 2558
+    },
+    "12": {
+      "performance": 2907,
+      "technique": 2833,
+      "visual": 2641
+    },
+    "13": {
+      "performance": 3002,
+      "technique": 2926,
+      "visual": 2728
+    },
+    "14": {
+      "performance": 3101,
+      "technique": 3023,
+      "visual": 2818
+    },
+    "15": {
+      "performance": 3204,
+      "technique": 3123,
+      "visual": 2911
+    },
+    "16": {
+      "performance": 3310,
+      "technique": 3227,
+      "visual": 3008
+    },
+    "17": {
+      "performance": 3420,
+      "technique": 3334,
+      "visual": 3108
+    },
+    "18": {
+      "performance": 3534,
+      "technique": 3445,
+      "visual": 3211
+    },
+    "19": {
+      "performance": 3651,
+      "technique": 3559,
+      "visual": 3318
+    },
+    "20": {
+      "performance": 3772,
+      "technique": 3677,
+      "visual": 3428
+    },
+    "21": {
+      "performance": 3897,
+      "technique": 3799,
+      "visual": 3541
+    },
+    "22": {
+      "performance": 4025,
+      "technique": 3924,
+      "visual": 3658
+    },
+    "23": {
+      "performance": 4157,
+      "technique": 4053,
+      "visual": 3778
+    },
+    "24": {
+      "performance": 4293,
+      "technique": 4185,
+      "visual": 3901
+    },
+    "25": {
+      "performance": 4432,
+      "technique": 4321,
+      "visual": 4028
+    },
+    "26": {
+      "performance": 4575,
+      "technique": 4460,
+      "visual": 4158
+    },
+    "27": {
+      "performance": 4722,
+      "technique": 4603,
+      "visual": 4291
+    },
+    "28": {
+      "performance": 4872,
+      "technique": 4750,
+      "visual": 4428
+    },
+    "29": {
+      "performance": 5026,
+      "technique": 4900,
+      "visual": 4568
+    },
+    "30": {
+      "performance": 5184,
+      "technique": 5054,
+      "visual": 4711
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

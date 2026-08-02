@@ -1,0 +1,288 @@
+{
+  "characterId": 2,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res002045",
+  "sdResourceName": "sd002045",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2081,
+        "episodeType": "standard",
+        "situationId": 1282,
+        "scenarioId": "episode1282",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "夜更かし→しりとり",
+          "Staying Up Late → Shiritori",
+          "熬夜→夜間接龍",
+          "熬夜→接龙",
+          "밤샘→끝말잇기"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 2082,
+        "episodeType": "memorial",
+        "situationId": 1282,
+        "scenarioId": "memorial1282",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お名前博士",
+          "Naming Expert",
+          "名字博士",
+          "取名博士",
+          "이름 박사"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 1188,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "出航！マリンセーラー",
+    "Sailor Setting Sail",
+    "出航！海洋水手",
+    "出航！水手",
+    "출항! 마린 세일러"
+  ],
+  "releasedAt": [
+    "1629612000000",
+    "1657328400000",
+    "1641884400000",
+    "1629615600000",
+    "1629612000000"
+  ],
+  "skillName": [
+    "キミの笑顔見っけ！",
+    "Smile Sighted!",
+    "看到你的笑容了！",
+    "发现你的笑容！",
+    "네 웃는 얼굴 발견!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1806,
+      "technique": 2160,
+      "visual": 1734
+    },
+    "2": {
+      "performance": 1855,
+      "technique": 2219,
+      "visual": 1781
+    },
+    "3": {
+      "performance": 1908,
+      "technique": 2282,
+      "visual": 1832
+    },
+    "4": {
+      "performance": 1964,
+      "technique": 2349,
+      "visual": 1886
+    },
+    "5": {
+      "performance": 2023,
+      "technique": 2420,
+      "visual": 1943
+    },
+    "6": {
+      "performance": 2085,
+      "technique": 2495,
+      "visual": 2003
+    },
+    "7": {
+      "performance": 2151,
+      "technique": 2574,
+      "visual": 2066
+    },
+    "8": {
+      "performance": 2220,
+      "technique": 2657,
+      "visual": 2132
+    },
+    "9": {
+      "performance": 2292,
+      "technique": 2743,
+      "visual": 2201
+    },
+    "10": {
+      "performance": 2368,
+      "technique": 2833,
+      "visual": 2274
+    },
+    "11": {
+      "performance": 2447,
+      "technique": 2927,
+      "visual": 2350
+    },
+    "12": {
+      "performance": 2529,
+      "technique": 3025,
+      "visual": 2429
+    },
+    "13": {
+      "performance": 2614,
+      "technique": 3127,
+      "visual": 2511
+    },
+    "14": {
+      "performance": 2703,
+      "technique": 3233,
+      "visual": 2596
+    },
+    "15": {
+      "performance": 2795,
+      "technique": 3343,
+      "visual": 2684
+    },
+    "16": {
+      "performance": 2890,
+      "technique": 3457,
+      "visual": 2775
+    },
+    "17": {
+      "performance": 2989,
+      "technique": 3575,
+      "visual": 2870
+    },
+    "18": {
+      "performance": 3091,
+      "technique": 3697,
+      "visual": 2968
+    },
+    "19": {
+      "performance": 3196,
+      "technique": 3823,
+      "visual": 3069
+    },
+    "20": {
+      "performance": 3304,
+      "technique": 3953,
+      "visual": 3173
+    },
+    "21": {
+      "performance": 3416,
+      "technique": 4087,
+      "visual": 3280
+    },
+    "22": {
+      "performance": 3531,
+      "technique": 4225,
+      "visual": 3390
+    },
+    "23": {
+      "performance": 3649,
+      "technique": 4366,
+      "visual": 3504
+    },
+    "24": {
+      "performance": 3771,
+      "technique": 4511,
+      "visual": 3621
+    },
+    "25": {
+      "performance": 3896,
+      "technique": 4660,
+      "visual": 3741
+    },
+    "26": {
+      "performance": 4024,
+      "technique": 4813,
+      "visual": 3864
+    },
+    "27": {
+      "performance": 4155,
+      "technique": 4970,
+      "visual": 3990
+    },
+    "28": {
+      "performance": 4290,
+      "technique": 5131,
+      "visual": 4119
+    },
+    "29": {
+      "performance": 4428,
+      "technique": 5296,
+      "visual": 4251
+    },
+    "30": {
+      "performance": 4569,
+      "technique": 5465,
+      "visual": 4387
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

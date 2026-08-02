@@ -1,0 +1,288 @@
+{
+  "characterId": 5,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res005042",
+  "sdResourceName": "sd005042",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1516,
+        "episodeType": "standard",
+        "situationId": 949,
+        "scenarioId": "episode949",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "有咲先輩",
+          "Arisa-senpai",
+          "有咲學姊",
+          "有咲学姐",
+          "아리사 선배"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 1517,
+        "episodeType": "memorial",
+        "situationId": 949,
+        "scenarioId": "memorial949",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "初めての後輩的な",
+          "First Person to Look Up to Me",
+          "第一個能稱為學妹的存在",
+          "第一次有了学妹",
+          "처음으로 후배 같은 모습"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 895,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ワンダフルツアー",
+    "Wonderful Tour",
+    "美妙旅程",
+    "美好旅途",
+    "원더풀 투어"
+  ],
+  "releasedAt": [
+    "1589090400000",
+    "1620781200000",
+    "1602918000000",
+    "1629176400000",
+    "1589090400000"
+  ],
+  "skillName": [
+    "食玩ショッピングガイド",
+    "Snack Prize Guide",
+    "必敗食玩攻略",
+    "食玩购物指南",
+    "식품 완구 쇼핑 가이드"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2136,
+      "technique": 1884,
+      "visual": 1860
+    },
+    "2": {
+      "performance": 2194,
+      "technique": 1935,
+      "visual": 1910
+    },
+    "3": {
+      "performance": 2255,
+      "technique": 1989,
+      "visual": 1963
+    },
+    "4": {
+      "performance": 2320,
+      "technique": 2047,
+      "visual": 2020
+    },
+    "5": {
+      "performance": 2389,
+      "technique": 2108,
+      "visual": 2080
+    },
+    "6": {
+      "performance": 2462,
+      "technique": 2172,
+      "visual": 2143
+    },
+    "7": {
+      "performance": 2539,
+      "technique": 2240,
+      "visual": 2210
+    },
+    "8": {
+      "performance": 2620,
+      "technique": 2311,
+      "visual": 2280
+    },
+    "9": {
+      "performance": 2704,
+      "technique": 2385,
+      "visual": 2354
+    },
+    "10": {
+      "performance": 2792,
+      "technique": 2463,
+      "visual": 2431
+    },
+    "11": {
+      "performance": 2884,
+      "technique": 2544,
+      "visual": 2511
+    },
+    "12": {
+      "performance": 2980,
+      "technique": 2629,
+      "visual": 2595
+    },
+    "13": {
+      "performance": 3080,
+      "technique": 2717,
+      "visual": 2682
+    },
+    "14": {
+      "performance": 3184,
+      "technique": 2808,
+      "visual": 2772
+    },
+    "15": {
+      "performance": 3291,
+      "technique": 2903,
+      "visual": 2866
+    },
+    "16": {
+      "performance": 3402,
+      "technique": 3001,
+      "visual": 2963
+    },
+    "17": {
+      "performance": 3517,
+      "technique": 3102,
+      "visual": 3063
+    },
+    "18": {
+      "performance": 3636,
+      "technique": 3207,
+      "visual": 3167
+    },
+    "19": {
+      "performance": 3759,
+      "technique": 3315,
+      "visual": 3274
+    },
+    "20": {
+      "performance": 3886,
+      "technique": 3427,
+      "visual": 3384
+    },
+    "21": {
+      "performance": 4016,
+      "technique": 3542,
+      "visual": 3498
+    },
+    "22": {
+      "performance": 4150,
+      "technique": 3660,
+      "visual": 3615
+    },
+    "23": {
+      "performance": 4288,
+      "technique": 3782,
+      "visual": 3735
+    },
+    "24": {
+      "performance": 4430,
+      "technique": 3907,
+      "visual": 3859
+    },
+    "25": {
+      "performance": 4576,
+      "technique": 4036,
+      "visual": 3986
+    },
+    "26": {
+      "performance": 4726,
+      "technique": 4168,
+      "visual": 4116
+    },
+    "27": {
+      "performance": 4879,
+      "technique": 4303,
+      "visual": 4250
+    },
+    "28": {
+      "performance": 5036,
+      "technique": 4442,
+      "visual": 4387
+    },
+    "29": {
+      "performance": 5197,
+      "technique": 4584,
+      "visual": 4527
+    },
+    "30": {
+      "performance": 5362,
+      "technique": 4729,
+      "visual": 4671
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

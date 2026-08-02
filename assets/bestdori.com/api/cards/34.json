@@ -1,0 +1,288 @@
+{
+  "characterId": 9,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res009002",
+  "sdResourceName": "sd009002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 67,
+        "episodeType": "standard",
+        "situationId": 34,
+        "scenarioId": "episode034",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 9
+      },
+      {
+        "episodeId": 68,
+        "episodeType": "memorial",
+        "situationId": 34,
+        "scenarioId": "memorial034",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "妹がライバル",
+          "Sibling Rivalry",
+          "勁敵是妹妹",
+          "妹妹是竞争对手",
+          "라이벌은 동생"
+        ],
+        "characterId": 9
+      }
+    ]
+  },
+  "costumeId": 34,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "熱き友情",
+    "Great Friendship",
+    "火熱的友情",
+    "炽热的友情",
+    "뜨거운 우정"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1692,
+      "technique": 1962,
+      "visual": 2238
+    },
+    "2": {
+      "performance": 1737,
+      "technique": 2014,
+      "visual": 2298
+    },
+    "3": {
+      "performance": 1785,
+      "technique": 2070,
+      "visual": 2362
+    },
+    "4": {
+      "performance": 1836,
+      "technique": 2129,
+      "visual": 2429
+    },
+    "5": {
+      "performance": 1890,
+      "technique": 2192,
+      "visual": 2500
+    },
+    "6": {
+      "performance": 1947,
+      "technique": 2258,
+      "visual": 2575
+    },
+    "7": {
+      "performance": 2007,
+      "technique": 2328,
+      "visual": 2654
+    },
+    "8": {
+      "performance": 2070,
+      "technique": 2401,
+      "visual": 2737
+    },
+    "9": {
+      "performance": 2136,
+      "technique": 2477,
+      "visual": 2824
+    },
+    "10": {
+      "performance": 2205,
+      "technique": 2557,
+      "visual": 2915
+    },
+    "11": {
+      "performance": 2277,
+      "technique": 2640,
+      "visual": 3010
+    },
+    "12": {
+      "performance": 2352,
+      "technique": 2727,
+      "visual": 3109
+    },
+    "13": {
+      "performance": 2430,
+      "technique": 2817,
+      "visual": 3212
+    },
+    "14": {
+      "performance": 2511,
+      "technique": 2911,
+      "visual": 3319
+    },
+    "15": {
+      "performance": 2595,
+      "technique": 3008,
+      "visual": 3430
+    },
+    "16": {
+      "performance": 2682,
+      "technique": 3109,
+      "visual": 3545
+    },
+    "17": {
+      "performance": 2772,
+      "technique": 3213,
+      "visual": 3664
+    },
+    "18": {
+      "performance": 2865,
+      "technique": 3321,
+      "visual": 3787
+    },
+    "19": {
+      "performance": 2961,
+      "technique": 3432,
+      "visual": 3914
+    },
+    "20": {
+      "performance": 3060,
+      "technique": 3547,
+      "visual": 4045
+    },
+    "21": {
+      "performance": 3162,
+      "technique": 3665,
+      "visual": 4180
+    },
+    "22": {
+      "performance": 3267,
+      "technique": 3787,
+      "visual": 4319
+    },
+    "23": {
+      "performance": 3375,
+      "technique": 3912,
+      "visual": 4462
+    },
+    "24": {
+      "performance": 3486,
+      "technique": 4041,
+      "visual": 4609
+    },
+    "25": {
+      "performance": 3600,
+      "technique": 4173,
+      "visual": 4760
+    },
+    "26": {
+      "performance": 3717,
+      "technique": 4309,
+      "visual": 4915
+    },
+    "27": {
+      "performance": 3837,
+      "technique": 4448,
+      "visual": 5074
+    },
+    "28": {
+      "performance": 3960,
+      "technique": 4590,
+      "visual": 5237
+    },
+    "29": {
+      "performance": 4086,
+      "technique": 4736,
+      "visual": 5403
+    },
+    "30": {
+      "performance": 4215,
+      "technique": 4885,
+      "visual": 5573
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

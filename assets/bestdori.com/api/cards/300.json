@@ -1,0 +1,288 @@
+{
+  "characterId": 11,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res011017",
+  "sdResourceName": "sd011017",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 479,
+        "episodeType": "standard",
+        "situationId": 300,
+        "scenarioId": "episode300",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "初めての電車",
+          "First Time on the Train",
+          "第一次坐電車",
+          "初次坐电车",
+          "처음 타보는 전차"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 480,
+        "episodeType": "memorial",
+        "situationId": 300,
+        "scenarioId": "memorial300",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "動物を笑顔に",
+          "Make the Animals Smile",
+          "讓動物展現笑容",
+          "为动物带去笑容",
+          "동물을 웃는 얼굴로"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 361,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "あたしもペンギン！",
+    "I'm a Penguin Too!",
+    "我也是企鵝！",
+    "我也是企鹅！",
+    "나도 펭귄!"
+  ],
+  "releasedAt": [
+    "1513749600000",
+    "1545267600000",
+    "1513753200000",
+    "1576558800000",
+    "1513749600000"
+  ],
+  "skillName": [
+    "ジャンプで！",
+    "With a Jump!",
+    "用跳的！",
+    "用跳的！",
+    "점프로!"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1686,
+      "technique": 2292,
+      "visual": 1962
+    },
+    "2": {
+      "performance": 1731,
+      "technique": 2354,
+      "visual": 2015
+    },
+    "3": {
+      "performance": 1779,
+      "technique": 2420,
+      "visual": 2071
+    },
+    "4": {
+      "performance": 1831,
+      "technique": 2490,
+      "visual": 2131
+    },
+    "5": {
+      "performance": 1886,
+      "technique": 2564,
+      "visual": 2194
+    },
+    "6": {
+      "performance": 1944,
+      "technique": 2642,
+      "visual": 2261
+    },
+    "7": {
+      "performance": 2005,
+      "technique": 2724,
+      "visual": 2331
+    },
+    "8": {
+      "performance": 2069,
+      "technique": 2810,
+      "visual": 2405
+    },
+    "9": {
+      "performance": 2136,
+      "technique": 2901,
+      "visual": 2483
+    },
+    "10": {
+      "performance": 2206,
+      "technique": 2996,
+      "visual": 2564
+    },
+    "11": {
+      "performance": 2279,
+      "technique": 3095,
+      "visual": 2649
+    },
+    "12": {
+      "performance": 2355,
+      "technique": 3198,
+      "visual": 2737
+    },
+    "13": {
+      "performance": 2434,
+      "technique": 3305,
+      "visual": 2829
+    },
+    "14": {
+      "performance": 2516,
+      "technique": 3416,
+      "visual": 2924
+    },
+    "15": {
+      "performance": 2601,
+      "technique": 3531,
+      "visual": 3023
+    },
+    "16": {
+      "performance": 2689,
+      "technique": 3650,
+      "visual": 3125
+    },
+    "17": {
+      "performance": 2780,
+      "technique": 3773,
+      "visual": 3231
+    },
+    "18": {
+      "performance": 2874,
+      "technique": 3901,
+      "visual": 3340
+    },
+    "19": {
+      "performance": 2971,
+      "technique": 4033,
+      "visual": 3453
+    },
+    "20": {
+      "performance": 3071,
+      "technique": 4169,
+      "visual": 3569
+    },
+    "21": {
+      "performance": 3174,
+      "technique": 4309,
+      "visual": 3689
+    },
+    "22": {
+      "performance": 3280,
+      "technique": 4453,
+      "visual": 3812
+    },
+    "23": {
+      "performance": 3389,
+      "technique": 4601,
+      "visual": 3939
+    },
+    "24": {
+      "performance": 3501,
+      "technique": 4753,
+      "visual": 4069
+    },
+    "25": {
+      "performance": 3616,
+      "technique": 4909,
+      "visual": 4203
+    },
+    "26": {
+      "performance": 3734,
+      "technique": 5069,
+      "visual": 4340
+    },
+    "27": {
+      "performance": 3855,
+      "technique": 5234,
+      "visual": 4481
+    },
+    "28": {
+      "performance": 3979,
+      "technique": 5403,
+      "visual": 4625
+    },
+    "29": {
+      "performance": 4106,
+      "technique": 5576,
+      "visual": 4773
+    },
+    "30": {
+      "performance": 4236,
+      "technique": 5753,
+      "visual": 4924
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res020006",
+  "sdResourceName": "sd020006",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 269,
+        "episodeType": "standard",
+        "situationId": 135,
+        "scenarioId": "episode135",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "アリサさんとお買い物",
+          "Shopping With Arisa",
+          "和有咲小姐一起買東西",
+          "与有咲买东西",
+          "아리사와 쇼핑"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 270,
+        "episodeType": "memorial",
+        "situationId": 135,
+        "scenarioId": "memorial135",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "一致団結が大事！",
+          "We Need To Come Together!",
+          "重要的是團結合作！",
+          "团结一致很重要！",
+          "일치단결이 중요하지!"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 321,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "ブシドーの精神",
+    "Spirit Of Bushido",
+    "武士道的精神",
+    "武士道的精神",
+    "무사도의 정신"
+  ],
+  "releasedAt": [
+    "1495519200000",
+    "1527210000000",
+    "1495522800000",
+    "1495522800000",
+    "1495519200000"
+  ],
+  "skillName": [
+    "私達、心は１つです！",
+    "Our Hearts Are One!",
+    "我們的心串聯在一起！",
+    "我们团结一心！",
+    "우리의 마음은 하나예요!"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2094,
+      "technique": 2034,
+      "visual": 1746
+    },
+    "2": {
+      "performance": 2150,
+      "technique": 2088,
+      "visual": 1792
+    },
+    "3": {
+      "performance": 2209,
+      "technique": 2146,
+      "visual": 1842
+    },
+    "4": {
+      "performance": 2272,
+      "technique": 2207,
+      "visual": 1895
+    },
+    "5": {
+      "performance": 2339,
+      "technique": 2272,
+      "visual": 1951
+    },
+    "6": {
+      "performance": 2410,
+      "technique": 2341,
+      "visual": 2010
+    },
+    "7": {
+      "performance": 2484,
+      "technique": 2413,
+      "visual": 2072
+    },
+    "8": {
+      "performance": 2562,
+      "technique": 2489,
+      "visual": 2137
+    },
+    "9": {
+      "performance": 2644,
+      "technique": 2568,
+      "visual": 2205
+    },
+    "10": {
+      "performance": 2729,
+      "technique": 2651,
+      "visual": 2276
+    },
+    "11": {
+      "performance": 2818,
+      "technique": 2738,
+      "visual": 2350
+    },
+    "12": {
+      "performance": 2911,
+      "technique": 2828,
+      "visual": 2427
+    },
+    "13": {
+      "performance": 3007,
+      "technique": 2922,
+      "visual": 2507
+    },
+    "14": {
+      "performance": 3107,
+      "technique": 3019,
+      "visual": 2591
+    },
+    "15": {
+      "performance": 3211,
+      "technique": 3120,
+      "visual": 2678
+    },
+    "16": {
+      "performance": 3319,
+      "technique": 3225,
+      "visual": 2768
+    },
+    "17": {
+      "performance": 3430,
+      "technique": 3333,
+      "visual": 2861
+    },
+    "18": {
+      "performance": 3545,
+      "technique": 3445,
+      "visual": 2957
+    },
+    "19": {
+      "performance": 3664,
+      "technique": 3560,
+      "visual": 3056
+    },
+    "20": {
+      "performance": 3786,
+      "technique": 3679,
+      "visual": 3158
+    },
+    "21": {
+      "performance": 3912,
+      "technique": 3802,
+      "visual": 3263
+    },
+    "22": {
+      "performance": 4042,
+      "technique": 3928,
+      "visual": 3371
+    },
+    "23": {
+      "performance": 4176,
+      "technique": 4058,
+      "visual": 3482
+    },
+    "24": {
+      "performance": 4313,
+      "technique": 4191,
+      "visual": 3596
+    },
+    "25": {
+      "performance": 4454,
+      "technique": 4328,
+      "visual": 3714
+    },
+    "26": {
+      "performance": 4599,
+      "technique": 4469,
+      "visual": 3835
+    },
+    "27": {
+      "performance": 4747,
+      "technique": 4613,
+      "visual": 3959
+    },
+    "28": {
+      "performance": 4899,
+      "technique": 4761,
+      "visual": 4086
+    },
+    "29": {
+      "performance": 5055,
+      "technique": 4912,
+      "visual": 4216
+    },
+    "30": {
+      "performance": 5214,
+      "technique": 5067,
+      "visual": 4349
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

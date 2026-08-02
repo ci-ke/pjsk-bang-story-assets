@@ -1,0 +1,406 @@
+{
+  "characterId": 10,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res010009",
+  "sdResourceName": "sd010009",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 363,
+        "episodeType": "standard",
+        "situationId": 192,
+        "scenarioId": "episode192",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "『つぐ』らしさ",
+          "That's Tsugu for You",
+          "『鶇』風",
+          "「鸫鸫」的风格",
+          "「츠구」다움"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 364,
+        "episodeType": "memorial",
+        "situationId": 192,
+        "scenarioId": "memorial192",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ツグる理由",
+          "A Need to Be Tsugurific",
+          "鶇的理由",
+          "“鸫”的理由",
+          "츠구할 이유"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 137,
+  "gachaText": [
+    "ふんばれ、ふんばれ私……っ！",
+    "Stand firm, Tsugumi! Stand firm...!",
+    "加油，我要加油……！",
+    "加油啊，我要加油啊……！",
+    "견디자, 견디자, 나……!"
+  ],
+  "prefix": [
+    "生徒会のお仕事",
+    "Student Council Work",
+    "學生會的工作",
+    "学生会的工作",
+    "학생회의 일"
+  ],
+  "releasedAt": [
+    "1504159200000",
+    "1535763600000",
+    "1504162800000",
+    "1504162800000",
+    "1504159200000"
+  ],
+  "skillName": [
+    "ふんばれ私っ！",
+    "Stand Firm!",
+    "我要加油！",
+    "加油啊我！",
+    "견디자. 나!"
+  ],
+  "skillId": 13,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2628,
+      "technique": 3429,
+      "visual": 3024
+    },
+    "2": {
+      "performance": 2662,
+      "technique": 3473,
+      "visual": 3063
+    },
+    "3": {
+      "performance": 2697,
+      "technique": 3519,
+      "visual": 3104
+    },
+    "4": {
+      "performance": 2734,
+      "technique": 3567,
+      "visual": 3146
+    },
+    "5": {
+      "performance": 2773,
+      "technique": 3617,
+      "visual": 3190
+    },
+    "6": {
+      "performance": 2813,
+      "technique": 3670,
+      "visual": 3236
+    },
+    "7": {
+      "performance": 2855,
+      "technique": 3725,
+      "visual": 3284
+    },
+    "8": {
+      "performance": 2899,
+      "technique": 3782,
+      "visual": 3334
+    },
+    "9": {
+      "performance": 2944,
+      "technique": 3841,
+      "visual": 3386
+    },
+    "10": {
+      "performance": 2991,
+      "technique": 3902,
+      "visual": 3440
+    },
+    "11": {
+      "performance": 3040,
+      "technique": 3965,
+      "visual": 3496
+    },
+    "12": {
+      "performance": 3090,
+      "technique": 4031,
+      "visual": 3554
+    },
+    "13": {
+      "performance": 3142,
+      "technique": 4099,
+      "visual": 3614
+    },
+    "14": {
+      "performance": 3196,
+      "technique": 4169,
+      "visual": 3676
+    },
+    "15": {
+      "performance": 3251,
+      "technique": 4241,
+      "visual": 3740
+    },
+    "16": {
+      "performance": 3308,
+      "technique": 4315,
+      "visual": 3806
+    },
+    "17": {
+      "performance": 3367,
+      "technique": 4392,
+      "visual": 3873
+    },
+    "18": {
+      "performance": 3427,
+      "technique": 4471,
+      "visual": 3942
+    },
+    "19": {
+      "performance": 3489,
+      "technique": 4552,
+      "visual": 4013
+    },
+    "20": {
+      "performance": 3553,
+      "technique": 4635,
+      "visual": 4086
+    },
+    "21": {
+      "performance": 3618,
+      "technique": 4720,
+      "visual": 4161
+    },
+    "22": {
+      "performance": 3685,
+      "technique": 4807,
+      "visual": 4238
+    },
+    "23": {
+      "performance": 3754,
+      "technique": 4897,
+      "visual": 4317
+    },
+    "24": {
+      "performance": 3824,
+      "technique": 4989,
+      "visual": 4398
+    },
+    "25": {
+      "performance": 3896,
+      "technique": 5083,
+      "visual": 4481
+    },
+    "26": {
+      "performance": 3970,
+      "technique": 5179,
+      "visual": 4566
+    },
+    "27": {
+      "performance": 4045,
+      "technique": 5277,
+      "visual": 4653
+    },
+    "28": {
+      "performance": 4122,
+      "technique": 5378,
+      "visual": 4742
+    },
+    "29": {
+      "performance": 4201,
+      "technique": 5481,
+      "visual": 4833
+    },
+    "30": {
+      "performance": 4281,
+      "technique": 5586,
+      "visual": 4926
+    },
+    "31": {
+      "performance": 4363,
+      "technique": 5693,
+      "visual": 5020
+    },
+    "32": {
+      "performance": 4447,
+      "technique": 5802,
+      "visual": 5116
+    },
+    "33": {
+      "performance": 4532,
+      "technique": 5914,
+      "visual": 5214
+    },
+    "34": {
+      "performance": 4619,
+      "technique": 6028,
+      "visual": 5314
+    },
+    "35": {
+      "performance": 4708,
+      "technique": 6144,
+      "visual": 5416
+    },
+    "36": {
+      "performance": 4798,
+      "technique": 6262,
+      "visual": 5520
+    },
+    "37": {
+      "performance": 4890,
+      "technique": 6382,
+      "visual": 5626
+    },
+    "38": {
+      "performance": 4984,
+      "technique": 6504,
+      "visual": 5734
+    },
+    "39": {
+      "performance": 5080,
+      "technique": 6629,
+      "visual": 5844
+    },
+    "40": {
+      "performance": 5177,
+      "technique": 6756,
+      "visual": 5956
+    },
+    "41": {
+      "performance": 5318,
+      "technique": 6940,
+      "visual": 6118
+    },
+    "42": {
+      "performance": 5484,
+      "technique": 7157,
+      "visual": 6310
+    },
+    "43": {
+      "performance": 5676,
+      "technique": 7407,
+      "visual": 6531
+    },
+    "44": {
+      "performance": 5893,
+      "technique": 7690,
+      "visual": 6781
+    },
+    "45": {
+      "performance": 6135,
+      "technique": 8006,
+      "visual": 7060
+    },
+    "46": {
+      "performance": 6403,
+      "technique": 8355,
+      "visual": 7368
+    },
+    "47": {
+      "performance": 6696,
+      "technique": 8737,
+      "visual": 7705
+    },
+    "48": {
+      "performance": 7014,
+      "technique": 9152,
+      "visual": 8071
+    },
+    "49": {
+      "performance": 7357,
+      "technique": 9600,
+      "visual": 8466
+    },
+    "50": {
+      "performance": 7726,
+      "technique": 10081,
+      "visual": 8890
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

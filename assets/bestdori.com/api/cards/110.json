@@ -1,0 +1,288 @@
+{
+  "characterId": 23,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res023005",
+  "sdResourceName": "sd023005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 219,
+        "episodeType": "standard",
+        "situationId": 110,
+        "scenarioId": "episode110",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "おそろいのアクセサリー",
+          "Matching Accessories",
+          "一樣的飾品",
+          "一样的装饰品",
+          "깔맞춤한 액세서리"
+        ],
+        "characterId": 23
+      },
+      {
+        "episodeId": 220,
+        "episodeType": "memorial",
+        "situationId": 110,
+        "scenarioId": "memorial110",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "背中を押して",
+          "Encouragement",
+          "推背後一把",
+          "推我一把",
+          "나에게 힘을 줘"
+        ],
+        "characterId": 23
+      }
+    ]
+  },
+  "costumeId": 312,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "見守る想い",
+    "Desire To Protect",
+    "守望之心",
+    "守望思念",
+    "지켜보는 마음"
+  ],
+  "releasedAt": [
+    "1490940000000",
+    "1523581200000",
+    "1490943600000",
+    "1490943600000",
+    "1490940000000"
+  ],
+  "skillName": [
+    "答え、待ってるから",
+    "Expecting An Answer",
+    "等你回覆",
+    "我，等你回复",
+    "답변, 기다리고 있을게"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1788,
+      "technique": 2412,
+      "visual": 1428
+    },
+    "2": {
+      "performance": 1836,
+      "technique": 2477,
+      "visual": 1466
+    },
+    "3": {
+      "performance": 1887,
+      "technique": 2546,
+      "visual": 1507
+    },
+    "4": {
+      "performance": 1942,
+      "technique": 2620,
+      "visual": 1551
+    },
+    "5": {
+      "performance": 2000,
+      "technique": 2698,
+      "visual": 1597
+    },
+    "6": {
+      "performance": 2061,
+      "technique": 2780,
+      "visual": 1646
+    },
+    "7": {
+      "performance": 2125,
+      "technique": 2867,
+      "visual": 1697
+    },
+    "8": {
+      "performance": 2192,
+      "technique": 2958,
+      "visual": 1751
+    },
+    "9": {
+      "performance": 2263,
+      "technique": 3053,
+      "visual": 1807
+    },
+    "10": {
+      "performance": 2337,
+      "technique": 3153,
+      "visual": 1866
+    },
+    "11": {
+      "performance": 2414,
+      "technique": 3257,
+      "visual": 1928
+    },
+    "12": {
+      "performance": 2494,
+      "technique": 3365,
+      "visual": 1992
+    },
+    "13": {
+      "performance": 2577,
+      "technique": 3478,
+      "visual": 2059
+    },
+    "14": {
+      "performance": 2664,
+      "technique": 3595,
+      "visual": 2128
+    },
+    "15": {
+      "performance": 2754,
+      "technique": 3716,
+      "visual": 2200
+    },
+    "16": {
+      "performance": 2847,
+      "technique": 3842,
+      "visual": 2274
+    },
+    "17": {
+      "performance": 2943,
+      "technique": 3972,
+      "visual": 2351
+    },
+    "18": {
+      "performance": 3043,
+      "technique": 4106,
+      "visual": 2430
+    },
+    "19": {
+      "performance": 3146,
+      "technique": 4245,
+      "visual": 2512
+    },
+    "20": {
+      "performance": 3252,
+      "technique": 4388,
+      "visual": 2597
+    },
+    "21": {
+      "performance": 3361,
+      "technique": 4535,
+      "visual": 2684
+    },
+    "22": {
+      "performance": 3473,
+      "technique": 4687,
+      "visual": 2774
+    },
+    "23": {
+      "performance": 3589,
+      "technique": 4843,
+      "visual": 2866
+    },
+    "24": {
+      "performance": 3708,
+      "technique": 5003,
+      "visual": 2961
+    },
+    "25": {
+      "performance": 3830,
+      "technique": 5168,
+      "visual": 3058
+    },
+    "26": {
+      "performance": 3955,
+      "technique": 5337,
+      "visual": 3158
+    },
+    "27": {
+      "performance": 4083,
+      "technique": 5510,
+      "visual": 3261
+    },
+    "28": {
+      "performance": 4215,
+      "technique": 5687,
+      "visual": 3366
+    },
+    "29": {
+      "performance": 4350,
+      "technique": 5869,
+      "visual": 3474
+    },
+    "30": {
+      "performance": 4488,
+      "technique": 6055,
+      "visual": 3584
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

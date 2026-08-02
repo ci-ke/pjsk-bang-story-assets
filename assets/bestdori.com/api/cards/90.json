@@ -1,0 +1,288 @@
+{
+  "characterId": 23,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res023002",
+  "sdResourceName": "sd023002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 179,
+        "episodeType": "standard",
+        "situationId": 90,
+        "scenarioId": "episode090",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 23
+      },
+      {
+        "episodeId": 180,
+        "episodeType": "memorial",
+        "situationId": 90,
+        "scenarioId": "memorial090",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "おそろいのフリフリ",
+          "Matching Frills",
+          "一樣的荷葉邊",
+          "配对的小花边",
+          "하늘하늘 깔맞춤"
+        ],
+        "characterId": 23
+      }
+    ]
+  },
+  "costumeId": 48,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "ハイテンション",
+    "Pure Excitement",
+    "HIGH到極點",
+    "情绪高涨",
+    "들뜬 기분"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1512,
+      "technique": 1842,
+      "visual": 2358
+    },
+    "2": {
+      "performance": 1553,
+      "technique": 1892,
+      "visual": 2422
+    },
+    "3": {
+      "performance": 1596,
+      "technique": 1945,
+      "visual": 2490
+    },
+    "4": {
+      "performance": 1642,
+      "technique": 2001,
+      "visual": 2562
+    },
+    "5": {
+      "performance": 1691,
+      "technique": 2061,
+      "visual": 2638
+    },
+    "6": {
+      "performance": 1743,
+      "technique": 2124,
+      "visual": 2718
+    },
+    "7": {
+      "performance": 1797,
+      "technique": 2190,
+      "visual": 2803
+    },
+    "8": {
+      "performance": 1854,
+      "technique": 2259,
+      "visual": 2892
+    },
+    "9": {
+      "performance": 1914,
+      "technique": 2332,
+      "visual": 2985
+    },
+    "10": {
+      "performance": 1976,
+      "technique": 2408,
+      "visual": 3082
+    },
+    "11": {
+      "performance": 2041,
+      "technique": 2487,
+      "visual": 3184
+    },
+    "12": {
+      "performance": 2109,
+      "technique": 2570,
+      "visual": 3290
+    },
+    "13": {
+      "performance": 2180,
+      "technique": 2656,
+      "visual": 3400
+    },
+    "14": {
+      "performance": 2253,
+      "technique": 2745,
+      "visual": 3514
+    },
+    "15": {
+      "performance": 2329,
+      "technique": 2838,
+      "visual": 3633
+    },
+    "16": {
+      "performance": 2408,
+      "technique": 2934,
+      "visual": 3756
+    },
+    "17": {
+      "performance": 2489,
+      "technique": 3033,
+      "visual": 3883
+    },
+    "18": {
+      "performance": 2573,
+      "technique": 3136,
+      "visual": 4014
+    },
+    "19": {
+      "performance": 2660,
+      "technique": 3242,
+      "visual": 4149
+    },
+    "20": {
+      "performance": 2750,
+      "technique": 3351,
+      "visual": 4289
+    },
+    "21": {
+      "performance": 2842,
+      "technique": 3463,
+      "visual": 4433
+    },
+    "22": {
+      "performance": 2937,
+      "technique": 3579,
+      "visual": 4581
+    },
+    "23": {
+      "performance": 3035,
+      "technique": 3698,
+      "visual": 4733
+    },
+    "24": {
+      "performance": 3135,
+      "technique": 3820,
+      "visual": 4890
+    },
+    "25": {
+      "performance": 3238,
+      "technique": 3946,
+      "visual": 5051
+    },
+    "26": {
+      "performance": 3344,
+      "technique": 4075,
+      "visual": 5216
+    },
+    "27": {
+      "performance": 3453,
+      "technique": 4207,
+      "visual": 5385
+    },
+    "28": {
+      "performance": 3564,
+      "technique": 4343,
+      "visual": 5559
+    },
+    "29": {
+      "performance": 3678,
+      "technique": 4482,
+      "visual": 5737
+    },
+    "30": {
+      "performance": 3795,
+      "technique": 4624,
+      "visual": 5919
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "characterId": 21,
+  "rarity": 4,
+  "attribute": "cool",
+  "levelLimit": 60,
+  "resourceSetName": "res021062",
+  "sdResourceName": "sd021062",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2819,
+        "episodeType": "standard",
+        "situationId": 1701,
+        "scenarioId": "episode1701",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "後輩からのメッセージ",
+          "Messages from Underclassmen",
+          "來自學妹的訊息",
+          "学妹发来的信息",
+          null
+        ],
+        "characterId": 21
+      },
+      {
+        "episodeId": 2820,
+        "episodeType": "memorial",
+        "situationId": 1701,
+        "scenarioId": "memorial1701",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 4968,
+              "resourceType": "degree",
+              "quantity": 1,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "この胸満たす思い出たち",
+          "The Memories That Fill My Heart",
+          "填滿我心的種種回憶",
+          "满怀的思绪",
+          null
+        ],
+        "characterId": 21
+      }
+    ]
+  },
+  "costumeId": 1606,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "卒業",
+    "Graduation",
+    "畢業",
+    "毕业",
+    null
+  ],
+  "releasedAt": [
+    "1678255200000",
+    "1701478800000",
+    "1689404400000",
+    "1698642000000",
+    null
+  ],
+  "skillName": [
+    "青き春に捧ぐ讃歌",
+    "A Hymn for Youthful Days",
+    "獻給青春的讚歌",
+    "为青春献上的赞歌",
+    null
+  ],
+  "skillId": 64,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3347,
+      "technique": 3226,
+      "visual": 3306
+    },
+    "2": {
+      "performance": 3409,
+      "technique": 3286,
+      "visual": 3367
+    },
+    "3": {
+      "performance": 3473,
+      "technique": 3348,
+      "visual": 3430
+    },
+    "4": {
+      "performance": 3539,
+      "technique": 3412,
+      "visual": 3495
+    },
+    "5": {
+      "performance": 3607,
+      "technique": 3478,
+      "visual": 3562
+    },
+    "6": {
+      "performance": 3677,
+      "technique": 3546,
+      "visual": 3631
+    },
+    "7": {
+      "performance": 3749,
+      "technique": 3616,
+      "visual": 3702
+    },
+    "8": {
+      "performance": 3823,
+      "technique": 3688,
+      "visual": 3775
+    },
+    "9": {
+      "performance": 3899,
+      "technique": 3762,
+      "visual": 3850
+    },
+    "10": {
+      "performance": 3977,
+      "technique": 3838,
+      "visual": 3927
+    },
+    "11": {
+      "performance": 4057,
+      "technique": 3915,
+      "visual": 4006
+    },
+    "12": {
+      "performance": 4139,
+      "technique": 3994,
+      "visual": 4087
+    },
+    "13": {
+      "performance": 4223,
+      "technique": 4075,
+      "visual": 4170
+    },
+    "14": {
+      "performance": 4309,
+      "technique": 4158,
+      "visual": 4255
+    },
+    "15": {
+      "performance": 4397,
+      "technique": 4243,
+      "visual": 4342
+    },
+    "16": {
+      "performance": 4488,
+      "technique": 4330,
+      "visual": 4431
+    },
+    "17": {
+      "performance": 4581,
+      "technique": 4419,
+      "visual": 4523
+    },
+    "18": {
+      "performance": 4676,
+      "technique": 4510,
+      "visual": 4617
+    },
+    "19": {
+      "performance": 4773,
+      "technique": 4603,
+      "visual": 4713
+    },
+    "20": {
+      "performance": 4872,
+      "technique": 4698,
+      "visual": 4811
+    },
+    "21": {
+      "performance": 4973,
+      "technique": 4795,
+      "visual": 4911
+    },
+    "22": {
+      "performance": 5076,
+      "technique": 4894,
+      "visual": 5013
+    },
+    "23": {
+      "performance": 5181,
+      "technique": 4995,
+      "visual": 5117
+    },
+    "24": {
+      "performance": 5288,
+      "technique": 5098,
+      "visual": 5223
+    },
+    "25": {
+      "performance": 5397,
+      "technique": 5203,
+      "visual": 5331
+    },
+    "26": {
+      "performance": 5508,
+      "technique": 5310,
+      "visual": 5441
+    },
+    "27": {
+      "performance": 5621,
+      "technique": 5419,
+      "visual": 5553
+    },
+    "28": {
+      "performance": 5736,
+      "technique": 5530,
+      "visual": 5667
+    },
+    "29": {
+      "performance": 5853,
+      "technique": 5643,
+      "visual": 5783
+    },
+    "30": {
+      "performance": 5972,
+      "technique": 5758,
+      "visual": 5901
+    },
+    "31": {
+      "performance": 6093,
+      "technique": 5875,
+      "visual": 6021
+    },
+    "32": {
+      "performance": 6216,
+      "technique": 5994,
+      "visual": 6143
+    },
+    "33": {
+      "performance": 6341,
+      "technique": 6115,
+      "visual": 6267
+    },
+    "34": {
+      "performance": 6469,
+      "technique": 6238,
+      "visual": 6393
+    },
+    "35": {
+      "performance": 6599,
+      "technique": 6363,
+      "visual": 6521
+    },
+    "36": {
+      "performance": 6731,
+      "technique": 6490,
+      "visual": 6651
+    },
+    "37": {
+      "performance": 6865,
+      "technique": 6619,
+      "visual": 6783
+    },
+    "38": {
+      "performance": 7001,
+      "technique": 6750,
+      "visual": 6917
+    },
+    "39": {
+      "performance": 7139,
+      "technique": 6883,
+      "visual": 7053
+    },
+    "40": {
+      "performance": 7279,
+      "technique": 7018,
+      "visual": 7191
+    },
+    "41": {
+      "performance": 7421,
+      "technique": 7155,
+      "visual": 7331
+    },
+    "42": {
+      "performance": 7565,
+      "technique": 7294,
+      "visual": 7473
+    },
+    "43": {
+      "performance": 7711,
+      "technique": 7435,
+      "visual": 7617
+    },
+    "44": {
+      "performance": 7859,
+      "technique": 7578,
+      "visual": 7763
+    },
+    "45": {
+      "performance": 8009,
+      "technique": 7723,
+      "visual": 7911
+    },
+    "46": {
+      "performance": 8161,
+      "technique": 7870,
+      "visual": 8061
+    },
+    "47": {
+      "performance": 8315,
+      "technique": 8019,
+      "visual": 8214
+    },
+    "48": {
+      "performance": 8471,
+      "technique": 8170,
+      "visual": 8369
+    },
+    "49": {
+      "performance": 8629,
+      "technique": 8323,
+      "visual": 8526
+    },
+    "50": {
+      "performance": 8789,
+      "technique": 8478,
+      "visual": 8685
+    },
+    "51": {
+      "performance": 8951,
+      "technique": 8635,
+      "visual": 8846
+    },
+    "52": {
+      "performance": 9116,
+      "technique": 8794,
+      "visual": 9009
+    },
+    "53": {
+      "performance": 9283,
+      "technique": 8955,
+      "visual": 9174
+    },
+    "54": {
+      "performance": 9452,
+      "technique": 9118,
+      "visual": 9341
+    },
+    "55": {
+      "performance": 9623,
+      "technique": 9283,
+      "visual": 9510
+    },
+    "56": {
+      "performance": 9796,
+      "technique": 9450,
+      "visual": 9681
+    },
+    "57": {
+      "performance": 9971,
+      "technique": 9619,
+      "visual": 9854
+    },
+    "58": {
+      "performance": 10148,
+      "technique": 9790,
+      "visual": 10029
+    },
+    "59": {
+      "performance": 10327,
+      "technique": 9963,
+      "visual": 10206
+    },
+    "60": {
+      "performance": 10507,
+      "technique": 10142,
+      "visual": 10385
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "characterId": 28,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res028002",
+  "sdResourceName": "sd028002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1421,
+        "episodeType": "standard",
+        "situationId": 904,
+        "scenarioId": "episode904",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 28
+      },
+      {
+        "episodeId": 1422,
+        "episodeType": "memorial",
+        "situationId": 904,
+        "scenarioId": "memorial904",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "普通の趣味",
+          "Normal Hobbies",
+          "普通的興趣",
+          "普通的兴趣",
+          "평범한 취미"
+        ],
+        "characterId": 28
+      }
+    ]
+  },
+  "costumeId": 1635,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "普通が一番",
+    "Normalcy Comes First",
+    "普通就是最棒",
+    "普通就是最好的",
+    "평범한 게 최고"
+  ],
+  "releasedAt": [
+    "1584284400000",
+    "1616202000000",
+    "1584288000000",
+    "1584288000000",
+    "1584284400000"
+  ],
+  "skillName": [
+    "秘密の才能",
+    "Secret Genius",
+    "祕密的才能",
+    "秘密的才能",
+    "비밀의 재능"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 834,
+      "technique": 1266,
+      "visual": 624
+    },
+    "2": {
+      "performance": 869,
+      "technique": 1320,
+      "visual": 651
+    },
+    "3": {
+      "performance": 908,
+      "technique": 1379,
+      "visual": 680
+    },
+    "4": {
+      "performance": 950,
+      "technique": 1443,
+      "visual": 712
+    },
+    "5": {
+      "performance": 996,
+      "technique": 1513,
+      "visual": 746
+    },
+    "6": {
+      "performance": 1046,
+      "technique": 1588,
+      "visual": 783
+    },
+    "7": {
+      "performance": 1099,
+      "technique": 1669,
+      "visual": 823
+    },
+    "8": {
+      "performance": 1156,
+      "technique": 1755,
+      "visual": 865
+    },
+    "9": {
+      "performance": 1216,
+      "technique": 1846,
+      "visual": 910
+    },
+    "10": {
+      "performance": 1280,
+      "technique": 1943,
+      "visual": 958
+    },
+    "11": {
+      "performance": 1347,
+      "technique": 2045,
+      "visual": 1008
+    },
+    "12": {
+      "performance": 1418,
+      "technique": 2152,
+      "visual": 1061
+    },
+    "13": {
+      "performance": 1492,
+      "technique": 2265,
+      "visual": 1117
+    },
+    "14": {
+      "performance": 1570,
+      "technique": 2383,
+      "visual": 1175
+    },
+    "15": {
+      "performance": 1651,
+      "technique": 2506,
+      "visual": 1236
+    },
+    "16": {
+      "performance": 1736,
+      "technique": 2635,
+      "visual": 1299
+    },
+    "17": {
+      "performance": 1824,
+      "technique": 2769,
+      "visual": 1365
+    },
+    "18": {
+      "performance": 1916,
+      "technique": 2908,
+      "visual": 1434
+    },
+    "19": {
+      "performance": 2011,
+      "technique": 3053,
+      "visual": 1505
+    },
+    "20": {
+      "performance": 2110,
+      "technique": 3203,
+      "visual": 1579
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

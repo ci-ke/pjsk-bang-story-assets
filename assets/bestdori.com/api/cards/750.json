@@ -1,0 +1,406 @@
+{
+  "characterId": 13,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res013031",
+  "sdResourceName": "sd013031",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1197,
+        "episodeType": "standard",
+        "situationId": 750,
+        "scenarioId": "episode750",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "はぐみ、ピンチ！",
+          "Hagumi in a Rut!",
+          "育美、危機！",
+          "育美大危机！",
+          "하구미의 위기!"
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 1198,
+        "episodeType": "memorial",
+        "situationId": 750,
+        "scenarioId": "memorial750",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "１番の思い出",
+          "The Best Memory",
+          "最棒的回憶",
+          "最棒的回忆",
+          "최고의 추억"
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 701,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "心躍る花火大会",
+    "Breathtaking Fireworks",
+    "心情躍動的煙火大會",
+    "欢欣雀跃的烟花大会",
+    "신나는 불꽃놀이 대회"
+  ],
+  "releasedAt": [
+    "1566280800000",
+    "1597885200000",
+    "1577602800000",
+    "1613451600000",
+    "1566280800000"
+  ],
+  "skillName": [
+    "俳句って楽しいね！",
+    "Haiku is Fun!",
+    "俳句真是開心耶！",
+    "俳句真有趣呢！",
+    "시조라는 건 재밌어!"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3240,
+      "technique": 3060,
+      "visual": 2790
+    },
+    "2": {
+      "performance": 3282,
+      "technique": 3100,
+      "visual": 2826
+    },
+    "3": {
+      "performance": 3326,
+      "technique": 3142,
+      "visual": 2864
+    },
+    "4": {
+      "performance": 3372,
+      "technique": 3186,
+      "visual": 2904
+    },
+    "5": {
+      "performance": 3421,
+      "technique": 3232,
+      "visual": 2946
+    },
+    "6": {
+      "performance": 3472,
+      "technique": 3280,
+      "visual": 2990
+    },
+    "7": {
+      "performance": 3525,
+      "technique": 3330,
+      "visual": 3035
+    },
+    "8": {
+      "performance": 3580,
+      "technique": 3382,
+      "visual": 3082
+    },
+    "9": {
+      "performance": 3637,
+      "technique": 3436,
+      "visual": 3131
+    },
+    "10": {
+      "performance": 3696,
+      "technique": 3492,
+      "visual": 3182
+    },
+    "11": {
+      "performance": 3757,
+      "technique": 3550,
+      "visual": 3235
+    },
+    "12": {
+      "performance": 3820,
+      "technique": 3610,
+      "visual": 3289
+    },
+    "13": {
+      "performance": 3885,
+      "technique": 3672,
+      "visual": 3345
+    },
+    "14": {
+      "performance": 3953,
+      "technique": 3736,
+      "visual": 3403
+    },
+    "15": {
+      "performance": 4023,
+      "technique": 3802,
+      "visual": 3463
+    },
+    "16": {
+      "performance": 4095,
+      "technique": 3870,
+      "visual": 3525
+    },
+    "17": {
+      "performance": 4169,
+      "technique": 3940,
+      "visual": 3589
+    },
+    "18": {
+      "performance": 4245,
+      "technique": 4012,
+      "visual": 3654
+    },
+    "19": {
+      "performance": 4323,
+      "technique": 4086,
+      "visual": 3721
+    },
+    "20": {
+      "performance": 4403,
+      "technique": 4162,
+      "visual": 3790
+    },
+    "21": {
+      "performance": 4485,
+      "technique": 4240,
+      "visual": 3861
+    },
+    "22": {
+      "performance": 4569,
+      "technique": 4320,
+      "visual": 3934
+    },
+    "23": {
+      "performance": 4655,
+      "technique": 4402,
+      "visual": 4008
+    },
+    "24": {
+      "performance": 4744,
+      "technique": 4486,
+      "visual": 4084
+    },
+    "25": {
+      "performance": 4835,
+      "technique": 4572,
+      "visual": 4162
+    },
+    "26": {
+      "performance": 4928,
+      "technique": 4660,
+      "visual": 4242
+    },
+    "27": {
+      "performance": 5023,
+      "technique": 4750,
+      "visual": 4324
+    },
+    "28": {
+      "performance": 5120,
+      "technique": 4842,
+      "visual": 4408
+    },
+    "29": {
+      "performance": 5219,
+      "technique": 4936,
+      "visual": 4493
+    },
+    "30": {
+      "performance": 5320,
+      "technique": 5032,
+      "visual": 4580
+    },
+    "31": {
+      "performance": 5423,
+      "technique": 5130,
+      "visual": 4669
+    },
+    "32": {
+      "performance": 5528,
+      "technique": 5230,
+      "visual": 4760
+    },
+    "33": {
+      "performance": 5636,
+      "technique": 5332,
+      "visual": 4853
+    },
+    "34": {
+      "performance": 5746,
+      "technique": 5436,
+      "visual": 4947
+    },
+    "35": {
+      "performance": 5858,
+      "technique": 5542,
+      "visual": 5043
+    },
+    "36": {
+      "performance": 5972,
+      "technique": 5650,
+      "visual": 5141
+    },
+    "37": {
+      "performance": 6088,
+      "technique": 5760,
+      "visual": 5241
+    },
+    "38": {
+      "performance": 6206,
+      "technique": 5872,
+      "visual": 5343
+    },
+    "39": {
+      "performance": 6326,
+      "technique": 5985,
+      "visual": 5446
+    },
+    "40": {
+      "performance": 6448,
+      "technique": 6100,
+      "visual": 5551
+    },
+    "41": {
+      "performance": 6626,
+      "technique": 6268,
+      "visual": 5704
+    },
+    "42": {
+      "performance": 6835,
+      "technique": 6466,
+      "visual": 5884
+    },
+    "43": {
+      "performance": 7076,
+      "technique": 6694,
+      "visual": 6092
+    },
+    "44": {
+      "performance": 7349,
+      "technique": 6952,
+      "visual": 6327
+    },
+    "45": {
+      "performance": 7654,
+      "technique": 7240,
+      "visual": 6590
+    },
+    "46": {
+      "performance": 7991,
+      "technique": 7558,
+      "visual": 6880
+    },
+    "47": {
+      "performance": 8359,
+      "technique": 7906,
+      "visual": 7197
+    },
+    "48": {
+      "performance": 8759,
+      "technique": 8284,
+      "visual": 7542
+    },
+    "49": {
+      "performance": 9191,
+      "technique": 8692,
+      "visual": 7914
+    },
+    "50": {
+      "performance": 9655,
+      "technique": 9130,
+      "visual": 8313
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

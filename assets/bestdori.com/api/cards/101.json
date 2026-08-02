@@ -1,0 +1,406 @@
+{
+  "characterId": 1,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res001005",
+  "sdResourceName": "sd001005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 201,
+        "episodeType": "standard",
+        "situationId": 101,
+        "scenarioId": "episode101",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お花見第二回戦！？",
+          "Sakura Party Round 2?!",
+          "賞花第二戰！？",
+          "赏樱第二回合？！",
+          "꽃놀이 제2차전!?"
+        ],
+        "characterId": 1
+      },
+      {
+        "episodeId": 202,
+        "episodeType": "memorial",
+        "situationId": 101,
+        "scenarioId": "memorial101",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お花見、悪くない",
+          "Sakura Isn't Bad",
+          "賞花，不錯",
+          "赏樱、不错",
+          "꽃놀이도 나쁘지 않아"
+        ],
+        "characterId": 1
+      }
+    ]
+  },
+  "costumeId": 84,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "活动限定卡",
+    null
+  ],
+  "prefix": [
+    "みんなでお花見",
+    "Sakura Party",
+    "大家來賞花",
+    "大家一起赏樱花",
+    "모두 함께 꽃놀이"
+  ],
+  "releasedAt": [
+    "1490335200000",
+    "1490367600000",
+    "1490338800000",
+    "1490338800000",
+    "1490335200000"
+  ],
+  "skillName": [
+    "見て！桜が満開だよ！",
+    "Look! Cherry Blossoms!",
+    "看！櫻花盛開囉！",
+    "看！樱花盛开了！",
+    "봐봐! 벚꽃이 잔뜩 피었어!"
+  ],
+  "skillId": 3,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2268,
+      "technique": 2763,
+      "visual": 3537
+    },
+    "2": {
+      "performance": 2298,
+      "technique": 2800,
+      "visual": 3584
+    },
+    "3": {
+      "performance": 2330,
+      "technique": 2839,
+      "visual": 3633
+    },
+    "4": {
+      "performance": 2363,
+      "technique": 2879,
+      "visual": 3685
+    },
+    "5": {
+      "performance": 2398,
+      "technique": 2921,
+      "visual": 3739
+    },
+    "6": {
+      "performance": 2434,
+      "technique": 2965,
+      "visual": 3795
+    },
+    "7": {
+      "performance": 2472,
+      "technique": 3011,
+      "visual": 3854
+    },
+    "8": {
+      "performance": 2511,
+      "technique": 3059,
+      "visual": 3915
+    },
+    "9": {
+      "performance": 2552,
+      "technique": 3109,
+      "visual": 3978
+    },
+    "10": {
+      "performance": 2594,
+      "technique": 3160,
+      "visual": 4044
+    },
+    "11": {
+      "performance": 2638,
+      "technique": 3213,
+      "visual": 4112
+    },
+    "12": {
+      "performance": 2683,
+      "technique": 3268,
+      "visual": 4182
+    },
+    "13": {
+      "performance": 2730,
+      "technique": 3325,
+      "visual": 4255
+    },
+    "14": {
+      "performance": 2778,
+      "technique": 3384,
+      "visual": 4330
+    },
+    "15": {
+      "performance": 2828,
+      "technique": 3445,
+      "visual": 4408
+    },
+    "16": {
+      "performance": 2879,
+      "technique": 3507,
+      "visual": 4488
+    },
+    "17": {
+      "performance": 2932,
+      "technique": 3571,
+      "visual": 4570
+    },
+    "18": {
+      "performance": 2986,
+      "technique": 3637,
+      "visual": 4655
+    },
+    "19": {
+      "performance": 3042,
+      "technique": 3705,
+      "visual": 4742
+    },
+    "20": {
+      "performance": 3099,
+      "technique": 3775,
+      "visual": 4831
+    },
+    "21": {
+      "performance": 3158,
+      "technique": 3847,
+      "visual": 4923
+    },
+    "22": {
+      "performance": 3218,
+      "technique": 3920,
+      "visual": 5017
+    },
+    "23": {
+      "performance": 3280,
+      "technique": 3995,
+      "visual": 5113
+    },
+    "24": {
+      "performance": 3343,
+      "technique": 4072,
+      "visual": 5212
+    },
+    "25": {
+      "performance": 3408,
+      "technique": 4151,
+      "visual": 5313
+    },
+    "26": {
+      "performance": 3474,
+      "technique": 4232,
+      "visual": 5416
+    },
+    "27": {
+      "performance": 3542,
+      "technique": 4315,
+      "visual": 5522
+    },
+    "28": {
+      "performance": 3611,
+      "technique": 4399,
+      "visual": 5630
+    },
+    "29": {
+      "performance": 3682,
+      "technique": 4485,
+      "visual": 5740
+    },
+    "30": {
+      "performance": 3754,
+      "technique": 4573,
+      "visual": 5853
+    },
+    "31": {
+      "performance": 3828,
+      "technique": 4663,
+      "visual": 5968
+    },
+    "32": {
+      "performance": 3903,
+      "technique": 4755,
+      "visual": 6085
+    },
+    "33": {
+      "performance": 3980,
+      "technique": 4849,
+      "visual": 6205
+    },
+    "34": {
+      "performance": 4058,
+      "technique": 4944,
+      "visual": 6327
+    },
+    "35": {
+      "performance": 4138,
+      "technique": 5041,
+      "visual": 6451
+    },
+    "36": {
+      "performance": 4219,
+      "technique": 5140,
+      "visual": 6578
+    },
+    "37": {
+      "performance": 4302,
+      "technique": 5241,
+      "visual": 6707
+    },
+    "38": {
+      "performance": 4386,
+      "technique": 5344,
+      "visual": 6838
+    },
+    "39": {
+      "performance": 4472,
+      "technique": 5449,
+      "visual": 6972
+    },
+    "40": {
+      "performance": 4559,
+      "technique": 5555,
+      "visual": 7108
+    },
+    "41": {
+      "performance": 4686,
+      "technique": 5709,
+      "visual": 7306
+    },
+    "42": {
+      "performance": 4836,
+      "technique": 5891,
+      "visual": 7539
+    },
+    "43": {
+      "performance": 5008,
+      "technique": 6101,
+      "visual": 7808
+    },
+    "44": {
+      "performance": 5203,
+      "technique": 6338,
+      "visual": 8112
+    },
+    "45": {
+      "performance": 5421,
+      "technique": 6603,
+      "visual": 8452
+    },
+    "46": {
+      "performance": 5661,
+      "technique": 6896,
+      "visual": 8827
+    },
+    "47": {
+      "performance": 5924,
+      "technique": 7217,
+      "visual": 9237
+    },
+    "48": {
+      "performance": 6210,
+      "technique": 7565,
+      "visual": 9683
+    },
+    "49": {
+      "performance": 6518,
+      "technique": 7941,
+      "visual": 10164
+    },
+    "50": {
+      "performance": 6849,
+      "technique": 8345,
+      "visual": 10681
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "characterId": 29,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res029003",
+  "sdResourceName": "sd029003",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1433,
+        "episodeType": "standard",
+        "situationId": 910,
+        "scenarioId": "episode910",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "つくしの楽器屋ツアー",
+          "Tsukushi's Music Shop Tour",
+          "筑紫的樂器行巡禮",
+          "筑紫的乐器店巡游",
+          "츠쿠시의 악기점 투어"
+        ],
+        "characterId": 29
+      },
+      {
+        "episodeId": 1434,
+        "episodeType": "memorial",
+        "situationId": 910,
+        "scenarioId": "memorial910",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "輝けますように",
+          "In Order to Shine",
+          "希望能夠綻放光輝",
+          "为了焕发光彩",
+          "빛날 수 있도록"
+        ],
+        "characterId": 29
+      }
+    ]
+  },
+  "costumeId": 856,
+  "gachaText": [
+    "ふふ、一緒にバンドがんばろ！",
+    "Fufu, let's give this band our all!",
+    "呵呵，一起在樂團努力吧！",
+    "呼呼，一起努力进行乐队活动吧！",
+    "후후, 같이 밴드 열심히 하자!"
+  ],
+  "prefix": [
+    "頼れる委員長",
+    "Trusted Class President",
+    "可靠的班長",
+    "值得信赖的委员长",
+    "믿음직한 반장"
+  ],
+  "releasedAt": [
+    "1584284400000",
+    "1616202000000",
+    "1601434800000",
+    "1622350800000",
+    "1584284400000"
+  ],
+  "skillName": [
+    "ふふん、任せて！",
+    "Fufu, Leave It to Me!",
+    "嘿嘿，交給我吧！",
+    "哼哼，交给我吧！",
+    "후훗, 맡겨 줘!"
+  ],
+  "skillId": 24,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3402,
+      "technique": 2898,
+      "visual": 2880
+    },
+    "2": {
+      "performance": 3446,
+      "technique": 2936,
+      "visual": 2918
+    },
+    "3": {
+      "performance": 3493,
+      "technique": 2976,
+      "visual": 2957
+    },
+    "4": {
+      "performance": 3542,
+      "technique": 3018,
+      "visual": 2998
+    },
+    "5": {
+      "performance": 3593,
+      "technique": 3061,
+      "visual": 3041
+    },
+    "6": {
+      "performance": 3646,
+      "technique": 3106,
+      "visual": 3086
+    },
+    "7": {
+      "performance": 3701,
+      "technique": 3153,
+      "visual": 3133
+    },
+    "8": {
+      "performance": 3759,
+      "technique": 3202,
+      "visual": 3182
+    },
+    "9": {
+      "performance": 3819,
+      "technique": 3253,
+      "visual": 3233
+    },
+    "10": {
+      "performance": 3881,
+      "technique": 3306,
+      "visual": 3285
+    },
+    "11": {
+      "performance": 3945,
+      "technique": 3361,
+      "visual": 3339
+    },
+    "12": {
+      "performance": 4011,
+      "technique": 3418,
+      "visual": 3395
+    },
+    "13": {
+      "performance": 4080,
+      "technique": 3476,
+      "visual": 3453
+    },
+    "14": {
+      "performance": 4151,
+      "technique": 3536,
+      "visual": 3513
+    },
+    "15": {
+      "performance": 4224,
+      "technique": 3598,
+      "visual": 3575
+    },
+    "16": {
+      "performance": 4299,
+      "technique": 3662,
+      "visual": 3639
+    },
+    "17": {
+      "performance": 4377,
+      "technique": 3728,
+      "visual": 3705
+    },
+    "18": {
+      "performance": 4457,
+      "technique": 3796,
+      "visual": 3772
+    },
+    "19": {
+      "performance": 4539,
+      "technique": 3866,
+      "visual": 3841
+    },
+    "20": {
+      "performance": 4623,
+      "technique": 3938,
+      "visual": 3912
+    },
+    "21": {
+      "performance": 4709,
+      "technique": 4012,
+      "visual": 3985
+    },
+    "22": {
+      "performance": 4798,
+      "technique": 4087,
+      "visual": 4060
+    },
+    "23": {
+      "performance": 4889,
+      "technique": 4164,
+      "visual": 4137
+    },
+    "24": {
+      "performance": 4982,
+      "technique": 4243,
+      "visual": 4216
+    },
+    "25": {
+      "performance": 5077,
+      "technique": 4324,
+      "visual": 4297
+    },
+    "26": {
+      "performance": 5174,
+      "technique": 4407,
+      "visual": 4379
+    },
+    "27": {
+      "performance": 5274,
+      "technique": 4492,
+      "visual": 4463
+    },
+    "28": {
+      "performance": 5376,
+      "technique": 4579,
+      "visual": 4549
+    },
+    "29": {
+      "performance": 5480,
+      "technique": 4668,
+      "visual": 4637
+    },
+    "30": {
+      "performance": 5586,
+      "technique": 4759,
+      "visual": 4727
+    },
+    "31": {
+      "performance": 5694,
+      "technique": 4851,
+      "visual": 4819
+    },
+    "32": {
+      "performance": 5805,
+      "technique": 4945,
+      "visual": 4913
+    },
+    "33": {
+      "performance": 5918,
+      "technique": 5041,
+      "visual": 5009
+    },
+    "34": {
+      "performance": 6033,
+      "technique": 5139,
+      "visual": 5106
+    },
+    "35": {
+      "performance": 6150,
+      "technique": 5239,
+      "visual": 5205
+    },
+    "36": {
+      "performance": 6270,
+      "technique": 5341,
+      "visual": 5306
+    },
+    "37": {
+      "performance": 6392,
+      "technique": 5445,
+      "visual": 5409
+    },
+    "38": {
+      "performance": 6516,
+      "technique": 5551,
+      "visual": 5514
+    },
+    "39": {
+      "performance": 6642,
+      "technique": 5658,
+      "visual": 5621
+    },
+    "40": {
+      "performance": 6770,
+      "technique": 5767,
+      "visual": 5730
+    },
+    "41": {
+      "performance": 6956,
+      "technique": 5926,
+      "visual": 5888
+    },
+    "42": {
+      "performance": 7176,
+      "technique": 6113,
+      "visual": 6074
+    },
+    "43": {
+      "performance": 7429,
+      "technique": 6329,
+      "visual": 6288
+    },
+    "44": {
+      "performance": 7716,
+      "technique": 6573,
+      "visual": 6531
+    },
+    "45": {
+      "performance": 8036,
+      "technique": 6846,
+      "visual": 6802
+    },
+    "46": {
+      "performance": 8390,
+      "technique": 7147,
+      "visual": 7101
+    },
+    "47": {
+      "performance": 8777,
+      "technique": 7477,
+      "visual": 7429
+    },
+    "48": {
+      "performance": 9197,
+      "technique": 7835,
+      "visual": 7785
+    },
+    "49": {
+      "performance": 9651,
+      "technique": 8221,
+      "visual": 8169
+    },
+    "50": {
+      "performance": 10138,
+      "technique": 8636,
+      "visual": 8581
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

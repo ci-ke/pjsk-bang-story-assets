@@ -1,0 +1,288 @@
+{
+  "characterId": 23,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res023030",
+  "sdResourceName": "sd023030",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 981,
+        "episodeType": "standard",
+        "situationId": 607,
+        "scenarioId": "episode607",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "気になる人達",
+          "The Worried Ones",
+          "在乎的人們",
+          "在意的人们",
+          "신경 쓰이는 사람들"
+        ],
+        "characterId": 23
+      },
+      {
+        "episodeId": 982,
+        "episodeType": "memorial",
+        "situationId": 607,
+        "scenarioId": "memorial607",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "共に進める仲間",
+          "Proceeding Together",
+          "一起前進的夥伴",
+          "共同前进的伙伴",
+          "함께 나아가는 친구"
+        ],
+        "characterId": 23
+      }
+    ]
+  },
+  "costumeId": 558,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "心配しすぎ？",
+    "A Little Too Worried?",
+    "太過擔心了？",
+    "担心过头？",
+    "걱정이 너무 많아?"
+  ],
+  "releasedAt": [
+    "1550556000000",
+    "1582074000000",
+    "1561791600000",
+    "1601960400000",
+    "1550556000000"
+  ],
+  "skillName": [
+    "心配？　おせっかい？",
+    "Worried? Or Being Nosy?",
+    "擔心？ 還是多管閒事？",
+    "担心？多管闲事？",
+    "걱정? 참견?"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2256,
+      "technique": 1758,
+      "visual": 1866
+    },
+    "2": {
+      "performance": 2317,
+      "technique": 1805,
+      "visual": 1916
+    },
+    "3": {
+      "performance": 2382,
+      "technique": 1856,
+      "visual": 1970
+    },
+    "4": {
+      "performance": 2451,
+      "technique": 1910,
+      "visual": 2027
+    },
+    "5": {
+      "performance": 2524,
+      "technique": 1967,
+      "visual": 2087
+    },
+    "6": {
+      "performance": 2601,
+      "technique": 2027,
+      "visual": 2151
+    },
+    "7": {
+      "performance": 2682,
+      "technique": 2090,
+      "visual": 2218
+    },
+    "8": {
+      "performance": 2767,
+      "technique": 2156,
+      "visual": 2288
+    },
+    "9": {
+      "performance": 2856,
+      "technique": 2225,
+      "visual": 2362
+    },
+    "10": {
+      "performance": 2949,
+      "technique": 2298,
+      "visual": 2439
+    },
+    "11": {
+      "performance": 3046,
+      "technique": 2374,
+      "visual": 2519
+    },
+    "12": {
+      "performance": 3147,
+      "technique": 2453,
+      "visual": 2603
+    },
+    "13": {
+      "performance": 3252,
+      "technique": 2535,
+      "visual": 2690
+    },
+    "14": {
+      "performance": 3361,
+      "technique": 2620,
+      "visual": 2780
+    },
+    "15": {
+      "performance": 3474,
+      "technique": 2708,
+      "visual": 2874
+    },
+    "16": {
+      "performance": 3591,
+      "technique": 2800,
+      "visual": 2971
+    },
+    "17": {
+      "performance": 3713,
+      "technique": 2895,
+      "visual": 3072
+    },
+    "18": {
+      "performance": 3839,
+      "technique": 2993,
+      "visual": 3176
+    },
+    "19": {
+      "performance": 3969,
+      "technique": 3094,
+      "visual": 3283
+    },
+    "20": {
+      "performance": 4103,
+      "technique": 3198,
+      "visual": 3394
+    },
+    "21": {
+      "performance": 4241,
+      "technique": 3305,
+      "visual": 3508
+    },
+    "22": {
+      "performance": 4383,
+      "technique": 3415,
+      "visual": 3625
+    },
+    "23": {
+      "performance": 4529,
+      "technique": 3529,
+      "visual": 3746
+    },
+    "24": {
+      "performance": 4679,
+      "technique": 3646,
+      "visual": 3870
+    },
+    "25": {
+      "performance": 4833,
+      "technique": 3766,
+      "visual": 3997
+    },
+    "26": {
+      "performance": 4991,
+      "technique": 3889,
+      "visual": 4128
+    },
+    "27": {
+      "performance": 5153,
+      "technique": 4015,
+      "visual": 4262
+    },
+    "28": {
+      "performance": 5319,
+      "technique": 4144,
+      "visual": 4399
+    },
+    "29": {
+      "performance": 5489,
+      "technique": 4277,
+      "visual": 4540
+    },
+    "30": {
+      "performance": 5663,
+      "technique": 4413,
+      "visual": 4684
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

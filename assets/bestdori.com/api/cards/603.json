@@ -1,0 +1,406 @@
+{
+  "characterId": 13,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res013027",
+  "sdResourceName": "sd013027",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 973,
+        "episodeType": "standard",
+        "situationId": 603,
+        "scenarioId": "episode603",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "忍法・通り抜けの術",
+          "Ninja Skill - Pierce Through",
+          "忍術・穿越之術",
+          "忍术·抄道之术",
+          "인법・통과 술법"
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 974,
+        "episodeType": "memorial",
+        "situationId": 603,
+        "scenarioId": "memorial603",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "抜け道ツアー",
+          "Side-Street Tour",
+          "抄小路旅行",
+          "岔路巡游",
+          "샛길 투어"
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 554,
+  "gachaText": [
+    "……そうだ！\n近道を使えばいいんだよ！",
+    "... I know! \nWe can just take a shortcut! ",
+    "……對了！抄捷徑就好了呀！",
+    "……对了！\n只要抄近路就可以了！",
+    "……그래!\n샛길을 이용하면 돼!"
+  ],
+  "prefix": [
+    "知る人ぞ知る近道？",
+    "Those Who Know the Way",
+    "懂的人就知道的捷徑？",
+    "仅有少数人知道的近路？",
+    "아는 사람만 아는 샛길?"
+  ],
+  "releasedAt": [
+    "1549778400000",
+    "1581210000000",
+    "1560927600000",
+    "1601355600000",
+    "1549778400000"
+  ],
+  "skillName": [
+    "路地裏ダッシュ",
+    "Back Alley Dash",
+    "後巷的衝刺",
+    "在小巷里冲刺",
+    "뒷골목 돌진"
+  ],
+  "skillId": 11,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3285,
+      "technique": 3087,
+      "visual": 2808
+    },
+    "2": {
+      "performance": 3328,
+      "technique": 3127,
+      "visual": 2845
+    },
+    "3": {
+      "performance": 3373,
+      "technique": 3169,
+      "visual": 2883
+    },
+    "4": {
+      "performance": 3420,
+      "technique": 3213,
+      "visual": 2923
+    },
+    "5": {
+      "performance": 3469,
+      "technique": 3259,
+      "visual": 2965
+    },
+    "6": {
+      "performance": 3520,
+      "technique": 3307,
+      "visual": 3009
+    },
+    "7": {
+      "performance": 3573,
+      "technique": 3357,
+      "visual": 3055
+    },
+    "8": {
+      "performance": 3629,
+      "technique": 3409,
+      "visual": 3103
+    },
+    "9": {
+      "performance": 3687,
+      "technique": 3463,
+      "visual": 3152
+    },
+    "10": {
+      "performance": 3747,
+      "technique": 3519,
+      "visual": 3203
+    },
+    "11": {
+      "performance": 3809,
+      "technique": 3577,
+      "visual": 3256
+    },
+    "12": {
+      "performance": 3873,
+      "technique": 3637,
+      "visual": 3311
+    },
+    "13": {
+      "performance": 3939,
+      "technique": 3699,
+      "visual": 3368
+    },
+    "14": {
+      "performance": 4007,
+      "technique": 3763,
+      "visual": 3426
+    },
+    "15": {
+      "performance": 4078,
+      "technique": 3829,
+      "visual": 3486
+    },
+    "16": {
+      "performance": 4151,
+      "technique": 3897,
+      "visual": 3548
+    },
+    "17": {
+      "performance": 4226,
+      "technique": 3967,
+      "visual": 3612
+    },
+    "18": {
+      "performance": 4303,
+      "technique": 4039,
+      "visual": 3678
+    },
+    "19": {
+      "performance": 4382,
+      "technique": 4113,
+      "visual": 3746
+    },
+    "20": {
+      "performance": 4463,
+      "technique": 4189,
+      "visual": 3815
+    },
+    "21": {
+      "performance": 4546,
+      "technique": 4267,
+      "visual": 3886
+    },
+    "22": {
+      "performance": 4632,
+      "technique": 4347,
+      "visual": 3959
+    },
+    "23": {
+      "performance": 4720,
+      "technique": 4429,
+      "visual": 4034
+    },
+    "24": {
+      "performance": 4810,
+      "technique": 4513,
+      "visual": 4111
+    },
+    "25": {
+      "performance": 4902,
+      "technique": 4599,
+      "visual": 4190
+    },
+    "26": {
+      "performance": 4996,
+      "technique": 4687,
+      "visual": 4270
+    },
+    "27": {
+      "performance": 5092,
+      "technique": 4777,
+      "visual": 4352
+    },
+    "28": {
+      "performance": 5190,
+      "technique": 4869,
+      "visual": 4436
+    },
+    "29": {
+      "performance": 5290,
+      "technique": 4963,
+      "visual": 4522
+    },
+    "30": {
+      "performance": 5393,
+      "technique": 5059,
+      "visual": 4610
+    },
+    "31": {
+      "performance": 5498,
+      "technique": 5157,
+      "visual": 4700
+    },
+    "32": {
+      "performance": 5605,
+      "technique": 5257,
+      "visual": 4791
+    },
+    "33": {
+      "performance": 5714,
+      "technique": 5359,
+      "visual": 4884
+    },
+    "34": {
+      "performance": 5825,
+      "technique": 5463,
+      "visual": 4979
+    },
+    "35": {
+      "performance": 5938,
+      "technique": 5569,
+      "visual": 5076
+    },
+    "36": {
+      "performance": 6053,
+      "technique": 5677,
+      "visual": 5175
+    },
+    "37": {
+      "performance": 6171,
+      "technique": 5787,
+      "visual": 5276
+    },
+    "38": {
+      "performance": 6291,
+      "technique": 5899,
+      "visual": 5378
+    },
+    "39": {
+      "performance": 6413,
+      "technique": 6014,
+      "visual": 5482
+    },
+    "40": {
+      "performance": 6537,
+      "technique": 6131,
+      "visual": 5588
+    },
+    "41": {
+      "performance": 6717,
+      "technique": 6300,
+      "visual": 5742
+    },
+    "42": {
+      "performance": 6929,
+      "technique": 6500,
+      "visual": 5924
+    },
+    "43": {
+      "performance": 7174,
+      "technique": 6730,
+      "visual": 6133
+    },
+    "44": {
+      "performance": 7451,
+      "technique": 6990,
+      "visual": 6370
+    },
+    "45": {
+      "performance": 7760,
+      "technique": 7280,
+      "visual": 6634
+    },
+    "46": {
+      "performance": 8101,
+      "technique": 7601,
+      "visual": 6926
+    },
+    "47": {
+      "performance": 8475,
+      "technique": 7952,
+      "visual": 7245
+    },
+    "48": {
+      "performance": 8881,
+      "technique": 8333,
+      "visual": 7592
+    },
+    "49": {
+      "performance": 9319,
+      "technique": 8745,
+      "visual": 7966
+    },
+    "50": {
+      "performance": 9789,
+      "technique": 9187,
+      "visual": 8368
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

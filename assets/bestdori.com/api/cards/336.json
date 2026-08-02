@@ -1,0 +1,288 @@
+{
+  "characterId": 5,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res005014",
+  "sdResourceName": "sd005014",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 501,
+        "episodeType": "standard",
+        "situationId": 336,
+        "scenarioId": "episode336",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "たまには褒めたって",
+          "The Rare Compliment",
+          "偶爾也誇獎我一下",
+          "偶尔也会夸奖",
+          "가끔은 칭찬해도"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 502,
+        "episodeType": "memorial",
+        "situationId": 336,
+        "scenarioId": "memorial336",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "もっといいチラシ",
+          "A Better Flyer",
+          "更好的傳單",
+          "更好的传单",
+          "좀 더 괜찮은 전단지"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 363,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "楽しむ演奏",
+    "A Fun Performance",
+    "令人享受的演奏",
+    "享受演奏",
+    "즐기는 연주"
+  ],
+  "releasedAt": [
+    "1515564000000",
+    "1547082000000",
+    "1515567600000",
+    "1577163600000",
+    "1515564000000"
+  ],
+  "skillName": [
+    "たくさんの人に届け",
+    "To the Masses",
+    "傳達給更多的人吧",
+    "传达给很多人",
+    "많은 사람한테 닿기를"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2286,
+      "technique": 1980,
+      "visual": 1794
+    },
+    "2": {
+      "performance": 2347,
+      "technique": 2033,
+      "visual": 1842
+    },
+    "3": {
+      "performance": 2412,
+      "technique": 2089,
+      "visual": 1893
+    },
+    "4": {
+      "performance": 2481,
+      "technique": 2149,
+      "visual": 1947
+    },
+    "5": {
+      "performance": 2554,
+      "technique": 2212,
+      "visual": 2004
+    },
+    "6": {
+      "performance": 2631,
+      "technique": 2279,
+      "visual": 2064
+    },
+    "7": {
+      "performance": 2712,
+      "technique": 2349,
+      "visual": 2128
+    },
+    "8": {
+      "performance": 2797,
+      "technique": 2423,
+      "visual": 2195
+    },
+    "9": {
+      "performance": 2886,
+      "technique": 2500,
+      "visual": 2265
+    },
+    "10": {
+      "performance": 2979,
+      "technique": 2581,
+      "visual": 2338
+    },
+    "11": {
+      "performance": 3076,
+      "technique": 2665,
+      "visual": 2414
+    },
+    "12": {
+      "performance": 3177,
+      "technique": 2753,
+      "visual": 2493
+    },
+    "13": {
+      "performance": 3282,
+      "technique": 2844,
+      "visual": 2576
+    },
+    "14": {
+      "performance": 3391,
+      "technique": 2939,
+      "visual": 2662
+    },
+    "15": {
+      "performance": 3504,
+      "technique": 3037,
+      "visual": 2751
+    },
+    "16": {
+      "performance": 3621,
+      "technique": 3139,
+      "visual": 2843
+    },
+    "17": {
+      "performance": 3742,
+      "technique": 3244,
+      "visual": 2938
+    },
+    "18": {
+      "performance": 3868,
+      "technique": 3353,
+      "visual": 3037
+    },
+    "19": {
+      "performance": 3998,
+      "technique": 3465,
+      "visual": 3139
+    },
+    "20": {
+      "performance": 4132,
+      "technique": 3581,
+      "visual": 3244
+    },
+    "21": {
+      "performance": 4270,
+      "technique": 3700,
+      "visual": 3352
+    },
+    "22": {
+      "performance": 4412,
+      "technique": 3823,
+      "visual": 3463
+    },
+    "23": {
+      "performance": 4558,
+      "technique": 3949,
+      "visual": 3577
+    },
+    "24": {
+      "performance": 4708,
+      "technique": 4079,
+      "visual": 3695
+    },
+    "25": {
+      "performance": 4862,
+      "technique": 4212,
+      "visual": 3816
+    },
+    "26": {
+      "performance": 5020,
+      "technique": 4349,
+      "visual": 3940
+    },
+    "27": {
+      "performance": 5182,
+      "technique": 4489,
+      "visual": 4067
+    },
+    "28": {
+      "performance": 5348,
+      "technique": 4633,
+      "visual": 4197
+    },
+    "29": {
+      "performance": 5518,
+      "technique": 4780,
+      "visual": 4330
+    },
+    "30": {
+      "performance": 5692,
+      "technique": 4931,
+      "visual": 4467
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

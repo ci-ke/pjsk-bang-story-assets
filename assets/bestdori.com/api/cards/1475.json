@@ -1,0 +1,436 @@
+{
+  "characterId": 1,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 60,
+  "resourceSetName": "res001062",
+  "sdResourceName": "sd001062",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2437,
+        "episodeType": "animation",
+        "situationId": 1475,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 0,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "キズナのおくりもの",
+          "Bonds and Gifts",
+          "羈絆的贈禮",
+          "情谊的礼物",
+          "인연의 선물"
+        ],
+        "characterId": 1
+      },
+      {
+        "episodeId": 2438,
+        "episodeType": "memorial",
+        "situationId": 1475,
+        "scenarioId": "memorial1475",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "LIVE to LIVE！",
+          "LIVE to LIVE!",
+          "LIVE to LIVE！",
+          "LIVE to LIVE！",
+          "LIVE to LIVE!"
+        ],
+        "characterId": 1
+      }
+    ]
+  },
+  "costumeId": 1381,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "キズナのおくりもの",
+    "Bonds and Gifts",
+    "羈絆的贈禮",
+    "情谊的礼物",
+    "인연의 선물"
+  ],
+  "releasedAt": [
+    "1647583200000",
+    "1647615600000",
+    "1665298800000",
+    "1647586800000",
+    "1647583200000"
+  ],
+  "skillName": [
+    "星に集う花びら",
+    "Petals Gathering around a Star",
+    "匯聚於星星的花瓣",
+    "向着星星聚集的花瓣",
+    "별에 모이는 꽃잎"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1475,
+    "assetBundleName": "mov001001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3397,
+      "technique": 3630,
+      "visual": 3683
+    },
+    "2": {
+      "performance": 3458,
+      "technique": 3695,
+      "visual": 3749
+    },
+    "3": {
+      "performance": 3521,
+      "technique": 3763,
+      "visual": 3818
+    },
+    "4": {
+      "performance": 3587,
+      "technique": 3833,
+      "visual": 3889
+    },
+    "5": {
+      "performance": 3655,
+      "technique": 3905,
+      "visual": 3962
+    },
+    "6": {
+      "performance": 3725,
+      "technique": 3979,
+      "visual": 4037
+    },
+    "7": {
+      "performance": 3797,
+      "technique": 4055,
+      "visual": 4114
+    },
+    "8": {
+      "performance": 3871,
+      "technique": 4133,
+      "visual": 4194
+    },
+    "9": {
+      "performance": 3947,
+      "technique": 4214,
+      "visual": 4276
+    },
+    "10": {
+      "performance": 4025,
+      "technique": 4297,
+      "visual": 4360
+    },
+    "11": {
+      "performance": 4105,
+      "technique": 4382,
+      "visual": 4446
+    },
+    "12": {
+      "performance": 4187,
+      "technique": 4469,
+      "visual": 4534
+    },
+    "13": {
+      "performance": 4271,
+      "technique": 4558,
+      "visual": 4625
+    },
+    "14": {
+      "performance": 4357,
+      "technique": 4649,
+      "visual": 4718
+    },
+    "15": {
+      "performance": 4445,
+      "technique": 4743,
+      "visual": 4813
+    },
+    "16": {
+      "performance": 4535,
+      "technique": 4839,
+      "visual": 4910
+    },
+    "17": {
+      "performance": 4627,
+      "technique": 4937,
+      "visual": 5009
+    },
+    "18": {
+      "performance": 4721,
+      "technique": 5037,
+      "visual": 5111
+    },
+    "19": {
+      "performance": 4817,
+      "technique": 5139,
+      "visual": 5215
+    },
+    "20": {
+      "performance": 4915,
+      "technique": 5244,
+      "visual": 5321
+    },
+    "21": {
+      "performance": 5015,
+      "technique": 5351,
+      "visual": 5429
+    },
+    "22": {
+      "performance": 5117,
+      "technique": 5460,
+      "visual": 5540
+    },
+    "23": {
+      "performance": 5221,
+      "technique": 5571,
+      "visual": 5653
+    },
+    "24": {
+      "performance": 5327,
+      "technique": 5684,
+      "visual": 5768
+    },
+    "25": {
+      "performance": 5435,
+      "technique": 5799,
+      "visual": 5885
+    },
+    "26": {
+      "performance": 5546,
+      "technique": 5917,
+      "visual": 6004
+    },
+    "27": {
+      "performance": 5659,
+      "technique": 6037,
+      "visual": 6126
+    },
+    "28": {
+      "performance": 5774,
+      "technique": 6159,
+      "visual": 6250
+    },
+    "29": {
+      "performance": 5891,
+      "technique": 6283,
+      "visual": 6376
+    },
+    "30": {
+      "performance": 6010,
+      "technique": 6409,
+      "visual": 6504
+    },
+    "31": {
+      "performance": 6131,
+      "technique": 6538,
+      "visual": 6634
+    },
+    "32": {
+      "performance": 6254,
+      "technique": 6669,
+      "visual": 6767
+    },
+    "33": {
+      "performance": 6379,
+      "technique": 6802,
+      "visual": 6902
+    },
+    "34": {
+      "performance": 6506,
+      "technique": 6937,
+      "visual": 7039
+    },
+    "35": {
+      "performance": 6635,
+      "technique": 7074,
+      "visual": 7178
+    },
+    "36": {
+      "performance": 6766,
+      "technique": 7213,
+      "visual": 7319
+    },
+    "37": {
+      "performance": 6899,
+      "technique": 7355,
+      "visual": 7463
+    },
+    "38": {
+      "performance": 7034,
+      "technique": 7499,
+      "visual": 7609
+    },
+    "39": {
+      "performance": 7171,
+      "technique": 7645,
+      "visual": 7757
+    },
+    "40": {
+      "performance": 7310,
+      "technique": 7793,
+      "visual": 7907
+    },
+    "41": {
+      "performance": 7451,
+      "technique": 7943,
+      "visual": 8059
+    },
+    "42": {
+      "performance": 7594,
+      "technique": 8095,
+      "visual": 8214
+    },
+    "43": {
+      "performance": 7739,
+      "technique": 8250,
+      "visual": 8371
+    },
+    "44": {
+      "performance": 7886,
+      "technique": 8407,
+      "visual": 8530
+    },
+    "45": {
+      "performance": 8035,
+      "technique": 8566,
+      "visual": 8691
+    },
+    "46": {
+      "performance": 8186,
+      "technique": 8727,
+      "visual": 8855
+    },
+    "47": {
+      "performance": 8339,
+      "technique": 8890,
+      "visual": 9021
+    },
+    "48": {
+      "performance": 8495,
+      "technique": 9056,
+      "visual": 9189
+    },
+    "49": {
+      "performance": 8653,
+      "technique": 9224,
+      "visual": 9359
+    },
+    "50": {
+      "performance": 8813,
+      "technique": 9394,
+      "visual": 9531
+    },
+    "51": {
+      "performance": 8975,
+      "technique": 9566,
+      "visual": 9706
+    },
+    "52": {
+      "performance": 9139,
+      "technique": 9740,
+      "visual": 9883
+    },
+    "53": {
+      "performance": 9305,
+      "technique": 9916,
+      "visual": 10062
+    },
+    "54": {
+      "performance": 9473,
+      "technique": 10095,
+      "visual": 10243
+    },
+    "55": {
+      "performance": 9643,
+      "technique": 10276,
+      "visual": 10426
+    },
+    "56": {
+      "performance": 9815,
+      "technique": 10459,
+      "visual": 10612
+    },
+    "57": {
+      "performance": 9989,
+      "technique": 10644,
+      "visual": 10800
+    },
+    "58": {
+      "performance": 10165,
+      "technique": 10831,
+      "visual": 10990
+    },
+    "59": {
+      "performance": 10343,
+      "technique": 11020,
+      "visual": 11182
+    },
+    "60": {
+      "performance": 10521,
+      "technique": 11212,
+      "visual": 11376
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

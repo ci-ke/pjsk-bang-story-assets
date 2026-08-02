@@ -1,0 +1,288 @@
+{
+  "characterId": 16,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res016013",
+  "sdResourceName": "sd016013",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 389,
+        "episodeType": "standard",
+        "situationId": 240,
+        "scenarioId": "episode240",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "人生相談",
+          "Life Counseling",
+          "生涯規劃諮商",
+          "探讨人生",
+          "인생 상담"
+        ],
+        "characterId": 16
+      },
+      {
+        "episodeId": 390,
+        "episodeType": "memorial",
+        "situationId": 240,
+        "scenarioId": "memorial240",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "アイドルとして…",
+          "As an Idol...",
+          "身為偶像…",
+          "做为偶像……",
+          "아이돌로서…"
+        ],
+        "characterId": 16
+      }
+    ]
+  },
+  "costumeId": 343,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "本気・待機……",
+    "Serious Standby...",
+    "認真・待機……",
+    "认真・待机……",
+    "진심・대기……"
+  ],
+  "releasedAt": [
+    "1505973600000",
+    "1537491600000",
+    "1505977200000",
+    "1571115600000",
+    "1505973600000"
+  ],
+  "skillName": [
+    "待機、してます…",
+    "I'm... on Standby...",
+    "正在待機…",
+    "待机中……",
+    "대기, 하고 있어요…"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1602,
+      "technique": 2322,
+      "visual": 1770
+    },
+    "2": {
+      "performance": 1645,
+      "technique": 2385,
+      "visual": 1818
+    },
+    "3": {
+      "performance": 1691,
+      "technique": 2452,
+      "visual": 1869
+    },
+    "4": {
+      "performance": 1740,
+      "technique": 2523,
+      "visual": 1923
+    },
+    "5": {
+      "performance": 1792,
+      "technique": 2598,
+      "visual": 1980
+    },
+    "6": {
+      "performance": 1847,
+      "technique": 2677,
+      "visual": 2040
+    },
+    "7": {
+      "performance": 1905,
+      "technique": 2760,
+      "visual": 2104
+    },
+    "8": {
+      "performance": 1965,
+      "technique": 2848,
+      "visual": 2171
+    },
+    "9": {
+      "performance": 2028,
+      "technique": 2940,
+      "visual": 2241
+    },
+    "10": {
+      "performance": 2094,
+      "technique": 3036,
+      "visual": 2314
+    },
+    "11": {
+      "performance": 2163,
+      "technique": 3136,
+      "visual": 2390
+    },
+    "12": {
+      "performance": 2235,
+      "technique": 3240,
+      "visual": 2469
+    },
+    "13": {
+      "performance": 2310,
+      "technique": 3348,
+      "visual": 2552
+    },
+    "14": {
+      "performance": 2388,
+      "technique": 3461,
+      "visual": 2638
+    },
+    "15": {
+      "performance": 2469,
+      "technique": 3578,
+      "visual": 2727
+    },
+    "16": {
+      "performance": 2552,
+      "technique": 3699,
+      "visual": 2819
+    },
+    "17": {
+      "performance": 2638,
+      "technique": 3824,
+      "visual": 2914
+    },
+    "18": {
+      "performance": 2727,
+      "technique": 3953,
+      "visual": 3013
+    },
+    "19": {
+      "performance": 2819,
+      "technique": 4086,
+      "visual": 3115
+    },
+    "20": {
+      "performance": 2914,
+      "technique": 4224,
+      "visual": 3220
+    },
+    "21": {
+      "performance": 3012,
+      "technique": 4366,
+      "visual": 3328
+    },
+    "22": {
+      "performance": 3113,
+      "technique": 4512,
+      "visual": 3439
+    },
+    "23": {
+      "performance": 3217,
+      "technique": 4662,
+      "visual": 3553
+    },
+    "24": {
+      "performance": 3323,
+      "technique": 4816,
+      "visual": 3671
+    },
+    "25": {
+      "performance": 3432,
+      "technique": 4974,
+      "visual": 3792
+    },
+    "26": {
+      "performance": 3544,
+      "technique": 5137,
+      "visual": 3916
+    },
+    "27": {
+      "performance": 3659,
+      "technique": 5304,
+      "visual": 4043
+    },
+    "28": {
+      "performance": 3777,
+      "technique": 5475,
+      "visual": 4173
+    },
+    "29": {
+      "performance": 3898,
+      "technique": 5650,
+      "visual": 4306
+    },
+    "30": {
+      "performance": 4022,
+      "technique": 5829,
+      "visual": 4443
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "characterId": 22,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res022010",
+  "sdResourceName": "sd022010",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 425,
+        "episodeType": "standard",
+        "situationId": 268,
+        "scenarioId": "episode268",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "クッキーの感想",
+          "Cookie Feedback",
+          "餅乾的感想",
+          "对饼干的感想",
+          "쿠키의 감상"
+        ],
+        "characterId": 22
+      },
+      {
+        "episodeId": 426,
+        "episodeType": "memorial",
+        "situationId": 268,
+        "scenarioId": "memorial268",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "つぐみが教えてくれた事",
+          "What Tsugumi Taught Me",
+          "鶫教會我的事情",
+          "鸫教会的事情",
+          "츠구미가 가르쳐준 것"
+        ],
+        "characterId": 22
+      }
+    ]
+  },
+  "costumeId": 191,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "クッキーづくり",
+    "Making Cookies",
+    "製作餅乾",
+    "烘焙饼干",
+    "쿠키 만들기"
+  ],
+  "releasedAt": [
+    "1509429600000",
+    "1540947600000",
+    "1509433200000",
+    "1573534800000",
+    "1509429600000"
+  ],
+  "skillName": [
+    "分厚いクッキー",
+    "Dense Cookies",
+    "很厚的餅乾",
+    "浓厚的蛋糕",
+    "두꺼운 쿠키"
+  ],
+  "skillId": 3,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2088,
+      "technique": 3717,
+      "visual": 2745
+    },
+    "2": {
+      "performance": 2116,
+      "technique": 3767,
+      "visual": 2782
+    },
+    "3": {
+      "performance": 2146,
+      "technique": 3820,
+      "visual": 2821
+    },
+    "4": {
+      "performance": 2177,
+      "technique": 3875,
+      "visual": 2862
+    },
+    "5": {
+      "performance": 2210,
+      "technique": 3933,
+      "visual": 2905
+    },
+    "6": {
+      "performance": 2244,
+      "technique": 3993,
+      "visual": 2950
+    },
+    "7": {
+      "performance": 2279,
+      "technique": 4056,
+      "visual": 2996
+    },
+    "8": {
+      "performance": 2316,
+      "technique": 4121,
+      "visual": 3044
+    },
+    "9": {
+      "performance": 2354,
+      "technique": 4189,
+      "visual": 3094
+    },
+    "10": {
+      "performance": 2394,
+      "technique": 4260,
+      "visual": 3146
+    },
+    "11": {
+      "performance": 2435,
+      "technique": 4333,
+      "visual": 3200
+    },
+    "12": {
+      "performance": 2477,
+      "technique": 4409,
+      "visual": 3256
+    },
+    "13": {
+      "performance": 2521,
+      "technique": 4487,
+      "visual": 3314
+    },
+    "14": {
+      "performance": 2566,
+      "technique": 4568,
+      "visual": 3373
+    },
+    "15": {
+      "performance": 2613,
+      "technique": 4651,
+      "visual": 3434
+    },
+    "16": {
+      "performance": 2661,
+      "technique": 4737,
+      "visual": 3497
+    },
+    "17": {
+      "performance": 2711,
+      "technique": 4825,
+      "visual": 3562
+    },
+    "18": {
+      "performance": 2762,
+      "technique": 4916,
+      "visual": 3629
+    },
+    "19": {
+      "performance": 2814,
+      "technique": 5009,
+      "visual": 3698
+    },
+    "20": {
+      "performance": 2868,
+      "technique": 5105,
+      "visual": 3769
+    },
+    "21": {
+      "performance": 2923,
+      "technique": 5203,
+      "visual": 3841
+    },
+    "22": {
+      "performance": 2980,
+      "technique": 5304,
+      "visual": 3915
+    },
+    "23": {
+      "performance": 3038,
+      "technique": 5407,
+      "visual": 3991
+    },
+    "24": {
+      "performance": 3097,
+      "technique": 5513,
+      "visual": 4069
+    },
+    "25": {
+      "performance": 3158,
+      "technique": 5621,
+      "visual": 4149
+    },
+    "26": {
+      "performance": 3220,
+      "technique": 5732,
+      "visual": 4231
+    },
+    "27": {
+      "performance": 3284,
+      "technique": 5845,
+      "visual": 4315
+    },
+    "28": {
+      "performance": 3349,
+      "technique": 5961,
+      "visual": 4400
+    },
+    "29": {
+      "performance": 3415,
+      "technique": 6079,
+      "visual": 4487
+    },
+    "30": {
+      "performance": 3483,
+      "technique": 6200,
+      "visual": 4576
+    },
+    "31": {
+      "performance": 3552,
+      "technique": 6323,
+      "visual": 4667
+    },
+    "32": {
+      "performance": 3623,
+      "technique": 6449,
+      "visual": 4760
+    },
+    "33": {
+      "performance": 3695,
+      "technique": 6577,
+      "visual": 4855
+    },
+    "34": {
+      "performance": 3769,
+      "technique": 6708,
+      "visual": 4952
+    },
+    "35": {
+      "performance": 3844,
+      "technique": 6841,
+      "visual": 5050
+    },
+    "36": {
+      "performance": 3920,
+      "technique": 6977,
+      "visual": 5150
+    },
+    "37": {
+      "performance": 3998,
+      "technique": 7115,
+      "visual": 5252
+    },
+    "38": {
+      "performance": 4077,
+      "technique": 7256,
+      "visual": 5356
+    },
+    "39": {
+      "performance": 4158,
+      "technique": 7399,
+      "visual": 5462
+    },
+    "40": {
+      "performance": 4240,
+      "technique": 7545,
+      "visual": 5570
+    },
+    "41": {
+      "performance": 4359,
+      "technique": 7757,
+      "visual": 5727
+    },
+    "42": {
+      "performance": 4499,
+      "technique": 8007,
+      "visual": 5912
+    },
+    "43": {
+      "performance": 4661,
+      "technique": 8295,
+      "visual": 6125
+    },
+    "44": {
+      "performance": 4844,
+      "technique": 8621,
+      "visual": 6366
+    },
+    "45": {
+      "performance": 5048,
+      "technique": 8985,
+      "visual": 6635
+    },
+    "46": {
+      "performance": 5274,
+      "technique": 9387,
+      "visual": 6932
+    },
+    "47": {
+      "performance": 5521,
+      "technique": 9827,
+      "visual": 7257
+    },
+    "48": {
+      "performance": 5789,
+      "technique": 10305,
+      "visual": 7610
+    },
+    "49": {
+      "performance": 6079,
+      "technique": 10821,
+      "visual": 7991
+    },
+    "50": {
+      "performance": 6390,
+      "technique": 11375,
+      "visual": 8400
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

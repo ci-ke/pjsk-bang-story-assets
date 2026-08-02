@@ -1,0 +1,229 @@
+{
+  "characterId": 21,
+  "rarity": 1,
+  "attribute": "cool",
+  "levelLimit": 20,
+  "resourceSetName": "res021001",
+  "sdResourceName": "sd021001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 161,
+        "episodeType": "standard",
+        "situationId": 81,
+        "scenarioId": "episode081",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 21
+      },
+      {
+        "episodeId": 162,
+        "episodeType": "memorial",
+        "situationId": 81,
+        "scenarioId": "memorial081",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自分の限界を超えて",
+          "Broadening Horizons",
+          "超越自己的極限",
+          "超越自己的极限",
+          "나의 한계를 넘어서"
+        ],
+        "characterId": 21
+      }
+    ]
+  },
+  "costumeId": 1628,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "孤高の歌姫",
+    "Lone-Wolf Songstress",
+    "孤高的歌姫",
+    "孤高的歌姬",
+    "고고한 디바"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "クールボイス",
+    "Voice Of Cool",
+    "COOL VOICE",
+    "帅气的嗓音",
+    "쿨 보이스"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1200,
+      "technique": 900,
+      "visual": 720
+    },
+    "2": {
+      "performance": 1250,
+      "technique": 938,
+      "visual": 750
+    },
+    "3": {
+      "performance": 1305,
+      "technique": 979,
+      "visual": 783
+    },
+    "4": {
+      "performance": 1365,
+      "technique": 1024,
+      "visual": 819
+    },
+    "5": {
+      "performance": 1430,
+      "technique": 1073,
+      "visual": 858
+    },
+    "6": {
+      "performance": 1500,
+      "technique": 1126,
+      "visual": 900
+    },
+    "7": {
+      "performance": 1575,
+      "technique": 1183,
+      "visual": 945
+    },
+    "8": {
+      "performance": 1655,
+      "technique": 1243,
+      "visual": 993
+    },
+    "9": {
+      "performance": 1740,
+      "technique": 1307,
+      "visual": 1044
+    },
+    "10": {
+      "performance": 1830,
+      "technique": 1375,
+      "visual": 1098
+    },
+    "11": {
+      "performance": 1925,
+      "technique": 1447,
+      "visual": 1155
+    },
+    "12": {
+      "performance": 2025,
+      "technique": 1522,
+      "visual": 1215
+    },
+    "13": {
+      "performance": 2130,
+      "technique": 1601,
+      "visual": 1278
+    },
+    "14": {
+      "performance": 2240,
+      "technique": 1684,
+      "visual": 1344
+    },
+    "15": {
+      "performance": 2355,
+      "technique": 1771,
+      "visual": 1413
+    },
+    "16": {
+      "performance": 2475,
+      "technique": 1861,
+      "visual": 1485
+    },
+    "17": {
+      "performance": 2600,
+      "technique": 1955,
+      "visual": 1560
+    },
+    "18": {
+      "performance": 2730,
+      "technique": 2053,
+      "visual": 1638
+    },
+    "19": {
+      "performance": 2865,
+      "technique": 2155,
+      "visual": 1719
+    },
+    "20": {
+      "performance": 3005,
+      "technique": 2260,
+      "visual": 1803
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

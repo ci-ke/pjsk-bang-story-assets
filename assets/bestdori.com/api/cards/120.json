@@ -1,0 +1,288 @@
+{
+  "characterId": 5,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res005006",
+  "sdResourceName": "sd005006",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 239,
+        "episodeType": "standard",
+        "situationId": 120,
+        "scenarioId": "episode120",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "みんなで何かしたい！",
+          "Let's All Do Something!",
+          "想要大家一起做些什麼！",
+          "大家想尽一份力！",
+          "다 같이 뭔가 하고 싶어!"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 240,
+        "episodeType": "memorial",
+        "situationId": 120,
+        "scenarioId": "memorial120",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "やる気があれば",
+          "Just Need Motivation",
+          "只要有幹勁",
+          "若是有心",
+          "의지만 있다면"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 316,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "５人でお泊り",
+    "Five-Person Sleepover",
+    "５人一起過夜",
+    "5人一起过夜",
+    "다섯 명이서 합숙"
+  ],
+  "releasedAt": [
+    "1492754400000",
+    "1524963600000",
+    "1492758000000",
+    "1492758000000",
+    "1492754400000"
+  ],
+  "skillName": [
+    "わ、私の家に泊まるなんてっ",
+    "Sleepover? At My House?",
+    "居、居然要住在我家",
+    "在、在我家过夜什么的",
+    "내, 내 집에서 자다니!"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2400,
+      "technique": 1800,
+      "visual": 1440
+    },
+    "2": {
+      "performance": 2465,
+      "technique": 1849,
+      "visual": 1479
+    },
+    "3": {
+      "performance": 2534,
+      "technique": 1901,
+      "visual": 1520
+    },
+    "4": {
+      "performance": 2607,
+      "technique": 1956,
+      "visual": 1564
+    },
+    "5": {
+      "performance": 2685,
+      "technique": 2014,
+      "visual": 1611
+    },
+    "6": {
+      "performance": 2767,
+      "technique": 2075,
+      "visual": 1660
+    },
+    "7": {
+      "performance": 2853,
+      "technique": 2140,
+      "visual": 1712
+    },
+    "8": {
+      "performance": 2944,
+      "technique": 2208,
+      "visual": 1766
+    },
+    "9": {
+      "performance": 3039,
+      "technique": 2279,
+      "visual": 1823
+    },
+    "10": {
+      "performance": 3138,
+      "technique": 2353,
+      "visual": 1882
+    },
+    "11": {
+      "performance": 3241,
+      "technique": 2431,
+      "visual": 1944
+    },
+    "12": {
+      "performance": 3349,
+      "technique": 2512,
+      "visual": 2009
+    },
+    "13": {
+      "performance": 3461,
+      "technique": 2596,
+      "visual": 2076
+    },
+    "14": {
+      "performance": 3577,
+      "technique": 2683,
+      "visual": 2146
+    },
+    "15": {
+      "performance": 3698,
+      "technique": 2773,
+      "visual": 2218
+    },
+    "16": {
+      "performance": 3823,
+      "technique": 2867,
+      "visual": 2293
+    },
+    "17": {
+      "performance": 3952,
+      "technique": 2964,
+      "visual": 2371
+    },
+    "18": {
+      "performance": 4086,
+      "technique": 3064,
+      "visual": 2451
+    },
+    "19": {
+      "performance": 4224,
+      "technique": 3167,
+      "visual": 2534
+    },
+    "20": {
+      "performance": 4366,
+      "technique": 3274,
+      "visual": 2619
+    },
+    "21": {
+      "performance": 4512,
+      "technique": 3384,
+      "visual": 2707
+    },
+    "22": {
+      "performance": 4663,
+      "technique": 3497,
+      "visual": 2797
+    },
+    "23": {
+      "performance": 4818,
+      "technique": 3613,
+      "visual": 2890
+    },
+    "24": {
+      "performance": 4977,
+      "technique": 3733,
+      "visual": 2986
+    },
+    "25": {
+      "performance": 5141,
+      "technique": 3856,
+      "visual": 3084
+    },
+    "26": {
+      "performance": 5309,
+      "technique": 3982,
+      "visual": 3185
+    },
+    "27": {
+      "performance": 5481,
+      "technique": 4111,
+      "visual": 3288
+    },
+    "28": {
+      "performance": 5658,
+      "technique": 4243,
+      "visual": 3394
+    },
+    "29": {
+      "performance": 5839,
+      "technique": 4379,
+      "visual": 3503
+    },
+    "30": {
+      "performance": 6024,
+      "technique": 4518,
+      "visual": 3614
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

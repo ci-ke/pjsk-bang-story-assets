@@ -1,0 +1,229 @@
+{
+  "characterId": 23,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res023001",
+  "sdResourceName": "sd023001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 177,
+        "episodeType": "standard",
+        "situationId": 89,
+        "scenarioId": "episode089",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 23
+      },
+      {
+        "episodeId": 178,
+        "episodeType": "memorial",
+        "situationId": 89,
+        "scenarioId": "memorial089",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ナイショだからね？",
+          "Our Little Secret",
+          "這是祕密喔",
+          "要保密哦？",
+          "비밀이야, 알았지?"
+        ],
+        "characterId": 23
+      }
+    ]
+  },
+  "costumeId": 1630,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ムードメーカー☆",
+    "Mood Maker☆",
+    "氣氛製造者☆",
+    "气氛活跃者☆",
+    "무드 메이커☆"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "ネイルはばっちり！",
+    "Nails On Point!",
+    "指甲彩繪完成囉！",
+    "美甲很完美！",
+    "네일은 완벽해!"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1026,
+      "technique": 906,
+      "visual": 1074
+    },
+    "2": {
+      "performance": 1068,
+      "technique": 943,
+      "visual": 1118
+    },
+    "3": {
+      "performance": 1114,
+      "technique": 984,
+      "visual": 1166
+    },
+    "4": {
+      "performance": 1164,
+      "technique": 1028,
+      "visual": 1219
+    },
+    "5": {
+      "performance": 1218,
+      "technique": 1076,
+      "visual": 1276
+    },
+    "6": {
+      "performance": 1277,
+      "technique": 1128,
+      "visual": 1337
+    },
+    "7": {
+      "performance": 1340,
+      "technique": 1183,
+      "visual": 1403
+    },
+    "8": {
+      "performance": 1407,
+      "technique": 1242,
+      "visual": 1473
+    },
+    "9": {
+      "performance": 1478,
+      "technique": 1305,
+      "visual": 1547
+    },
+    "10": {
+      "performance": 1553,
+      "technique": 1371,
+      "visual": 1626
+    },
+    "11": {
+      "performance": 1632,
+      "technique": 1441,
+      "visual": 1709
+    },
+    "12": {
+      "performance": 1716,
+      "technique": 1515,
+      "visual": 1796
+    },
+    "13": {
+      "performance": 1804,
+      "technique": 1592,
+      "visual": 1888
+    },
+    "14": {
+      "performance": 1896,
+      "technique": 1673,
+      "visual": 1984
+    },
+    "15": {
+      "performance": 1992,
+      "technique": 1758,
+      "visual": 2085
+    },
+    "16": {
+      "performance": 2092,
+      "technique": 1847,
+      "visual": 2190
+    },
+    "17": {
+      "performance": 2196,
+      "technique": 1939,
+      "visual": 2299
+    },
+    "18": {
+      "performance": 2305,
+      "technique": 2035,
+      "visual": 2413
+    },
+    "19": {
+      "performance": 2418,
+      "technique": 2135,
+      "visual": 2531
+    },
+    "20": {
+      "performance": 2535,
+      "technique": 2238,
+      "visual": 2653
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

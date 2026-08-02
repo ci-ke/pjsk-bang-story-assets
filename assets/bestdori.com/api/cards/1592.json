@@ -1,0 +1,436 @@
+{
+  "characterId": 2,
+  "rarity": 5,
+  "attribute": "powerful",
+  "levelLimit": 60,
+  "resourceSetName": "res002054",
+  "sdResourceName": "sd002054",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2601,
+        "episodeType": "animation",
+        "situationId": 1592,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "夏、踏切をこえて",
+          "Summer Train Crossing",
+          "夏日，穿越鐵軌",
+          "夏季，跨越道口",
+          "여름, 건널목을 지나"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 2602,
+        "episodeType": "memorial",
+        "situationId": 1592,
+        "scenarioId": "memorial1592",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "二つの足音、重なって",
+          "Pairs of Footsteps in Unison",
+          "兩道腳步聲，交疊",
+          "两道脚步声，重叠",
+          "두 개의 발소리, 겹치고"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 1470,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "夏、踏切をこえて",
+    "Summer Train Crossing",
+    "夏日，穿越鐵軌",
+    "夏日，跨越道口",
+    "여름, 건널목을 지나"
+  ],
+  "releasedAt": [
+    "1659247200000",
+    "1659279600000",
+    "1669705200000",
+    "1659250800000",
+    "1659247200000"
+  ],
+  "skillName": [
+    "出張パワースポット花園",
+    "Mobile Power Spot Hanazono",
+    "出差行動電源花園",
+    "移动能量场花园",
+    "출장 심령 장소 화원"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1592,
+    "assetBundleName": "mov002001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3556,
+      "technique": 3503,
+      "visual": 3651
+    },
+    "2": {
+      "performance": 3620,
+      "technique": 3566,
+      "visual": 3717
+    },
+    "3": {
+      "performance": 3686,
+      "technique": 3631,
+      "visual": 3785
+    },
+    "4": {
+      "performance": 3754,
+      "technique": 3698,
+      "visual": 3855
+    },
+    "5": {
+      "performance": 3825,
+      "technique": 3768,
+      "visual": 3927
+    },
+    "6": {
+      "performance": 3898,
+      "technique": 3840,
+      "visual": 4002
+    },
+    "7": {
+      "performance": 3973,
+      "technique": 3914,
+      "visual": 4079
+    },
+    "8": {
+      "performance": 4050,
+      "technique": 3990,
+      "visual": 4158
+    },
+    "9": {
+      "performance": 4129,
+      "technique": 4068,
+      "visual": 4239
+    },
+    "10": {
+      "performance": 4210,
+      "technique": 4148,
+      "visual": 4322
+    },
+    "11": {
+      "performance": 4293,
+      "technique": 4230,
+      "visual": 4407
+    },
+    "12": {
+      "performance": 4379,
+      "technique": 4314,
+      "visual": 4495
+    },
+    "13": {
+      "performance": 4467,
+      "technique": 4400,
+      "visual": 4585
+    },
+    "14": {
+      "performance": 4557,
+      "technique": 4489,
+      "visual": 4677
+    },
+    "15": {
+      "performance": 4649,
+      "technique": 4580,
+      "visual": 4771
+    },
+    "16": {
+      "performance": 4743,
+      "technique": 4673,
+      "visual": 4867
+    },
+    "17": {
+      "performance": 4839,
+      "technique": 4768,
+      "visual": 4966
+    },
+    "18": {
+      "performance": 4937,
+      "technique": 4865,
+      "visual": 5067
+    },
+    "19": {
+      "performance": 5037,
+      "technique": 4964,
+      "visual": 5170
+    },
+    "20": {
+      "performance": 5140,
+      "technique": 5065,
+      "visual": 5275
+    },
+    "21": {
+      "performance": 5245,
+      "technique": 5168,
+      "visual": 5382
+    },
+    "22": {
+      "performance": 5352,
+      "technique": 5273,
+      "visual": 5492
+    },
+    "23": {
+      "performance": 5461,
+      "technique": 5380,
+      "visual": 5604
+    },
+    "24": {
+      "performance": 5572,
+      "technique": 5490,
+      "visual": 5718
+    },
+    "25": {
+      "performance": 5685,
+      "technique": 5602,
+      "visual": 5834
+    },
+    "26": {
+      "performance": 5800,
+      "technique": 5716,
+      "visual": 5952
+    },
+    "27": {
+      "performance": 5918,
+      "technique": 5832,
+      "visual": 6073
+    },
+    "28": {
+      "performance": 6038,
+      "technique": 5950,
+      "visual": 6196
+    },
+    "29": {
+      "performance": 6160,
+      "technique": 6070,
+      "visual": 6321
+    },
+    "30": {
+      "performance": 6284,
+      "technique": 6192,
+      "visual": 6448
+    },
+    "31": {
+      "performance": 6410,
+      "technique": 6316,
+      "visual": 6577
+    },
+    "32": {
+      "performance": 6538,
+      "technique": 6442,
+      "visual": 6708
+    },
+    "33": {
+      "performance": 6668,
+      "technique": 6571,
+      "visual": 6842
+    },
+    "34": {
+      "performance": 6801,
+      "technique": 6702,
+      "visual": 6978
+    },
+    "35": {
+      "performance": 6936,
+      "technique": 6835,
+      "visual": 7116
+    },
+    "36": {
+      "performance": 7073,
+      "technique": 6970,
+      "visual": 7256
+    },
+    "37": {
+      "performance": 7212,
+      "technique": 7107,
+      "visual": 7398
+    },
+    "38": {
+      "performance": 7353,
+      "technique": 7246,
+      "visual": 7543
+    },
+    "39": {
+      "performance": 7496,
+      "technique": 7387,
+      "visual": 7690
+    },
+    "40": {
+      "performance": 7641,
+      "technique": 7530,
+      "visual": 7839
+    },
+    "41": {
+      "performance": 7789,
+      "technique": 7675,
+      "visual": 7990
+    },
+    "42": {
+      "performance": 7939,
+      "technique": 7823,
+      "visual": 8143
+    },
+    "43": {
+      "performance": 8091,
+      "technique": 7973,
+      "visual": 8299
+    },
+    "44": {
+      "performance": 8245,
+      "technique": 8125,
+      "visual": 8457
+    },
+    "45": {
+      "performance": 8401,
+      "technique": 8279,
+      "visual": 8617
+    },
+    "46": {
+      "performance": 8559,
+      "technique": 8435,
+      "visual": 8779
+    },
+    "47": {
+      "performance": 8719,
+      "technique": 8593,
+      "visual": 8943
+    },
+    "48": {
+      "performance": 8881,
+      "technique": 8753,
+      "visual": 9110
+    },
+    "49": {
+      "performance": 9046,
+      "technique": 8915,
+      "visual": 9279
+    },
+    "50": {
+      "performance": 9213,
+      "technique": 9079,
+      "visual": 9450
+    },
+    "51": {
+      "performance": 9382,
+      "technique": 9245,
+      "visual": 9623
+    },
+    "52": {
+      "performance": 9553,
+      "technique": 9414,
+      "visual": 9798
+    },
+    "53": {
+      "performance": 9726,
+      "technique": 9585,
+      "visual": 9976
+    },
+    "54": {
+      "performance": 9901,
+      "technique": 9758,
+      "visual": 10156
+    },
+    "55": {
+      "performance": 10078,
+      "technique": 9933,
+      "visual": 10338
+    },
+    "56": {
+      "performance": 10258,
+      "technique": 10110,
+      "visual": 10522
+    },
+    "57": {
+      "performance": 10440,
+      "technique": 10289,
+      "visual": 10708
+    },
+    "58": {
+      "performance": 10624,
+      "technique": 10470,
+      "visual": 10896
+    },
+    "59": {
+      "performance": 10810,
+      "technique": 10653,
+      "visual": 11087
+    },
+    "60": {
+      "performance": 10998,
+      "technique": 10839,
+      "visual": 11280
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

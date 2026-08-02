@@ -1,0 +1,288 @@
+{
+  "characterId": 4,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res004013",
+  "sdResourceName": "sd004013",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 511,
+        "episodeType": "standard",
+        "situationId": 341,
+        "scenarioId": "episode341",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "パジャマづくり",
+          "Making Pajamas",
+          "來做睡衣吧",
+          "制作睡衣",
+          "파자마 만들기"
+        ],
+        "characterId": 4
+      },
+      {
+        "episodeId": 512,
+        "episodeType": "memorial",
+        "situationId": 341,
+        "scenarioId": "memorial341",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "記念の写真プレート",
+          "Souvenir Picture Plates",
+          "紀念的照片蒐集冊",
+          "纪念照片相架",
+          "기념사진 액자"
+        ],
+        "characterId": 4
+      }
+    ]
+  },
+  "costumeId": 245,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "カラフルポッピン！",
+    "Poppin' Colors!",
+    "繽紛Poppin！",
+    "Colorful Poppin！",
+    "컬러풀 팝핀!"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "弟と妹へ",
+    "To My Younger Siblings",
+    "給弟弟和妹妹",
+    "给弟弟妹妹",
+    "동생들한테"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1818,
+      "technique": 2034,
+      "visual": 2268
+    },
+    "2": {
+      "performance": 1866,
+      "technique": 2088,
+      "visual": 2328
+    },
+    "3": {
+      "performance": 1918,
+      "technique": 2146,
+      "visual": 2392
+    },
+    "4": {
+      "performance": 1973,
+      "technique": 2207,
+      "visual": 2460
+    },
+    "5": {
+      "performance": 2031,
+      "technique": 2272,
+      "visual": 2532
+    },
+    "6": {
+      "performance": 2092,
+      "technique": 2341,
+      "visual": 2608
+    },
+    "7": {
+      "performance": 2156,
+      "technique": 2413,
+      "visual": 2688
+    },
+    "8": {
+      "performance": 2224,
+      "technique": 2489,
+      "visual": 2772
+    },
+    "9": {
+      "performance": 2295,
+      "technique": 2568,
+      "visual": 2860
+    },
+    "10": {
+      "performance": 2369,
+      "technique": 2651,
+      "visual": 2952
+    },
+    "11": {
+      "performance": 2446,
+      "technique": 2738,
+      "visual": 3048
+    },
+    "12": {
+      "performance": 2527,
+      "technique": 2828,
+      "visual": 3148
+    },
+    "13": {
+      "performance": 2611,
+      "technique": 2922,
+      "visual": 3252
+    },
+    "14": {
+      "performance": 2698,
+      "technique": 3019,
+      "visual": 3360
+    },
+    "15": {
+      "performance": 2788,
+      "technique": 3120,
+      "visual": 3473
+    },
+    "16": {
+      "performance": 2881,
+      "technique": 3225,
+      "visual": 3590
+    },
+    "17": {
+      "performance": 2978,
+      "technique": 3333,
+      "visual": 3711
+    },
+    "18": {
+      "performance": 3078,
+      "technique": 3445,
+      "visual": 3836
+    },
+    "19": {
+      "performance": 3181,
+      "technique": 3560,
+      "visual": 3965
+    },
+    "20": {
+      "performance": 3287,
+      "technique": 3679,
+      "visual": 4098
+    },
+    "21": {
+      "performance": 3397,
+      "technique": 3802,
+      "visual": 4235
+    },
+    "22": {
+      "performance": 3510,
+      "technique": 3928,
+      "visual": 4376
+    },
+    "23": {
+      "performance": 3626,
+      "technique": 4058,
+      "visual": 4521
+    },
+    "24": {
+      "performance": 3745,
+      "technique": 4191,
+      "visual": 4670
+    },
+    "25": {
+      "performance": 3867,
+      "technique": 4328,
+      "visual": 4823
+    },
+    "26": {
+      "performance": 3993,
+      "technique": 4469,
+      "visual": 4980
+    },
+    "27": {
+      "performance": 4122,
+      "technique": 4613,
+      "visual": 5141
+    },
+    "28": {
+      "performance": 4254,
+      "technique": 4761,
+      "visual": 5306
+    },
+    "29": {
+      "performance": 4389,
+      "technique": 4912,
+      "visual": 5475
+    },
+    "30": {
+      "performance": 4527,
+      "technique": 5067,
+      "visual": 5648
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "characterId": 14,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res014015",
+  "sdResourceName": "sd014015",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 531,
+        "episodeType": "standard",
+        "situationId": 351,
+        "scenarioId": "episode351",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "楽しむことの大切さ",
+          "The Importance of Having Fun",
+          "有趣的事也很重要",
+          "快乐的重要性",
+          "즐기는 것의 소중함"
+        ],
+        "characterId": 14
+      },
+      {
+        "episodeId": 532,
+        "episodeType": "memorial",
+        "situationId": 351,
+        "scenarioId": "memorial351",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "見つけなきゃ……",
+          "I Have to Find It...",
+          "必須找出來……",
+          "必须要找到……",
+          "찾아야지……"
+        ],
+        "characterId": 14
+      }
+    ]
+  },
+  "costumeId": 255,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "笑顔のマジック",
+    "The Magic of Smiles",
+    "笑容的魔術",
+    "笑容的魔法",
+    "웃는 얼굴의 매직"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "ちょっとは成長したのかな？",
+    "Have I Done a Bit of Growing?",
+    "有點成長嗎？",
+    "我有所成长了吗？",
+    "조금은 성장했으려나?"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2046,
+      "technique": 1800,
+      "visual": 2274
+    },
+    "2": {
+      "performance": 2100,
+      "technique": 1848,
+      "visual": 2334
+    },
+    "3": {
+      "performance": 2158,
+      "technique": 1899,
+      "visual": 2399
+    },
+    "4": {
+      "performance": 2220,
+      "technique": 1953,
+      "visual": 2468
+    },
+    "5": {
+      "performance": 2285,
+      "technique": 2010,
+      "visual": 2541
+    },
+    "6": {
+      "performance": 2354,
+      "technique": 2071,
+      "visual": 2618
+    },
+    "7": {
+      "performance": 2427,
+      "technique": 2135,
+      "visual": 2699
+    },
+    "8": {
+      "performance": 2503,
+      "technique": 2202,
+      "visual": 2784
+    },
+    "9": {
+      "performance": 2583,
+      "technique": 2272,
+      "visual": 2873
+    },
+    "10": {
+      "performance": 2666,
+      "technique": 2345,
+      "visual": 2966
+    },
+    "11": {
+      "performance": 2753,
+      "technique": 2422,
+      "visual": 3063
+    },
+    "12": {
+      "performance": 2844,
+      "technique": 2502,
+      "visual": 3164
+    },
+    "13": {
+      "performance": 2938,
+      "technique": 2585,
+      "visual": 3269
+    },
+    "14": {
+      "performance": 3036,
+      "technique": 2671,
+      "visual": 3378
+    },
+    "15": {
+      "performance": 3138,
+      "technique": 2760,
+      "visual": 3491
+    },
+    "16": {
+      "performance": 3243,
+      "technique": 2852,
+      "visual": 3608
+    },
+    "17": {
+      "performance": 3352,
+      "technique": 2948,
+      "visual": 3729
+    },
+    "18": {
+      "performance": 3464,
+      "technique": 3047,
+      "visual": 3854
+    },
+    "19": {
+      "performance": 3580,
+      "technique": 3149,
+      "visual": 3983
+    },
+    "20": {
+      "performance": 3700,
+      "technique": 3254,
+      "visual": 4116
+    },
+    "21": {
+      "performance": 3823,
+      "technique": 3362,
+      "visual": 4253
+    },
+    "22": {
+      "performance": 3950,
+      "technique": 3474,
+      "visual": 4394
+    },
+    "23": {
+      "performance": 4080,
+      "technique": 3589,
+      "visual": 4539
+    },
+    "24": {
+      "performance": 4214,
+      "technique": 3707,
+      "visual": 4688
+    },
+    "25": {
+      "performance": 4352,
+      "technique": 3828,
+      "visual": 4841
+    },
+    "26": {
+      "performance": 4493,
+      "technique": 3952,
+      "visual": 4998
+    },
+    "27": {
+      "performance": 4638,
+      "technique": 4080,
+      "visual": 5159
+    },
+    "28": {
+      "performance": 4787,
+      "technique": 4211,
+      "visual": 5324
+    },
+    "29": {
+      "performance": 4939,
+      "technique": 4345,
+      "visual": 5493
+    },
+    "30": {
+      "performance": 5095,
+      "technique": 4482,
+      "visual": 5666
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

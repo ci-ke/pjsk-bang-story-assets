@@ -1,0 +1,288 @@
+{
+  "characterId": 25,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res025028",
+  "sdResourceName": "sd025028",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1125,
+        "episodeType": "standard",
+        "situationId": 711,
+        "scenarioId": "episode711",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "支え合える仲間",
+          "Support Network",
+          "互相扶持的同伴",
+          "互相支撑的同伴",
+          "서로 돕는 친구"
+        ],
+        "characterId": 25
+      },
+      {
+        "episodeId": 1126,
+        "episodeType": "memorial",
+        "situationId": 711,
+        "scenarioId": "memorial711",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "コンテストに向けて",
+          "Preparing for Competition",
+          "面對比賽",
+          "为比赛做准备",
+          "콘테스트를 목표로"
+        ],
+        "characterId": 25
+      }
+    ]
+  },
+  "costumeId": 662,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "内に秘めた情熱",
+    "Hidden Passion",
+    "秘藏於內的熱情",
+    "藏在内心深处的热情",
+    "마음속에 간직한 정열"
+  ],
+  "releasedAt": [
+    "1560232800000",
+    "1591837200000",
+    "1571468400000",
+    "1609218000000",
+    "1560232800000"
+  ],
+  "skillName": [
+    "立ち向かう強さ",
+    "Power to Fight Back",
+    "挺身面對的堅強",
+    "直面前方的坚强",
+    "마주 보는 강함"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2220,
+      "technique": 1920,
+      "visual": 1740
+    },
+    "2": {
+      "performance": 2280,
+      "technique": 1972,
+      "visual": 1787
+    },
+    "3": {
+      "performance": 2344,
+      "technique": 2027,
+      "visual": 1837
+    },
+    "4": {
+      "performance": 2412,
+      "technique": 2086,
+      "visual": 1890
+    },
+    "5": {
+      "performance": 2484,
+      "technique": 2148,
+      "visual": 1946
+    },
+    "6": {
+      "performance": 2560,
+      "technique": 2214,
+      "visual": 2005
+    },
+    "7": {
+      "performance": 2640,
+      "technique": 2283,
+      "visual": 2068
+    },
+    "8": {
+      "performance": 2724,
+      "technique": 2355,
+      "visual": 2134
+    },
+    "9": {
+      "performance": 2812,
+      "technique": 2431,
+      "visual": 2203
+    },
+    "10": {
+      "performance": 2904,
+      "technique": 2510,
+      "visual": 2275
+    },
+    "11": {
+      "performance": 3000,
+      "technique": 2593,
+      "visual": 2350
+    },
+    "12": {
+      "performance": 3100,
+      "technique": 2679,
+      "visual": 2428
+    },
+    "13": {
+      "performance": 3204,
+      "technique": 2769,
+      "visual": 2509
+    },
+    "14": {
+      "performance": 3312,
+      "technique": 2862,
+      "visual": 2593
+    },
+    "15": {
+      "performance": 3424,
+      "technique": 2959,
+      "visual": 2680
+    },
+    "16": {
+      "performance": 3540,
+      "technique": 3059,
+      "visual": 2771
+    },
+    "17": {
+      "performance": 3660,
+      "technique": 3162,
+      "visual": 2865
+    },
+    "18": {
+      "performance": 3784,
+      "technique": 3269,
+      "visual": 2962
+    },
+    "19": {
+      "performance": 3912,
+      "technique": 3379,
+      "visual": 3062
+    },
+    "20": {
+      "performance": 4044,
+      "technique": 3493,
+      "visual": 3165
+    },
+    "21": {
+      "performance": 4179,
+      "technique": 3610,
+      "visual": 3271
+    },
+    "22": {
+      "performance": 4318,
+      "technique": 3731,
+      "visual": 3380
+    },
+    "23": {
+      "performance": 4461,
+      "technique": 3855,
+      "visual": 3492
+    },
+    "24": {
+      "performance": 4608,
+      "technique": 3983,
+      "visual": 3608
+    },
+    "25": {
+      "performance": 4759,
+      "technique": 4114,
+      "visual": 3727
+    },
+    "26": {
+      "performance": 4914,
+      "technique": 4248,
+      "visual": 3849
+    },
+    "27": {
+      "performance": 5073,
+      "technique": 4386,
+      "visual": 3974
+    },
+    "28": {
+      "performance": 5236,
+      "technique": 4527,
+      "visual": 4102
+    },
+    "29": {
+      "performance": 5403,
+      "technique": 4672,
+      "visual": 4233
+    },
+    "30": {
+      "performance": 5574,
+      "technique": 4820,
+      "visual": 4367
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

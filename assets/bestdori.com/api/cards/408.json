@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res010017",
+  "sdResourceName": "sd010017",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 625,
+        "episodeType": "standard",
+        "situationId": 408,
+        "scenarioId": "episode408",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お土産を選ぼう",
+          "Let's Choose Souvenirs",
+          "來選土產吧",
+          "挑选特产吧",
+          "선물을 고르자"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 626,
+        "episodeType": "memorial",
+        "situationId": 408,
+        "scenarioId": "memorial408",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "信頼関係",
+          "Relationship of Trust",
+          "信賴關係",
+          "信任关系",
+          "신뢰 관계"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 302,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "大事な忘れ物",
+    "Forgetting Something Important",
+    "重要的失物",
+    "重要的遗失物品",
+    "까먹은 중요한 일"
+  ],
+  "releasedAt": [
+    "1521612000000",
+    "1553043600000",
+    "1521615600000",
+    "1582606800000",
+    "1521612000000"
+  ],
+  "skillName": [
+    "特等席の迫力っ！",
+    "Intensity of the Front Row!",
+    "特等座位的魄力！",
+    "特等席的魄力！",
+    "일등석의 박력!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1830,
+      "technique": 2514,
+      "visual": 1356
+    },
+    "2": {
+      "performance": 1880,
+      "technique": 2583,
+      "visual": 1393
+    },
+    "3": {
+      "performance": 1933,
+      "technique": 2656,
+      "visual": 1433
+    },
+    "4": {
+      "performance": 1990,
+      "technique": 2734,
+      "visual": 1475
+    },
+    "5": {
+      "performance": 2050,
+      "technique": 2816,
+      "visual": 1519
+    },
+    "6": {
+      "performance": 2113,
+      "technique": 2903,
+      "visual": 1566
+    },
+    "7": {
+      "performance": 2180,
+      "technique": 2995,
+      "visual": 1615
+    },
+    "8": {
+      "performance": 2250,
+      "technique": 3091,
+      "visual": 1667
+    },
+    "9": {
+      "performance": 2323,
+      "technique": 3192,
+      "visual": 1721
+    },
+    "10": {
+      "performance": 2400,
+      "technique": 3297,
+      "visual": 1778
+    },
+    "11": {
+      "performance": 2480,
+      "technique": 3407,
+      "visual": 1837
+    },
+    "12": {
+      "performance": 2563,
+      "technique": 3521,
+      "visual": 1899
+    },
+    "13": {
+      "performance": 2650,
+      "technique": 3640,
+      "visual": 1963
+    },
+    "14": {
+      "performance": 2740,
+      "technique": 3763,
+      "visual": 2030
+    },
+    "15": {
+      "performance": 2833,
+      "technique": 3891,
+      "visual": 2099
+    },
+    "16": {
+      "performance": 2930,
+      "technique": 4024,
+      "visual": 2171
+    },
+    "17": {
+      "performance": 3030,
+      "technique": 4161,
+      "visual": 2245
+    },
+    "18": {
+      "performance": 3133,
+      "technique": 4303,
+      "visual": 2321
+    },
+    "19": {
+      "performance": 3240,
+      "technique": 4449,
+      "visual": 2400
+    },
+    "20": {
+      "performance": 3350,
+      "technique": 4600,
+      "visual": 2481
+    },
+    "21": {
+      "performance": 3463,
+      "technique": 4755,
+      "visual": 2565
+    },
+    "22": {
+      "performance": 3580,
+      "technique": 4915,
+      "visual": 2651
+    },
+    "23": {
+      "performance": 3700,
+      "technique": 5080,
+      "visual": 2740
+    },
+    "24": {
+      "performance": 3823,
+      "technique": 5249,
+      "visual": 2831
+    },
+    "25": {
+      "performance": 3949,
+      "technique": 5423,
+      "visual": 2925
+    },
+    "26": {
+      "performance": 4079,
+      "technique": 5601,
+      "visual": 3021
+    },
+    "27": {
+      "performance": 4212,
+      "technique": 5784,
+      "visual": 3120
+    },
+    "28": {
+      "performance": 4348,
+      "technique": 5971,
+      "visual": 3221
+    },
+    "29": {
+      "performance": 4488,
+      "technique": 6163,
+      "visual": 3325
+    },
+    "30": {
+      "performance": 4631,
+      "technique": 6360,
+      "visual": 3431
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

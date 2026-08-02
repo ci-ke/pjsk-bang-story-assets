@@ -1,0 +1,288 @@
+{
+  "characterId": 12,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res012006",
+  "sdResourceName": "sd012006",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 289,
+        "episodeType": "standard",
+        "situationId": 145,
+        "scenarioId": "episode145",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "結婚式のやり直し",
+          "Wedding Redo",
+          "重辦結婚典禮",
+          "重新举办结婚典礼",
+          "결혼식 다시 하기"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 290,
+        "episodeType": "memorial",
+        "situationId": 145,
+        "scenarioId": "memorial145",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "タキシードの男役",
+          "Tuxedo Cosplay",
+          "扮演穿著禮服的男性",
+          "无尾晚礼服的男性角色",
+          "턱시도의 남자역"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 325,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "姫を守る王子",
+    "Protective Prince",
+    "守護公主的王子",
+    "保护公主的王子",
+    "공주를 지키는 왕자님"
+  ],
+  "releasedAt": [
+    "1497074400000",
+    "1528765200000",
+    "1497078000000",
+    "1497078000000",
+    "1497074400000"
+  ],
+  "skillName": [
+    "美しさという罪",
+    "Cursed Beauty",
+    "美是一種罪過",
+    "名为美丽的罪",
+    "아름다움이란 죄"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "limited",
+  "stat": {
+    "1": {
+      "performance": 1566,
+      "technique": 2316,
+      "visual": 1812
+    },
+    "2": {
+      "performance": 1608,
+      "technique": 2378,
+      "visual": 1861
+    },
+    "3": {
+      "performance": 1653,
+      "technique": 2445,
+      "visual": 1913
+    },
+    "4": {
+      "performance": 1701,
+      "technique": 2516,
+      "visual": 1968
+    },
+    "5": {
+      "performance": 1752,
+      "technique": 2591,
+      "visual": 2027
+    },
+    "6": {
+      "performance": 1805,
+      "technique": 2670,
+      "visual": 2089
+    },
+    "7": {
+      "performance": 1861,
+      "technique": 2753,
+      "visual": 2154
+    },
+    "8": {
+      "performance": 1920,
+      "technique": 2840,
+      "visual": 2222
+    },
+    "9": {
+      "performance": 1982,
+      "technique": 2932,
+      "visual": 2294
+    },
+    "10": {
+      "performance": 2047,
+      "technique": 3028,
+      "visual": 2369
+    },
+    "11": {
+      "performance": 2115,
+      "technique": 3128,
+      "visual": 2447
+    },
+    "12": {
+      "performance": 2185,
+      "technique": 3232,
+      "visual": 2528
+    },
+    "13": {
+      "performance": 2258,
+      "technique": 3340,
+      "visual": 2613
+    },
+    "14": {
+      "performance": 2334,
+      "technique": 3452,
+      "visual": 2701
+    },
+    "15": {
+      "performance": 2413,
+      "technique": 3568,
+      "visual": 2792
+    },
+    "16": {
+      "performance": 2495,
+      "technique": 3689,
+      "visual": 2886
+    },
+    "17": {
+      "performance": 2579,
+      "technique": 3814,
+      "visual": 2984
+    },
+    "18": {
+      "performance": 2666,
+      "technique": 3943,
+      "visual": 3085
+    },
+    "19": {
+      "performance": 2756,
+      "technique": 4076,
+      "visual": 3189
+    },
+    "20": {
+      "performance": 2849,
+      "technique": 4213,
+      "visual": 3296
+    },
+    "21": {
+      "performance": 2945,
+      "technique": 4354,
+      "visual": 3407
+    },
+    "22": {
+      "performance": 3043,
+      "technique": 4500,
+      "visual": 3521
+    },
+    "23": {
+      "performance": 3144,
+      "technique": 4650,
+      "visual": 3638
+    },
+    "24": {
+      "performance": 3248,
+      "technique": 4804,
+      "visual": 3758
+    },
+    "25": {
+      "performance": 3355,
+      "technique": 4962,
+      "visual": 3882
+    },
+    "26": {
+      "performance": 3465,
+      "technique": 5124,
+      "visual": 4009
+    },
+    "27": {
+      "performance": 3577,
+      "technique": 5290,
+      "visual": 4139
+    },
+    "28": {
+      "performance": 3692,
+      "technique": 5460,
+      "visual": 4272
+    },
+    "29": {
+      "performance": 3810,
+      "technique": 5635,
+      "visual": 4409
+    },
+    "30": {
+      "performance": 3931,
+      "technique": 5814,
+      "visual": 4549
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

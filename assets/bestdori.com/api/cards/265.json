@@ -1,0 +1,288 @@
+{
+  "characterId": 5,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res005010",
+  "sdResourceName": "sd005010",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 419,
+        "episodeType": "standard",
+        "situationId": 265,
+        "scenarioId": "episode265",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "選手宣誓の練習",
+          "Practicing the Oath",
+          "選手宣誓的練習",
+          "练习选手宣誓",
+          "선수 선서 연습"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 420,
+        "episodeType": "memorial",
+        "situationId": 265,
+        "scenarioId": "memorial265",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "今までの体育祭よりも",
+          "More than Past Sports Days",
+          "比之前的運動會要來得",
+          "超越以前的体育节",
+          "지금까지의 운동회보다도"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 349,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "スポーツマンシップ",
+    "Sportsmanship",
+    "運動家精神",
+    "运动员精神",
+    "스포츠맨십"
+  ],
+  "releasedAt": [
+    "1508479200000",
+    "1540083600000",
+    "1508482800000",
+    "1572930000000",
+    "1508479200000"
+  ],
+  "skillName": [
+    "選手、せんせー…",
+    "Oath of Sportsmanship",
+    "選手，宣～…",
+    "选手宣誓……",
+    "서, 선수 선서…"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1902,
+      "technique": 1572,
+      "visual": 2406
+    },
+    "2": {
+      "performance": 1953,
+      "technique": 1614,
+      "visual": 2471
+    },
+    "3": {
+      "performance": 2008,
+      "technique": 1659,
+      "visual": 2540
+    },
+    "4": {
+      "performance": 2066,
+      "technique": 1707,
+      "visual": 2613
+    },
+    "5": {
+      "performance": 2128,
+      "technique": 1758,
+      "visual": 2691
+    },
+    "6": {
+      "performance": 2193,
+      "technique": 1812,
+      "visual": 2773
+    },
+    "7": {
+      "performance": 2261,
+      "technique": 1868,
+      "visual": 2859
+    },
+    "8": {
+      "performance": 2333,
+      "technique": 1927,
+      "visual": 2950
+    },
+    "9": {
+      "performance": 2408,
+      "technique": 1989,
+      "visual": 3045
+    },
+    "10": {
+      "performance": 2487,
+      "technique": 2054,
+      "visual": 3144
+    },
+    "11": {
+      "performance": 2569,
+      "technique": 2122,
+      "visual": 3248
+    },
+    "12": {
+      "performance": 2654,
+      "technique": 2193,
+      "visual": 3356
+    },
+    "13": {
+      "performance": 2743,
+      "technique": 2266,
+      "visual": 3468
+    },
+    "14": {
+      "performance": 2835,
+      "technique": 2342,
+      "visual": 3585
+    },
+    "15": {
+      "performance": 2931,
+      "technique": 2421,
+      "visual": 3706
+    },
+    "16": {
+      "performance": 3030,
+      "technique": 2503,
+      "visual": 3831
+    },
+    "17": {
+      "performance": 3132,
+      "technique": 2588,
+      "visual": 3961
+    },
+    "18": {
+      "performance": 3238,
+      "technique": 2676,
+      "visual": 4095
+    },
+    "19": {
+      "performance": 3347,
+      "technique": 2766,
+      "visual": 4233
+    },
+    "20": {
+      "performance": 3460,
+      "technique": 2859,
+      "visual": 4376
+    },
+    "21": {
+      "performance": 3576,
+      "technique": 2955,
+      "visual": 4523
+    },
+    "22": {
+      "performance": 3696,
+      "technique": 3054,
+      "visual": 4674
+    },
+    "23": {
+      "performance": 3819,
+      "technique": 3156,
+      "visual": 4829
+    },
+    "24": {
+      "performance": 3945,
+      "technique": 3260,
+      "visual": 4989
+    },
+    "25": {
+      "performance": 4075,
+      "technique": 3367,
+      "visual": 5153
+    },
+    "26": {
+      "performance": 4208,
+      "technique": 3477,
+      "visual": 5321
+    },
+    "27": {
+      "performance": 4345,
+      "technique": 3590,
+      "visual": 5494
+    },
+    "28": {
+      "performance": 4485,
+      "technique": 3706,
+      "visual": 5671
+    },
+    "29": {
+      "performance": 4628,
+      "technique": 3825,
+      "visual": 5852
+    },
+    "30": {
+      "performance": 4775,
+      "technique": 3946,
+      "visual": 6038
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

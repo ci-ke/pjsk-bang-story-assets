@@ -1,0 +1,229 @@
+{
+  "characterId": 40,
+  "rarity": 1,
+  "attribute": "powerful",
+  "levelLimit": 20,
+  "resourceSetName": "res040001",
+  "sdResourceName": "sd040001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3035,
+        "episodeType": "standard",
+        "situationId": 1812,
+        "scenarioId": "episode1812",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-introduction",
+          "自我介紹",
+          "自我介绍",
+          null
+        ],
+        "characterId": 40
+      },
+      {
+        "episodeId": 3036,
+        "episodeType": "memorial",
+        "situationId": 1812,
+        "scenarioId": "memorial1812",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "その理由は",
+          "The reason is",
+          "那個理由是",
+          "理由是……",
+          null
+        ],
+        "characterId": 40
+      }
+    ]
+  },
+  "costumeId": 1790,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "リズム・リ・スタート",
+    "Rhythm Re-Start",
+    "Rhythm Re Start",
+    "重新开始的旋律",
+    null
+  ],
+  "releasedAt": [
+    "1694772000000",
+    "1726560000000",
+    "1708930800000",
+    "1712725200000",
+    null
+  ],
+  "skillName": [
+    "一生、ドラマー",
+    "Your Drummer, For Life",
+    "一輩子，鼓手",
+    "要当一辈子的鼓手",
+    null
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1215,
+      "technique": 705,
+      "visual": 837
+    },
+    "2": {
+      "performance": 1267,
+      "technique": 735,
+      "visual": 873
+    },
+    "3": {
+      "performance": 1324,
+      "technique": 768,
+      "visual": 912
+    },
+    "4": {
+      "performance": 1386,
+      "technique": 804,
+      "visual": 955
+    },
+    "5": {
+      "performance": 1453,
+      "technique": 843,
+      "visual": 1001
+    },
+    "6": {
+      "performance": 1525,
+      "technique": 885,
+      "visual": 1051
+    },
+    "7": {
+      "performance": 1602,
+      "technique": 930,
+      "visual": 1104
+    },
+    "8": {
+      "performance": 1684,
+      "technique": 978,
+      "visual": 1161
+    },
+    "9": {
+      "performance": 1772,
+      "technique": 1029,
+      "visual": 1221
+    },
+    "10": {
+      "performance": 1865,
+      "technique": 1083,
+      "visual": 1285
+    },
+    "11": {
+      "performance": 1963,
+      "technique": 1140,
+      "visual": 1352
+    },
+    "12": {
+      "performance": 2066,
+      "technique": 1200,
+      "visual": 1423
+    },
+    "13": {
+      "performance": 2174,
+      "technique": 1263,
+      "visual": 1498
+    },
+    "14": {
+      "performance": 2287,
+      "technique": 1329,
+      "visual": 1576
+    },
+    "15": {
+      "performance": 2405,
+      "technique": 1398,
+      "visual": 1658
+    },
+    "16": {
+      "performance": 2529,
+      "technique": 1470,
+      "visual": 1743
+    },
+    "17": {
+      "performance": 2658,
+      "technique": 1545,
+      "visual": 1832
+    },
+    "18": {
+      "performance": 2792,
+      "technique": 1623,
+      "visual": 1924
+    },
+    "19": {
+      "performance": 2931,
+      "technique": 1704,
+      "visual": 2020
+    },
+    "20": {
+      "performance": 3075,
+      "technique": 1788,
+      "visual": 2119
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

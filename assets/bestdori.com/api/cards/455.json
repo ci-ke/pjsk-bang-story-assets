@@ -1,0 +1,406 @@
+{
+  "characterId": 20,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res020024",
+  "sdResourceName": "sd020024",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 719,
+        "episodeType": "standard",
+        "situationId": 455,
+        "scenarioId": "episode455",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "イヴの宝物",
+          "Eve's Treasure",
+          "伊芙的寶物",
+          "伊芙的宝物",
+          "이브의 보물"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 720,
+        "episodeType": "memorial",
+        "situationId": 455,
+        "scenarioId": "memorial455",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "唯一無二の存在",
+          "The One and Only",
+          "獨一無二的存在",
+          "独一无二的存在",
+          "유일무이한 존재"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 409,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "分かち合いたい！",
+    "Sharing Something with You",
+    "想要更了解對方！",
+    "想要一起分担！",
+    "함께 나누고 싶어!"
+  ],
+  "releasedAt": [
+    "1529474400000",
+    "1561856400000",
+    "1529478000000",
+    "1588050000000",
+    "1529474400000"
+  ],
+  "skillName": [
+    "伝えたい思い",
+    "Thoughts I Want to Convey",
+    "想傳達的思念",
+    "想要传达的想法",
+    "전하고 싶은 마음"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3600,
+      "technique": 2898,
+      "visual": 2322
+    },
+    "2": {
+      "performance": 3648,
+      "technique": 2937,
+      "visual": 2353
+    },
+    "3": {
+      "performance": 3698,
+      "technique": 2977,
+      "visual": 2385
+    },
+    "4": {
+      "performance": 3751,
+      "technique": 3019,
+      "visual": 2419
+    },
+    "5": {
+      "performance": 3806,
+      "technique": 3063,
+      "visual": 2454
+    },
+    "6": {
+      "performance": 3863,
+      "technique": 3109,
+      "visual": 2491
+    },
+    "7": {
+      "performance": 3923,
+      "technique": 3157,
+      "visual": 2530
+    },
+    "8": {
+      "performance": 3985,
+      "technique": 3207,
+      "visual": 2570
+    },
+    "9": {
+      "performance": 4050,
+      "technique": 3259,
+      "visual": 2612
+    },
+    "10": {
+      "performance": 4117,
+      "technique": 3313,
+      "visual": 2655
+    },
+    "11": {
+      "performance": 4186,
+      "technique": 3369,
+      "visual": 2700
+    },
+    "12": {
+      "performance": 4258,
+      "technique": 3427,
+      "visual": 2746
+    },
+    "13": {
+      "performance": 4332,
+      "technique": 3487,
+      "visual": 2794
+    },
+    "14": {
+      "performance": 4409,
+      "technique": 3549,
+      "visual": 2843
+    },
+    "15": {
+      "performance": 4488,
+      "technique": 3613,
+      "visual": 2894
+    },
+    "16": {
+      "performance": 4569,
+      "technique": 3678,
+      "visual": 2946
+    },
+    "17": {
+      "performance": 4653,
+      "technique": 3745,
+      "visual": 3000
+    },
+    "18": {
+      "performance": 4739,
+      "technique": 3814,
+      "visual": 3056
+    },
+    "19": {
+      "performance": 4827,
+      "technique": 3885,
+      "visual": 3113
+    },
+    "20": {
+      "performance": 4918,
+      "technique": 3958,
+      "visual": 3172
+    },
+    "21": {
+      "performance": 5011,
+      "technique": 4033,
+      "visual": 3232
+    },
+    "22": {
+      "performance": 5107,
+      "technique": 4110,
+      "visual": 3294
+    },
+    "23": {
+      "performance": 5205,
+      "technique": 4189,
+      "visual": 3357
+    },
+    "24": {
+      "performance": 5305,
+      "technique": 4270,
+      "visual": 3422
+    },
+    "25": {
+      "performance": 5408,
+      "technique": 4353,
+      "visual": 3488
+    },
+    "26": {
+      "performance": 5513,
+      "technique": 4438,
+      "visual": 3556
+    },
+    "27": {
+      "performance": 5621,
+      "technique": 4525,
+      "visual": 3625
+    },
+    "28": {
+      "performance": 5731,
+      "technique": 4614,
+      "visual": 3696
+    },
+    "29": {
+      "performance": 5843,
+      "technique": 4704,
+      "visual": 3768
+    },
+    "30": {
+      "performance": 5958,
+      "technique": 4796,
+      "visual": 3842
+    },
+    "31": {
+      "performance": 6075,
+      "technique": 4890,
+      "visual": 3918
+    },
+    "32": {
+      "performance": 6195,
+      "technique": 4986,
+      "visual": 3995
+    },
+    "33": {
+      "performance": 6317,
+      "technique": 5084,
+      "visual": 4074
+    },
+    "34": {
+      "performance": 6441,
+      "technique": 5184,
+      "visual": 4154
+    },
+    "35": {
+      "performance": 6568,
+      "technique": 5286,
+      "visual": 4236
+    },
+    "36": {
+      "performance": 6697,
+      "technique": 5390,
+      "visual": 4319
+    },
+    "37": {
+      "performance": 6828,
+      "technique": 5496,
+      "visual": 4404
+    },
+    "38": {
+      "performance": 6962,
+      "technique": 5604,
+      "visual": 4490
+    },
+    "39": {
+      "performance": 7098,
+      "technique": 5714,
+      "visual": 4578
+    },
+    "40": {
+      "performance": 7237,
+      "technique": 5826,
+      "visual": 4667
+    },
+    "41": {
+      "performance": 7438,
+      "technique": 5988,
+      "visual": 4797
+    },
+    "42": {
+      "performance": 7675,
+      "technique": 6179,
+      "visual": 4950
+    },
+    "43": {
+      "performance": 7948,
+      "technique": 6399,
+      "visual": 5126
+    },
+    "44": {
+      "performance": 8258,
+      "technique": 6648,
+      "visual": 5326
+    },
+    "45": {
+      "performance": 8604,
+      "technique": 6926,
+      "visual": 5549
+    },
+    "46": {
+      "performance": 8986,
+      "technique": 7233,
+      "visual": 5795
+    },
+    "47": {
+      "performance": 9404,
+      "technique": 7569,
+      "visual": 6064
+    },
+    "48": {
+      "performance": 9858,
+      "technique": 7934,
+      "visual": 6357
+    },
+    "49": {
+      "performance": 10348,
+      "technique": 8328,
+      "visual": 6673
+    },
+    "50": {
+      "performance": 10874,
+      "technique": 8751,
+      "visual": 7012
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

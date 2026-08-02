@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res020002",
+  "sdResourceName": "sd020002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 155,
+        "episodeType": "standard",
+        "situationId": 78,
+        "scenarioId": "episode078",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 156,
+        "episodeType": "memorial",
+        "situationId": 78,
+        "scenarioId": "memorial078",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ケンコンイッテキ！",
+          "Stake Everything One Has!",
+          "乾坤一擲！",
+          "孤注一掷！",
+          "운명의 대승부!"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 45,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "クレッシェンド",
+    "Crescendo",
+    "Crescendo(漸強)",
+    "Crescendo（渐强）",
+    "크레셴도"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1872,
+      "technique": 2142,
+      "visual": 2058
+    },
+    "2": {
+      "performance": 1921,
+      "technique": 2198,
+      "visual": 2112
+    },
+    "3": {
+      "performance": 1973,
+      "technique": 2258,
+      "visual": 2170
+    },
+    "4": {
+      "performance": 2029,
+      "technique": 2322,
+      "visual": 2231
+    },
+    "5": {
+      "performance": 2088,
+      "technique": 2389,
+      "visual": 2296
+    },
+    "6": {
+      "performance": 2150,
+      "technique": 2460,
+      "visual": 2364
+    },
+    "7": {
+      "performance": 2215,
+      "technique": 2535,
+      "visual": 2436
+    },
+    "8": {
+      "performance": 2284,
+      "technique": 2614,
+      "visual": 2512
+    },
+    "9": {
+      "performance": 2356,
+      "technique": 2696,
+      "visual": 2591
+    },
+    "10": {
+      "performance": 2431,
+      "technique": 2782,
+      "visual": 2674
+    },
+    "11": {
+      "performance": 2510,
+      "technique": 2872,
+      "visual": 2760
+    },
+    "12": {
+      "performance": 2592,
+      "technique": 2966,
+      "visual": 2850
+    },
+    "13": {
+      "performance": 2677,
+      "technique": 3063,
+      "visual": 2944
+    },
+    "14": {
+      "performance": 2765,
+      "technique": 3164,
+      "visual": 3041
+    },
+    "15": {
+      "performance": 2857,
+      "technique": 3269,
+      "visual": 3142
+    },
+    "16": {
+      "performance": 2952,
+      "technique": 3378,
+      "visual": 3246
+    },
+    "17": {
+      "performance": 3050,
+      "technique": 3490,
+      "visual": 3354
+    },
+    "18": {
+      "performance": 3151,
+      "technique": 3606,
+      "visual": 3465
+    },
+    "19": {
+      "performance": 3256,
+      "technique": 3726,
+      "visual": 3580
+    },
+    "20": {
+      "performance": 3364,
+      "technique": 3850,
+      "visual": 3699
+    },
+    "21": {
+      "performance": 3475,
+      "technique": 3977,
+      "visual": 3821
+    },
+    "22": {
+      "performance": 3590,
+      "technique": 4108,
+      "visual": 3947
+    },
+    "23": {
+      "performance": 3708,
+      "technique": 4243,
+      "visual": 4076
+    },
+    "24": {
+      "performance": 3829,
+      "technique": 4382,
+      "visual": 4209
+    },
+    "25": {
+      "performance": 3953,
+      "technique": 4524,
+      "visual": 4346
+    },
+    "26": {
+      "performance": 4081,
+      "technique": 4670,
+      "visual": 4486
+    },
+    "27": {
+      "performance": 4212,
+      "technique": 4820,
+      "visual": 4630
+    },
+    "28": {
+      "performance": 4346,
+      "technique": 4973,
+      "visual": 4777
+    },
+    "29": {
+      "performance": 4483,
+      "technique": 5130,
+      "visual": 4928
+    },
+    "30": {
+      "performance": 4624,
+      "technique": 5291,
+      "visual": 5083
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

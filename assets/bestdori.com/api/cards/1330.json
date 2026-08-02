@@ -1,0 +1,436 @@
+{
+  "characterId": 10,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 60,
+  "resourceSetName": "res010050",
+  "sdResourceName": "sd010050",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2177,
+        "episodeType": "animation",
+        "situationId": 1330,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 0,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "コーヒーアフタヌーン",
+          "Afternoon Coffee",
+          "咖啡午後",
+          "午后咖啡",
+          "커피 애프터눈"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 2178,
+        "episodeType": "memorial",
+        "situationId": 1330,
+        "scenarioId": "memorial1330",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ある日の羽沢珈琲店",
+          "A Day at Hazawa Coffee",
+          "那天的羽澤咖啡廳",
+          "某一天的羽泽咖啡店",
+          "어느 날 하자와 카페"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 1236,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "コーヒーアフタヌーン",
+    "Afternoon Coffee",
+    "咖啡午後",
+    "午后咖啡",
+    "커피 애프터눈"
+  ],
+  "releasedAt": [
+    "1635660000000",
+    "1635692400000",
+    "1648105200000",
+    "1635663600000",
+    "1635660000000"
+  ],
+  "skillName": [
+    "本にまつわるエトセトラ",
+    "Books and Things That Relate",
+    "和書本相關的etc.",
+    "关于书的种种",
+    "책에 얽힌 에트세트라"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1330,
+    "assetBundleName": "mov010001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3493,
+      "technique": 3704,
+      "visual": 3514
+    },
+    "2": {
+      "performance": 3556,
+      "technique": 3771,
+      "visual": 3577
+    },
+    "3": {
+      "performance": 3621,
+      "technique": 3840,
+      "visual": 3643
+    },
+    "4": {
+      "performance": 3688,
+      "technique": 3911,
+      "visual": 3711
+    },
+    "5": {
+      "performance": 3757,
+      "technique": 3984,
+      "visual": 3781
+    },
+    "6": {
+      "performance": 3828,
+      "technique": 4060,
+      "visual": 3853
+    },
+    "7": {
+      "performance": 3902,
+      "technique": 4138,
+      "visual": 3927
+    },
+    "8": {
+      "performance": 3978,
+      "technique": 4218,
+      "visual": 4003
+    },
+    "9": {
+      "performance": 4056,
+      "technique": 4300,
+      "visual": 4081
+    },
+    "10": {
+      "performance": 4136,
+      "technique": 4384,
+      "visual": 4161
+    },
+    "11": {
+      "performance": 4218,
+      "technique": 4471,
+      "visual": 4243
+    },
+    "12": {
+      "performance": 4302,
+      "technique": 4560,
+      "visual": 4328
+    },
+    "13": {
+      "performance": 4388,
+      "technique": 4651,
+      "visual": 4415
+    },
+    "14": {
+      "performance": 4476,
+      "technique": 4744,
+      "visual": 4504
+    },
+    "15": {
+      "performance": 4566,
+      "technique": 4840,
+      "visual": 4595
+    },
+    "16": {
+      "performance": 4658,
+      "technique": 4938,
+      "visual": 4688
+    },
+    "17": {
+      "performance": 4753,
+      "technique": 5038,
+      "visual": 4783
+    },
+    "18": {
+      "performance": 4850,
+      "technique": 5140,
+      "visual": 4880
+    },
+    "19": {
+      "performance": 4949,
+      "technique": 5244,
+      "visual": 4979
+    },
+    "20": {
+      "performance": 5050,
+      "technique": 5351,
+      "visual": 5080
+    },
+    "21": {
+      "performance": 5153,
+      "technique": 5460,
+      "visual": 5184
+    },
+    "22": {
+      "performance": 5258,
+      "technique": 5571,
+      "visual": 5290
+    },
+    "23": {
+      "performance": 5365,
+      "technique": 5684,
+      "visual": 5398
+    },
+    "24": {
+      "performance": 5474,
+      "technique": 5800,
+      "visual": 5508
+    },
+    "25": {
+      "performance": 5585,
+      "technique": 5918,
+      "visual": 5620
+    },
+    "26": {
+      "performance": 5698,
+      "technique": 6038,
+      "visual": 5734
+    },
+    "27": {
+      "performance": 5814,
+      "technique": 6160,
+      "visual": 5850
+    },
+    "28": {
+      "performance": 5932,
+      "technique": 6284,
+      "visual": 5968
+    },
+    "29": {
+      "performance": 6052,
+      "technique": 6411,
+      "visual": 6089
+    },
+    "30": {
+      "performance": 6174,
+      "technique": 6540,
+      "visual": 6212
+    },
+    "31": {
+      "performance": 6298,
+      "technique": 6671,
+      "visual": 6337
+    },
+    "32": {
+      "performance": 6424,
+      "technique": 6804,
+      "visual": 6464
+    },
+    "33": {
+      "performance": 6552,
+      "technique": 6940,
+      "visual": 6593
+    },
+    "34": {
+      "performance": 6682,
+      "technique": 7078,
+      "visual": 6724
+    },
+    "35": {
+      "performance": 6814,
+      "technique": 7218,
+      "visual": 6857
+    },
+    "36": {
+      "performance": 6948,
+      "technique": 7360,
+      "visual": 6992
+    },
+    "37": {
+      "performance": 7085,
+      "technique": 7504,
+      "visual": 7129
+    },
+    "38": {
+      "performance": 7224,
+      "technique": 7651,
+      "visual": 7269
+    },
+    "39": {
+      "performance": 7365,
+      "technique": 7800,
+      "visual": 7411
+    },
+    "40": {
+      "performance": 7508,
+      "technique": 7951,
+      "visual": 7555
+    },
+    "41": {
+      "performance": 7653,
+      "technique": 8104,
+      "visual": 7701
+    },
+    "42": {
+      "performance": 7800,
+      "technique": 8259,
+      "visual": 7849
+    },
+    "43": {
+      "performance": 7949,
+      "technique": 8417,
+      "visual": 7999
+    },
+    "44": {
+      "performance": 8100,
+      "technique": 8577,
+      "visual": 8151
+    },
+    "45": {
+      "performance": 8253,
+      "technique": 8739,
+      "visual": 8305
+    },
+    "46": {
+      "performance": 8408,
+      "technique": 8903,
+      "visual": 8461
+    },
+    "47": {
+      "performance": 8566,
+      "technique": 9070,
+      "visual": 8620
+    },
+    "48": {
+      "performance": 8726,
+      "technique": 9239,
+      "visual": 8781
+    },
+    "49": {
+      "performance": 8888,
+      "technique": 9410,
+      "visual": 8944
+    },
+    "50": {
+      "performance": 9052,
+      "technique": 9583,
+      "visual": 9109
+    },
+    "51": {
+      "performance": 9218,
+      "technique": 9758,
+      "visual": 9276
+    },
+    "52": {
+      "performance": 9386,
+      "technique": 9936,
+      "visual": 9445
+    },
+    "53": {
+      "performance": 9556,
+      "technique": 10116,
+      "visual": 9616
+    },
+    "54": {
+      "performance": 9728,
+      "technique": 10298,
+      "visual": 9789
+    },
+    "55": {
+      "performance": 9902,
+      "technique": 10482,
+      "visual": 9964
+    },
+    "56": {
+      "performance": 10079,
+      "technique": 10669,
+      "visual": 10142
+    },
+    "57": {
+      "performance": 10258,
+      "technique": 10858,
+      "visual": 10322
+    },
+    "58": {
+      "performance": 10439,
+      "technique": 11049,
+      "visual": 10504
+    },
+    "59": {
+      "performance": 10622,
+      "technique": 11242,
+      "visual": 10688
+    },
+    "60": {
+      "performance": 10808,
+      "technique": 11437,
+      "visual": 10873
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

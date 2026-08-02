@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res020011",
+  "sdResourceName": "sd020011",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 387,
+        "episodeType": "standard",
+        "situationId": 239,
+        "scenarioId": "episode239",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "無人島に必要なもの",
+          "Deserted Island Essentials",
+          "無人島所需物品",
+          "无人岛的必需品",
+          "무인도에 필요한 것"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 388,
+        "episodeType": "memorial",
+        "situationId": 239,
+        "scenarioId": "memorial239",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "無人島から学ぶブシドー",
+          "Deserted Island Bushido",
+          "無人島上學到的武士道",
+          "从无人岛学到的武士道",
+          "무인도에서 배운 무사도"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 342,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "本気・心頭滅却",
+    "Serious Mind",
+    "認真・滅卻心頭",
+    "认真・无念无想",
+    "진심・무념무상"
+  ],
+  "releasedAt": [
+    "1505973600000",
+    "1537491600000",
+    "1505977200000",
+    "1571115600000",
+    "1505973600000"
+  ],
+  "skillName": [
+    "心頭滅却…っ！",
+    "Mind Over Matter...!",
+    "滅卻心頭…！",
+    "无念无想……！",
+    "무념무상…!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2364,
+      "technique": 1416,
+      "visual": 1734
+    },
+    "2": {
+      "performance": 2429,
+      "technique": 1455,
+      "visual": 1781
+    },
+    "3": {
+      "performance": 2498,
+      "technique": 1496,
+      "visual": 1832
+    },
+    "4": {
+      "performance": 2571,
+      "technique": 1540,
+      "visual": 1886
+    },
+    "5": {
+      "performance": 2648,
+      "technique": 1586,
+      "visual": 1943
+    },
+    "6": {
+      "performance": 2730,
+      "technique": 1635,
+      "visual": 2003
+    },
+    "7": {
+      "performance": 2816,
+      "technique": 1687,
+      "visual": 2066
+    },
+    "8": {
+      "performance": 2906,
+      "technique": 1741,
+      "visual": 2132
+    },
+    "9": {
+      "performance": 3001,
+      "technique": 1798,
+      "visual": 2201
+    },
+    "10": {
+      "performance": 3100,
+      "technique": 1857,
+      "visual": 2274
+    },
+    "11": {
+      "performance": 3203,
+      "technique": 1919,
+      "visual": 2350
+    },
+    "12": {
+      "performance": 3311,
+      "technique": 1983,
+      "visual": 2429
+    },
+    "13": {
+      "performance": 3423,
+      "technique": 2050,
+      "visual": 2511
+    },
+    "14": {
+      "performance": 3539,
+      "technique": 2120,
+      "visual": 2596
+    },
+    "15": {
+      "performance": 3659,
+      "technique": 2192,
+      "visual": 2684
+    },
+    "16": {
+      "performance": 3784,
+      "technique": 2267,
+      "visual": 2775
+    },
+    "17": {
+      "performance": 3913,
+      "technique": 2344,
+      "visual": 2870
+    },
+    "18": {
+      "performance": 4046,
+      "technique": 2424,
+      "visual": 2968
+    },
+    "19": {
+      "performance": 4184,
+      "technique": 2506,
+      "visual": 3069
+    },
+    "20": {
+      "performance": 4326,
+      "technique": 2591,
+      "visual": 3173
+    },
+    "21": {
+      "performance": 4472,
+      "technique": 2679,
+      "visual": 3280
+    },
+    "22": {
+      "performance": 4623,
+      "technique": 2769,
+      "visual": 3390
+    },
+    "23": {
+      "performance": 4778,
+      "technique": 2862,
+      "visual": 3504
+    },
+    "24": {
+      "performance": 4937,
+      "technique": 2957,
+      "visual": 3621
+    },
+    "25": {
+      "performance": 5100,
+      "technique": 3055,
+      "visual": 3741
+    },
+    "26": {
+      "performance": 5268,
+      "technique": 3155,
+      "visual": 3864
+    },
+    "27": {
+      "performance": 5440,
+      "technique": 3258,
+      "visual": 3990
+    },
+    "28": {
+      "performance": 5616,
+      "technique": 3364,
+      "visual": 4119
+    },
+    "29": {
+      "performance": 5797,
+      "technique": 3472,
+      "visual": 4251
+    },
+    "30": {
+      "performance": 5982,
+      "technique": 3583,
+      "visual": 4387
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

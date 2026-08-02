@@ -1,0 +1,456 @@
+{
+  "characterId": 33,
+  "rarity": 5,
+  "attribute": "pure",
+  "levelLimit": 50,
+  "resourceSetName": "res033041",
+  "sdResourceName": "sd033041",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3579,
+        "episodeType": "standard",
+        "situationId": 2263,
+        "scenarioId": "episode2263",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ある雨予報の日　前編",
+          "A Rainy Forecast Pt. 1",
+          "某個預報下雨的日子　前篇",
+          "某个降雨预报日 前篇",
+          null
+        ],
+        "characterId": 33
+      },
+      {
+        "episodeId": 3580,
+        "episodeType": "memorial",
+        "situationId": 2263,
+        "scenarioId": "memorial2263",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ある雨予報の日　後編",
+          "A Rainy Forecast Pt. 2",
+          "某個預報下雨的日子　後篇",
+          "某个降雨预报日 后篇",
+          null
+        ],
+        "characterId": 33
+      }
+    ]
+  },
+  "costumeId": 2206,
+  "gachaText": [
+    "うわっ、急に雨が\n強くなってきたな！？",
+    "Whoa, the rain’s picking up fast!",
+    "嗚哇，\n雨突然變大了欸！？",
+    "哇，怎么雨势\n突然变大了！？",
+    null
+  ],
+  "prefix": [
+    "青空のしずく",
+    "Raindrops from Blue Skies",
+    "藍天的雨滴",
+    "晴空的雨滴",
+    null
+  ],
+  "releasedAt": [
+    "1753941600000",
+    "1778893200000",
+    "1771743600000",
+    "1772686800000",
+    null
+  ],
+  "skillName": [
+    "降水確率９０％",
+    "90% Chance of Rain",
+    "降雨機率９０％",
+    "降雨概率90%",
+    null
+  ],
+  "skillId": 80,
+  "source": null,
+  "type": "dreamfes",
+  "stat": {
+    "1": {
+      "performance": 3059,
+      "technique": 3175,
+      "visual": 4477
+    },
+    "2": {
+      "performance": 3091,
+      "technique": 3208,
+      "visual": 4523
+    },
+    "3": {
+      "performance": 3124,
+      "technique": 3242,
+      "visual": 4571
+    },
+    "4": {
+      "performance": 3158,
+      "technique": 3277,
+      "visual": 4621
+    },
+    "5": {
+      "performance": 3193,
+      "technique": 3314,
+      "visual": 4673
+    },
+    "6": {
+      "performance": 3230,
+      "technique": 3352,
+      "visual": 4727
+    },
+    "7": {
+      "performance": 3268,
+      "technique": 3391,
+      "visual": 4782
+    },
+    "8": {
+      "performance": 3307,
+      "technique": 3432,
+      "visual": 4839
+    },
+    "9": {
+      "performance": 3347,
+      "technique": 3474,
+      "visual": 4898
+    },
+    "10": {
+      "performance": 3389,
+      "technique": 3517,
+      "visual": 4959
+    },
+    "11": {
+      "performance": 3432,
+      "technique": 3562,
+      "visual": 5022
+    },
+    "12": {
+      "performance": 3476,
+      "technique": 3608,
+      "visual": 5087
+    },
+    "13": {
+      "performance": 3521,
+      "technique": 3655,
+      "visual": 5153
+    },
+    "14": {
+      "performance": 3568,
+      "technique": 3703,
+      "visual": 5221
+    },
+    "15": {
+      "performance": 3616,
+      "technique": 3753,
+      "visual": 5291
+    },
+    "16": {
+      "performance": 3665,
+      "technique": 3804,
+      "visual": 5363
+    },
+    "17": {
+      "performance": 3715,
+      "technique": 3856,
+      "visual": 5437
+    },
+    "18": {
+      "performance": 3767,
+      "technique": 3910,
+      "visual": 5513
+    },
+    "19": {
+      "performance": 3820,
+      "technique": 3965,
+      "visual": 5591
+    },
+    "20": {
+      "performance": 3874,
+      "technique": 4021,
+      "visual": 5670
+    },
+    "21": {
+      "performance": 3929,
+      "technique": 4079,
+      "visual": 5751
+    },
+    "22": {
+      "performance": 3986,
+      "technique": 4138,
+      "visual": 5834
+    },
+    "23": {
+      "performance": 4044,
+      "technique": 4198,
+      "visual": 5919
+    },
+    "24": {
+      "performance": 4103,
+      "technique": 4260,
+      "visual": 6006
+    },
+    "25": {
+      "performance": 4164,
+      "technique": 4323,
+      "visual": 6095
+    },
+    "26": {
+      "performance": 4226,
+      "technique": 4387,
+      "visual": 6185
+    },
+    "27": {
+      "performance": 4289,
+      "technique": 4452,
+      "visual": 6277
+    },
+    "28": {
+      "performance": 4353,
+      "technique": 4519,
+      "visual": 6371
+    },
+    "29": {
+      "performance": 4419,
+      "technique": 4587,
+      "visual": 6467
+    },
+    "30": {
+      "performance": 4486,
+      "technique": 4656,
+      "visual": 6565
+    },
+    "31": {
+      "performance": 4554,
+      "technique": 4727,
+      "visual": 6665
+    },
+    "32": {
+      "performance": 4623,
+      "technique": 4799,
+      "visual": 6767
+    },
+    "33": {
+      "performance": 4694,
+      "technique": 4872,
+      "visual": 6870
+    },
+    "34": {
+      "performance": 4766,
+      "technique": 4947,
+      "visual": 6975
+    },
+    "35": {
+      "performance": 4839,
+      "technique": 5023,
+      "visual": 7082
+    },
+    "36": {
+      "performance": 4913,
+      "technique": 5100,
+      "visual": 7191
+    },
+    "37": {
+      "performance": 4989,
+      "technique": 5179,
+      "visual": 7302
+    },
+    "38": {
+      "performance": 5066,
+      "technique": 5259,
+      "visual": 7415
+    },
+    "39": {
+      "performance": 5144,
+      "technique": 5340,
+      "visual": 7529
+    },
+    "40": {
+      "performance": 5223,
+      "technique": 5422,
+      "visual": 7645
+    },
+    "41": {
+      "performance": 5304,
+      "technique": 5506,
+      "visual": 7763
+    },
+    "42": {
+      "performance": 5386,
+      "technique": 5591,
+      "visual": 7883
+    },
+    "43": {
+      "performance": 5469,
+      "technique": 5677,
+      "visual": 8005
+    },
+    "44": {
+      "performance": 5553,
+      "technique": 5765,
+      "visual": 8129
+    },
+    "45": {
+      "performance": 5639,
+      "technique": 5854,
+      "visual": 8255
+    },
+    "46": {
+      "performance": 5726,
+      "technique": 5944,
+      "visual": 8382
+    },
+    "47": {
+      "performance": 5814,
+      "technique": 6036,
+      "visual": 8511
+    },
+    "48": {
+      "performance": 5904,
+      "technique": 6129,
+      "visual": 8642
+    },
+    "49": {
+      "performance": 5995,
+      "technique": 6223,
+      "visual": 8775
+    },
+    "50": {
+      "performance": 6087,
+      "technique": 6319,
+      "visual": 8910
+    },
+    "51": {
+      "performance": 6255,
+      "technique": 6493,
+      "visual": 9155
+    },
+    "52": {
+      "performance": 6453,
+      "technique": 6698,
+      "visual": 9444
+    },
+    "53": {
+      "performance": 6681,
+      "technique": 6934,
+      "visual": 9777
+    },
+    "54": {
+      "performance": 6939,
+      "technique": 7202,
+      "visual": 10154
+    },
+    "55": {
+      "performance": 7227,
+      "technique": 7501,
+      "visual": 10575
+    },
+    "56": {
+      "performance": 7545,
+      "technique": 7831,
+      "visual": 11040
+    },
+    "57": {
+      "performance": 7893,
+      "technique": 8192,
+      "visual": 11549
+    },
+    "58": {
+      "performance": 8271,
+      "technique": 8584,
+      "visual": 12102
+    },
+    "59": {
+      "performance": 8679,
+      "technique": 9008,
+      "visual": 12699
+    },
+    "60": {
+      "performance": 9117,
+      "technique": 9463,
+      "visual": 13340
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

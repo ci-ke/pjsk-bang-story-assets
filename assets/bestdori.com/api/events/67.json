@@ -1,0 +1,4571 @@
+{
+  "eventType": "mission_live",
+  "eventName": [
+    "儚き夜の夢",
+    "A Fleeting Night's Dream",
+    "虛幻之夜裡的夢",
+    "虚幻夜之梦",
+    "덧없는 밤의 꿈"
+  ],
+  "assetBundleName": "ephemeral_night_dream",
+  "bannerAssetBundleName": "banner_event67",
+  "startAt": [
+    "1548050400000",
+    "1579654800000",
+    "1559286000000",
+    "1600146000000",
+    "1574661600000"
+  ],
+  "endAt": [
+    "1548763199000",
+    "1580281199000",
+    "1559998799000",
+    "1600613940000",
+    "1575291600000"
+  ],
+  "enableFlag": [
+    true,
+    null,
+    null,
+    null,
+    null
+  ],
+  "publicStartAt": [
+    "1548050400000",
+    "1579654800000",
+    "1559286000000",
+    "1600146000000",
+    "1574661600000"
+  ],
+  "publicEndAt": [
+    "1548914399000",
+    "1580432399000",
+    "1560149999000",
+    "1600750740000",
+    "1575439199000"
+  ],
+  "distributionStartAt": [
+    "1548813600000",
+    "1580331600000",
+    "1560049200000",
+    "1600657140000",
+    "1575352800000"
+  ],
+  "distributionEndAt": [
+    "1550070000000",
+    "1581588000000",
+    "1561305600000",
+    "1601261880000",
+    "1576508399000"
+  ],
+  "bgmAssetBundleName": "musicscore/171",
+  "bgmFileName": "bgm171_chorus",
+  "aggregateEndAt": [
+    "1548764999000",
+    "1580281799000",
+    "1559999399000",
+    "1600614540000",
+    "1575295200000"
+  ],
+  "exchangeEndAt": [
+    "1549627199000",
+    "1581058799000",
+    "1560862799000",
+    "1601477940000",
+    "1575817199000"
+  ],
+  "pointRewards": [
+    [
+      {
+        "point": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": 2000,
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": 3000,
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 4000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": 5000,
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": 6500,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": 8000,
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 12000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": 15000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": 18000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": 21000,
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 3
+      },
+      {
+        "point": 24000,
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 27000,
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 30000,
+        "rewardType": "situation",
+        "rewardId": 590,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 35000,
+        "rewardType": "coin",
+        "rewardQuantity": 10000
+      },
+      {
+        "point": 40000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 45000,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": 50000,
+        "rewardType": "stamp",
+        "rewardId": 167,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 55000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": 60000,
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 65000,
+        "rewardType": "coin",
+        "rewardQuantity": 30000
+      },
+      {
+        "point": 70000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": 75000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 80000,
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 85000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": 90000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 110000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": 120000,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": 130000,
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": 140000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 150000,
+        "rewardType": "situation",
+        "rewardId": 589,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 160000,
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 170000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": 180000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 190000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": 200000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 210000,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 100
+      },
+      {
+        "point": 220000,
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 230000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 240000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": 250000,
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 260000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": 270000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": 280000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 290000,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": 300000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 310000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": 320000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 330000,
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": 340000,
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": 350000,
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 360000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 370000,
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": 380000,
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 390000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": 400000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": 420000,
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": 450000,
+        "rewardType": "coin",
+        "rewardQuantity": 100000
+      },
+      {
+        "point": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      }
+    ],
+    [
+      {
+        "point": "1000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "2000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "3000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "4000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "5000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "6500",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "8000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "10000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "12000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "15000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "18000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "21000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 3
+      },
+      {
+        "point": "24000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "27000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "30000",
+        "rewardType": "situation",
+        "rewardId": 590,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "35000",
+        "rewardType": "coin",
+        "rewardQuantity": 10000
+      },
+      {
+        "point": "40000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "45000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "50000",
+        "rewardType": "stamp",
+        "rewardId": 167,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "55000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "60000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "65000",
+        "rewardType": "coin",
+        "rewardQuantity": 30000
+      },
+      {
+        "point": "70000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "75000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "80000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "85000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "90000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "100000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "110000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "120000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "130000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "140000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "150000",
+        "rewardType": "situation",
+        "rewardId": 589,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "160000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "170000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "180000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "190000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "200000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "210000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "220000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "230000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "240000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "250000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "260000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "270000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "280000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "290000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "300000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "310000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "320000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "330000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "340000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "350000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "360000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "370000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "380000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "390000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "400000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "420000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "450000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000
+      },
+      {
+        "point": "500000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      }
+    ],
+    [
+      {
+        "point": "1000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "2000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "3000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "4000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "5000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "6500",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "8000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "10000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "12000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "15000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "18000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "21000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 3
+      },
+      {
+        "point": "24000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "27000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "30000",
+        "rewardType": "situation",
+        "rewardId": 590,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "35000",
+        "rewardType": "coin",
+        "rewardQuantity": 10000
+      },
+      {
+        "point": "40000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "45000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "50000",
+        "rewardType": "stamp",
+        "rewardId": 167,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "55000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "60000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "65000",
+        "rewardType": "coin",
+        "rewardQuantity": 30000
+      },
+      {
+        "point": "70000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "75000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "80000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "85000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "90000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "100000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "110000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "120000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "130000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "140000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "150000",
+        "rewardType": "situation",
+        "rewardId": 589,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "160000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "170000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "180000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "190000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "200000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "210000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "220000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "230000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "240000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "250000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "260000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "270000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "280000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "290000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "300000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "310000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "320000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "330000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "340000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "350000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "360000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "370000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "380000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "390000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "400000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "420000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "450000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000
+      },
+      {
+        "point": "500000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      }
+    ],
+    [
+      {
+        "point": "500",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "1000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "1500",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "2500",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "3500",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "5000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "7000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "9000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "11000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "13000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "15000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "17000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 3
+      },
+      {
+        "point": "19000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "21000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "23000",
+        "rewardType": "situation",
+        "rewardId": 590,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "26000",
+        "rewardType": "coin",
+        "rewardQuantity": 10000
+      },
+      {
+        "point": "29000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "33000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "37000",
+        "rewardType": "stamp",
+        "rewardId": 167,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "41000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "45000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "49000",
+        "rewardType": "coin",
+        "rewardQuantity": 30000
+      },
+      {
+        "point": "53000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "57000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "61000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "65000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "69000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "76000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "84000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "92000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "100000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "108000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "116000",
+        "rewardType": "situation",
+        "rewardId": 589,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "124000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "132000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "140000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "148000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "156000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "164000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "172000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "180000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "188000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "196000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "204000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "212000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "220000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "228000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "236000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "244000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "252000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "260000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "268000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "276000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "284000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "292000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "300000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "308000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "316000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "324000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "348000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000
+      },
+      {
+        "point": "380000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      }
+    ],
+    [
+      {
+        "point": "1000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "2000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "3000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "4000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "5000",
+        "rewardType": "coin",
+        "rewardQuantity": 5000
+      },
+      {
+        "point": "6500",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "8000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "10000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "12000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "15000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "18000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "21000",
+        "rewardType": "practice_ticket",
+        "rewardId": 5,
+        "rewardQuantity": 3
+      },
+      {
+        "point": "24000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "27000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "30000",
+        "rewardType": "situation",
+        "rewardId": 590,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "35000",
+        "rewardType": "coin",
+        "rewardQuantity": 10000
+      },
+      {
+        "point": "40000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "45000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "50000",
+        "rewardType": "stamp",
+        "rewardId": 167,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "55000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "60000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "65000",
+        "rewardType": "coin",
+        "rewardQuantity": 30000
+      },
+      {
+        "point": "70000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 5
+      },
+      {
+        "point": "75000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "80000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "85000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "90000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "100000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "110000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "120000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "130000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "140000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "150000",
+        "rewardType": "situation",
+        "rewardId": 589,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "160000",
+        "rewardType": "practice_ticket",
+        "rewardId": 2,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "170000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "180000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "190000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "200000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "210000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 100
+      },
+      {
+        "point": "220000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "230000",
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "240000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "250000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "260000",
+        "rewardType": "star",
+        "rewardQuantity": 50
+      },
+      {
+        "point": "270000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "280000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "290000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "300000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "310000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "320000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "330000",
+        "rewardType": "item",
+        "rewardId": 2,
+        "rewardQuantity": 200
+      },
+      {
+        "point": "340000",
+        "rewardType": "coin",
+        "rewardQuantity": 50000
+      },
+      {
+        "point": "350000",
+        "rewardType": "practice_ticket",
+        "rewardId": 21,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "360000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "370000",
+        "rewardType": "item",
+        "rewardId": 6,
+        "rewardQuantity": 50
+      },
+      {
+        "point": "380000",
+        "rewardType": "item",
+        "rewardId": 14,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "390000",
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "point": "400000",
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "point": "420000",
+        "rewardType": "item",
+        "rewardId": 10,
+        "rewardQuantity": 10
+      },
+      {
+        "point": "450000",
+        "rewardType": "coin",
+        "rewardQuantity": 100000
+      },
+      {
+        "point": "500000",
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      }
+    ]
+  ],
+  "rankingRewards": [
+    [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 1147,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 1148,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 1149,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 1150,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 1151,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "degree",
+        "rewardId": 1152,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "degree",
+        "rewardId": 1153,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "degree",
+        "rewardId": 1154,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "degree",
+        "rewardId": 1155,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "degree",
+        "rewardId": 1156,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "degree",
+        "rewardId": 1157,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "degree",
+        "rewardId": 1158,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "degree",
+        "rewardId": 1159,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "star",
+        "rewardQuantity": 150
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "star",
+        "rewardQuantity": 100
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      }
+    ],
+    [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 1147,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 1148,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 1149,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 1150,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 1151,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "degree",
+        "rewardId": 1152,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2500,
+        "rewardType": "degree",
+        "rewardId": 1153,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2500,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2500,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2500,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2500,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 2501,
+        "toRank": 5000,
+        "rewardType": "degree",
+        "rewardId": 1154,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2501,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 2501,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 2501,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2501,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "degree",
+        "rewardId": 1155,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 150
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 100
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 200000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      }
+    ],
+    [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 1155,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 1156,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 1157,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 1158,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 1159,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 101,
+        "toRank": 500,
+        "rewardType": "degree",
+        "rewardId": 1160,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 101,
+        "toRank": 500,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 101,
+        "toRank": 500,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 101,
+        "toRank": 500,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 101,
+        "toRank": 500,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 501,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 3000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 3000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 3000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 3000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3001,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 5000,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 5000,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 5000,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 5000,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 30000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 30000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 150
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 75000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 75000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 75000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 75000,
+        "rewardType": "star",
+        "rewardQuantity": 100
+      },
+      {
+        "fromRank": 75001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 75001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 75001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 75001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      }
+    ],
+    [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 1147,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 1148,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 1149,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 1150,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 1151,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "degree",
+        "rewardId": 1152,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "degree",
+        "rewardId": 1153,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "degree",
+        "rewardId": 1154,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "degree",
+        "rewardId": 1155,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "degree",
+        "rewardId": 1156,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "degree",
+        "rewardId": 1157,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 30000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "degree",
+        "rewardId": 1158,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 30001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "degree",
+        "rewardId": 1159,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "star",
+        "rewardQuantity": 150
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "star",
+        "rewardQuantity": 100
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      }
+    ],
+    [
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "degree",
+        "rewardId": 1147,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1,
+        "toRank": 1,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "degree",
+        "rewardId": 1148,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2,
+        "toRank": 2,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "degree",
+        "rewardId": 1149,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 3,
+        "toRank": 3,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "degree",
+        "rewardId": 1150,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 4,
+        "toRank": 10,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "degree",
+        "rewardId": 1151,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 11,
+        "toRank": 100,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "degree",
+        "rewardId": 1152,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 101,
+        "toRank": 1000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "degree",
+        "rewardId": 1153,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 10
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 1001,
+        "toRank": 2000,
+        "rewardType": "star",
+        "rewardQuantity": 500
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "degree",
+        "rewardId": 1154,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 2001,
+        "toRank": 5000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "degree",
+        "rewardId": 1155,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 7
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 6
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 5001,
+        "toRank": 10000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "practice_ticket",
+        "rewardId": 8,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 10001,
+        "toRank": 20000,
+        "rewardType": "star",
+        "rewardQuantity": 250
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 4
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 5
+      },
+      {
+        "fromRank": 20001,
+        "toRank": 50000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 3
+      },
+      {
+        "fromRank": 50001,
+        "toRank": 100000,
+        "rewardType": "star",
+        "rewardQuantity": 200
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 2
+      },
+      {
+        "fromRank": 100001,
+        "toRank": 300000,
+        "rewardType": "star",
+        "rewardQuantity": 150
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 4,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "practice_ticket",
+        "rewardId": 7,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 300001,
+        "toRank": 500000,
+        "rewardType": "star",
+        "rewardQuantity": 100
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "item",
+        "rewardId": 15,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 3,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "practice_ticket",
+        "rewardId": 6,
+        "rewardQuantity": 1
+      },
+      {
+        "fromRank": 500001,
+        "toRank": 1000000,
+        "rewardType": "star",
+        "rewardQuantity": 50
+      }
+    ]
+  ],
+  "attributes": [
+    {
+      "attribute": "cool",
+      "percent": 20
+    }
+  ],
+  "characters": [
+    {
+      "characterId": 11,
+      "percent": 10
+    },
+    {
+      "characterId": 12,
+      "percent": 10
+    },
+    {
+      "characterId": 13,
+      "percent": 10
+    },
+    {
+      "characterId": 14,
+      "percent": 10
+    },
+    {
+      "characterId": 15,
+      "percent": 10
+    }
+  ],
+  "eventAttributeAndCharacterBonus": {},
+  "members": [],
+  "limitBreaks": [],
+  "stories": [
+    {
+      "scenarioId": "event67-01",
+      "coverImage": "67_0",
+      "backgroundImage": "271",
+      "releasePt": 0,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "オープニング",
+        "Opening",
+        "開場",
+        "序章",
+        "오프닝"
+      ],
+      "title": [
+        "反省会",
+        "Reflection",
+        "反省會",
+        "反省会",
+        "반성회"
+      ],
+      "synopsis": [
+        "バンド練習のあとの反省会。\n美咲の表情は少しだけ沈んでいるようで……",
+        "The girls have gathered to reflect after band practice, but Misaki seems a little gloomy...",
+        "樂團練習之後的反省會上。\n美咲的表情好像有點沉重……",
+        "乐队练习结束后的反省会。\n美咲的表情似乎有些阴沉……",
+        "밴드 연습 후의 반성회.\n미사키의 표정이 조금 어두운 것 같은데…"
+      ],
+      "releaseConditions": [
+        "オープニングシナリオ",
+        "Opening Scene",
+        "開場劇情",
+        "序章故事",
+        "오프닝 시나리오"
+      ]
+    },
+    {
+      "scenarioId": "event67-02",
+      "coverImage": "67_1",
+      "backgroundImage": "272",
+      "releasePt": 3000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "第１話",
+        "Chapter 1",
+        "第１話",
+        "第1话",
+        "제1화"
+      ],
+      "title": [
+        "デジャブ",
+        "Déjà Vu",
+        "既視感",
+        "即视感",
+        "데자뷰"
+      ],
+      "synopsis": [
+        "親とケンカしたことに落ち込む美咲。\nそんな美咲に薫が声を掛け……",
+        "Misaki is feeling down after a fight with her parents. That's when Kaoru calls out to her...",
+        "因為跟父母吵架而低落的美咲。\n薰像這樣的美咲搭了話……",
+        "美咲和父母吵架了，情绪很低落。\n这时薰向美咲搭话……",
+        "부모님과 싸워 우울한 미사키.\n그런 미사키한테 카오루가 말을 걸고…"
+      ],
+      "releaseConditions": [
+        "3000イベントP達成",
+        "3000 Event Pts Cleared",
+        "達成3000活動P",
+        "3000活动点数达成",
+        "3000 이벤트P 달성"
+      ]
+    },
+    {
+      "scenarioId": "event67-03",
+      "coverImage": "67_2",
+      "backgroundImage": "273",
+      "releasePt": 6000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "第２話",
+        "Chapter 2",
+        "第２話",
+        "第2话",
+        "제2화"
+      ],
+      "title": [
+        "薫の部屋",
+        "Kaoru's Room",
+        "薰的房間",
+        "薰的房间",
+        "카오루의 방"
+      ],
+      "synopsis": [
+        "薫の部屋にやってきた美咲。\nそこにメンバーから連絡が入り……",
+        "Misaki comes to Kaoru's room. Suddenly, the other members contact them...",
+        "來到薰的房間的美咲。\n在那他收到了團員的聯絡……",
+        "美咲来到了薰的房间。\n然后她接到了乐队成员的联络……",
+        "카오루의 방에 찾아온 미사키.\n게다가 멤버들한테 연락이…"
+      ],
+      "releaseConditions": [
+        "6000イベントP達成",
+        "6000 Event Pts Cleared",
+        "達成6000活動P",
+        "6000活动点数达成",
+        "6000 이벤트P 달성"
+      ]
+    },
+    {
+      "scenarioId": "event67-04",
+      "coverImage": "67_3",
+      "backgroundImage": "273",
+      "releasePt": 15000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "第３話",
+        "Chapter 3",
+        "第３話",
+        "第3话",
+        "제3화"
+      ],
+      "title": [
+        "お泊りのスタイル",
+        "Sleepover with Style",
+        "過夜的形式",
+        "留宿的风格",
+        "합숙 스타일"
+      ],
+      "synopsis": [
+        "薫の部屋にお泊りすることとなった\nハロハピメンバー。それぞれの手荷物は……",
+        "Hello, Happy World! decides to have a sleepover at Kaoru's house. As for their luggage...",
+        "變成要在薰的房間過夜的\nHelloHappy團員。他們各自的行李是……",
+        "Hello Happy的成员们决定在薰的房间留宿。\n大家带来的随身物品是……",
+        "카오루의 방에서 합숙을 하기로 한\n헬로해피 멤버들. 각자의 짐은…"
+      ],
+      "releaseConditions": [
+        "15000イベントP達成",
+        "15000 Event Pts Cleared",
+        "達成15000活動P",
+        "15000活动点数达成",
+        "15000 이벤트P 달성"
+      ]
+    },
+    {
+      "scenarioId": "event67-05",
+      "coverImage": "67_4",
+      "backgroundImage": "273",
+      "releasePt": 28000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "第４話",
+        "Chapter 4",
+        "第４話",
+        "第4话",
+        "제4화"
+      ],
+      "title": [
+        "夕食のあとに",
+        "After Dinner",
+        "晚餐之後",
+        "吃完晚饭后",
+        "저녁 식사 후에"
+      ],
+      "synopsis": [
+        "薫の家で夕食を食べた一同。\n就寝前の楽しいひとときが始まる",
+        "The girls have finished their dinner at Kaoru's house. Now to enjoy themselves before bed.",
+        "在薰家裡一起吃晚餐的一行人。\n睡覺前的快樂時光就要開始",
+        "大家在薰家里一起吃了晚饭。\n睡觉前的快乐时光开始了",
+        "카오루네 집에서 저녁 식사를 한 일동.\n잠들기 전 즐거운 한때가 시작된다."
+      ],
+      "releaseConditions": [
+        "28000イベントP達成",
+        "28000 Event Pts Cleared",
+        "達成28000活動P",
+        "28000活动点数达成",
+        "28000 이벤트P 달성"
+      ]
+    },
+    {
+      "scenarioId": "event67-06",
+      "coverImage": "67_5",
+      "backgroundImage": "274",
+      "releasePt": 40000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "第５話",
+        "Chapter 5",
+        "第５話",
+        "第5话",
+        "제5화"
+      ],
+      "title": [
+        "儚き夜",
+        "A Fleeting Night",
+        "虛幻的夜晚",
+        "梦幻之夜",
+        "덧없는 밤"
+      ],
+      "synopsis": [
+        "なかなか寝付けない美咲。\n薫が語りかけた言葉とは……",
+        "Misaki can't sleep. Suddenly, she hears Kaoru beside her...",
+        "總是無法睡著的美咲。\n薰對他說的話是……",
+        "美咲怎么都睡不着。\n薰对她说了一番话……",
+        "좀처럼 잠들지 못하는 미사키.\n카오루가 말한 내용은…?"
+      ],
+      "releaseConditions": [
+        "40000イベントP達成",
+        "40000 Event Pts Cleared",
+        "達成40000活動P",
+        "40000活动点数达成",
+        "40000 이벤트P 달성"
+      ]
+    },
+    {
+      "scenarioId": "event67-07",
+      "coverImage": "67_6",
+      "backgroundImage": "275",
+      "releasePt": 55000,
+      "rewards": [
+        {
+          "rewardType": "item",
+          "rewardId": 13,
+          "rewardQuantity": 1
+        },
+        {
+          "rewardType": "star",
+          "rewardQuantity": 50
+        }
+      ],
+      "caption": [
+        "エンディング",
+        "Ending",
+        "結尾",
+        "终章",
+        "엔딩"
+      ],
+      "title": [
+        "スタート地点",
+        "My Starting Point",
+        "開始地點",
+        "开始的地点",
+        "스타트 지점"
+      ],
+      "synopsis": [
+        "親に電話をかける美咲。\nその電話で重大なことを告げられ……",
+        "Misaki calls her parents, and they give her some important information...",
+        "打電話給父母的美咲。\n在那通電話裡被告知了重要的事情……",
+        "美咲给父母打了电话。\n她在电话中得知了一个重大消息……",
+        "부모님께 전화하는 미사키.\n그 전화에서 중대한 이야기를 듣게 되는데…"
+      ],
+      "releaseConditions": [
+        "55000イベントP達成",
+        "55000 Event Pts Cleared",
+        "達成55000活動P",
+        "55000活动点数达成",
+        "55000 이벤트P 달성"
+      ]
+    }
+  ],
+  "rewardCards": [
+    590,
+    589
+  ]
+}

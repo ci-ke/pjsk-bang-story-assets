@@ -1,0 +1,406 @@
+{
+  "characterId": 5,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res005008",
+  "sdResourceName": "sd005008",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 345,
+        "episodeType": "standard",
+        "situationId": 173,
+        "scenarioId": "episode173",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "『たまや、かぎや』",
+          "Tamaya, Kagiya",
+          "『玉屋、鍵屋』",
+          "「玉屋、键屋」",
+          "「와, 정말 멋지다!」"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 346,
+        "episodeType": "memorial",
+        "situationId": 173,
+        "scenarioId": "memorial173",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "私達の、場所",
+          "A Place for Us",
+          "屬於我們的地點",
+          "属于我们的场所",
+          "우리의 장소"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 127,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "秘密の場所",
+    "Secret Spot",
+    "秘密的場所",
+    "秘密的场所",
+    "비밀 장소"
+  ],
+  "releasedAt": [
+    "1502344800000",
+    "1533949200000",
+    "1502348400000",
+    "1502348400000",
+    "1502344800000"
+  ],
+  "skillName": [
+    "た、たまや……",
+    "T-Tamaya...",
+    "玉、玉屋……",
+    "玉、玉屋……",
+    "타, 타마야……"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3474,
+      "technique": 2385,
+      "visual": 2682
+    },
+    "2": {
+      "performance": 3520,
+      "technique": 2417,
+      "visual": 2718
+    },
+    "3": {
+      "performance": 3568,
+      "technique": 2450,
+      "visual": 2755
+    },
+    "4": {
+      "performance": 3619,
+      "technique": 2485,
+      "visual": 2794
+    },
+    "5": {
+      "performance": 3672,
+      "technique": 2521,
+      "visual": 2835
+    },
+    "6": {
+      "performance": 3727,
+      "technique": 2559,
+      "visual": 2878
+    },
+    "7": {
+      "performance": 3785,
+      "technique": 2599,
+      "visual": 2923
+    },
+    "8": {
+      "performance": 3845,
+      "technique": 2640,
+      "visual": 2969
+    },
+    "9": {
+      "performance": 3907,
+      "technique": 2683,
+      "visual": 3017
+    },
+    "10": {
+      "performance": 3972,
+      "technique": 2727,
+      "visual": 3067
+    },
+    "11": {
+      "performance": 4039,
+      "technique": 2773,
+      "visual": 3119
+    },
+    "12": {
+      "performance": 4108,
+      "technique": 2821,
+      "visual": 3172
+    },
+    "13": {
+      "performance": 4180,
+      "technique": 2870,
+      "visual": 3227
+    },
+    "14": {
+      "performance": 4254,
+      "technique": 2921,
+      "visual": 3284
+    },
+    "15": {
+      "performance": 4330,
+      "technique": 2973,
+      "visual": 3343
+    },
+    "16": {
+      "performance": 4408,
+      "technique": 3027,
+      "visual": 3404
+    },
+    "17": {
+      "performance": 4489,
+      "technique": 3082,
+      "visual": 3466
+    },
+    "18": {
+      "performance": 4572,
+      "technique": 3139,
+      "visual": 3530
+    },
+    "19": {
+      "performance": 4657,
+      "technique": 3198,
+      "visual": 3596
+    },
+    "20": {
+      "performance": 4745,
+      "technique": 3258,
+      "visual": 3664
+    },
+    "21": {
+      "performance": 4835,
+      "technique": 3320,
+      "visual": 3733
+    },
+    "22": {
+      "performance": 4927,
+      "technique": 3383,
+      "visual": 3804
+    },
+    "23": {
+      "performance": 5022,
+      "technique": 3448,
+      "visual": 3877
+    },
+    "24": {
+      "performance": 5119,
+      "technique": 3515,
+      "visual": 3952
+    },
+    "25": {
+      "performance": 5218,
+      "technique": 3583,
+      "visual": 4029
+    },
+    "26": {
+      "performance": 5320,
+      "technique": 3653,
+      "visual": 4107
+    },
+    "27": {
+      "performance": 5424,
+      "technique": 3724,
+      "visual": 4187
+    },
+    "28": {
+      "performance": 5530,
+      "technique": 3797,
+      "visual": 4269
+    },
+    "29": {
+      "performance": 5638,
+      "technique": 3871,
+      "visual": 4353
+    },
+    "30": {
+      "performance": 5749,
+      "technique": 3947,
+      "visual": 4438
+    },
+    "31": {
+      "performance": 5862,
+      "technique": 4025,
+      "visual": 4525
+    },
+    "32": {
+      "performance": 5977,
+      "technique": 4104,
+      "visual": 4614
+    },
+    "33": {
+      "performance": 6095,
+      "technique": 4185,
+      "visual": 4705
+    },
+    "34": {
+      "performance": 6215,
+      "technique": 4267,
+      "visual": 4798
+    },
+    "35": {
+      "performance": 6337,
+      "technique": 4351,
+      "visual": 4892
+    },
+    "36": {
+      "performance": 6462,
+      "technique": 4437,
+      "visual": 4988
+    },
+    "37": {
+      "performance": 6589,
+      "technique": 4524,
+      "visual": 5086
+    },
+    "38": {
+      "performance": 6718,
+      "technique": 4613,
+      "visual": 5186
+    },
+    "39": {
+      "performance": 6849,
+      "technique": 4703,
+      "visual": 5288
+    },
+    "40": {
+      "performance": 6983,
+      "technique": 4795,
+      "visual": 5391
+    },
+    "41": {
+      "performance": 7177,
+      "technique": 4928,
+      "visual": 5541
+    },
+    "42": {
+      "performance": 7406,
+      "technique": 5085,
+      "visual": 5718
+    },
+    "43": {
+      "performance": 7670,
+      "technique": 5266,
+      "visual": 5922
+    },
+    "44": {
+      "performance": 7969,
+      "technique": 5471,
+      "visual": 6153
+    },
+    "45": {
+      "performance": 8302,
+      "technique": 5700,
+      "visual": 6410
+    },
+    "46": {
+      "performance": 8670,
+      "technique": 5953,
+      "visual": 6694
+    },
+    "47": {
+      "performance": 9073,
+      "technique": 6230,
+      "visual": 7005
+    },
+    "48": {
+      "performance": 9511,
+      "technique": 6531,
+      "visual": 7343
+    },
+    "49": {
+      "performance": 9984,
+      "technique": 6856,
+      "visual": 7708
+    },
+    "50": {
+      "performance": 10491,
+      "technique": 7204,
+      "visual": 8100
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

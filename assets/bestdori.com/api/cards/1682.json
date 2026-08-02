@@ -1,0 +1,406 @@
+{
+  "characterId": 26,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res026027",
+  "sdResourceName": "sd026027",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2781,
+        "episodeType": "standard",
+        "situationId": 1682,
+        "scenarioId": "episode1682",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "チョコを渡したいあの人",
+          "Chocolates for a Certain Someone",
+          "想送巧克力給那個人",
+          "想把巧克力送给那个人",
+          "초코를 건네주고 싶은 그 사람"
+        ],
+        "characterId": 26
+      },
+      {
+        "episodeId": 2782,
+        "episodeType": "memorial",
+        "situationId": 1682,
+        "scenarioId": "memorial1682",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "手作りチャレンジ",
+          "A Shot at Making Chocolate",
+          "挑戰自己做",
+          "挑战手工制作",
+          "수제 챌린지"
+        ],
+        "characterId": 26
+      }
+    ]
+  },
+  "costumeId": 1583,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "こだわりトッピング",
+    "Special Toppings",
+    "很講究配料",
+    "讲究的配料",
+    "엄선한 토핑"
+  ],
+  "releasedAt": [
+    "1675144800000",
+    "1697245200000",
+    "1685602800000",
+    "1695618000000",
+    "4107477600000"
+  ],
+  "skillName": [
+    "ショコラにこめた想い",
+    "Feelings in Chocolat",
+    "放進巧克力裡的心意",
+    "倾注在巧克力里的心意",
+    "쇼콜라에 담긴 마음"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2898,
+      "technique": 3249,
+      "visual": 2673
+    },
+    "2": {
+      "performance": 2937,
+      "technique": 3292,
+      "visual": 2709
+    },
+    "3": {
+      "performance": 2977,
+      "technique": 3337,
+      "visual": 2746
+    },
+    "4": {
+      "performance": 3019,
+      "technique": 3384,
+      "visual": 2785
+    },
+    "5": {
+      "performance": 3063,
+      "technique": 3434,
+      "visual": 2826
+    },
+    "6": {
+      "performance": 3109,
+      "technique": 3486,
+      "visual": 2869
+    },
+    "7": {
+      "performance": 3157,
+      "technique": 3540,
+      "visual": 2913
+    },
+    "8": {
+      "performance": 3207,
+      "technique": 3596,
+      "visual": 2959
+    },
+    "9": {
+      "performance": 3259,
+      "technique": 3654,
+      "visual": 3007
+    },
+    "10": {
+      "performance": 3313,
+      "technique": 3714,
+      "visual": 3057
+    },
+    "11": {
+      "performance": 3369,
+      "technique": 3777,
+      "visual": 3108
+    },
+    "12": {
+      "performance": 3427,
+      "technique": 3842,
+      "visual": 3161
+    },
+    "13": {
+      "performance": 3487,
+      "technique": 3909,
+      "visual": 3216
+    },
+    "14": {
+      "performance": 3549,
+      "technique": 3978,
+      "visual": 3273
+    },
+    "15": {
+      "performance": 3613,
+      "technique": 4049,
+      "visual": 3332
+    },
+    "16": {
+      "performance": 3678,
+      "technique": 4122,
+      "visual": 3392
+    },
+    "17": {
+      "performance": 3745,
+      "technique": 4198,
+      "visual": 3454
+    },
+    "18": {
+      "performance": 3814,
+      "technique": 4276,
+      "visual": 3518
+    },
+    "19": {
+      "performance": 3885,
+      "technique": 4356,
+      "visual": 3584
+    },
+    "20": {
+      "performance": 3958,
+      "technique": 4438,
+      "visual": 3651
+    },
+    "21": {
+      "performance": 4033,
+      "technique": 4522,
+      "visual": 3720
+    },
+    "22": {
+      "performance": 4110,
+      "technique": 4608,
+      "visual": 3791
+    },
+    "23": {
+      "performance": 4189,
+      "technique": 4696,
+      "visual": 3864
+    },
+    "24": {
+      "performance": 4270,
+      "technique": 4787,
+      "visual": 3939
+    },
+    "25": {
+      "performance": 4353,
+      "technique": 4880,
+      "visual": 4015
+    },
+    "26": {
+      "performance": 4438,
+      "technique": 4975,
+      "visual": 4093
+    },
+    "27": {
+      "performance": 4525,
+      "technique": 5072,
+      "visual": 4173
+    },
+    "28": {
+      "performance": 4614,
+      "technique": 5171,
+      "visual": 4255
+    },
+    "29": {
+      "performance": 4704,
+      "technique": 5272,
+      "visual": 4338
+    },
+    "30": {
+      "performance": 4796,
+      "technique": 5376,
+      "visual": 4423
+    },
+    "31": {
+      "performance": 4890,
+      "technique": 5482,
+      "visual": 4510
+    },
+    "32": {
+      "performance": 4986,
+      "technique": 5590,
+      "visual": 4599
+    },
+    "33": {
+      "performance": 5084,
+      "technique": 5700,
+      "visual": 4690
+    },
+    "34": {
+      "performance": 5184,
+      "technique": 5812,
+      "visual": 4782
+    },
+    "35": {
+      "performance": 5286,
+      "technique": 5926,
+      "visual": 4876
+    },
+    "36": {
+      "performance": 5390,
+      "technique": 6042,
+      "visual": 4972
+    },
+    "37": {
+      "performance": 5496,
+      "technique": 6161,
+      "visual": 5070
+    },
+    "38": {
+      "performance": 5604,
+      "technique": 6282,
+      "visual": 5169
+    },
+    "39": {
+      "performance": 5714,
+      "technique": 6405,
+      "visual": 5270
+    },
+    "40": {
+      "performance": 5826,
+      "technique": 6530,
+      "visual": 5373
+    },
+    "41": {
+      "performance": 5988,
+      "technique": 6712,
+      "visual": 5522
+    },
+    "42": {
+      "performance": 6179,
+      "technique": 6926,
+      "visual": 5698
+    },
+    "43": {
+      "performance": 6399,
+      "technique": 7173,
+      "visual": 5901
+    },
+    "44": {
+      "performance": 6648,
+      "technique": 7452,
+      "visual": 6131
+    },
+    "45": {
+      "performance": 6926,
+      "technique": 7764,
+      "visual": 6388
+    },
+    "46": {
+      "performance": 7233,
+      "technique": 8108,
+      "visual": 6671
+    },
+    "47": {
+      "performance": 7569,
+      "technique": 8485,
+      "visual": 6981
+    },
+    "48": {
+      "performance": 7934,
+      "technique": 8895,
+      "visual": 7318
+    },
+    "49": {
+      "performance": 8328,
+      "technique": 9337,
+      "visual": 7682
+    },
+    "50": {
+      "performance": 8751,
+      "technique": 9812,
+      "visual": 8072
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

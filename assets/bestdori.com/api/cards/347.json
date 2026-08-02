@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res010015",
+  "sdResourceName": "sd010015",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 523,
+        "episodeType": "standard",
+        "situationId": 347,
+        "scenarioId": "episode347",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "想いを込めて……",
+          "Fill It with Emotion...",
+          "灌注了思念……",
+          "倾注感情……",
+          "마음을 담아……"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 524,
+        "episodeType": "memorial",
+        "situationId": 347,
+        "scenarioId": "memorial347",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お揃いへの憧れ",
+          "Yearning for Unity",
+          "一樣的憧憬",
+          "憧憬能穿得一样",
+          "동경하는 세트 의상"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 251,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "グロウアップロック",
+    "Rock and Glow",
+    "Grow up Rock",
+    "Grow Up Rock",
+    "글로우 업 록"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "染み込んだツグり",
+    "Dyed Tsugurific",
+    "滲透之鶇",
+    "铭刻在心的鸫鸫作风",
+    "스며든 츠구리"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1872,
+      "technique": 2220,
+      "visual": 2028
+    },
+    "2": {
+      "performance": 1922,
+      "technique": 2279,
+      "visual": 2082
+    },
+    "3": {
+      "performance": 1975,
+      "technique": 2342,
+      "visual": 2140
+    },
+    "4": {
+      "performance": 2031,
+      "technique": 2409,
+      "visual": 2201
+    },
+    "5": {
+      "performance": 2091,
+      "technique": 2480,
+      "visual": 2266
+    },
+    "6": {
+      "performance": 2154,
+      "technique": 2555,
+      "visual": 2334
+    },
+    "7": {
+      "performance": 2220,
+      "technique": 2634,
+      "visual": 2406
+    },
+    "8": {
+      "performance": 2290,
+      "technique": 2717,
+      "visual": 2481
+    },
+    "9": {
+      "performance": 2363,
+      "technique": 2804,
+      "visual": 2560
+    },
+    "10": {
+      "performance": 2439,
+      "technique": 2894,
+      "visual": 2643
+    },
+    "11": {
+      "performance": 2519,
+      "technique": 2988,
+      "visual": 2729
+    },
+    "12": {
+      "performance": 2602,
+      "technique": 3086,
+      "visual": 2819
+    },
+    "13": {
+      "performance": 2688,
+      "technique": 3188,
+      "visual": 2912
+    },
+    "14": {
+      "performance": 2778,
+      "technique": 3294,
+      "visual": 3009
+    },
+    "15": {
+      "performance": 2871,
+      "technique": 3404,
+      "visual": 3110
+    },
+    "16": {
+      "performance": 2967,
+      "technique": 3518,
+      "visual": 3214
+    },
+    "17": {
+      "performance": 3066,
+      "technique": 3636,
+      "visual": 3322
+    },
+    "18": {
+      "performance": 3169,
+      "technique": 3758,
+      "visual": 3433
+    },
+    "19": {
+      "performance": 3275,
+      "technique": 3884,
+      "visual": 3548
+    },
+    "20": {
+      "performance": 3384,
+      "technique": 4014,
+      "visual": 3667
+    },
+    "21": {
+      "performance": 3497,
+      "technique": 4148,
+      "visual": 3789
+    },
+    "22": {
+      "performance": 3613,
+      "technique": 4286,
+      "visual": 3915
+    },
+    "23": {
+      "performance": 3732,
+      "technique": 4428,
+      "visual": 4044
+    },
+    "24": {
+      "performance": 3855,
+      "technique": 4574,
+      "visual": 4177
+    },
+    "25": {
+      "performance": 3981,
+      "technique": 4723,
+      "visual": 4314
+    },
+    "26": {
+      "performance": 4110,
+      "technique": 4876,
+      "visual": 4454
+    },
+    "27": {
+      "performance": 4243,
+      "technique": 5033,
+      "visual": 4598
+    },
+    "28": {
+      "performance": 4379,
+      "technique": 5194,
+      "visual": 4745
+    },
+    "29": {
+      "performance": 4518,
+      "technique": 5359,
+      "visual": 4896
+    },
+    "30": {
+      "performance": 4661,
+      "technique": 5528,
+      "visual": 5050
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

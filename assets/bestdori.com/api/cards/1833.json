@@ -1,0 +1,436 @@
+{
+  "characterId": 30,
+  "rarity": 5,
+  "attribute": "powerful",
+  "levelLimit": 60,
+  "resourceSetName": "res030034",
+  "sdResourceName": "sd030034",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3069,
+        "episodeType": "animation",
+        "situationId": 1833,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "甘い眠りに誘われて",
+          "Lulled to Sweet Slumber",
+          "被引誘至甜美睡眠中",
+          "进入甜美的梦乡",
+          null
+        ],
+        "characterId": 30
+      },
+      {
+        "episodeId": 3070,
+        "episodeType": "memorial",
+        "situationId": 1833,
+        "scenarioId": "memorial1833",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "サードプレイス",
+          "Third Place",
+          "第三空間",
+          "第三空间",
+          null
+        ],
+        "characterId": 30
+      }
+    ]
+  },
+  "costumeId": 1806,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "甘い眠りに誘われて",
+    "Lured Into a Sweet Sleep",
+    "被引誘至甜美睡眠中",
+    "进入甜美的梦乡",
+    null
+  ],
+  "releasedAt": [
+    "1695967200000",
+    "1732496400000",
+    "1709881200000",
+    "1713502800000",
+    null
+  ],
+  "skillName": [
+    "まどろみの森を抜ければ",
+    "Beyond the Forest of Slumber",
+    "只要越過沉睡之森",
+    "如果穿过微睡的森林",
+    null
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1833,
+    "assetBundleName": "mov030001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3577,
+      "technique": 3524,
+      "visual": 3609
+    },
+    "2": {
+      "performance": 3641,
+      "technique": 3588,
+      "visual": 3674
+    },
+    "3": {
+      "performance": 3708,
+      "technique": 3654,
+      "visual": 3741
+    },
+    "4": {
+      "performance": 3777,
+      "technique": 3722,
+      "visual": 3810
+    },
+    "5": {
+      "performance": 3848,
+      "technique": 3792,
+      "visual": 3882
+    },
+    "6": {
+      "performance": 3921,
+      "technique": 3864,
+      "visual": 3956
+    },
+    "7": {
+      "performance": 3996,
+      "technique": 3938,
+      "visual": 4032
+    },
+    "8": {
+      "performance": 4073,
+      "technique": 4014,
+      "visual": 4110
+    },
+    "9": {
+      "performance": 4153,
+      "technique": 4092,
+      "visual": 4190
+    },
+    "10": {
+      "performance": 4235,
+      "technique": 4173,
+      "visual": 4272
+    },
+    "11": {
+      "performance": 4319,
+      "technique": 4256,
+      "visual": 4357
+    },
+    "12": {
+      "performance": 4405,
+      "technique": 4341,
+      "visual": 4444
+    },
+    "13": {
+      "performance": 4493,
+      "technique": 4428,
+      "visual": 4533
+    },
+    "14": {
+      "performance": 4583,
+      "technique": 4517,
+      "visual": 4624
+    },
+    "15": {
+      "performance": 4675,
+      "technique": 4608,
+      "visual": 4717
+    },
+    "16": {
+      "performance": 4770,
+      "technique": 4701,
+      "visual": 4812
+    },
+    "17": {
+      "performance": 4867,
+      "technique": 4796,
+      "visual": 4910
+    },
+    "18": {
+      "performance": 4966,
+      "technique": 4894,
+      "visual": 5010
+    },
+    "19": {
+      "performance": 5067,
+      "technique": 4994,
+      "visual": 5112
+    },
+    "20": {
+      "performance": 5170,
+      "technique": 5096,
+      "visual": 5216
+    },
+    "21": {
+      "performance": 5275,
+      "technique": 5200,
+      "visual": 5322
+    },
+    "22": {
+      "performance": 5382,
+      "technique": 5306,
+      "visual": 5430
+    },
+    "23": {
+      "performance": 5492,
+      "technique": 5414,
+      "visual": 5541
+    },
+    "24": {
+      "performance": 5604,
+      "technique": 5524,
+      "visual": 5654
+    },
+    "25": {
+      "performance": 5718,
+      "technique": 5636,
+      "visual": 5769
+    },
+    "26": {
+      "performance": 5834,
+      "technique": 5750,
+      "visual": 5886
+    },
+    "27": {
+      "performance": 5952,
+      "technique": 5867,
+      "visual": 6005
+    },
+    "28": {
+      "performance": 6072,
+      "technique": 5986,
+      "visual": 6126
+    },
+    "29": {
+      "performance": 6195,
+      "technique": 6107,
+      "visual": 6250
+    },
+    "30": {
+      "performance": 6320,
+      "technique": 6230,
+      "visual": 6376
+    },
+    "31": {
+      "performance": 6447,
+      "technique": 6355,
+      "visual": 6504
+    },
+    "32": {
+      "performance": 6576,
+      "technique": 6482,
+      "visual": 6634
+    },
+    "33": {
+      "performance": 6707,
+      "technique": 6611,
+      "visual": 6766
+    },
+    "34": {
+      "performance": 6840,
+      "technique": 6742,
+      "visual": 6900
+    },
+    "35": {
+      "performance": 6975,
+      "technique": 6876,
+      "visual": 7037
+    },
+    "36": {
+      "performance": 7113,
+      "technique": 7012,
+      "visual": 7176
+    },
+    "37": {
+      "performance": 7253,
+      "technique": 7150,
+      "visual": 7317
+    },
+    "38": {
+      "performance": 7395,
+      "technique": 7290,
+      "visual": 7460
+    },
+    "39": {
+      "performance": 7539,
+      "technique": 7432,
+      "visual": 7605
+    },
+    "40": {
+      "performance": 7685,
+      "technique": 7576,
+      "visual": 7752
+    },
+    "41": {
+      "performance": 7833,
+      "technique": 7722,
+      "visual": 7902
+    },
+    "42": {
+      "performance": 7983,
+      "technique": 7870,
+      "visual": 8054
+    },
+    "43": {
+      "performance": 8136,
+      "technique": 8020,
+      "visual": 8208
+    },
+    "44": {
+      "performance": 8291,
+      "technique": 8173,
+      "visual": 8364
+    },
+    "45": {
+      "performance": 8448,
+      "technique": 8328,
+      "visual": 8522
+    },
+    "46": {
+      "performance": 8607,
+      "technique": 8485,
+      "visual": 8682
+    },
+    "47": {
+      "performance": 8768,
+      "technique": 8644,
+      "visual": 8845
+    },
+    "48": {
+      "performance": 8931,
+      "technique": 8805,
+      "visual": 9010
+    },
+    "49": {
+      "performance": 9096,
+      "technique": 8968,
+      "visual": 9177
+    },
+    "50": {
+      "performance": 9264,
+      "technique": 9133,
+      "visual": 9346
+    },
+    "51": {
+      "performance": 9434,
+      "technique": 9300,
+      "visual": 9517
+    },
+    "52": {
+      "performance": 9606,
+      "technique": 9470,
+      "visual": 9690
+    },
+    "53": {
+      "performance": 9780,
+      "technique": 9642,
+      "visual": 9866
+    },
+    "54": {
+      "performance": 9956,
+      "technique": 9816,
+      "visual": 10044
+    },
+    "55": {
+      "performance": 10134,
+      "technique": 9992,
+      "visual": 10224
+    },
+    "56": {
+      "performance": 10315,
+      "technique": 10170,
+      "visual": 10406
+    },
+    "57": {
+      "performance": 10498,
+      "technique": 10350,
+      "visual": 10590
+    },
+    "58": {
+      "performance": 10683,
+      "technique": 10532,
+      "visual": 10776
+    },
+    "59": {
+      "performance": 10870,
+      "technique": 10716,
+      "visual": 10965
+    },
+    "60": {
+      "performance": 11059,
+      "technique": 10902,
+      "visual": 11156
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

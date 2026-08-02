@@ -1,0 +1,288 @@
+{
+  "characterId": 3,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res003013",
+  "sdResourceName": "sd003013",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 509,
+        "episodeType": "standard",
+        "situationId": 340,
+        "scenarioId": "episode340",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お気に入りの一着",
+          "Favorite Article of Clothing",
+          "我很喜歡的一套衣服",
+          "喜爱的服装",
+          "마음에 든 한 벌"
+        ],
+        "characterId": 3
+      },
+      {
+        "episodeId": 510,
+        "episodeType": "memorial",
+        "situationId": 340,
+        "scenarioId": "memorial340",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "新たな着想",
+          "A New Idea",
+          "對新衣服的想法",
+          "新设想",
+          "새로운 아이디어"
+        ],
+        "characterId": 3
+      }
+    ]
+  },
+  "costumeId": 244,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "カラフルポッピン！",
+    "Poppin' Colors!",
+    "繽紛Poppin！",
+    "Colorful Poppin！",
+    "컬러풀 팝핀!"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "お姉ちゃんの太鼓判",
+    "Sister's Seal of Approval",
+    "姊姊掛保證",
+    "姐姐的保证",
+    "언니의 확실한 보증"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1980,
+      "technique": 1788,
+      "visual": 2292
+    },
+    "2": {
+      "performance": 2033,
+      "technique": 1836,
+      "visual": 2353
+    },
+    "3": {
+      "performance": 2089,
+      "technique": 1887,
+      "visual": 2418
+    },
+    "4": {
+      "performance": 2149,
+      "technique": 1941,
+      "visual": 2487
+    },
+    "5": {
+      "performance": 2212,
+      "technique": 1998,
+      "visual": 2560
+    },
+    "6": {
+      "performance": 2279,
+      "technique": 2058,
+      "visual": 2637
+    },
+    "7": {
+      "performance": 2349,
+      "technique": 2121,
+      "visual": 2718
+    },
+    "8": {
+      "performance": 2423,
+      "technique": 2188,
+      "visual": 2803
+    },
+    "9": {
+      "performance": 2500,
+      "technique": 2258,
+      "visual": 2892
+    },
+    "10": {
+      "performance": 2581,
+      "technique": 2331,
+      "visual": 2985
+    },
+    "11": {
+      "performance": 2665,
+      "technique": 2407,
+      "visual": 3082
+    },
+    "12": {
+      "performance": 2753,
+      "technique": 2486,
+      "visual": 3184
+    },
+    "13": {
+      "performance": 2844,
+      "technique": 2568,
+      "visual": 3290
+    },
+    "14": {
+      "performance": 2939,
+      "technique": 2654,
+      "visual": 3400
+    },
+    "15": {
+      "performance": 3037,
+      "technique": 2743,
+      "visual": 3514
+    },
+    "16": {
+      "performance": 3139,
+      "technique": 2835,
+      "visual": 3632
+    },
+    "17": {
+      "performance": 3244,
+      "technique": 2930,
+      "visual": 3754
+    },
+    "18": {
+      "performance": 3353,
+      "technique": 3028,
+      "visual": 3880
+    },
+    "19": {
+      "performance": 3465,
+      "technique": 3129,
+      "visual": 4010
+    },
+    "20": {
+      "performance": 3581,
+      "technique": 3234,
+      "visual": 4144
+    },
+    "21": {
+      "performance": 3700,
+      "technique": 3342,
+      "visual": 4282
+    },
+    "22": {
+      "performance": 3823,
+      "technique": 3453,
+      "visual": 4424
+    },
+    "23": {
+      "performance": 3949,
+      "technique": 3567,
+      "visual": 4570
+    },
+    "24": {
+      "performance": 4079,
+      "technique": 3684,
+      "visual": 4720
+    },
+    "25": {
+      "performance": 4212,
+      "technique": 3804,
+      "visual": 4874
+    },
+    "26": {
+      "performance": 4349,
+      "technique": 3928,
+      "visual": 5032
+    },
+    "27": {
+      "performance": 4489,
+      "technique": 4055,
+      "visual": 5194
+    },
+    "28": {
+      "performance": 4633,
+      "technique": 4185,
+      "visual": 5360
+    },
+    "29": {
+      "performance": 4780,
+      "technique": 4318,
+      "visual": 5530
+    },
+    "30": {
+      "performance": 4931,
+      "technique": 4454,
+      "visual": 5705
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

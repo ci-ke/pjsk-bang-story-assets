@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res020037",
+  "sdResourceName": "sd020037",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1253,
+        "episodeType": "standard",
+        "situationId": 783,
+        "scenarioId": "episode783",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "手作り巡り",
+          "Touring Crafts",
+          "手作巡禮",
+          "手工巡礼",
+          "수제품 탐방"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 1254,
+        "episodeType": "memorial",
+        "situationId": 783,
+        "scenarioId": "memorial783",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "友への土産",
+          "Souvenirs for Friends",
+          "給朋友的伴手禮",
+          "赠送朋友的伴手礼",
+          "친구한테 주는 기념품"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 734,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ファーマースタイル",
+    "Farmer-Style",
+    "Farmer Style",
+    "农场风格",
+    "파머 스타일"
+  ],
+  "releasedAt": [
+    "1570773600000",
+    "1602723600000",
+    "1582354800000",
+    "1616475600000",
+    "1570773600000"
+  ],
+  "skillName": [
+    "立派なブシを作ります！",
+    "Becoming a Warrior",
+    "我要做出堂堂的武士！",
+    "制作完美的武士！",
+    "훌륭한 무사로 만들겠어요!"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1740,
+      "technique": 1950,
+      "visual": 2190
+    },
+    "2": {
+      "performance": 1787,
+      "technique": 2003,
+      "visual": 2249
+    },
+    "3": {
+      "performance": 1837,
+      "technique": 2059,
+      "visual": 2312
+    },
+    "4": {
+      "performance": 1890,
+      "technique": 2119,
+      "visual": 2379
+    },
+    "5": {
+      "performance": 1946,
+      "technique": 2182,
+      "visual": 2450
+    },
+    "6": {
+      "performance": 2005,
+      "technique": 2249,
+      "visual": 2525
+    },
+    "7": {
+      "performance": 2068,
+      "technique": 2319,
+      "visual": 2604
+    },
+    "8": {
+      "performance": 2134,
+      "technique": 2393,
+      "visual": 2687
+    },
+    "9": {
+      "performance": 2203,
+      "technique": 2470,
+      "visual": 2774
+    },
+    "10": {
+      "performance": 2275,
+      "technique": 2551,
+      "visual": 2864
+    },
+    "11": {
+      "performance": 2350,
+      "technique": 2635,
+      "visual": 2958
+    },
+    "12": {
+      "performance": 2428,
+      "technique": 2723,
+      "visual": 3056
+    },
+    "13": {
+      "performance": 2509,
+      "technique": 2814,
+      "visual": 3158
+    },
+    "14": {
+      "performance": 2593,
+      "technique": 2909,
+      "visual": 3264
+    },
+    "15": {
+      "performance": 2680,
+      "technique": 3007,
+      "visual": 3374
+    },
+    "16": {
+      "performance": 2771,
+      "technique": 3109,
+      "visual": 3488
+    },
+    "17": {
+      "performance": 2865,
+      "technique": 3214,
+      "visual": 3606
+    },
+    "18": {
+      "performance": 2962,
+      "technique": 3323,
+      "visual": 3728
+    },
+    "19": {
+      "performance": 3062,
+      "technique": 3435,
+      "visual": 3854
+    },
+    "20": {
+      "performance": 3165,
+      "technique": 3551,
+      "visual": 3984
+    },
+    "21": {
+      "performance": 3271,
+      "technique": 3670,
+      "visual": 4118
+    },
+    "22": {
+      "performance": 3380,
+      "technique": 3793,
+      "visual": 4256
+    },
+    "23": {
+      "performance": 3492,
+      "technique": 3919,
+      "visual": 4398
+    },
+    "24": {
+      "performance": 3608,
+      "technique": 4049,
+      "visual": 4543
+    },
+    "25": {
+      "performance": 3727,
+      "technique": 4182,
+      "visual": 4692
+    },
+    "26": {
+      "performance": 3849,
+      "technique": 4319,
+      "visual": 4845
+    },
+    "27": {
+      "performance": 3974,
+      "technique": 4459,
+      "visual": 5002
+    },
+    "28": {
+      "performance": 4102,
+      "technique": 4603,
+      "visual": 5163
+    },
+    "29": {
+      "performance": 4233,
+      "technique": 4750,
+      "visual": 5328
+    },
+    "30": {
+      "performance": 4367,
+      "technique": 4901,
+      "visual": 5497
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

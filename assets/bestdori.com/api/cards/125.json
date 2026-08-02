@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res010005",
+  "sdResourceName": "sd010005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 249,
+        "episodeType": "standard",
+        "situationId": 125,
+        "scenarioId": "episode125",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "悪くない天体観測",
+          "Astronomy's Kinda Fun",
+          "不錯的天文觀測",
+          "不错的天体观测",
+          "나쁘지 않은 천체관측"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 250,
+        "episodeType": "memorial",
+        "situationId": 125,
+        "scenarioId": "memorial125",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "みんなで見た輝き",
+          "Witnesses To Sparkle",
+          "大家一起觀看的光輝",
+          "大家共同见证的光辉",
+          "다 같이 본 빛"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 317,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "流星群",
+    "Meteor Shower",
+    "流星群",
+    "流星雨",
+    "유성우"
+  ],
+  "releasedAt": [
+    "1493532000000",
+    "1525654800000",
+    "1493535600000",
+    "1493535600000",
+    "1493532000000"
+  ],
+  "skillName": [
+    "私達の輝き",
+    "We Shine Bright",
+    "我們的光輝",
+    "属于我们的光辉",
+    "우리의 빛남"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1728,
+      "technique": 2310,
+      "visual": 1656
+    },
+    "2": {
+      "performance": 1775,
+      "technique": 2372,
+      "visual": 1701
+    },
+    "3": {
+      "performance": 1825,
+      "technique": 2438,
+      "visual": 1749
+    },
+    "4": {
+      "performance": 1878,
+      "technique": 2509,
+      "visual": 1800
+    },
+    "5": {
+      "performance": 1934,
+      "technique": 2584,
+      "visual": 1854
+    },
+    "6": {
+      "performance": 1993,
+      "technique": 2663,
+      "visual": 1911
+    },
+    "7": {
+      "performance": 2055,
+      "technique": 2746,
+      "visual": 1971
+    },
+    "8": {
+      "performance": 2120,
+      "technique": 2833,
+      "visual": 2033
+    },
+    "9": {
+      "performance": 2188,
+      "technique": 2924,
+      "visual": 2098
+    },
+    "10": {
+      "performance": 2259,
+      "technique": 3019,
+      "visual": 2166
+    },
+    "11": {
+      "performance": 2333,
+      "technique": 3119,
+      "visual": 2237
+    },
+    "12": {
+      "performance": 2411,
+      "technique": 3223,
+      "visual": 2311
+    },
+    "13": {
+      "performance": 2492,
+      "technique": 3331,
+      "visual": 2388
+    },
+    "14": {
+      "performance": 2576,
+      "technique": 3443,
+      "visual": 2468
+    },
+    "15": {
+      "performance": 2663,
+      "technique": 3559,
+      "visual": 2551
+    },
+    "16": {
+      "performance": 2753,
+      "technique": 3679,
+      "visual": 2637
+    },
+    "17": {
+      "performance": 2846,
+      "technique": 3803,
+      "visual": 2726
+    },
+    "18": {
+      "performance": 2942,
+      "technique": 3932,
+      "visual": 2818
+    },
+    "19": {
+      "performance": 3041,
+      "technique": 4065,
+      "visual": 2913
+    },
+    "20": {
+      "performance": 3143,
+      "technique": 4202,
+      "visual": 3011
+    },
+    "21": {
+      "performance": 3248,
+      "technique": 4343,
+      "visual": 3112
+    },
+    "22": {
+      "performance": 3357,
+      "technique": 4488,
+      "visual": 3216
+    },
+    "23": {
+      "performance": 3469,
+      "technique": 4637,
+      "visual": 3323
+    },
+    "24": {
+      "performance": 3584,
+      "technique": 4790,
+      "visual": 3433
+    },
+    "25": {
+      "performance": 3702,
+      "technique": 4948,
+      "visual": 3546
+    },
+    "26": {
+      "performance": 3823,
+      "technique": 5110,
+      "visual": 3662
+    },
+    "27": {
+      "performance": 3947,
+      "technique": 5276,
+      "visual": 3781
+    },
+    "28": {
+      "performance": 4074,
+      "technique": 5446,
+      "visual": 3903
+    },
+    "29": {
+      "performance": 4204,
+      "technique": 5620,
+      "visual": 4028
+    },
+    "30": {
+      "performance": 4337,
+      "technique": 5798,
+      "visual": 4156
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

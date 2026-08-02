@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res010031",
+  "sdResourceName": "sd010031",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 991,
+        "episodeType": "standard",
+        "situationId": 612,
+        "scenarioId": "episode612",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "お返しとお返し",
+          "A Return Gift in Return",
+          "回禮與回禮",
+          "回礼与回礼",
+          "답례와 답례"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 992,
+        "episodeType": "memorial",
+        "situationId": 612,
+        "scenarioId": "memorial612",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ぽかぽかのおすそ分け",
+          "Sharing the Warmth",
+          "熱呼呼的分享",
+          "温暖的分享",
+          "따끈따끈한 나눔"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 563,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "キャンディに込めて",
+    "Placed in this Candy",
+    "放進糖果裡",
+    "将心意隐藏在糖果中",
+    "사탕에 담아서"
+  ],
+  "releasedAt": [
+    "1551333600000",
+    "1582938000000",
+    "1562569200000",
+    "1602565200000",
+    "1551333600000"
+  ],
+  "skillName": [
+    "気持ちを、どうぞ",
+    "Gifting Feelings",
+    "請收下、我的心意",
+    "请收下我的心意",
+    "마음을, 부디"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1848,
+      "technique": 1710,
+      "visual": 2322
+    },
+    "2": {
+      "performance": 1898,
+      "technique": 1756,
+      "visual": 2385
+    },
+    "3": {
+      "performance": 1951,
+      "technique": 1805,
+      "visual": 2452
+    },
+    "4": {
+      "performance": 2007,
+      "technique": 1857,
+      "visual": 2523
+    },
+    "5": {
+      "performance": 2067,
+      "technique": 1912,
+      "visual": 2598
+    },
+    "6": {
+      "performance": 2130,
+      "technique": 1970,
+      "visual": 2677
+    },
+    "7": {
+      "performance": 2196,
+      "technique": 2031,
+      "visual": 2760
+    },
+    "8": {
+      "performance": 2266,
+      "technique": 2096,
+      "visual": 2848
+    },
+    "9": {
+      "performance": 2339,
+      "technique": 2164,
+      "visual": 2940
+    },
+    "10": {
+      "performance": 2415,
+      "technique": 2235,
+      "visual": 3036
+    },
+    "11": {
+      "performance": 2495,
+      "technique": 2309,
+      "visual": 3136
+    },
+    "12": {
+      "performance": 2578,
+      "technique": 2386,
+      "visual": 3240
+    },
+    "13": {
+      "performance": 2664,
+      "technique": 2466,
+      "visual": 3348
+    },
+    "14": {
+      "performance": 2754,
+      "technique": 2549,
+      "visual": 3461
+    },
+    "15": {
+      "performance": 2847,
+      "technique": 2635,
+      "visual": 3578
+    },
+    "16": {
+      "performance": 2943,
+      "technique": 2724,
+      "visual": 3699
+    },
+    "17": {
+      "performance": 3043,
+      "technique": 2816,
+      "visual": 3824
+    },
+    "18": {
+      "performance": 3146,
+      "technique": 2911,
+      "visual": 3953
+    },
+    "19": {
+      "performance": 3252,
+      "technique": 3009,
+      "visual": 4086
+    },
+    "20": {
+      "performance": 3361,
+      "technique": 3110,
+      "visual": 4224
+    },
+    "21": {
+      "performance": 3474,
+      "technique": 3214,
+      "visual": 4366
+    },
+    "22": {
+      "performance": 3590,
+      "technique": 3321,
+      "visual": 4512
+    },
+    "23": {
+      "performance": 3709,
+      "technique": 3432,
+      "visual": 4662
+    },
+    "24": {
+      "performance": 3832,
+      "technique": 3546,
+      "visual": 4816
+    },
+    "25": {
+      "performance": 3958,
+      "technique": 3663,
+      "visual": 4974
+    },
+    "26": {
+      "performance": 4087,
+      "technique": 3783,
+      "visual": 5137
+    },
+    "27": {
+      "performance": 4220,
+      "technique": 3906,
+      "visual": 5304
+    },
+    "28": {
+      "performance": 4356,
+      "technique": 4032,
+      "visual": 5475
+    },
+    "29": {
+      "performance": 4495,
+      "technique": 4161,
+      "visual": 5650
+    },
+    "30": {
+      "performance": 4638,
+      "technique": 4293,
+      "visual": 5829
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

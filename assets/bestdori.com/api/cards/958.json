@@ -1,0 +1,406 @@
+{
+  "characterId": 21,
+  "rarity": 3,
+  "attribute": "powerful",
+  "levelLimit": 40,
+  "resourceSetName": "res021040",
+  "sdResourceName": "sd021040",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1534,
+        "episodeType": "standard",
+        "situationId": 958,
+        "scenarioId": "episode958",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "バンドのために…？",
+          "For the Band...?",
+          "為了樂團…？",
+          "为了乐队……？",
+          "밴드를 위해서…?"
+        ],
+        "characterId": 21
+      },
+      {
+        "episodeId": 1535,
+        "episodeType": "memorial",
+        "situationId": 958,
+        "scenarioId": "memorial958",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "NFOの音",
+          "The Sounds of NFO",
+          "NFO的聲響",
+          "NFO的音乐",
+          "NFO의 소리"
+        ],
+        "characterId": 21
+      }
+    ]
+  },
+  "costumeId": 904,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "無敵の歌",
+    "Song of Invincibility",
+    "無敵之歌",
+    "无敌之歌",
+    "무적의 노래"
+  ],
+  "releasedAt": [
+    "1590904800000",
+    "1622336400000",
+    "1604646000000",
+    "1630386000000",
+    "1590904800000"
+  ],
+  "skillName": [
+    "ヤマモリバフデバフ",
+    "All the Buffs & Debuffs",
+    "強化弱化狀態比山還多",
+    "满满的增益和减益效果",
+    "잔뜩 버프 디버프"
+  ],
+  "skillId": 3,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2745,
+      "technique": 3771,
+      "visual": 2034
+    },
+    "2": {
+      "performance": 2782,
+      "technique": 3822,
+      "visual": 2062
+    },
+    "3": {
+      "performance": 2821,
+      "technique": 3876,
+      "visual": 2091
+    },
+    "4": {
+      "performance": 2862,
+      "technique": 3932,
+      "visual": 2121
+    },
+    "5": {
+      "performance": 2905,
+      "technique": 3991,
+      "visual": 2153
+    },
+    "6": {
+      "performance": 2950,
+      "technique": 4052,
+      "visual": 2186
+    },
+    "7": {
+      "performance": 2996,
+      "technique": 4116,
+      "visual": 2220
+    },
+    "8": {
+      "performance": 3044,
+      "technique": 4182,
+      "visual": 2256
+    },
+    "9": {
+      "performance": 3094,
+      "technique": 4251,
+      "visual": 2293
+    },
+    "10": {
+      "performance": 3146,
+      "technique": 4323,
+      "visual": 2332
+    },
+    "11": {
+      "performance": 3200,
+      "technique": 4397,
+      "visual": 2372
+    },
+    "12": {
+      "performance": 3256,
+      "technique": 4474,
+      "visual": 2413
+    },
+    "13": {
+      "performance": 3314,
+      "technique": 4553,
+      "visual": 2456
+    },
+    "14": {
+      "performance": 3373,
+      "technique": 4635,
+      "visual": 2500
+    },
+    "15": {
+      "performance": 3434,
+      "technique": 4719,
+      "visual": 2545
+    },
+    "16": {
+      "performance": 3497,
+      "technique": 4806,
+      "visual": 2592
+    },
+    "17": {
+      "performance": 3562,
+      "technique": 4895,
+      "visual": 2640
+    },
+    "18": {
+      "performance": 3629,
+      "technique": 4987,
+      "visual": 2690
+    },
+    "19": {
+      "performance": 3698,
+      "technique": 5081,
+      "visual": 2741
+    },
+    "20": {
+      "performance": 3769,
+      "technique": 5178,
+      "visual": 2793
+    },
+    "21": {
+      "performance": 3841,
+      "technique": 5278,
+      "visual": 2847
+    },
+    "22": {
+      "performance": 3915,
+      "technique": 5380,
+      "visual": 2902
+    },
+    "23": {
+      "performance": 3991,
+      "technique": 5485,
+      "visual": 2958
+    },
+    "24": {
+      "performance": 4069,
+      "technique": 5592,
+      "visual": 3016
+    },
+    "25": {
+      "performance": 4149,
+      "technique": 5702,
+      "visual": 3075
+    },
+    "26": {
+      "performance": 4231,
+      "technique": 5814,
+      "visual": 3136
+    },
+    "27": {
+      "performance": 4315,
+      "technique": 5929,
+      "visual": 3198
+    },
+    "28": {
+      "performance": 4400,
+      "technique": 6046,
+      "visual": 3261
+    },
+    "29": {
+      "performance": 4487,
+      "technique": 6166,
+      "visual": 3326
+    },
+    "30": {
+      "performance": 4576,
+      "technique": 6289,
+      "visual": 3392
+    },
+    "31": {
+      "performance": 4667,
+      "technique": 6414,
+      "visual": 3459
+    },
+    "32": {
+      "performance": 4760,
+      "technique": 6542,
+      "visual": 3528
+    },
+    "33": {
+      "performance": 4855,
+      "technique": 6672,
+      "visual": 3598
+    },
+    "34": {
+      "performance": 4952,
+      "technique": 6805,
+      "visual": 3670
+    },
+    "35": {
+      "performance": 5050,
+      "technique": 6940,
+      "visual": 3743
+    },
+    "36": {
+      "performance": 5150,
+      "technique": 7078,
+      "visual": 3817
+    },
+    "37": {
+      "performance": 5252,
+      "technique": 7218,
+      "visual": 3893
+    },
+    "38": {
+      "performance": 5356,
+      "technique": 7361,
+      "visual": 3970
+    },
+    "39": {
+      "performance": 5462,
+      "technique": 7507,
+      "visual": 4048
+    },
+    "40": {
+      "performance": 5570,
+      "technique": 7655,
+      "visual": 4128
+    },
+    "41": {
+      "performance": 5727,
+      "technique": 7870,
+      "visual": 4244
+    },
+    "42": {
+      "performance": 5912,
+      "technique": 8124,
+      "visual": 4381
+    },
+    "43": {
+      "performance": 6125,
+      "technique": 8416,
+      "visual": 4539
+    },
+    "44": {
+      "performance": 6366,
+      "technique": 8747,
+      "visual": 4717
+    },
+    "45": {
+      "performance": 6635,
+      "technique": 9116,
+      "visual": 4916
+    },
+    "46": {
+      "performance": 6932,
+      "technique": 9524,
+      "visual": 5136
+    },
+    "47": {
+      "performance": 7257,
+      "technique": 9970,
+      "visual": 5377
+    },
+    "48": {
+      "performance": 7610,
+      "technique": 10455,
+      "visual": 5638
+    },
+    "49": {
+      "performance": 7991,
+      "technique": 10978,
+      "visual": 5920
+    },
+    "50": {
+      "performance": 8400,
+      "technique": 11540,
+      "visual": 6223
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

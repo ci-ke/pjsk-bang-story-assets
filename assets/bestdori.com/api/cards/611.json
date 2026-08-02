@@ -1,0 +1,406 @@
+{
+  "characterId": 11,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res011033",
+  "sdResourceName": "sd011033",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 989,
+        "episodeType": "standard",
+        "situationId": 611,
+        "scenarioId": "episode611",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "白いブロックを踏んで",
+          "Step on the White Block",
+          "踏上白色的街道",
+          "踩着白色的地砖",
+          "흰 블록을 밟고서"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 990,
+        "episodeType": "memorial",
+        "situationId": 611,
+        "scenarioId": "memorial611",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "白を求めて",
+          "Things that Are White",
+          "追求白色",
+          "寻找白色",
+          "흰색을 찾아서"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 562,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "笑顔のワンコイン",
+    "One-Coin Smile",
+    "一枚硬幣的笑容",
+    "一枚硬币的笑容",
+    "웃는 얼굴의 원코인"
+  ],
+  "releasedAt": [
+    "1551333600000",
+    "1582938000000",
+    "1562569200000",
+    "1602565200000",
+    "1551333600000"
+  ],
+  "skillName": [
+    "エンジョイッ！",
+    "Enjoy!",
+    "Enjoy！",
+    "开心享受吧！",
+    "엔조이!"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3447,
+      "technique": 2655,
+      "visual": 2718
+    },
+    "2": {
+      "performance": 3493,
+      "technique": 2690,
+      "visual": 2754
+    },
+    "3": {
+      "performance": 3541,
+      "technique": 2727,
+      "visual": 2792
+    },
+    "4": {
+      "performance": 3591,
+      "technique": 2766,
+      "visual": 2832
+    },
+    "5": {
+      "performance": 3644,
+      "technique": 2807,
+      "visual": 2874
+    },
+    "6": {
+      "performance": 3699,
+      "technique": 2849,
+      "visual": 2917
+    },
+    "7": {
+      "performance": 3756,
+      "technique": 2893,
+      "visual": 2962
+    },
+    "8": {
+      "performance": 3816,
+      "technique": 2939,
+      "visual": 3009
+    },
+    "9": {
+      "performance": 3878,
+      "technique": 2987,
+      "visual": 3058
+    },
+    "10": {
+      "performance": 3942,
+      "technique": 3036,
+      "visual": 3109
+    },
+    "11": {
+      "performance": 4008,
+      "technique": 3087,
+      "visual": 3161
+    },
+    "12": {
+      "performance": 4077,
+      "technique": 3140,
+      "visual": 3215
+    },
+    "13": {
+      "performance": 4148,
+      "technique": 3195,
+      "visual": 3271
+    },
+    "14": {
+      "performance": 4221,
+      "technique": 3251,
+      "visual": 3329
+    },
+    "15": {
+      "performance": 4297,
+      "technique": 3309,
+      "visual": 3389
+    },
+    "16": {
+      "performance": 4375,
+      "technique": 3369,
+      "visual": 3450
+    },
+    "17": {
+      "performance": 4455,
+      "technique": 3431,
+      "visual": 3513
+    },
+    "18": {
+      "performance": 4537,
+      "technique": 3494,
+      "visual": 3578
+    },
+    "19": {
+      "performance": 4622,
+      "technique": 3559,
+      "visual": 3645
+    },
+    "20": {
+      "performance": 4709,
+      "technique": 3626,
+      "visual": 3714
+    },
+    "21": {
+      "performance": 4798,
+      "technique": 3695,
+      "visual": 3784
+    },
+    "22": {
+      "performance": 4890,
+      "technique": 3766,
+      "visual": 3856
+    },
+    "23": {
+      "performance": 4984,
+      "technique": 3838,
+      "visual": 3930
+    },
+    "24": {
+      "performance": 5080,
+      "technique": 3912,
+      "visual": 4006
+    },
+    "25": {
+      "performance": 5178,
+      "technique": 3988,
+      "visual": 4084
+    },
+    "26": {
+      "performance": 5279,
+      "technique": 4066,
+      "visual": 4163
+    },
+    "27": {
+      "performance": 5382,
+      "technique": 4145,
+      "visual": 4244
+    },
+    "28": {
+      "performance": 5487,
+      "technique": 4226,
+      "visual": 4327
+    },
+    "29": {
+      "performance": 5595,
+      "technique": 4309,
+      "visual": 4412
+    },
+    "30": {
+      "performance": 5705,
+      "technique": 4394,
+      "visual": 4499
+    },
+    "31": {
+      "performance": 5817,
+      "technique": 4480,
+      "visual": 4587
+    },
+    "32": {
+      "performance": 5931,
+      "technique": 4568,
+      "visual": 4677
+    },
+    "33": {
+      "performance": 6048,
+      "technique": 4658,
+      "visual": 4769
+    },
+    "34": {
+      "performance": 6167,
+      "technique": 4750,
+      "visual": 4863
+    },
+    "35": {
+      "performance": 6288,
+      "technique": 4843,
+      "visual": 4959
+    },
+    "36": {
+      "performance": 6412,
+      "technique": 4938,
+      "visual": 5056
+    },
+    "37": {
+      "performance": 6538,
+      "technique": 5035,
+      "visual": 5155
+    },
+    "38": {
+      "performance": 6666,
+      "technique": 5134,
+      "visual": 5256
+    },
+    "39": {
+      "performance": 6796,
+      "technique": 5234,
+      "visual": 5359
+    },
+    "40": {
+      "performance": 6929,
+      "technique": 5336,
+      "visual": 5464
+    },
+    "41": {
+      "performance": 7122,
+      "technique": 5484,
+      "visual": 5616
+    },
+    "42": {
+      "performance": 7349,
+      "technique": 5659,
+      "visual": 5795
+    },
+    "43": {
+      "performance": 7611,
+      "technique": 5861,
+      "visual": 6001
+    },
+    "44": {
+      "performance": 7907,
+      "technique": 6089,
+      "visual": 6235
+    },
+    "45": {
+      "performance": 8238,
+      "technique": 6344,
+      "visual": 6496
+    },
+    "46": {
+      "performance": 8603,
+      "technique": 6625,
+      "visual": 6784
+    },
+    "47": {
+      "performance": 9003,
+      "technique": 6933,
+      "visual": 7099
+    },
+    "48": {
+      "performance": 9438,
+      "technique": 7268,
+      "visual": 7442
+    },
+    "49": {
+      "performance": 9907,
+      "technique": 7629,
+      "visual": 7812
+    },
+    "50": {
+      "performance": 10411,
+      "technique": 8017,
+      "visual": 8209
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

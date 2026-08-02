@@ -1,0 +1,436 @@
+{
+  "characterId": 26,
+  "rarity": 5,
+  "attribute": "happy",
+  "levelLimit": 60,
+  "resourceSetName": "res026022",
+  "sdResourceName": "sd026022",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2535,
+        "episodeType": "animation",
+        "situationId": 1524,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "空色の海",
+          "Sky-Colored Sea",
+          "天空色的海",
+          "天蓝色的海洋",
+          "하늘색 바다"
+        ],
+        "characterId": 26
+      },
+      {
+        "episodeId": 2536,
+        "episodeType": "memorial",
+        "situationId": 1524,
+        "scenarioId": "memorial1524",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "風がめくるページ",
+          "Pages Turned by the Wind",
+          "風翻開一頁",
+          "风翻开的一页",
+          "바람이 넘긴 페이지"
+        ],
+        "characterId": 26
+      }
+    ]
+  },
+  "costumeId": 1430,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "空色の海",
+    "Sky-Colored Sea",
+    "天空色的海",
+    "天蓝色的海洋",
+    "하늘색 바다"
+  ],
+  "releasedAt": [
+    "1653976800000",
+    "1654009200000",
+    "1662447600000",
+    "1653980400000",
+    "1653976800000"
+  ],
+  "skillName": [
+    "クジラさんとお散歩",
+    "Walking with a Whale",
+    "和鯨魚散步",
+    "和鲸鱼一起散步",
+    "고래와 산책"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1524,
+    "assetBundleName": "mov026001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3503,
+      "technique": 3620,
+      "visual": 3588
+    },
+    "2": {
+      "performance": 3566,
+      "technique": 3685,
+      "visual": 3653
+    },
+    "3": {
+      "performance": 3631,
+      "technique": 3752,
+      "visual": 3720
+    },
+    "4": {
+      "performance": 3698,
+      "technique": 3822,
+      "visual": 3789
+    },
+    "5": {
+      "performance": 3768,
+      "technique": 3894,
+      "visual": 3860
+    },
+    "6": {
+      "performance": 3840,
+      "technique": 3968,
+      "visual": 3933
+    },
+    "7": {
+      "performance": 3914,
+      "technique": 4044,
+      "visual": 4008
+    },
+    "8": {
+      "performance": 3990,
+      "technique": 4122,
+      "visual": 4086
+    },
+    "9": {
+      "performance": 4068,
+      "technique": 4202,
+      "visual": 4166
+    },
+    "10": {
+      "performance": 4148,
+      "technique": 4285,
+      "visual": 4248
+    },
+    "11": {
+      "performance": 4230,
+      "technique": 4370,
+      "visual": 4332
+    },
+    "12": {
+      "performance": 4314,
+      "technique": 4457,
+      "visual": 4418
+    },
+    "13": {
+      "performance": 4400,
+      "technique": 4546,
+      "visual": 4506
+    },
+    "14": {
+      "performance": 4489,
+      "technique": 4637,
+      "visual": 4597
+    },
+    "15": {
+      "performance": 4580,
+      "technique": 4731,
+      "visual": 4690
+    },
+    "16": {
+      "performance": 4673,
+      "technique": 4827,
+      "visual": 4785
+    },
+    "17": {
+      "performance": 4768,
+      "technique": 4925,
+      "visual": 4882
+    },
+    "18": {
+      "performance": 4865,
+      "technique": 5025,
+      "visual": 4981
+    },
+    "19": {
+      "performance": 4964,
+      "technique": 5127,
+      "visual": 5082
+    },
+    "20": {
+      "performance": 5065,
+      "technique": 5231,
+      "visual": 5185
+    },
+    "21": {
+      "performance": 5168,
+      "technique": 5338,
+      "visual": 5291
+    },
+    "22": {
+      "performance": 5273,
+      "technique": 5447,
+      "visual": 5399
+    },
+    "23": {
+      "performance": 5380,
+      "technique": 5558,
+      "visual": 5509
+    },
+    "24": {
+      "performance": 5490,
+      "technique": 5671,
+      "visual": 5621
+    },
+    "25": {
+      "performance": 5602,
+      "technique": 5786,
+      "visual": 5735
+    },
+    "26": {
+      "performance": 5716,
+      "technique": 5903,
+      "visual": 5851
+    },
+    "27": {
+      "performance": 5832,
+      "technique": 6023,
+      "visual": 5970
+    },
+    "28": {
+      "performance": 5950,
+      "technique": 6145,
+      "visual": 6091
+    },
+    "29": {
+      "performance": 6070,
+      "technique": 6269,
+      "visual": 6214
+    },
+    "30": {
+      "performance": 6192,
+      "technique": 6395,
+      "visual": 6339
+    },
+    "31": {
+      "performance": 6316,
+      "technique": 6523,
+      "visual": 6466
+    },
+    "32": {
+      "performance": 6442,
+      "technique": 6653,
+      "visual": 6595
+    },
+    "33": {
+      "performance": 6571,
+      "technique": 6786,
+      "visual": 6726
+    },
+    "34": {
+      "performance": 6702,
+      "technique": 6921,
+      "visual": 6860
+    },
+    "35": {
+      "performance": 6835,
+      "technique": 7058,
+      "visual": 6996
+    },
+    "36": {
+      "performance": 6970,
+      "technique": 7197,
+      "visual": 7134
+    },
+    "37": {
+      "performance": 7107,
+      "technique": 7338,
+      "visual": 7274
+    },
+    "38": {
+      "performance": 7246,
+      "technique": 7482,
+      "visual": 7416
+    },
+    "39": {
+      "performance": 7387,
+      "technique": 7628,
+      "visual": 7560
+    },
+    "40": {
+      "performance": 7530,
+      "technique": 7776,
+      "visual": 7707
+    },
+    "41": {
+      "performance": 7675,
+      "technique": 7926,
+      "visual": 7856
+    },
+    "42": {
+      "performance": 7823,
+      "technique": 8078,
+      "visual": 8007
+    },
+    "43": {
+      "performance": 7973,
+      "technique": 8232,
+      "visual": 8160
+    },
+    "44": {
+      "performance": 8125,
+      "technique": 8389,
+      "visual": 8315
+    },
+    "45": {
+      "performance": 8279,
+      "technique": 8548,
+      "visual": 8472
+    },
+    "46": {
+      "performance": 8435,
+      "technique": 8709,
+      "visual": 8632
+    },
+    "47": {
+      "performance": 8593,
+      "technique": 8872,
+      "visual": 8794
+    },
+    "48": {
+      "performance": 8753,
+      "technique": 9037,
+      "visual": 8958
+    },
+    "49": {
+      "performance": 8915,
+      "technique": 9204,
+      "visual": 9124
+    },
+    "50": {
+      "performance": 9079,
+      "technique": 9374,
+      "visual": 9292
+    },
+    "51": {
+      "performance": 9245,
+      "technique": 9546,
+      "visual": 9462
+    },
+    "52": {
+      "performance": 9414,
+      "technique": 9720,
+      "visual": 9634
+    },
+    "53": {
+      "performance": 9585,
+      "technique": 9896,
+      "visual": 9809
+    },
+    "54": {
+      "performance": 9758,
+      "technique": 10074,
+      "visual": 9986
+    },
+    "55": {
+      "performance": 9933,
+      "technique": 10254,
+      "visual": 10165
+    },
+    "56": {
+      "performance": 10110,
+      "technique": 10437,
+      "visual": 10346
+    },
+    "57": {
+      "performance": 10289,
+      "technique": 10622,
+      "visual": 10529
+    },
+    "58": {
+      "performance": 10470,
+      "technique": 10809,
+      "visual": 10714
+    },
+    "59": {
+      "performance": 10653,
+      "technique": 10998,
+      "visual": 10902
+    },
+    "60": {
+      "performance": 10839,
+      "technique": 11190,
+      "visual": 11092
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

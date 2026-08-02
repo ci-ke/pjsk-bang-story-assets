@@ -1,0 +1,456 @@
+{
+  "characterId": 38,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 50,
+  "resourceSetName": "res038011",
+  "sdResourceName": "sd038011",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3501,
+        "episodeType": "standard",
+        "situationId": 2204,
+        "scenarioId": "episode2204",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ギターを持つ意味　前編",
+          "Why I Hold My Guitar Pt. 1",
+          "手持吉他的意義 前篇",
+          "拥有吉他的意义 前篇",
+          null
+        ],
+        "characterId": 38
+      },
+      {
+        "episodeId": 3502,
+        "episodeType": "memorial",
+        "situationId": 2204,
+        "scenarioId": "memorial2204",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ギターを持つ意味　後編",
+          "Why I Hold My Guitar Pt. 2",
+          "手持吉他的意義 後篇",
+          "拥有吉他的意义 后篇",
+          null
+        ],
+        "characterId": 38
+      }
+    ]
+  },
+  "costumeId": 2147,
+  "gachaText": [
+    "そっちは、いなくなった？",
+    "Are they gone over there?",
+    "另一邊，不在了？",
+    "另一边 不见了吗？",
+    null
+  ],
+  "prefix": [
+    "今、この先",
+    "Here, Beyond This Moment",
+    "現在，這之後",
+    "此刻的前方",
+    null
+  ],
+  "releasedAt": [
+    "1745668800000",
+    "1760144400000",
+    "1762844400000",
+    "1760158800000",
+    null
+  ],
+  "skillName": [
+    "遊びと演技",
+    "Playing and Acting",
+    "嬉戲與演戲",
+    "游戏与演技",
+    null
+  ],
+  "skillId": 68,
+  "source": null,
+  "type": "limited",
+  "stat": {
+    "1": {
+      "performance": 3673,
+      "technique": 3270,
+      "visual": 3853
+    },
+    "2": {
+      "performance": 3711,
+      "technique": 3304,
+      "visual": 3893
+    },
+    "3": {
+      "performance": 3750,
+      "technique": 3339,
+      "visual": 3934
+    },
+    "4": {
+      "performance": 3791,
+      "technique": 3375,
+      "visual": 3977
+    },
+    "5": {
+      "performance": 3833,
+      "technique": 3413,
+      "visual": 4021
+    },
+    "6": {
+      "performance": 3877,
+      "technique": 3452,
+      "visual": 4067
+    },
+    "7": {
+      "performance": 3922,
+      "technique": 3492,
+      "visual": 4115
+    },
+    "8": {
+      "performance": 3969,
+      "technique": 3534,
+      "visual": 4164
+    },
+    "9": {
+      "performance": 4017,
+      "technique": 3577,
+      "visual": 4215
+    },
+    "10": {
+      "performance": 4067,
+      "technique": 3621,
+      "visual": 4267
+    },
+    "11": {
+      "performance": 4118,
+      "technique": 3667,
+      "visual": 4321
+    },
+    "12": {
+      "performance": 4171,
+      "technique": 3714,
+      "visual": 4377
+    },
+    "13": {
+      "performance": 4226,
+      "technique": 3763,
+      "visual": 4434
+    },
+    "14": {
+      "performance": 4282,
+      "technique": 3813,
+      "visual": 4493
+    },
+    "15": {
+      "performance": 4340,
+      "technique": 3864,
+      "visual": 4553
+    },
+    "16": {
+      "performance": 4399,
+      "technique": 3917,
+      "visual": 4615
+    },
+    "17": {
+      "performance": 4460,
+      "technique": 3971,
+      "visual": 4679
+    },
+    "18": {
+      "performance": 4522,
+      "technique": 4026,
+      "visual": 4744
+    },
+    "19": {
+      "performance": 4586,
+      "technique": 4083,
+      "visual": 4811
+    },
+    "20": {
+      "performance": 4651,
+      "technique": 4141,
+      "visual": 4879
+    },
+    "21": {
+      "performance": 4718,
+      "technique": 4200,
+      "visual": 4949
+    },
+    "22": {
+      "performance": 4786,
+      "technique": 4261,
+      "visual": 5020
+    },
+    "23": {
+      "performance": 4856,
+      "technique": 4323,
+      "visual": 5093
+    },
+    "24": {
+      "performance": 4927,
+      "technique": 4386,
+      "visual": 5168
+    },
+    "25": {
+      "performance": 5000,
+      "technique": 4451,
+      "visual": 5244
+    },
+    "26": {
+      "performance": 5074,
+      "technique": 4517,
+      "visual": 5322
+    },
+    "27": {
+      "performance": 5150,
+      "technique": 4584,
+      "visual": 5401
+    },
+    "28": {
+      "performance": 5227,
+      "technique": 4653,
+      "visual": 5482
+    },
+    "29": {
+      "performance": 5306,
+      "technique": 4723,
+      "visual": 5565
+    },
+    "30": {
+      "performance": 5386,
+      "technique": 4794,
+      "visual": 5649
+    },
+    "31": {
+      "performance": 5468,
+      "technique": 4867,
+      "visual": 5735
+    },
+    "32": {
+      "performance": 5551,
+      "technique": 4941,
+      "visual": 5822
+    },
+    "33": {
+      "performance": 5636,
+      "technique": 5016,
+      "visual": 5911
+    },
+    "34": {
+      "performance": 5722,
+      "technique": 5093,
+      "visual": 6002
+    },
+    "35": {
+      "performance": 5810,
+      "technique": 5171,
+      "visual": 6094
+    },
+    "36": {
+      "performance": 5899,
+      "technique": 5251,
+      "visual": 6188
+    },
+    "37": {
+      "performance": 5990,
+      "technique": 5332,
+      "visual": 6283
+    },
+    "38": {
+      "performance": 6082,
+      "technique": 5414,
+      "visual": 6380
+    },
+    "39": {
+      "performance": 6176,
+      "technique": 5498,
+      "visual": 6478
+    },
+    "40": {
+      "performance": 6271,
+      "technique": 5583,
+      "visual": 6578
+    },
+    "41": {
+      "performance": 6368,
+      "technique": 5669,
+      "visual": 6680
+    },
+    "42": {
+      "performance": 6466,
+      "technique": 5757,
+      "visual": 6783
+    },
+    "43": {
+      "performance": 6566,
+      "technique": 5846,
+      "visual": 6888
+    },
+    "44": {
+      "performance": 6667,
+      "technique": 5936,
+      "visual": 6994
+    },
+    "45": {
+      "performance": 6770,
+      "technique": 6028,
+      "visual": 7102
+    },
+    "46": {
+      "performance": 6874,
+      "technique": 6121,
+      "visual": 7212
+    },
+    "47": {
+      "performance": 6980,
+      "technique": 6215,
+      "visual": 7323
+    },
+    "48": {
+      "performance": 7088,
+      "technique": 6311,
+      "visual": 7436
+    },
+    "49": {
+      "performance": 7197,
+      "technique": 6408,
+      "visual": 7550
+    },
+    "50": {
+      "performance": 7308,
+      "technique": 6506,
+      "visual": 7666
+    },
+    "51": {
+      "performance": 7509,
+      "technique": 6685,
+      "visual": 7877
+    },
+    "52": {
+      "performance": 7746,
+      "technique": 6896,
+      "visual": 8126
+    },
+    "53": {
+      "performance": 8020,
+      "technique": 7140,
+      "visual": 8413
+    },
+    "54": {
+      "performance": 8330,
+      "technique": 7416,
+      "visual": 8738
+    },
+    "55": {
+      "performance": 8676,
+      "technique": 7724,
+      "visual": 9101
+    },
+    "56": {
+      "performance": 9058,
+      "technique": 8064,
+      "visual": 9501
+    },
+    "57": {
+      "performance": 9476,
+      "technique": 8436,
+      "visual": 9939
+    },
+    "58": {
+      "performance": 9930,
+      "technique": 8840,
+      "visual": 10415
+    },
+    "59": {
+      "performance": 10420,
+      "technique": 9276,
+      "visual": 10929
+    },
+    "60": {
+      "performance": 10946,
+      "technique": 9744,
+      "visual": 11481
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

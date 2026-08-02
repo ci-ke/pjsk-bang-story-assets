@@ -1,0 +1,436 @@
+{
+  "characterId": 21,
+  "rarity": 5,
+  "attribute": "happy",
+  "levelLimit": 60,
+  "resourceSetName": "res021052",
+  "sdResourceName": "sd021052",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2439,
+        "episodeType": "animation",
+        "situationId": 1476,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 0,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "変わらないぬくもり",
+          "Unchanging Warmth",
+          "不變的溫度",
+          "不变的温暖",
+          "변하지 않는 따스함"
+        ],
+        "characterId": 21
+      },
+      {
+        "episodeId": 2440,
+        "episodeType": "memorial",
+        "situationId": 1476,
+        "scenarioId": "memorial1476",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "結び方を覚えない理由",
+          "Why I Don’t Bother Learning",
+          "學不會圍圍巾的理由",
+          "不记得如何打结的原因",
+          "묶는 방법을 기억하지 못하는 이유"
+        ],
+        "characterId": 21
+      }
+    ]
+  },
+  "costumeId": 1382,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "変わらないぬくもり",
+    "Unchanging Warmth",
+    "不變的溫度",
+    "不变的温暖",
+    "변하지 않는 따스함"
+  ],
+  "releasedAt": [
+    "1647583200000",
+    "1647615600000",
+    "1665298800000",
+    "1647586800000",
+    "1647583200000"
+  ],
+  "skillName": [
+    "昔からよね",
+    "It’s Always Been like This...",
+    "從以前就是了",
+    "从以前开始就是这样呢",
+    "옛날부터였지"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1476,
+    "assetBundleName": "mov021001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3577,
+      "technique": 3440,
+      "visual": 3694
+    },
+    "2": {
+      "performance": 3641,
+      "technique": 3502,
+      "visual": 3760
+    },
+    "3": {
+      "performance": 3708,
+      "technique": 3566,
+      "visual": 3829
+    },
+    "4": {
+      "performance": 3777,
+      "technique": 3632,
+      "visual": 3900
+    },
+    "5": {
+      "performance": 3848,
+      "technique": 3700,
+      "visual": 3973
+    },
+    "6": {
+      "performance": 3921,
+      "technique": 3770,
+      "visual": 4048
+    },
+    "7": {
+      "performance": 3996,
+      "technique": 3843,
+      "visual": 4126
+    },
+    "8": {
+      "performance": 4073,
+      "technique": 3918,
+      "visual": 4206
+    },
+    "9": {
+      "performance": 4153,
+      "technique": 3995,
+      "visual": 4288
+    },
+    "10": {
+      "performance": 4235,
+      "technique": 4074,
+      "visual": 4372
+    },
+    "11": {
+      "performance": 4319,
+      "technique": 4155,
+      "visual": 4458
+    },
+    "12": {
+      "performance": 4405,
+      "technique": 4238,
+      "visual": 4547
+    },
+    "13": {
+      "performance": 4493,
+      "technique": 4323,
+      "visual": 4638
+    },
+    "14": {
+      "performance": 4583,
+      "technique": 4410,
+      "visual": 4731
+    },
+    "15": {
+      "performance": 4675,
+      "technique": 4499,
+      "visual": 4826
+    },
+    "16": {
+      "performance": 4770,
+      "technique": 4590,
+      "visual": 4924
+    },
+    "17": {
+      "performance": 4867,
+      "technique": 4683,
+      "visual": 5024
+    },
+    "18": {
+      "performance": 4966,
+      "technique": 4778,
+      "visual": 5126
+    },
+    "19": {
+      "performance": 5067,
+      "technique": 4875,
+      "visual": 5230
+    },
+    "20": {
+      "performance": 5170,
+      "technique": 4974,
+      "visual": 5336
+    },
+    "21": {
+      "performance": 5275,
+      "technique": 5076,
+      "visual": 5445
+    },
+    "22": {
+      "performance": 5382,
+      "technique": 5180,
+      "visual": 5556
+    },
+    "23": {
+      "performance": 5492,
+      "technique": 5286,
+      "visual": 5669
+    },
+    "24": {
+      "performance": 5604,
+      "technique": 5394,
+      "visual": 5784
+    },
+    "25": {
+      "performance": 5718,
+      "technique": 5504,
+      "visual": 5901
+    },
+    "26": {
+      "performance": 5834,
+      "technique": 5616,
+      "visual": 6021
+    },
+    "27": {
+      "performance": 5952,
+      "technique": 5730,
+      "visual": 6143
+    },
+    "28": {
+      "performance": 6072,
+      "technique": 5846,
+      "visual": 6267
+    },
+    "29": {
+      "performance": 6195,
+      "technique": 5964,
+      "visual": 6393
+    },
+    "30": {
+      "performance": 6320,
+      "technique": 6084,
+      "visual": 6522
+    },
+    "31": {
+      "performance": 6447,
+      "technique": 6206,
+      "visual": 6653
+    },
+    "32": {
+      "performance": 6576,
+      "technique": 6330,
+      "visual": 6786
+    },
+    "33": {
+      "performance": 6707,
+      "technique": 6456,
+      "visual": 6921
+    },
+    "34": {
+      "performance": 6840,
+      "technique": 6584,
+      "visual": 7058
+    },
+    "35": {
+      "performance": 6975,
+      "technique": 6715,
+      "visual": 7198
+    },
+    "36": {
+      "performance": 7113,
+      "technique": 6848,
+      "visual": 7340
+    },
+    "37": {
+      "performance": 7253,
+      "technique": 6983,
+      "visual": 7484
+    },
+    "38": {
+      "performance": 7395,
+      "technique": 7120,
+      "visual": 7630
+    },
+    "39": {
+      "performance": 7539,
+      "technique": 7259,
+      "visual": 7778
+    },
+    "40": {
+      "performance": 7685,
+      "technique": 7400,
+      "visual": 7929
+    },
+    "41": {
+      "performance": 7833,
+      "technique": 7543,
+      "visual": 8082
+    },
+    "42": {
+      "performance": 7983,
+      "technique": 7688,
+      "visual": 8237
+    },
+    "43": {
+      "performance": 8136,
+      "technique": 7835,
+      "visual": 8394
+    },
+    "44": {
+      "performance": 8291,
+      "technique": 7984,
+      "visual": 8554
+    },
+    "45": {
+      "performance": 8448,
+      "technique": 8135,
+      "visual": 8716
+    },
+    "46": {
+      "performance": 8607,
+      "technique": 8288,
+      "visual": 8880
+    },
+    "47": {
+      "performance": 8768,
+      "technique": 8443,
+      "visual": 9046
+    },
+    "48": {
+      "performance": 8931,
+      "technique": 8600,
+      "visual": 9214
+    },
+    "49": {
+      "performance": 9096,
+      "technique": 8759,
+      "visual": 9385
+    },
+    "50": {
+      "performance": 9264,
+      "technique": 8921,
+      "visual": 9558
+    },
+    "51": {
+      "performance": 9434,
+      "technique": 9085,
+      "visual": 9733
+    },
+    "52": {
+      "performance": 9606,
+      "technique": 9251,
+      "visual": 9910
+    },
+    "53": {
+      "performance": 9780,
+      "technique": 9419,
+      "visual": 10089
+    },
+    "54": {
+      "performance": 9956,
+      "technique": 9589,
+      "visual": 10271
+    },
+    "55": {
+      "performance": 10134,
+      "technique": 9761,
+      "visual": 10455
+    },
+    "56": {
+      "performance": 10315,
+      "technique": 9935,
+      "visual": 10641
+    },
+    "57": {
+      "performance": 10498,
+      "technique": 10111,
+      "visual": 10829
+    },
+    "58": {
+      "performance": 10683,
+      "technique": 10289,
+      "visual": 11020
+    },
+    "59": {
+      "performance": 10870,
+      "technique": 10469,
+      "visual": 11213
+    },
+    "60": {
+      "performance": 11059,
+      "technique": 10651,
+      "visual": 11408
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

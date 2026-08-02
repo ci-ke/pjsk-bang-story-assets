@@ -1,0 +1,406 @@
+{
+  "characterId": 20,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res020059",
+  "sdResourceName": "sd020059",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2419,
+        "episodeType": "standard",
+        "situationId": 1466,
+        "scenarioId": "episode1466",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "寸暇を惜しんで",
+          "Using Every Spare Moment",
+          "全神投入",
+          "珍惜片刻的闲暇",
+          "짧은 시간을 아껴서"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 2420,
+        "episodeType": "memorial",
+        "situationId": 1466,
+        "scenarioId": "memorial1466",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "この元気、ブシドー由来",
+          "This Energy Comes from Bushido",
+          "這份精力，源自武士道",
+          "这份活力，以及武士道的由来",
+          "이 기운, 무사도 유래"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 1372,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "お任せくださいっ！",
+    "Please Leave It to Me!",
+    "包在我身上！",
+    "请交给我！",
+    "맡겨주세요!"
+  ],
+  "releasedAt": [
+    "1646985600000",
+    "1672275600000",
+    "1664704800000",
+    "1670389200000",
+    "1646985600000"
+  ],
+  "skillName": [
+    "全力、尽くします",
+    "With Every Fiber",
+    "我會，盡全力",
+    "全力以赴",
+    "전력, 다하겠습니다"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2817,
+      "technique": 2943,
+      "visual": 3330
+    },
+    "2": {
+      "performance": 2854,
+      "technique": 2981,
+      "visual": 3373
+    },
+    "3": {
+      "performance": 2893,
+      "technique": 3021,
+      "visual": 3419
+    },
+    "4": {
+      "performance": 2933,
+      "technique": 3063,
+      "visual": 3467
+    },
+    "5": {
+      "performance": 2975,
+      "technique": 3107,
+      "visual": 3517
+    },
+    "6": {
+      "performance": 3019,
+      "technique": 3153,
+      "visual": 3569
+    },
+    "7": {
+      "performance": 3065,
+      "technique": 3201,
+      "visual": 3623
+    },
+    "8": {
+      "performance": 3113,
+      "technique": 3251,
+      "visual": 3679
+    },
+    "9": {
+      "performance": 3163,
+      "technique": 3303,
+      "visual": 3738
+    },
+    "10": {
+      "performance": 3214,
+      "technique": 3357,
+      "visual": 3799
+    },
+    "11": {
+      "performance": 3267,
+      "technique": 3413,
+      "visual": 3862
+    },
+    "12": {
+      "performance": 3322,
+      "technique": 3470,
+      "visual": 3927
+    },
+    "13": {
+      "performance": 3379,
+      "technique": 3529,
+      "visual": 3994
+    },
+    "14": {
+      "performance": 3438,
+      "technique": 3590,
+      "visual": 4063
+    },
+    "15": {
+      "performance": 3499,
+      "technique": 3653,
+      "visual": 4135
+    },
+    "16": {
+      "performance": 3561,
+      "technique": 3718,
+      "visual": 4209
+    },
+    "17": {
+      "performance": 3625,
+      "technique": 3785,
+      "visual": 4285
+    },
+    "18": {
+      "performance": 3691,
+      "technique": 3854,
+      "visual": 4363
+    },
+    "19": {
+      "performance": 3759,
+      "technique": 3925,
+      "visual": 4443
+    },
+    "20": {
+      "performance": 3829,
+      "technique": 3998,
+      "visual": 4525
+    },
+    "21": {
+      "performance": 3901,
+      "technique": 4073,
+      "visual": 4610
+    },
+    "22": {
+      "performance": 3974,
+      "technique": 4150,
+      "visual": 4697
+    },
+    "23": {
+      "performance": 4049,
+      "technique": 4229,
+      "visual": 4786
+    },
+    "24": {
+      "performance": 4126,
+      "technique": 4309,
+      "visual": 4877
+    },
+    "25": {
+      "performance": 4205,
+      "technique": 4391,
+      "visual": 4970
+    },
+    "26": {
+      "performance": 4286,
+      "technique": 4475,
+      "visual": 5065
+    },
+    "27": {
+      "performance": 4369,
+      "technique": 4561,
+      "visual": 5163
+    },
+    "28": {
+      "performance": 4453,
+      "technique": 4649,
+      "visual": 5263
+    },
+    "29": {
+      "performance": 4539,
+      "technique": 4739,
+      "visual": 5365
+    },
+    "30": {
+      "performance": 4627,
+      "technique": 4831,
+      "visual": 5469
+    },
+    "31": {
+      "performance": 4717,
+      "technique": 4925,
+      "visual": 5575
+    },
+    "32": {
+      "performance": 4809,
+      "technique": 5021,
+      "visual": 5683
+    },
+    "33": {
+      "performance": 4903,
+      "technique": 5119,
+      "visual": 5794
+    },
+    "34": {
+      "performance": 4998,
+      "technique": 5219,
+      "visual": 5907
+    },
+    "35": {
+      "performance": 5095,
+      "technique": 5321,
+      "visual": 6022
+    },
+    "36": {
+      "performance": 5194,
+      "technique": 5424,
+      "visual": 6139
+    },
+    "37": {
+      "performance": 5295,
+      "technique": 5529,
+      "visual": 6258
+    },
+    "38": {
+      "performance": 5398,
+      "technique": 5636,
+      "visual": 6379
+    },
+    "39": {
+      "performance": 5502,
+      "technique": 5745,
+      "visual": 6503
+    },
+    "40": {
+      "performance": 5608,
+      "technique": 5856,
+      "visual": 6629
+    },
+    "41": {
+      "performance": 5762,
+      "technique": 6017,
+      "visual": 6812
+    },
+    "42": {
+      "performance": 5944,
+      "technique": 6207,
+      "visual": 7027
+    },
+    "43": {
+      "performance": 6154,
+      "technique": 6426,
+      "visual": 7275
+    },
+    "44": {
+      "performance": 6391,
+      "technique": 6674,
+      "visual": 7556
+    },
+    "45": {
+      "performance": 6656,
+      "technique": 6951,
+      "visual": 7869
+    },
+    "46": {
+      "performance": 6949,
+      "technique": 7257,
+      "visual": 8215
+    },
+    "47": {
+      "performance": 7269,
+      "technique": 7592,
+      "visual": 8594
+    },
+    "48": {
+      "performance": 7617,
+      "technique": 7956,
+      "visual": 9005
+    },
+    "49": {
+      "performance": 7993,
+      "technique": 8348,
+      "visual": 9449
+    },
+    "50": {
+      "performance": 8396,
+      "technique": 8769,
+      "visual": 9926
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

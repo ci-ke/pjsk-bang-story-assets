@@ -1,0 +1,229 @@
+{
+  "characterId": 5,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res005001",
+  "sdResourceName": "sd005001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 33,
+        "episodeType": "standard",
+        "situationId": 17,
+        "scenarioId": "episode017",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 5
+      },
+      {
+        "episodeId": 34,
+        "episodeType": "memorial",
+        "situationId": 17,
+        "scenarioId": "memorial017",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "じゃんけんで負けた後",
+          "Losing Rock Paper Scissors",
+          "猜拳輸了之後",
+          "猜拳输了之后",
+          "가위바위보에 진 후"
+        ],
+        "characterId": 5
+      }
+    ]
+  },
+  "costumeId": 1612,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "猫かぶりの優等生",
+    "Top Tsundere",
+    "裝乖的優等生",
+    "故作乖巧的优等生",
+    "내숭 떠는 우등생"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "猫かぶり",
+    "Wolf In Sheep's Clothing",
+    "假裝老實",
+    "故作乖巧",
+    "내숭"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1065,
+      "technique": 930,
+      "visual": 1035
+    },
+    "2": {
+      "performance": 1108,
+      "technique": 968,
+      "visual": 1077
+    },
+    "3": {
+      "performance": 1156,
+      "technique": 1010,
+      "visual": 1123
+    },
+    "4": {
+      "performance": 1208,
+      "technique": 1056,
+      "visual": 1174
+    },
+    "5": {
+      "performance": 1264,
+      "technique": 1105,
+      "visual": 1229
+    },
+    "6": {
+      "performance": 1325,
+      "technique": 1158,
+      "visual": 1288
+    },
+    "7": {
+      "performance": 1390,
+      "technique": 1215,
+      "visual": 1351
+    },
+    "8": {
+      "performance": 1459,
+      "technique": 1276,
+      "visual": 1418
+    },
+    "9": {
+      "performance": 1533,
+      "technique": 1340,
+      "visual": 1490
+    },
+    "10": {
+      "performance": 1611,
+      "technique": 1408,
+      "visual": 1566
+    },
+    "11": {
+      "performance": 1693,
+      "technique": 1480,
+      "visual": 1646
+    },
+    "12": {
+      "performance": 1780,
+      "technique": 1556,
+      "visual": 1730
+    },
+    "13": {
+      "performance": 1871,
+      "technique": 1636,
+      "visual": 1818
+    },
+    "14": {
+      "performance": 1966,
+      "technique": 1719,
+      "visual": 1911
+    },
+    "15": {
+      "performance": 2066,
+      "technique": 1806,
+      "visual": 2008
+    },
+    "16": {
+      "performance": 2170,
+      "technique": 1897,
+      "visual": 2109
+    },
+    "17": {
+      "performance": 2278,
+      "technique": 1992,
+      "visual": 2214
+    },
+    "18": {
+      "performance": 2391,
+      "technique": 2090,
+      "visual": 2323
+    },
+    "19": {
+      "performance": 2508,
+      "technique": 2192,
+      "visual": 2437
+    },
+    "20": {
+      "performance": 2629,
+      "technique": 2298,
+      "visual": 2555
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

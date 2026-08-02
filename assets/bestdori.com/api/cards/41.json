@@ -1,0 +1,229 @@
+{
+  "characterId": 11,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res011001",
+  "sdResourceName": "sd011001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 81,
+        "episodeType": "standard",
+        "situationId": 41,
+        "scenarioId": "episode041",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 11
+      },
+      {
+        "episodeId": 82,
+        "episodeType": "memorial",
+        "situationId": 41,
+        "scenarioId": "memorial041",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "笑顔になる言葉",
+          "Words Creating Smiles",
+          "令人展露笑容的話語",
+          "能让人展现笑容的话语",
+          "미소 짓게 되는 말"
+        ],
+        "characterId": 11
+      }
+    ]
+  },
+  "costumeId": 1618,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "花咲川の異空間",
+    "Hanasakigawa Dimension",
+    "花咲川的異空間",
+    "花咲川的异空间",
+    "하나사키가와의 이공간"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "ハッピー！ ラッキー！",
+    "Happy! Lucky!",
+    "快樂！幸運！",
+    "Happy! Lucky!",
+    "해피! 럭키!"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1080,
+      "technique": 1020,
+      "visual": 900
+    },
+    "2": {
+      "performance": 1124,
+      "technique": 1062,
+      "visual": 937
+    },
+    "3": {
+      "performance": 1172,
+      "technique": 1108,
+      "visual": 977
+    },
+    "4": {
+      "performance": 1225,
+      "technique": 1158,
+      "visual": 1021
+    },
+    "5": {
+      "performance": 1282,
+      "technique": 1212,
+      "visual": 1069
+    },
+    "6": {
+      "performance": 1344,
+      "technique": 1270,
+      "visual": 1120
+    },
+    "7": {
+      "performance": 1410,
+      "technique": 1332,
+      "visual": 1175
+    },
+    "8": {
+      "performance": 1480,
+      "technique": 1398,
+      "visual": 1234
+    },
+    "9": {
+      "performance": 1555,
+      "technique": 1469,
+      "visual": 1296
+    },
+    "10": {
+      "performance": 1634,
+      "technique": 1544,
+      "visual": 1362
+    },
+    "11": {
+      "performance": 1718,
+      "technique": 1623,
+      "visual": 1432
+    },
+    "12": {
+      "performance": 1806,
+      "technique": 1706,
+      "visual": 1505
+    },
+    "13": {
+      "performance": 1898,
+      "technique": 1793,
+      "visual": 1582
+    },
+    "14": {
+      "performance": 1995,
+      "technique": 1884,
+      "visual": 1663
+    },
+    "15": {
+      "performance": 2096,
+      "technique": 1979,
+      "visual": 1747
+    },
+    "16": {
+      "performance": 2202,
+      "technique": 2079,
+      "visual": 1835
+    },
+    "17": {
+      "performance": 2312,
+      "technique": 2183,
+      "visual": 1927
+    },
+    "18": {
+      "performance": 2426,
+      "technique": 2291,
+      "visual": 2022
+    },
+    "19": {
+      "performance": 2545,
+      "technique": 2403,
+      "visual": 2121
+    },
+    "20": {
+      "performance": 2668,
+      "technique": 2519,
+      "visual": 2224
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

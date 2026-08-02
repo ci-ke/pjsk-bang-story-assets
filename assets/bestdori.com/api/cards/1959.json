@@ -1,0 +1,456 @@
+{
+  "characterId": 12,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 50,
+  "resourceSetName": "res012074",
+  "sdResourceName": "sd012074",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3197,
+        "episodeType": "standard",
+        "situationId": 1959,
+        "scenarioId": "episode1959",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "彼の人の舞台　前編",
+          "That Person's Stage Pt. 1",
+          "那一位的舞台　前篇",
+          "那个人的舞台 前篇",
+          null
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 3198,
+        "episodeType": "memorial",
+        "situationId": 1959,
+        "scenarioId": "memorial1959",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "彼の人の舞台　後編",
+          "That Person's Stage Pt. 2",
+          "那一位的舞台　後篇",
+          "那个人的舞台 后篇",
+          null
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 1912,
+  "gachaText": [
+    "『瀬田薫』のシェイクスピアを\n演じてみせるよ……！",
+    "I shall play my very own \"Kaoru Seta\" version of Shakespeare...!",
+    "就讓我演繹出『瀨田薰』的\n莎士比亞給你們看吧……！",
+    "我会演绎出属于『濑田薰』的\n莎士比亚……！",
+    null
+  ],
+  "prefix": [
+    "舞台の幕が上がるとき",
+    "The Stage Curtain Rises",
+    "當舞台布幕掀起時",
+    "拉开舞台帷幕的时刻",
+    null
+  ],
+  "releasedAt": [
+    "1710514800000",
+    "1739408400000",
+    "1725415200000",
+    "1727413200000",
+    null
+  ],
+  "skillName": [
+    "人はみな役者",
+    "We Are All Actors",
+    "每個人都是演員",
+    "人人皆为演员",
+    null
+  ],
+  "skillId": 69,
+  "source": null,
+  "type": "dreamfes",
+  "stat": {
+    "1": {
+      "performance": 3630,
+      "technique": 3556,
+      "visual": 3524
+    },
+    "2": {
+      "performance": 3667,
+      "technique": 3593,
+      "visual": 3560
+    },
+    "3": {
+      "performance": 3706,
+      "technique": 3631,
+      "visual": 3598
+    },
+    "4": {
+      "performance": 3746,
+      "technique": 3671,
+      "visual": 3637
+    },
+    "5": {
+      "performance": 3788,
+      "technique": 3712,
+      "visual": 3678
+    },
+    "6": {
+      "performance": 3831,
+      "technique": 3755,
+      "visual": 3720
+    },
+    "7": {
+      "performance": 3876,
+      "technique": 3799,
+      "visual": 3764
+    },
+    "8": {
+      "performance": 3922,
+      "technique": 3844,
+      "visual": 3809
+    },
+    "9": {
+      "performance": 3970,
+      "technique": 3891,
+      "visual": 3856
+    },
+    "10": {
+      "performance": 4019,
+      "technique": 3939,
+      "visual": 3904
+    },
+    "11": {
+      "performance": 4070,
+      "technique": 3989,
+      "visual": 3953
+    },
+    "12": {
+      "performance": 4122,
+      "technique": 4040,
+      "visual": 4004
+    },
+    "13": {
+      "performance": 4176,
+      "technique": 4093,
+      "visual": 4056
+    },
+    "14": {
+      "performance": 4231,
+      "technique": 4147,
+      "visual": 4110
+    },
+    "15": {
+      "performance": 4288,
+      "technique": 4203,
+      "visual": 4165
+    },
+    "16": {
+      "performance": 4346,
+      "technique": 4260,
+      "visual": 4222
+    },
+    "17": {
+      "performance": 4406,
+      "technique": 4319,
+      "visual": 4280
+    },
+    "18": {
+      "performance": 4467,
+      "technique": 4379,
+      "visual": 4340
+    },
+    "19": {
+      "performance": 4530,
+      "technique": 4441,
+      "visual": 4401
+    },
+    "20": {
+      "performance": 4594,
+      "technique": 4504,
+      "visual": 4463
+    },
+    "21": {
+      "performance": 4660,
+      "technique": 4569,
+      "visual": 4527
+    },
+    "22": {
+      "performance": 4727,
+      "technique": 4635,
+      "visual": 4592
+    },
+    "23": {
+      "performance": 4796,
+      "technique": 4702,
+      "visual": 4659
+    },
+    "24": {
+      "performance": 4866,
+      "technique": 4771,
+      "visual": 4727
+    },
+    "25": {
+      "performance": 4938,
+      "technique": 4841,
+      "visual": 4797
+    },
+    "26": {
+      "performance": 5011,
+      "technique": 4913,
+      "visual": 4868
+    },
+    "27": {
+      "performance": 5086,
+      "technique": 4986,
+      "visual": 4941
+    },
+    "28": {
+      "performance": 5162,
+      "technique": 5061,
+      "visual": 5015
+    },
+    "29": {
+      "performance": 5240,
+      "technique": 5137,
+      "visual": 5091
+    },
+    "30": {
+      "performance": 5319,
+      "technique": 5215,
+      "visual": 5168
+    },
+    "31": {
+      "performance": 5400,
+      "technique": 5294,
+      "visual": 5246
+    },
+    "32": {
+      "performance": 5482,
+      "technique": 5375,
+      "visual": 5326
+    },
+    "33": {
+      "performance": 5566,
+      "technique": 5457,
+      "visual": 5407
+    },
+    "34": {
+      "performance": 5651,
+      "technique": 5541,
+      "visual": 5490
+    },
+    "35": {
+      "performance": 5738,
+      "technique": 5626,
+      "visual": 5574
+    },
+    "36": {
+      "performance": 5826,
+      "technique": 5712,
+      "visual": 5660
+    },
+    "37": {
+      "performance": 5916,
+      "technique": 5800,
+      "visual": 5747
+    },
+    "38": {
+      "performance": 6007,
+      "technique": 5889,
+      "visual": 5836
+    },
+    "39": {
+      "performance": 6100,
+      "technique": 5980,
+      "visual": 5926
+    },
+    "40": {
+      "performance": 6194,
+      "technique": 6072,
+      "visual": 6018
+    },
+    "41": {
+      "performance": 6290,
+      "technique": 6166,
+      "visual": 6111
+    },
+    "42": {
+      "performance": 6387,
+      "technique": 6261,
+      "visual": 6205
+    },
+    "43": {
+      "performance": 6486,
+      "technique": 6358,
+      "visual": 6301
+    },
+    "44": {
+      "performance": 6586,
+      "technique": 6456,
+      "visual": 6398
+    },
+    "45": {
+      "performance": 6688,
+      "technique": 6556,
+      "visual": 6497
+    },
+    "46": {
+      "performance": 6791,
+      "technique": 6657,
+      "visual": 6597
+    },
+    "47": {
+      "performance": 6896,
+      "technique": 6760,
+      "visual": 6699
+    },
+    "48": {
+      "performance": 7002,
+      "technique": 6864,
+      "visual": 6802
+    },
+    "49": {
+      "performance": 7110,
+      "technique": 6970,
+      "visual": 6907
+    },
+    "50": {
+      "performance": 7219,
+      "technique": 7077,
+      "visual": 7013
+    },
+    "51": {
+      "performance": 7418,
+      "technique": 7272,
+      "visual": 7206
+    },
+    "52": {
+      "performance": 7653,
+      "technique": 7502,
+      "visual": 7434
+    },
+    "53": {
+      "performance": 7923,
+      "technique": 7767,
+      "visual": 7696
+    },
+    "54": {
+      "performance": 8229,
+      "technique": 8067,
+      "visual": 7993
+    },
+    "55": {
+      "performance": 8570,
+      "technique": 8402,
+      "visual": 8325
+    },
+    "56": {
+      "performance": 8947,
+      "technique": 8772,
+      "visual": 8691
+    },
+    "57": {
+      "performance": 9360,
+      "technique": 9176,
+      "visual": 9092
+    },
+    "58": {
+      "performance": 9808,
+      "technique": 9615,
+      "visual": 9527
+    },
+    "59": {
+      "performance": 10292,
+      "technique": 10089,
+      "visual": 9997
+    },
+    "60": {
+      "performance": 10812,
+      "technique": 10598,
+      "visual": 10502
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

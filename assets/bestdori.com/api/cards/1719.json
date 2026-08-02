@@ -1,0 +1,436 @@
+{
+  "characterId": 28,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 60,
+  "resourceSetName": "res028027",
+  "sdResourceName": "sd028027",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2908,
+        "episodeType": "animation",
+        "situationId": 1719,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "スプリング・イズ・ヒア",
+          "Spring Is Here",
+          "春光在此處",
+          "春天就在这里",
+          null
+        ],
+        "characterId": 28
+      },
+      {
+        "episodeId": 2909,
+        "episodeType": "memorial",
+        "situationId": 1719,
+        "scenarioId": "memorial1719",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "青い春はここにいる",
+          "The Spring and Youth beside Me",
+          "青春在此處",
+          "这就是青春",
+          null
+        ],
+        "characterId": 28
+      }
+    ]
+  },
+  "costumeId": 1696,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "スプリング・イズ・ヒア",
+    "Spring Is Here",
+    "春光在此處",
+    "春天就在这里",
+    null
+  ],
+  "releasedAt": [
+    "1679724000000",
+    "1704070800000",
+    "1692169200000",
+    "1700197200000",
+    null
+  ],
+  "skillName": [
+    "catch the spring",
+    "Catch Spring",
+    "catch the spring",
+    "catch the spring",
+    null
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1719,
+    "assetBundleName": "mov028001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3482,
+      "technique": 3715,
+      "visual": 3514
+    },
+    "2": {
+      "performance": 3545,
+      "technique": 3782,
+      "visual": 3577
+    },
+    "3": {
+      "performance": 3610,
+      "technique": 3851,
+      "visual": 3643
+    },
+    "4": {
+      "performance": 3677,
+      "technique": 3922,
+      "visual": 3711
+    },
+    "5": {
+      "performance": 3746,
+      "technique": 3996,
+      "visual": 3781
+    },
+    "6": {
+      "performance": 3817,
+      "technique": 4072,
+      "visual": 3853
+    },
+    "7": {
+      "performance": 3890,
+      "technique": 4150,
+      "visual": 3927
+    },
+    "8": {
+      "performance": 3965,
+      "technique": 4230,
+      "visual": 4003
+    },
+    "9": {
+      "performance": 4043,
+      "technique": 4312,
+      "visual": 4081
+    },
+    "10": {
+      "performance": 4123,
+      "technique": 4397,
+      "visual": 4161
+    },
+    "11": {
+      "performance": 4205,
+      "technique": 4484,
+      "visual": 4243
+    },
+    "12": {
+      "performance": 4289,
+      "technique": 4573,
+      "visual": 4328
+    },
+    "13": {
+      "performance": 4375,
+      "technique": 4664,
+      "visual": 4415
+    },
+    "14": {
+      "performance": 4463,
+      "technique": 4758,
+      "visual": 4504
+    },
+    "15": {
+      "performance": 4553,
+      "technique": 4854,
+      "visual": 4595
+    },
+    "16": {
+      "performance": 4645,
+      "technique": 4952,
+      "visual": 4688
+    },
+    "17": {
+      "performance": 4739,
+      "technique": 5052,
+      "visual": 4783
+    },
+    "18": {
+      "performance": 4835,
+      "technique": 5155,
+      "visual": 4880
+    },
+    "19": {
+      "performance": 4933,
+      "technique": 5260,
+      "visual": 4979
+    },
+    "20": {
+      "performance": 5034,
+      "technique": 5367,
+      "visual": 5080
+    },
+    "21": {
+      "performance": 5137,
+      "technique": 5476,
+      "visual": 5184
+    },
+    "22": {
+      "performance": 5242,
+      "technique": 5587,
+      "visual": 5290
+    },
+    "23": {
+      "performance": 5349,
+      "technique": 5701,
+      "visual": 5398
+    },
+    "24": {
+      "performance": 5458,
+      "technique": 5817,
+      "visual": 5508
+    },
+    "25": {
+      "performance": 5569,
+      "technique": 5935,
+      "visual": 5620
+    },
+    "26": {
+      "performance": 5682,
+      "technique": 6055,
+      "visual": 5734
+    },
+    "27": {
+      "performance": 5797,
+      "technique": 6178,
+      "visual": 5850
+    },
+    "28": {
+      "performance": 5914,
+      "technique": 6303,
+      "visual": 5968
+    },
+    "29": {
+      "performance": 6033,
+      "technique": 6430,
+      "visual": 6089
+    },
+    "30": {
+      "performance": 6155,
+      "technique": 6559,
+      "visual": 6212
+    },
+    "31": {
+      "performance": 6279,
+      "technique": 6690,
+      "visual": 6337
+    },
+    "32": {
+      "performance": 6405,
+      "technique": 6824,
+      "visual": 6464
+    },
+    "33": {
+      "performance": 6533,
+      "technique": 6960,
+      "visual": 6593
+    },
+    "34": {
+      "performance": 6663,
+      "technique": 7098,
+      "visual": 6724
+    },
+    "35": {
+      "performance": 6795,
+      "technique": 7238,
+      "visual": 6857
+    },
+    "36": {
+      "performance": 6929,
+      "technique": 7381,
+      "visual": 6992
+    },
+    "37": {
+      "performance": 7065,
+      "technique": 7526,
+      "visual": 7129
+    },
+    "38": {
+      "performance": 7203,
+      "technique": 7673,
+      "visual": 7269
+    },
+    "39": {
+      "performance": 7343,
+      "technique": 7822,
+      "visual": 7411
+    },
+    "40": {
+      "performance": 7485,
+      "technique": 7974,
+      "visual": 7555
+    },
+    "41": {
+      "performance": 7630,
+      "technique": 8128,
+      "visual": 7701
+    },
+    "42": {
+      "performance": 7777,
+      "technique": 8284,
+      "visual": 7849
+    },
+    "43": {
+      "performance": 7926,
+      "technique": 8442,
+      "visual": 7999
+    },
+    "44": {
+      "performance": 8077,
+      "technique": 8602,
+      "visual": 8151
+    },
+    "45": {
+      "performance": 8230,
+      "technique": 8765,
+      "visual": 8305
+    },
+    "46": {
+      "performance": 8385,
+      "technique": 8930,
+      "visual": 8461
+    },
+    "47": {
+      "performance": 8542,
+      "technique": 9097,
+      "visual": 8620
+    },
+    "48": {
+      "performance": 8701,
+      "technique": 9266,
+      "visual": 8781
+    },
+    "49": {
+      "performance": 8862,
+      "technique": 9438,
+      "visual": 8944
+    },
+    "50": {
+      "performance": 9025,
+      "technique": 9612,
+      "visual": 9109
+    },
+    "51": {
+      "performance": 9191,
+      "technique": 9788,
+      "visual": 9276
+    },
+    "52": {
+      "performance": 9359,
+      "technique": 9966,
+      "visual": 9445
+    },
+    "53": {
+      "performance": 9529,
+      "technique": 10146,
+      "visual": 9616
+    },
+    "54": {
+      "performance": 9701,
+      "technique": 10329,
+      "visual": 9789
+    },
+    "55": {
+      "performance": 9875,
+      "technique": 10514,
+      "visual": 9964
+    },
+    "56": {
+      "performance": 10051,
+      "technique": 10701,
+      "visual": 10142
+    },
+    "57": {
+      "performance": 10229,
+      "technique": 10890,
+      "visual": 10322
+    },
+    "58": {
+      "performance": 10409,
+      "technique": 11082,
+      "visual": 10504
+    },
+    "59": {
+      "performance": 10591,
+      "technique": 11276,
+      "visual": 10688
+    },
+    "60": {
+      "performance": 10776,
+      "technique": 11471,
+      "visual": 10873
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

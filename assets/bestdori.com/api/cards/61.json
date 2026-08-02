@@ -1,0 +1,229 @@
+{
+  "characterId": 16,
+  "rarity": 1,
+  "attribute": "powerful",
+  "levelLimit": 20,
+  "resourceSetName": "res016001",
+  "sdResourceName": "sd016001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 121,
+        "episodeType": "standard",
+        "situationId": 61,
+        "scenarioId": "episode061",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 16
+      },
+      {
+        "episodeId": 122,
+        "episodeType": "memorial",
+        "situationId": 61,
+        "scenarioId": "memorial061",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "私の追っかけですか？",
+          "Are You A Fan?",
+          "是我的狂熱追星粉絲嗎？",
+          "要追我吗？",
+          "내 팬이세요?"
+        ],
+        "characterId": 16
+      }
+    ]
+  },
+  "costumeId": 1623,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ピンク担当☆",
+    "Pretty In Pink☆",
+    "粉紅擔當☆",
+    "粉色代表☆",
+    "핑크 담당☆"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "せいいっぱい",
+    "The Best I Can Do",
+    "很努力",
+    "竭尽全力",
+    "있는 힘껏!"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 894,
+      "technique": 1206,
+      "visual": 714
+    },
+    "2": {
+      "performance": 931,
+      "technique": 1257,
+      "visual": 744
+    },
+    "3": {
+      "performance": 972,
+      "technique": 1313,
+      "visual": 777
+    },
+    "4": {
+      "performance": 1017,
+      "technique": 1374,
+      "visual": 813
+    },
+    "5": {
+      "performance": 1066,
+      "technique": 1440,
+      "visual": 852
+    },
+    "6": {
+      "performance": 1118,
+      "technique": 1511,
+      "visual": 894
+    },
+    "7": {
+      "performance": 1174,
+      "technique": 1587,
+      "visual": 939
+    },
+    "8": {
+      "performance": 1234,
+      "technique": 1668,
+      "visual": 987
+    },
+    "9": {
+      "performance": 1298,
+      "technique": 1754,
+      "visual": 1038
+    },
+    "10": {
+      "performance": 1365,
+      "technique": 1845,
+      "visual": 1092
+    },
+    "11": {
+      "performance": 1436,
+      "technique": 1941,
+      "visual": 1149
+    },
+    "12": {
+      "performance": 1511,
+      "technique": 2042,
+      "visual": 1209
+    },
+    "13": {
+      "performance": 1590,
+      "technique": 2148,
+      "visual": 1272
+    },
+    "14": {
+      "performance": 1672,
+      "technique": 2259,
+      "visual": 1338
+    },
+    "15": {
+      "performance": 1758,
+      "technique": 2375,
+      "visual": 1407
+    },
+    "16": {
+      "performance": 1848,
+      "technique": 2496,
+      "visual": 1479
+    },
+    "17": {
+      "performance": 1941,
+      "technique": 2622,
+      "visual": 1554
+    },
+    "18": {
+      "performance": 2038,
+      "technique": 2753,
+      "visual": 1632
+    },
+    "19": {
+      "performance": 2139,
+      "technique": 2889,
+      "visual": 1713
+    },
+    "20": {
+      "performance": 2244,
+      "technique": 3030,
+      "visual": 1797
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

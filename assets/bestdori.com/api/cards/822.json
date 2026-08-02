@@ -1,0 +1,288 @@
+{
+  "characterId": 6,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res006040",
+  "sdResourceName": "sd006040",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1327,
+        "episodeType": "standard",
+        "situationId": 822,
+        "scenarioId": "episode822",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "蘭が見つけた楽しいもの",
+          "Ran Finds Fun",
+          "蘭發現的有趣事情",
+          "兰找到的开心事",
+          "란이 발견한 재밌는 일"
+        ],
+        "characterId": 6
+      },
+      {
+        "episodeId": 1328,
+        "episodeType": "memorial",
+        "situationId": 822,
+        "scenarioId": "memorial822",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "蘭が思うひまりの魅力",
+          "Himari's Charm According to Ran",
+          "蘭眼中緋瑪麗的魅力",
+          "兰心目中绯玛丽的魅力",
+          "란이 생각하는 히마리의 매력"
+        ],
+        "characterId": 6
+      }
+    ]
+  },
+  "costumeId": 773,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "蘭うさぎとお散歩に",
+    "Walking With Rabbit Ran",
+    "跟蘭兔兔散步",
+    "和兰小兔一起散步",
+    "란 토끼와 산책을"
+  ],
+  "releasedAt": [
+    "1576821600000",
+    "1608339600000",
+    "1589007600000",
+    "1620104400000",
+    "1576821600000"
+  ],
+  "skillName": [
+    "ポイントゲット",
+    "Getting Points",
+    "得分",
+    "拿到积分了",
+    "포인트 획득"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1878,
+      "technique": 1926,
+      "visual": 2256
+    },
+    "2": {
+      "performance": 1928,
+      "technique": 1977,
+      "visual": 2316
+    },
+    "3": {
+      "performance": 1981,
+      "technique": 2032,
+      "visual": 2380
+    },
+    "4": {
+      "performance": 2038,
+      "technique": 2090,
+      "visual": 2448
+    },
+    "5": {
+      "performance": 2098,
+      "technique": 2151,
+      "visual": 2520
+    },
+    "6": {
+      "performance": 2161,
+      "technique": 2216,
+      "visual": 2596
+    },
+    "7": {
+      "performance": 2228,
+      "technique": 2284,
+      "visual": 2676
+    },
+    "8": {
+      "performance": 2298,
+      "technique": 2356,
+      "visual": 2760
+    },
+    "9": {
+      "performance": 2371,
+      "technique": 2431,
+      "visual": 2848
+    },
+    "10": {
+      "performance": 2448,
+      "technique": 2510,
+      "visual": 2940
+    },
+    "11": {
+      "performance": 2528,
+      "technique": 2592,
+      "visual": 3036
+    },
+    "12": {
+      "performance": 2611,
+      "technique": 2677,
+      "visual": 3136
+    },
+    "13": {
+      "performance": 2698,
+      "technique": 2766,
+      "visual": 3240
+    },
+    "14": {
+      "performance": 2788,
+      "technique": 2858,
+      "visual": 3348
+    },
+    "15": {
+      "performance": 2881,
+      "technique": 2954,
+      "visual": 3460
+    },
+    "16": {
+      "performance": 2977,
+      "technique": 3053,
+      "visual": 3576
+    },
+    "17": {
+      "performance": 3077,
+      "technique": 3155,
+      "visual": 3696
+    },
+    "18": {
+      "performance": 3180,
+      "technique": 3261,
+      "visual": 3820
+    },
+    "19": {
+      "performance": 3286,
+      "technique": 3370,
+      "visual": 3948
+    },
+    "20": {
+      "performance": 3396,
+      "technique": 3483,
+      "visual": 4080
+    },
+    "21": {
+      "performance": 3509,
+      "technique": 3599,
+      "visual": 4216
+    },
+    "22": {
+      "performance": 3625,
+      "technique": 3718,
+      "visual": 4356
+    },
+    "23": {
+      "performance": 3745,
+      "technique": 3841,
+      "visual": 4500
+    },
+    "24": {
+      "performance": 3868,
+      "technique": 3967,
+      "visual": 4648
+    },
+    "25": {
+      "performance": 3994,
+      "technique": 4097,
+      "visual": 4800
+    },
+    "26": {
+      "performance": 4124,
+      "technique": 4230,
+      "visual": 4956
+    },
+    "27": {
+      "performance": 4257,
+      "technique": 4366,
+      "visual": 5116
+    },
+    "28": {
+      "performance": 4393,
+      "technique": 4506,
+      "visual": 5280
+    },
+    "29": {
+      "performance": 4533,
+      "technique": 4649,
+      "visual": 5448
+    },
+    "30": {
+      "performance": 4676,
+      "technique": 4796,
+      "visual": 5620
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

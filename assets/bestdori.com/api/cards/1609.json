@@ -1,0 +1,456 @@
+{
+  "characterId": 30,
+  "rarity": 4,
+  "attribute": "pure",
+  "levelLimit": 50,
+  "resourceSetName": "res030023",
+  "sdResourceName": "sd030023",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2635,
+        "episodeType": "standard",
+        "situationId": 1609,
+        "scenarioId": "episode1609",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "夏祭り禁止令？　前編",
+          "Summer Festival Embargo? Pt. 1",
+          "夏日祭典禁令？　前篇",
+          "禁止参加夏日庆典？ 前篇",
+          "여름 축제 금지령? 전편"
+        ],
+        "characterId": 30
+      },
+      {
+        "episodeId": 2636,
+        "episodeType": "memorial",
+        "situationId": 1609,
+        "scenarioId": "memorial1609",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "夏祭り禁止令？　後編",
+          "Summer Festival Embargo? Pt. 2",
+          "夏日祭典禁令？　後篇",
+          "禁止参加夏日庆典？ 后篇",
+          "여름 축제 금지령? 후편"
+        ],
+        "characterId": 30
+      }
+    ]
+  },
+  "costumeId": 1493,
+  "gachaText": [
+    "……お祭りは、\n何がどのように楽しいの？",
+    "... What is it about festivals that makes them entertaining?",
+    "……祭典，\n是哪裡有趣，又怎樣有趣呢？",
+    "……祭典\n到底有什么意思？",
+    "……축제는\n뭐가 어떻게 즐거워?"
+  ],
+  "prefix": [
+    "黄昏、浴衣を着て",
+    "Dusk, Wearing a Yukata",
+    "黃昏，身穿浴衣",
+    "黄昏，身穿浴衣",
+    "황혼, 유카타를 입고"
+  ],
+  "releasedAt": [
+    "1662962400000",
+    "1685754000000",
+    "1672383600000",
+    "1684645200000",
+    "1690869600000"
+  ],
+  "skillName": [
+    "新曲のアイディア探し",
+    "Seeking New Song Ideas",
+    "尋找新曲靈感",
+    "寻找新曲的灵感",
+    "신곡 아이디어 찾기"
+  ],
+  "skillId": 32,
+  "source": null,
+  "type": "dreamfes",
+  "stat": {
+    "1": {
+      "performance": 4365,
+      "technique": 2873,
+      "visual": 2964
+    },
+    "2": {
+      "performance": 4410,
+      "technique": 2903,
+      "visual": 2995
+    },
+    "3": {
+      "performance": 4457,
+      "technique": 2934,
+      "visual": 3027
+    },
+    "4": {
+      "performance": 4506,
+      "technique": 2966,
+      "visual": 3060
+    },
+    "5": {
+      "performance": 4556,
+      "technique": 2999,
+      "visual": 3094
+    },
+    "6": {
+      "performance": 4608,
+      "technique": 3033,
+      "visual": 3129
+    },
+    "7": {
+      "performance": 4662,
+      "technique": 3069,
+      "visual": 3166
+    },
+    "8": {
+      "performance": 4718,
+      "technique": 3106,
+      "visual": 3204
+    },
+    "9": {
+      "performance": 4776,
+      "technique": 3144,
+      "visual": 3243
+    },
+    "10": {
+      "performance": 4835,
+      "technique": 3183,
+      "visual": 3283
+    },
+    "11": {
+      "performance": 4896,
+      "technique": 3223,
+      "visual": 3325
+    },
+    "12": {
+      "performance": 4959,
+      "technique": 3264,
+      "visual": 3368
+    },
+    "13": {
+      "performance": 5024,
+      "technique": 3307,
+      "visual": 3412
+    },
+    "14": {
+      "performance": 5091,
+      "technique": 3351,
+      "visual": 3457
+    },
+    "15": {
+      "performance": 5159,
+      "technique": 3396,
+      "visual": 3503
+    },
+    "16": {
+      "performance": 5229,
+      "technique": 3442,
+      "visual": 3551
+    },
+    "17": {
+      "performance": 5301,
+      "technique": 3489,
+      "visual": 3600
+    },
+    "18": {
+      "performance": 5375,
+      "technique": 3538,
+      "visual": 3650
+    },
+    "19": {
+      "performance": 5451,
+      "technique": 3588,
+      "visual": 3701
+    },
+    "20": {
+      "performance": 5528,
+      "technique": 3639,
+      "visual": 3754
+    },
+    "21": {
+      "performance": 5607,
+      "technique": 3691,
+      "visual": 3808
+    },
+    "22": {
+      "performance": 5688,
+      "technique": 3744,
+      "visual": 3863
+    },
+    "23": {
+      "performance": 5771,
+      "technique": 3798,
+      "visual": 3919
+    },
+    "24": {
+      "performance": 5856,
+      "technique": 3854,
+      "visual": 3976
+    },
+    "25": {
+      "performance": 5942,
+      "technique": 3911,
+      "visual": 4035
+    },
+    "26": {
+      "performance": 6030,
+      "technique": 3969,
+      "visual": 4095
+    },
+    "27": {
+      "performance": 6120,
+      "technique": 4028,
+      "visual": 4156
+    },
+    "28": {
+      "performance": 6212,
+      "technique": 4088,
+      "visual": 4218
+    },
+    "29": {
+      "performance": 6306,
+      "technique": 4150,
+      "visual": 4282
+    },
+    "30": {
+      "performance": 6401,
+      "technique": 4213,
+      "visual": 4347
+    },
+    "31": {
+      "performance": 6498,
+      "technique": 4277,
+      "visual": 4413
+    },
+    "32": {
+      "performance": 6597,
+      "technique": 4342,
+      "visual": 4480
+    },
+    "33": {
+      "performance": 6698,
+      "technique": 4408,
+      "visual": 4548
+    },
+    "34": {
+      "performance": 6801,
+      "technique": 4476,
+      "visual": 4618
+    },
+    "35": {
+      "performance": 6905,
+      "technique": 4545,
+      "visual": 4689
+    },
+    "36": {
+      "performance": 7011,
+      "technique": 4615,
+      "visual": 4761
+    },
+    "37": {
+      "performance": 7119,
+      "technique": 4686,
+      "visual": 4834
+    },
+    "38": {
+      "performance": 7229,
+      "technique": 4758,
+      "visual": 4909
+    },
+    "39": {
+      "performance": 7341,
+      "technique": 4831,
+      "visual": 4985
+    },
+    "40": {
+      "performance": 7454,
+      "technique": 4906,
+      "visual": 5062
+    },
+    "41": {
+      "performance": 7569,
+      "technique": 4982,
+      "visual": 5140
+    },
+    "42": {
+      "performance": 7686,
+      "technique": 5059,
+      "visual": 5219
+    },
+    "43": {
+      "performance": 7805,
+      "technique": 5137,
+      "visual": 5300
+    },
+    "44": {
+      "performance": 7926,
+      "technique": 5216,
+      "visual": 5382
+    },
+    "45": {
+      "performance": 8048,
+      "technique": 5297,
+      "visual": 5465
+    },
+    "46": {
+      "performance": 8172,
+      "technique": 5379,
+      "visual": 5549
+    },
+    "47": {
+      "performance": 8298,
+      "technique": 5462,
+      "visual": 5635
+    },
+    "48": {
+      "performance": 8426,
+      "technique": 5546,
+      "visual": 5722
+    },
+    "49": {
+      "performance": 8556,
+      "technique": 5631,
+      "visual": 5810
+    },
+    "50": {
+      "performance": 8687,
+      "technique": 5717,
+      "visual": 5899
+    },
+    "51": {
+      "performance": 8926,
+      "technique": 5875,
+      "visual": 6062
+    },
+    "52": {
+      "performance": 9208,
+      "technique": 6061,
+      "visual": 6254
+    },
+    "53": {
+      "performance": 9533,
+      "technique": 6275,
+      "visual": 6475
+    },
+    "54": {
+      "performance": 9901,
+      "technique": 6517,
+      "visual": 6725
+    },
+    "55": {
+      "performance": 10312,
+      "technique": 6787,
+      "visual": 7004
+    },
+    "56": {
+      "performance": 10766,
+      "technique": 7086,
+      "visual": 7312
+    },
+    "57": {
+      "performance": 11262,
+      "technique": 7413,
+      "visual": 7649
+    },
+    "58": {
+      "performance": 11801,
+      "technique": 7768,
+      "visual": 8015
+    },
+    "59": {
+      "performance": 12383,
+      "technique": 8151,
+      "visual": 8410
+    },
+    "60": {
+      "performance": 13008,
+      "technique": 8562,
+      "visual": 8834
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

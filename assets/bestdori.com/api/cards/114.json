@@ -1,0 +1,288 @@
+{
+  "characterId": 13,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res013005",
+  "sdResourceName": "sd013005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 227,
+        "episodeType": "standard",
+        "situationId": 114,
+        "scenarioId": "episode114",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ごーかきゃくせんの雑誌",
+          "Cruise Ship Magazine",
+          "豪華郵輪的雜誌",
+          "豪华客船上的杂志",
+          "호화 여객선의 잡지"
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 228,
+        "episodeType": "memorial",
+        "situationId": 114,
+        "scenarioId": "memorial114",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "探偵ごっこ！",
+          "Playing Detective",
+          "扮偵探！",
+          "侦探游戏！",
+          "탐정 놀이!"
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 313,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "かわいい探偵さん",
+    "Cute Detective",
+    "可愛的偵探",
+    "可爱的侦探",
+    "귀여운 탐정님"
+  ],
+  "releasedAt": [
+    "1492063200000",
+    "1524272400000",
+    "1492066800000",
+    "1492066800000",
+    "1492063200000"
+  ],
+  "skillName": [
+    "はぐみ、探偵だからね！",
+    "Detective Hagumi",
+    "育美可是偵探喔！",
+    "育美我可是侦探！",
+    "하구미, 탐정이란말이야!"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2520,
+      "technique": 1680,
+      "visual": 1260
+    },
+    "2": {
+      "performance": 2589,
+      "technique": 1726,
+      "visual": 1294
+    },
+    "3": {
+      "performance": 2662,
+      "technique": 1775,
+      "visual": 1331
+    },
+    "4": {
+      "performance": 2740,
+      "technique": 1827,
+      "visual": 1370
+    },
+    "5": {
+      "performance": 2823,
+      "technique": 1882,
+      "visual": 1411
+    },
+    "6": {
+      "performance": 2910,
+      "technique": 1940,
+      "visual": 1455
+    },
+    "7": {
+      "performance": 3002,
+      "technique": 2001,
+      "visual": 1501
+    },
+    "8": {
+      "performance": 3098,
+      "technique": 2065,
+      "visual": 1549
+    },
+    "9": {
+      "performance": 3199,
+      "technique": 2132,
+      "visual": 1599
+    },
+    "10": {
+      "performance": 3304,
+      "technique": 2202,
+      "visual": 1652
+    },
+    "11": {
+      "performance": 3414,
+      "technique": 2275,
+      "visual": 1707
+    },
+    "12": {
+      "performance": 3529,
+      "technique": 2351,
+      "visual": 1764
+    },
+    "13": {
+      "performance": 3648,
+      "technique": 2430,
+      "visual": 1824
+    },
+    "14": {
+      "performance": 3772,
+      "technique": 2513,
+      "visual": 1886
+    },
+    "15": {
+      "performance": 3900,
+      "technique": 2599,
+      "visual": 1950
+    },
+    "16": {
+      "performance": 4033,
+      "technique": 2688,
+      "visual": 2016
+    },
+    "17": {
+      "performance": 4171,
+      "technique": 2780,
+      "visual": 2085
+    },
+    "18": {
+      "performance": 4313,
+      "technique": 2875,
+      "visual": 2156
+    },
+    "19": {
+      "performance": 4460,
+      "technique": 2973,
+      "visual": 2229
+    },
+    "20": {
+      "performance": 4611,
+      "technique": 3074,
+      "visual": 2305
+    },
+    "21": {
+      "performance": 4767,
+      "technique": 3178,
+      "visual": 2383
+    },
+    "22": {
+      "performance": 4927,
+      "technique": 3285,
+      "visual": 2463
+    },
+    "23": {
+      "performance": 5092,
+      "technique": 3395,
+      "visual": 2546
+    },
+    "24": {
+      "performance": 5262,
+      "technique": 3508,
+      "visual": 2631
+    },
+    "25": {
+      "performance": 5436,
+      "technique": 3624,
+      "visual": 2718
+    },
+    "26": {
+      "performance": 5615,
+      "technique": 3743,
+      "visual": 2807
+    },
+    "27": {
+      "performance": 5798,
+      "technique": 3865,
+      "visual": 2899
+    },
+    "28": {
+      "performance": 5986,
+      "technique": 3990,
+      "visual": 2993
+    },
+    "29": {
+      "performance": 6179,
+      "technique": 4118,
+      "visual": 3089
+    },
+    "30": {
+      "performance": 6376,
+      "technique": 4249,
+      "visual": 3188
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

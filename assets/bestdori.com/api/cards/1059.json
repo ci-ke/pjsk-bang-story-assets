@@ -1,0 +1,288 @@
+{
+  "characterId": 2,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res002040",
+  "sdResourceName": "sd002040",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1709,
+        "episodeType": "standard",
+        "situationId": 1059,
+        "scenarioId": "episode1059",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "うさぎが導く出会い",
+          "An Encounter Led by Rabbits",
+          "兔子牽起的緣分",
+          "兔子指引的相遇",
+          "토끼가 이끈 만남"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 1710,
+        "episodeType": "memorial",
+        "situationId": 1059,
+        "scenarioId": "memorial1059",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "思い出が詰まったノート",
+          "Notebook Full of Memories",
+          "滿室回憶的筆記",
+          "充满回忆的笔记本",
+          "추억이 가득 찬 노트"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 1000,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "うさぎ小屋紹介",
+    "Rabbit Hut Introduction",
+    "介紹兔兔小屋",
+    "兔子小屋介绍",
+    "토끼집 소개"
+  ],
+  "releasedAt": [
+    "1603260000000",
+    "1633654800000",
+    "1617260400000",
+    "1638248400000",
+    "1603260000000"
+  ],
+  "skillName": [
+    "うさぎとお花見",
+    "Bunnies and Flower Viewing",
+    "兔子和賞花",
+    "兔子与赏花",
+    "토끼와 꽃구경"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1920,
+      "technique": 2130,
+      "visual": 1830
+    },
+    "2": {
+      "performance": 1972,
+      "technique": 2187,
+      "visual": 1879
+    },
+    "3": {
+      "performance": 2027,
+      "technique": 2248,
+      "visual": 1932
+    },
+    "4": {
+      "performance": 2086,
+      "technique": 2313,
+      "visual": 1988
+    },
+    "5": {
+      "performance": 2148,
+      "technique": 2382,
+      "visual": 2047
+    },
+    "6": {
+      "performance": 2214,
+      "technique": 2455,
+      "visual": 2109
+    },
+    "7": {
+      "performance": 2283,
+      "technique": 2532,
+      "visual": 2175
+    },
+    "8": {
+      "performance": 2355,
+      "technique": 2612,
+      "visual": 2244
+    },
+    "9": {
+      "performance": 2431,
+      "technique": 2696,
+      "visual": 2316
+    },
+    "10": {
+      "performance": 2510,
+      "technique": 2784,
+      "visual": 2392
+    },
+    "11": {
+      "performance": 2593,
+      "technique": 2876,
+      "visual": 2471
+    },
+    "12": {
+      "performance": 2679,
+      "technique": 2972,
+      "visual": 2553
+    },
+    "13": {
+      "performance": 2769,
+      "technique": 3071,
+      "visual": 2638
+    },
+    "14": {
+      "performance": 2862,
+      "technique": 3174,
+      "visual": 2727
+    },
+    "15": {
+      "performance": 2959,
+      "technique": 3281,
+      "visual": 2819
+    },
+    "16": {
+      "performance": 3059,
+      "technique": 3392,
+      "visual": 2914
+    },
+    "17": {
+      "performance": 3162,
+      "technique": 3507,
+      "visual": 3013
+    },
+    "18": {
+      "performance": 3269,
+      "technique": 3626,
+      "visual": 3115
+    },
+    "19": {
+      "performance": 3379,
+      "technique": 3748,
+      "visual": 3220
+    },
+    "20": {
+      "performance": 3493,
+      "technique": 3874,
+      "visual": 3328
+    },
+    "21": {
+      "performance": 3610,
+      "technique": 4004,
+      "visual": 3440
+    },
+    "22": {
+      "performance": 3731,
+      "technique": 4138,
+      "visual": 3555
+    },
+    "23": {
+      "performance": 3855,
+      "technique": 4276,
+      "visual": 3673
+    },
+    "24": {
+      "performance": 3983,
+      "technique": 4417,
+      "visual": 3795
+    },
+    "25": {
+      "performance": 4114,
+      "technique": 4562,
+      "visual": 3920
+    },
+    "26": {
+      "performance": 4248,
+      "technique": 4711,
+      "visual": 4048
+    },
+    "27": {
+      "performance": 4386,
+      "technique": 4864,
+      "visual": 4179
+    },
+    "28": {
+      "performance": 4527,
+      "technique": 5021,
+      "visual": 4314
+    },
+    "29": {
+      "performance": 4672,
+      "technique": 5182,
+      "visual": 4452
+    },
+    "30": {
+      "performance": 4820,
+      "technique": 5346,
+      "visual": 4593
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

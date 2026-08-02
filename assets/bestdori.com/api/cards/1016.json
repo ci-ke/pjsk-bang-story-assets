@@ -1,0 +1,288 @@
+{
+  "characterId": 2,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res002038",
+  "sdResourceName": "sd002038",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1623,
+        "episodeType": "standard",
+        "situationId": 1016,
+        "scenarioId": "episode1016",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "十人十ギター",
+          "Ten People for Ten Guitars",
+          "吉他各有特色",
+          "各不相同的吉他风格",
+          "각양각색의 기타"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 1624,
+        "episodeType": "memorial",
+        "situationId": 1016,
+        "scenarioId": "memorial1016",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "広がるギターの輪",
+          "Expanding Guitar Circle",
+          "擴張中的吉他小圈圈",
+          "扩大的吉他圈子",
+          "넓어지는 기타의 고리"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 962,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "奔放な音",
+    "Wild Sound",
+    "奔放的樂音",
+    "奔放的声音",
+    "자유분방한 소리"
+  ],
+  "releasedAt": [
+    "1597125600000",
+    "1628816400000",
+    "1609830000000",
+    "1634014800000",
+    "1597125600000"
+  ],
+  "skillName": [
+    "自由なギタリスト",
+    "Free-Spirited Guitarist",
+    "自由的吉他手",
+    "自由的吉他手",
+    "자유로운 기타리스트"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2076,
+      "technique": 1866,
+      "visual": 2178
+    },
+    "2": {
+      "performance": 2131,
+      "technique": 1916,
+      "visual": 2236
+    },
+    "3": {
+      "performance": 2190,
+      "technique": 1969,
+      "visual": 2298
+    },
+    "4": {
+      "performance": 2253,
+      "technique": 2025,
+      "visual": 2364
+    },
+    "5": {
+      "performance": 2319,
+      "technique": 2085,
+      "visual": 2434
+    },
+    "6": {
+      "performance": 2389,
+      "technique": 2148,
+      "visual": 2507
+    },
+    "7": {
+      "performance": 2463,
+      "technique": 2214,
+      "visual": 2584
+    },
+    "8": {
+      "performance": 2540,
+      "technique": 2283,
+      "visual": 2665
+    },
+    "9": {
+      "performance": 2621,
+      "technique": 2356,
+      "visual": 2750
+    },
+    "10": {
+      "performance": 2706,
+      "technique": 2432,
+      "visual": 2839
+    },
+    "11": {
+      "performance": 2794,
+      "technique": 2511,
+      "visual": 2932
+    },
+    "12": {
+      "performance": 2886,
+      "technique": 2594,
+      "visual": 3028
+    },
+    "13": {
+      "performance": 2982,
+      "technique": 2680,
+      "visual": 3128
+    },
+    "14": {
+      "performance": 3081,
+      "technique": 2769,
+      "visual": 3232
+    },
+    "15": {
+      "performance": 3184,
+      "technique": 2862,
+      "visual": 3340
+    },
+    "16": {
+      "performance": 3291,
+      "technique": 2958,
+      "visual": 3452
+    },
+    "17": {
+      "performance": 3401,
+      "technique": 3057,
+      "visual": 3568
+    },
+    "18": {
+      "performance": 3515,
+      "technique": 3159,
+      "visual": 3688
+    },
+    "19": {
+      "performance": 3633,
+      "technique": 3265,
+      "visual": 3811
+    },
+    "20": {
+      "performance": 3754,
+      "technique": 3374,
+      "visual": 3938
+    },
+    "21": {
+      "performance": 3879,
+      "technique": 3486,
+      "visual": 4069
+    },
+    "22": {
+      "performance": 4008,
+      "technique": 3602,
+      "visual": 4204
+    },
+    "23": {
+      "performance": 4140,
+      "technique": 3721,
+      "visual": 4343
+    },
+    "24": {
+      "performance": 4276,
+      "technique": 3843,
+      "visual": 4486
+    },
+    "25": {
+      "performance": 4416,
+      "technique": 3969,
+      "visual": 4633
+    },
+    "26": {
+      "performance": 4559,
+      "technique": 4098,
+      "visual": 4783
+    },
+    "27": {
+      "performance": 4706,
+      "technique": 4230,
+      "visual": 4937
+    },
+    "28": {
+      "performance": 4857,
+      "technique": 4365,
+      "visual": 5095
+    },
+    "29": {
+      "performance": 5011,
+      "technique": 4504,
+      "visual": 5257
+    },
+    "30": {
+      "performance": 5169,
+      "technique": 4646,
+      "visual": 5423
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

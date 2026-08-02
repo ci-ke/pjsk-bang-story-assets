@@ -1,0 +1,436 @@
+{
+  "characterId": 14,
+  "rarity": 5,
+  "attribute": "happy",
+  "levelLimit": 60,
+  "resourceSetName": "res014052",
+  "sdResourceName": "sd014052",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2295,
+        "episodeType": "animation",
+        "situationId": 1404,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 0,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "青色散歩",
+          "Blue-Tinted Stroll",
+          "藍色散步",
+          "蓝色散步",
+          "푸른 빛 산책"
+        ],
+        "characterId": 14
+      },
+      {
+        "episodeId": 2296,
+        "episodeType": "memorial",
+        "situationId": 1404,
+        "scenarioId": "memorial1404",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "共犯ホットチョコレート",
+          "Conspirators’ Hot Chocolate",
+          "共犯熱巧克力",
+          "共犯热巧克力",
+          "공범 핫초콜릿"
+        ],
+        "characterId": 14
+      }
+    ]
+  },
+  "costumeId": 1310,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "青色散歩",
+    "Blue-Tinted Stroll",
+    "藍色散步",
+    "青色散步",
+    "푸른빛 산책"
+  ],
+  "releasedAt": [
+    "1643608800000",
+    "1643641200000",
+    "1655622000000",
+    "1643612400000",
+    "1643608800000"
+  ],
+  "skillName": [
+    "テンポ・アンダンテ",
+    "Tempo Andante",
+    "節拍・行板",
+    "节奏行板",
+    "템포 안단테"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1404,
+    "assetBundleName": "mov014001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3683,
+      "technique": 3450,
+      "visual": 3577
+    },
+    "2": {
+      "performance": 3749,
+      "technique": 3512,
+      "visual": 3641
+    },
+    "3": {
+      "performance": 3818,
+      "technique": 3576,
+      "visual": 3708
+    },
+    "4": {
+      "performance": 3889,
+      "technique": 3642,
+      "visual": 3777
+    },
+    "5": {
+      "performance": 3962,
+      "technique": 3711,
+      "visual": 3848
+    },
+    "6": {
+      "performance": 4037,
+      "technique": 3782,
+      "visual": 3921
+    },
+    "7": {
+      "performance": 4114,
+      "technique": 3855,
+      "visual": 3996
+    },
+    "8": {
+      "performance": 4194,
+      "technique": 3930,
+      "visual": 4073
+    },
+    "9": {
+      "performance": 4276,
+      "technique": 4007,
+      "visual": 4153
+    },
+    "10": {
+      "performance": 4360,
+      "technique": 4086,
+      "visual": 4235
+    },
+    "11": {
+      "performance": 4446,
+      "technique": 4167,
+      "visual": 4319
+    },
+    "12": {
+      "performance": 4534,
+      "technique": 4250,
+      "visual": 4405
+    },
+    "13": {
+      "performance": 4625,
+      "technique": 4335,
+      "visual": 4493
+    },
+    "14": {
+      "performance": 4718,
+      "technique": 4422,
+      "visual": 4583
+    },
+    "15": {
+      "performance": 4813,
+      "technique": 4511,
+      "visual": 4675
+    },
+    "16": {
+      "performance": 4910,
+      "technique": 4602,
+      "visual": 4770
+    },
+    "17": {
+      "performance": 5009,
+      "technique": 4695,
+      "visual": 4867
+    },
+    "18": {
+      "performance": 5111,
+      "technique": 4791,
+      "visual": 4966
+    },
+    "19": {
+      "performance": 5215,
+      "technique": 4889,
+      "visual": 5067
+    },
+    "20": {
+      "performance": 5321,
+      "technique": 4989,
+      "visual": 5170
+    },
+    "21": {
+      "performance": 5429,
+      "technique": 5091,
+      "visual": 5275
+    },
+    "22": {
+      "performance": 5540,
+      "technique": 5195,
+      "visual": 5382
+    },
+    "23": {
+      "performance": 5653,
+      "technique": 5301,
+      "visual": 5492
+    },
+    "24": {
+      "performance": 5768,
+      "technique": 5409,
+      "visual": 5604
+    },
+    "25": {
+      "performance": 5885,
+      "technique": 5519,
+      "visual": 5718
+    },
+    "26": {
+      "performance": 6004,
+      "technique": 5631,
+      "visual": 5834
+    },
+    "27": {
+      "performance": 6126,
+      "technique": 5745,
+      "visual": 5952
+    },
+    "28": {
+      "performance": 6250,
+      "technique": 5861,
+      "visual": 6072
+    },
+    "29": {
+      "performance": 6376,
+      "technique": 5979,
+      "visual": 6195
+    },
+    "30": {
+      "performance": 6504,
+      "technique": 6099,
+      "visual": 6320
+    },
+    "31": {
+      "performance": 6634,
+      "technique": 6222,
+      "visual": 6447
+    },
+    "32": {
+      "performance": 6767,
+      "technique": 6347,
+      "visual": 6576
+    },
+    "33": {
+      "performance": 6902,
+      "technique": 6474,
+      "visual": 6707
+    },
+    "34": {
+      "performance": 7039,
+      "technique": 6603,
+      "visual": 6840
+    },
+    "35": {
+      "performance": 7178,
+      "technique": 6734,
+      "visual": 6975
+    },
+    "36": {
+      "performance": 7319,
+      "technique": 6867,
+      "visual": 7113
+    },
+    "37": {
+      "performance": 7463,
+      "technique": 7002,
+      "visual": 7253
+    },
+    "38": {
+      "performance": 7609,
+      "technique": 7139,
+      "visual": 7395
+    },
+    "39": {
+      "performance": 7757,
+      "technique": 7278,
+      "visual": 7539
+    },
+    "40": {
+      "performance": 7907,
+      "technique": 7419,
+      "visual": 7685
+    },
+    "41": {
+      "performance": 8059,
+      "technique": 7562,
+      "visual": 7833
+    },
+    "42": {
+      "performance": 8214,
+      "technique": 7707,
+      "visual": 7983
+    },
+    "43": {
+      "performance": 8371,
+      "technique": 7854,
+      "visual": 8136
+    },
+    "44": {
+      "performance": 8530,
+      "technique": 8004,
+      "visual": 8291
+    },
+    "45": {
+      "performance": 8691,
+      "technique": 8156,
+      "visual": 8448
+    },
+    "46": {
+      "performance": 8855,
+      "technique": 8310,
+      "visual": 8607
+    },
+    "47": {
+      "performance": 9021,
+      "technique": 8466,
+      "visual": 8768
+    },
+    "48": {
+      "performance": 9189,
+      "technique": 8624,
+      "visual": 8931
+    },
+    "49": {
+      "performance": 9359,
+      "technique": 8784,
+      "visual": 9096
+    },
+    "50": {
+      "performance": 9531,
+      "technique": 8946,
+      "visual": 9264
+    },
+    "51": {
+      "performance": 9706,
+      "technique": 9110,
+      "visual": 9434
+    },
+    "52": {
+      "performance": 9883,
+      "technique": 9276,
+      "visual": 9606
+    },
+    "53": {
+      "performance": 10062,
+      "technique": 9444,
+      "visual": 9780
+    },
+    "54": {
+      "performance": 10243,
+      "technique": 9614,
+      "visual": 9956
+    },
+    "55": {
+      "performance": 10426,
+      "technique": 9786,
+      "visual": 10134
+    },
+    "56": {
+      "performance": 10612,
+      "technique": 9960,
+      "visual": 10315
+    },
+    "57": {
+      "performance": 10800,
+      "technique": 10137,
+      "visual": 10498
+    },
+    "58": {
+      "performance": 10990,
+      "technique": 10316,
+      "visual": 10683
+    },
+    "59": {
+      "performance": 11182,
+      "technique": 10497,
+      "visual": 10870
+    },
+    "60": {
+      "performance": 11376,
+      "technique": 10681,
+      "visual": 11059
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

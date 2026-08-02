@@ -1,0 +1,288 @@
+{
+  "characterId": 25,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res025002",
+  "sdResourceName": "sd025002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 195,
+        "episodeType": "standard",
+        "situationId": 98,
+        "scenarioId": "episode098",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 25
+      },
+      {
+        "episodeId": 196,
+        "episodeType": "memorial",
+        "situationId": 98,
+        "scenarioId": "memorial098",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "似合ってますか……？",
+          "How Do I Look...?",
+          "好看嗎……？",
+          "适合我吗……？",
+          "어울리나요……?"
+        ],
+        "characterId": 25
+      }
+    ]
+  },
+  "costumeId": 50,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "ピアニッシモ",
+    "Pianissimo",
+    "Pianissimo(極弱符號:PP)",
+    "极弱",
+    "피아니시모"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1512,
+      "technique": 2382,
+      "visual": 1818
+    },
+    "2": {
+      "performance": 1553,
+      "technique": 2446,
+      "visual": 1867
+    },
+    "3": {
+      "performance": 1596,
+      "technique": 2514,
+      "visual": 1919
+    },
+    "4": {
+      "performance": 1642,
+      "technique": 2587,
+      "visual": 1975
+    },
+    "5": {
+      "performance": 1691,
+      "technique": 2664,
+      "visual": 2034
+    },
+    "6": {
+      "performance": 1743,
+      "technique": 2745,
+      "visual": 2096
+    },
+    "7": {
+      "performance": 1797,
+      "technique": 2831,
+      "visual": 2161
+    },
+    "8": {
+      "performance": 1854,
+      "technique": 2921,
+      "visual": 2230
+    },
+    "9": {
+      "performance": 1914,
+      "technique": 3015,
+      "visual": 2302
+    },
+    "10": {
+      "performance": 1976,
+      "technique": 3113,
+      "visual": 2377
+    },
+    "11": {
+      "performance": 2041,
+      "technique": 3216,
+      "visual": 2455
+    },
+    "12": {
+      "performance": 2109,
+      "technique": 3323,
+      "visual": 2537
+    },
+    "13": {
+      "performance": 2180,
+      "technique": 3434,
+      "visual": 2622
+    },
+    "14": {
+      "performance": 2253,
+      "technique": 3549,
+      "visual": 2710
+    },
+    "15": {
+      "performance": 2329,
+      "technique": 3669,
+      "visual": 2801
+    },
+    "16": {
+      "performance": 2408,
+      "technique": 3793,
+      "visual": 2896
+    },
+    "17": {
+      "performance": 2489,
+      "technique": 3921,
+      "visual": 2994
+    },
+    "18": {
+      "performance": 2573,
+      "technique": 4054,
+      "visual": 3095
+    },
+    "19": {
+      "performance": 2660,
+      "technique": 4191,
+      "visual": 3199
+    },
+    "20": {
+      "performance": 2750,
+      "technique": 4332,
+      "visual": 3307
+    },
+    "21": {
+      "performance": 2842,
+      "technique": 4477,
+      "visual": 3418
+    },
+    "22": {
+      "performance": 2937,
+      "technique": 4627,
+      "visual": 3532
+    },
+    "23": {
+      "performance": 3035,
+      "technique": 4781,
+      "visual": 3649
+    },
+    "24": {
+      "performance": 3135,
+      "technique": 4939,
+      "visual": 3770
+    },
+    "25": {
+      "performance": 3238,
+      "technique": 5101,
+      "visual": 3894
+    },
+    "26": {
+      "performance": 3344,
+      "technique": 5268,
+      "visual": 4021
+    },
+    "27": {
+      "performance": 3453,
+      "technique": 5439,
+      "visual": 4152
+    },
+    "28": {
+      "performance": 3564,
+      "technique": 5614,
+      "visual": 4286
+    },
+    "29": {
+      "performance": 3678,
+      "technique": 5794,
+      "visual": 4423
+    },
+    "30": {
+      "performance": 3795,
+      "technique": 5978,
+      "visual": 4563
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

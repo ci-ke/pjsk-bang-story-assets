@@ -1,0 +1,436 @@
+{
+  "characterId": 17,
+  "rarity": 5,
+  "attribute": "happy",
+  "levelLimit": 60,
+  "resourceSetName": "res017060",
+  "sdResourceName": "sd017060",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2599,
+        "episodeType": "animation",
+        "situationId": 1591,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "双眸、きらめいて",
+          "Eyes Twinkling",
+          "雙眸，閃閃發光",
+          "双眸闪闪发亮",
+          "두 눈, 반짝이고"
+        ],
+        "characterId": 17
+      },
+      {
+        "episodeId": 2600,
+        "episodeType": "memorial",
+        "situationId": 1591,
+        "scenarioId": "memorial1591",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "帰り道はすこし遠回り",
+          "A Short Detour on the Way Home",
+          "回家稍微繞個遠路",
+          "回家时绕个远路",
+          "돌아가는 길은 조금 우회"
+        ],
+        "characterId": 17
+      }
+    ]
+  },
+  "costumeId": 1469,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "双眸、きらめいて",
+    "Eyes Twinkling",
+    "雙眸，閃閃發光",
+    "双眸闪闪发亮",
+    "두 눈, 반짝이고"
+  ],
+  "releasedAt": [
+    "1659247200000",
+    "1659279600000",
+    "1669705200000",
+    "1659250800000",
+    "1659247200000"
+  ],
+  "skillName": [
+    "サマー・サマー・サイダー",
+    "Summer, Summer Soda",
+    "Summer・Summer・Cider",
+    "summer·summer·cider",
+    "서머・서머・사이다"
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1591,
+    "assetBundleName": "mov017001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3461,
+      "technique": 3747,
+      "visual": 3503
+    },
+    "2": {
+      "performance": 3524,
+      "technique": 3814,
+      "visual": 3566
+    },
+    "3": {
+      "performance": 3589,
+      "technique": 3884,
+      "visual": 3631
+    },
+    "4": {
+      "performance": 3656,
+      "technique": 3956,
+      "visual": 3698
+    },
+    "5": {
+      "performance": 3725,
+      "technique": 4030,
+      "visual": 3768
+    },
+    "6": {
+      "performance": 3796,
+      "technique": 4106,
+      "visual": 3840
+    },
+    "7": {
+      "performance": 3869,
+      "technique": 4185,
+      "visual": 3914
+    },
+    "8": {
+      "performance": 3944,
+      "technique": 4266,
+      "visual": 3990
+    },
+    "9": {
+      "performance": 4021,
+      "technique": 4349,
+      "visual": 4068
+    },
+    "10": {
+      "performance": 4100,
+      "technique": 4434,
+      "visual": 4148
+    },
+    "11": {
+      "performance": 4181,
+      "technique": 4522,
+      "visual": 4230
+    },
+    "12": {
+      "performance": 4264,
+      "technique": 4612,
+      "visual": 4314
+    },
+    "13": {
+      "performance": 4349,
+      "technique": 4704,
+      "visual": 4400
+    },
+    "14": {
+      "performance": 4437,
+      "technique": 4798,
+      "visual": 4489
+    },
+    "15": {
+      "performance": 4527,
+      "technique": 4895,
+      "visual": 4580
+    },
+    "16": {
+      "performance": 4619,
+      "technique": 4994,
+      "visual": 4673
+    },
+    "17": {
+      "performance": 4713,
+      "technique": 5095,
+      "visual": 4768
+    },
+    "18": {
+      "performance": 4809,
+      "technique": 5198,
+      "visual": 4865
+    },
+    "19": {
+      "performance": 4907,
+      "technique": 5304,
+      "visual": 4964
+    },
+    "20": {
+      "performance": 5007,
+      "technique": 5412,
+      "visual": 5065
+    },
+    "21": {
+      "performance": 5109,
+      "technique": 5522,
+      "visual": 5168
+    },
+    "22": {
+      "performance": 5213,
+      "technique": 5634,
+      "visual": 5273
+    },
+    "23": {
+      "performance": 5319,
+      "technique": 5749,
+      "visual": 5380
+    },
+    "24": {
+      "performance": 5427,
+      "technique": 5866,
+      "visual": 5490
+    },
+    "25": {
+      "performance": 5537,
+      "technique": 5985,
+      "visual": 5602
+    },
+    "26": {
+      "performance": 5650,
+      "technique": 6106,
+      "visual": 5716
+    },
+    "27": {
+      "performance": 5765,
+      "technique": 6230,
+      "visual": 5832
+    },
+    "28": {
+      "performance": 5882,
+      "technique": 6356,
+      "visual": 5950
+    },
+    "29": {
+      "performance": 6001,
+      "technique": 6484,
+      "visual": 6070
+    },
+    "30": {
+      "performance": 6122,
+      "technique": 6614,
+      "visual": 6192
+    },
+    "31": {
+      "performance": 6245,
+      "technique": 6747,
+      "visual": 6316
+    },
+    "32": {
+      "performance": 6370,
+      "technique": 6882,
+      "visual": 6442
+    },
+    "33": {
+      "performance": 6497,
+      "technique": 7019,
+      "visual": 6571
+    },
+    "34": {
+      "performance": 6626,
+      "technique": 7158,
+      "visual": 6702
+    },
+    "35": {
+      "performance": 6757,
+      "technique": 7300,
+      "visual": 6835
+    },
+    "36": {
+      "performance": 6890,
+      "technique": 7444,
+      "visual": 6970
+    },
+    "37": {
+      "performance": 7025,
+      "technique": 7590,
+      "visual": 7107
+    },
+    "38": {
+      "performance": 7163,
+      "technique": 7738,
+      "visual": 7246
+    },
+    "39": {
+      "performance": 7303,
+      "technique": 7889,
+      "visual": 7387
+    },
+    "40": {
+      "performance": 7445,
+      "technique": 8042,
+      "visual": 7530
+    },
+    "41": {
+      "performance": 7589,
+      "technique": 8197,
+      "visual": 7675
+    },
+    "42": {
+      "performance": 7735,
+      "technique": 8354,
+      "visual": 7823
+    },
+    "43": {
+      "performance": 7883,
+      "technique": 8513,
+      "visual": 7973
+    },
+    "44": {
+      "performance": 8033,
+      "technique": 8675,
+      "visual": 8125
+    },
+    "45": {
+      "performance": 8185,
+      "technique": 8839,
+      "visual": 8279
+    },
+    "46": {
+      "performance": 8339,
+      "technique": 9005,
+      "visual": 8435
+    },
+    "47": {
+      "performance": 8495,
+      "technique": 9173,
+      "visual": 8593
+    },
+    "48": {
+      "performance": 8653,
+      "technique": 9344,
+      "visual": 8753
+    },
+    "49": {
+      "performance": 8813,
+      "technique": 9517,
+      "visual": 8915
+    },
+    "50": {
+      "performance": 8976,
+      "technique": 9692,
+      "visual": 9079
+    },
+    "51": {
+      "performance": 9141,
+      "technique": 9869,
+      "visual": 9245
+    },
+    "52": {
+      "performance": 9308,
+      "technique": 10049,
+      "visual": 9414
+    },
+    "53": {
+      "performance": 9477,
+      "technique": 10231,
+      "visual": 9585
+    },
+    "54": {
+      "performance": 9648,
+      "technique": 10415,
+      "visual": 9758
+    },
+    "55": {
+      "performance": 9821,
+      "technique": 10601,
+      "visual": 9933
+    },
+    "56": {
+      "performance": 9996,
+      "technique": 10790,
+      "visual": 10110
+    },
+    "57": {
+      "performance": 10173,
+      "technique": 10981,
+      "visual": 10289
+    },
+    "58": {
+      "performance": 10352,
+      "technique": 11174,
+      "visual": 10470
+    },
+    "59": {
+      "performance": 10533,
+      "technique": 11369,
+      "visual": 10653
+    },
+    "60": {
+      "performance": 10717,
+      "technique": 11567,
+      "visual": 10839
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "characterId": 33,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res033006",
+  "sdResourceName": "sd033006",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1683,
+        "episodeType": "standard",
+        "situationId": 1046,
+        "scenarioId": "episode1046",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ケーキ・マスター",
+          "Cookie Master",
+          "蛋糕大師",
+          "蛋糕大师",
+          "케이크 마스터"
+        ],
+        "characterId": 33
+      },
+      {
+        "episodeId": 1684,
+        "episodeType": "memorial",
+        "situationId": 1046,
+        "scenarioId": "memorial1046",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "新たな発見",
+          "New Discoveries",
+          "新發現",
+          "新的发现",
+          "새로운 발견"
+        ],
+        "characterId": 33
+      }
+    ]
+  },
+  "costumeId": 987,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ノリノリキング",
+    "Happy King",
+    "興致高漲KING",
+    "兴致勃勃之王",
+    "흥겨운 킹"
+  ],
+  "releasedAt": [
+    "1601445600000",
+    "1632445200000",
+    "1615532400000",
+    "1637038800000",
+    "1601445600000"
+  ],
+  "skillName": [
+    "「儚い」のポーズ",
+    "Fleeting Pose",
+    "「虛幻」的姿勢",
+    "「梦幻」的姿势",
+    "「덧없는」 포즈"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2880,
+      "technique": 2979,
+      "visual": 2961
+    },
+    "2": {
+      "performance": 2918,
+      "technique": 3019,
+      "visual": 3000
+    },
+    "3": {
+      "performance": 2958,
+      "technique": 3061,
+      "visual": 3041
+    },
+    "4": {
+      "performance": 3000,
+      "technique": 3105,
+      "visual": 3084
+    },
+    "5": {
+      "performance": 3044,
+      "technique": 3151,
+      "visual": 3129
+    },
+    "6": {
+      "performance": 3090,
+      "technique": 3198,
+      "visual": 3176
+    },
+    "7": {
+      "performance": 3138,
+      "technique": 3247,
+      "visual": 3225
+    },
+    "8": {
+      "performance": 3188,
+      "technique": 3298,
+      "visual": 3276
+    },
+    "9": {
+      "performance": 3240,
+      "technique": 3351,
+      "visual": 3329
+    },
+    "10": {
+      "performance": 3294,
+      "technique": 3406,
+      "visual": 3384
+    },
+    "11": {
+      "performance": 3349,
+      "technique": 3463,
+      "visual": 3441
+    },
+    "12": {
+      "performance": 3406,
+      "technique": 3522,
+      "visual": 3500
+    },
+    "13": {
+      "performance": 3465,
+      "technique": 3583,
+      "visual": 3561
+    },
+    "14": {
+      "performance": 3526,
+      "technique": 3646,
+      "visual": 3624
+    },
+    "15": {
+      "performance": 3589,
+      "technique": 3711,
+      "visual": 3689
+    },
+    "16": {
+      "performance": 3654,
+      "technique": 3778,
+      "visual": 3756
+    },
+    "17": {
+      "performance": 3721,
+      "technique": 3847,
+      "visual": 3825
+    },
+    "18": {
+      "performance": 3790,
+      "technique": 3918,
+      "visual": 3896
+    },
+    "19": {
+      "performance": 3861,
+      "technique": 3991,
+      "visual": 3969
+    },
+    "20": {
+      "performance": 3934,
+      "technique": 4066,
+      "visual": 4044
+    },
+    "21": {
+      "performance": 4009,
+      "technique": 4143,
+      "visual": 4121
+    },
+    "22": {
+      "performance": 4086,
+      "technique": 4222,
+      "visual": 4200
+    },
+    "23": {
+      "performance": 4164,
+      "technique": 4303,
+      "visual": 4281
+    },
+    "24": {
+      "performance": 4244,
+      "technique": 4386,
+      "visual": 4364
+    },
+    "25": {
+      "performance": 4326,
+      "technique": 4471,
+      "visual": 4449
+    },
+    "26": {
+      "performance": 4410,
+      "technique": 4558,
+      "visual": 4536
+    },
+    "27": {
+      "performance": 4496,
+      "technique": 4647,
+      "visual": 4624
+    },
+    "28": {
+      "performance": 4584,
+      "technique": 4738,
+      "visual": 4714
+    },
+    "29": {
+      "performance": 4674,
+      "technique": 4831,
+      "visual": 4806
+    },
+    "30": {
+      "performance": 4766,
+      "technique": 4926,
+      "visual": 4900
+    },
+    "31": {
+      "performance": 4860,
+      "technique": 5023,
+      "visual": 4996
+    },
+    "32": {
+      "performance": 4956,
+      "technique": 5122,
+      "visual": 5094
+    },
+    "33": {
+      "performance": 5054,
+      "technique": 5223,
+      "visual": 5194
+    },
+    "34": {
+      "performance": 5153,
+      "technique": 5326,
+      "visual": 5296
+    },
+    "35": {
+      "performance": 5254,
+      "technique": 5431,
+      "visual": 5400
+    },
+    "36": {
+      "performance": 5357,
+      "technique": 5538,
+      "visual": 5506
+    },
+    "37": {
+      "performance": 5462,
+      "technique": 5647,
+      "visual": 5614
+    },
+    "38": {
+      "performance": 5569,
+      "technique": 5758,
+      "visual": 5724
+    },
+    "39": {
+      "performance": 5678,
+      "technique": 5871,
+      "visual": 5836
+    },
+    "40": {
+      "performance": 5789,
+      "technique": 5986,
+      "visual": 5950
+    },
+    "41": {
+      "performance": 5950,
+      "technique": 6153,
+      "visual": 6116
+    },
+    "42": {
+      "performance": 6140,
+      "technique": 6349,
+      "visual": 6311
+    },
+    "43": {
+      "performance": 6359,
+      "technique": 6575,
+      "visual": 6536
+    },
+    "44": {
+      "performance": 6607,
+      "technique": 6831,
+      "visual": 6791
+    },
+    "45": {
+      "performance": 6883,
+      "technique": 7117,
+      "visual": 7075
+    },
+    "46": {
+      "performance": 7188,
+      "technique": 7433,
+      "visual": 7389
+    },
+    "47": {
+      "performance": 7522,
+      "technique": 7779,
+      "visual": 7732
+    },
+    "48": {
+      "performance": 7885,
+      "technique": 8155,
+      "visual": 8105
+    },
+    "49": {
+      "performance": 8277,
+      "technique": 8560,
+      "visual": 8508
+    },
+    "50": {
+      "performance": 8698,
+      "technique": 8995,
+      "visual": 8940
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

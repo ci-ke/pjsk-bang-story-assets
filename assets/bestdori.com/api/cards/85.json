@@ -1,0 +1,229 @@
+{
+  "characterId": 22,
+  "rarity": 1,
+  "attribute": "cool",
+  "levelLimit": 20,
+  "resourceSetName": "res022001",
+  "sdResourceName": "sd022001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 169,
+        "episodeType": "standard",
+        "situationId": 85,
+        "scenarioId": "episode085",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 22
+      },
+      {
+        "episodeId": 170,
+        "episodeType": "memorial",
+        "situationId": 85,
+        "scenarioId": "memorial085",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "音楽を奏でる道具",
+          "Tools To Make Music",
+          "演奏音樂的工具",
+          "演奏音乐的道具",
+          "음악을 연주하는 도구"
+        ],
+        "characterId": 22
+      }
+    ]
+  },
+  "costumeId": 1629,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "生真面目な努力家",
+    "Hard Worker",
+    "認真的努力家",
+    "一本正经的奋斗者",
+    "고지식한 노력가"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "誰よりもひたむきに",
+    "The Most Sincere",
+    "一心一意勝過任何人",
+    "超乎常人的专注",
+    "누구보다도 진지하게"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 666,
+      "technique": 1251,
+      "visual": 849
+    },
+    "2": {
+      "performance": 694,
+      "technique": 1304,
+      "visual": 885
+    },
+    "3": {
+      "performance": 725,
+      "technique": 1362,
+      "visual": 925
+    },
+    "4": {
+      "performance": 759,
+      "technique": 1426,
+      "visual": 968
+    },
+    "5": {
+      "performance": 796,
+      "technique": 1495,
+      "visual": 1015
+    },
+    "6": {
+      "performance": 836,
+      "technique": 1569,
+      "visual": 1065
+    },
+    "7": {
+      "performance": 878,
+      "technique": 1649,
+      "visual": 1119
+    },
+    "8": {
+      "performance": 923,
+      "technique": 1734,
+      "visual": 1177
+    },
+    "9": {
+      "performance": 971,
+      "technique": 1824,
+      "visual": 1238
+    },
+    "10": {
+      "performance": 1022,
+      "technique": 1919,
+      "visual": 1303
+    },
+    "11": {
+      "performance": 1076,
+      "technique": 2020,
+      "visual": 1371
+    },
+    "12": {
+      "performance": 1132,
+      "technique": 2126,
+      "visual": 1443
+    },
+    "13": {
+      "performance": 1191,
+      "technique": 2237,
+      "visual": 1519
+    },
+    "14": {
+      "performance": 1253,
+      "technique": 2354,
+      "visual": 1598
+    },
+    "15": {
+      "performance": 1318,
+      "technique": 2476,
+      "visual": 1681
+    },
+    "16": {
+      "performance": 1386,
+      "technique": 2603,
+      "visual": 1767
+    },
+    "17": {
+      "performance": 1457,
+      "technique": 2735,
+      "visual": 1857
+    },
+    "18": {
+      "performance": 1530,
+      "technique": 2873,
+      "visual": 1950
+    },
+    "19": {
+      "performance": 1606,
+      "technique": 3016,
+      "visual": 2047
+    },
+    "20": {
+      "performance": 1685,
+      "technique": 3164,
+      "visual": 2148
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

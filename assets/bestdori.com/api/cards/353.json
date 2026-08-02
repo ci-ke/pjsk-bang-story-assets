@@ -1,0 +1,288 @@
+{
+  "characterId": 16,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res016018",
+  "sdResourceName": "sd016018",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 535,
+        "episodeType": "standard",
+        "situationId": 353,
+        "scenarioId": "episode353",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "認めてくれてる……？",
+          "Is That Acknowledgement...?",
+          "你能認同嗎……？",
+          "得到认可了……？",
+          "인정해주는 거야……?"
+        ],
+        "characterId": 16
+      },
+      {
+        "episodeId": 536,
+        "episodeType": "memorial",
+        "situationId": 353,
+        "scenarioId": "memorial353",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "まだまだこれから！",
+          "Just Getting Started!",
+          "現在才正要開始！",
+          "还差得远呢！",
+          "이제부터 시작!"
+        ],
+        "characterId": 16
+      }
+    ]
+  },
+  "costumeId": 257,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "煌めくステージへ",
+    "A Sparkling Stage",
+    "向著輝煌的舞台",
+    "前往辉煌的舞台",
+    "빛나는 스테이지로"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "あたふたアドリブ",
+    "Hasty Ad-Lib",
+    "慌張即興演出",
+    "手忙脚乱的即兴表演",
+    "허둥지둥 애드리브"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2034,
+      "technique": 2208,
+      "visual": 1878
+    },
+    "2": {
+      "performance": 2088,
+      "technique": 2267,
+      "visual": 1928
+    },
+    "3": {
+      "performance": 2146,
+      "technique": 2330,
+      "visual": 1981
+    },
+    "4": {
+      "performance": 2207,
+      "technique": 2397,
+      "visual": 2038
+    },
+    "5": {
+      "performance": 2272,
+      "technique": 2467,
+      "visual": 2098
+    },
+    "6": {
+      "performance": 2341,
+      "technique": 2541,
+      "visual": 2161
+    },
+    "7": {
+      "performance": 2413,
+      "technique": 2619,
+      "visual": 2228
+    },
+    "8": {
+      "performance": 2489,
+      "technique": 2701,
+      "visual": 2298
+    },
+    "9": {
+      "performance": 2568,
+      "technique": 2787,
+      "visual": 2371
+    },
+    "10": {
+      "performance": 2651,
+      "technique": 2877,
+      "visual": 2448
+    },
+    "11": {
+      "performance": 2738,
+      "technique": 2971,
+      "visual": 2528
+    },
+    "12": {
+      "performance": 2828,
+      "technique": 3069,
+      "visual": 2611
+    },
+    "13": {
+      "performance": 2922,
+      "technique": 3171,
+      "visual": 2698
+    },
+    "14": {
+      "performance": 3019,
+      "technique": 3277,
+      "visual": 2788
+    },
+    "15": {
+      "performance": 3120,
+      "technique": 3387,
+      "visual": 2881
+    },
+    "16": {
+      "performance": 3225,
+      "technique": 3500,
+      "visual": 2977
+    },
+    "17": {
+      "performance": 3333,
+      "technique": 3617,
+      "visual": 3077
+    },
+    "18": {
+      "performance": 3445,
+      "technique": 3738,
+      "visual": 3180
+    },
+    "19": {
+      "performance": 3560,
+      "technique": 3863,
+      "visual": 3286
+    },
+    "20": {
+      "performance": 3679,
+      "technique": 3992,
+      "visual": 3396
+    },
+    "21": {
+      "performance": 3802,
+      "technique": 4125,
+      "visual": 3509
+    },
+    "22": {
+      "performance": 3928,
+      "technique": 4262,
+      "visual": 3625
+    },
+    "23": {
+      "performance": 4058,
+      "technique": 4403,
+      "visual": 3745
+    },
+    "24": {
+      "performance": 4191,
+      "technique": 4548,
+      "visual": 3868
+    },
+    "25": {
+      "performance": 4328,
+      "technique": 4697,
+      "visual": 3994
+    },
+    "26": {
+      "performance": 4469,
+      "technique": 4850,
+      "visual": 4124
+    },
+    "27": {
+      "performance": 4613,
+      "technique": 5006,
+      "visual": 4257
+    },
+    "28": {
+      "performance": 4761,
+      "technique": 5166,
+      "visual": 4393
+    },
+    "29": {
+      "performance": 4912,
+      "technique": 5330,
+      "visual": 4533
+    },
+    "30": {
+      "performance": 5067,
+      "technique": 5498,
+      "visual": 4676
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

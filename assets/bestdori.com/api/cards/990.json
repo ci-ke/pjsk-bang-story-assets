@@ -1,0 +1,288 @@
+{
+  "characterId": 13,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res013041",
+  "sdResourceName": "sd013041",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1601,
+        "episodeType": "standard",
+        "situationId": 990,
+        "scenarioId": "episode990",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "はぐみ、予習する",
+          "Hagumi Prepping",
+          "育美，會預習",
+          "育美会预习的",
+          "하구미, 예습하다"
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 1602,
+        "episodeType": "memorial",
+        "situationId": 990,
+        "scenarioId": "memorial990",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "CiRCLE BBQお肉編",
+          "CiRCLE BBQ Meat Edition",
+          "CiRCLE BBQ肉類篇",
+          "CiRCLE BBQ肉类篇",
+          "CiRCLE BBQ 고기 편"
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 936,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "サマーハピネス",
+    "Summer Happiness",
+    "夏日幸福",
+    "夏天的快乐",
+    "서머 해피니스"
+  ],
+  "releasedAt": [
+    "1595311200000",
+    "1626829200000",
+    "1608102000000",
+    "1632805200000",
+    "1595311200000"
+  ],
+  "skillName": [
+    "うきうき夏休み",
+    "Cheerful Summer Vacation",
+    "雀躍的暑假",
+    "兴高采烈的暑假",
+    "들뜨는 여름 방학"
+  ],
+  "skillId": 23,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1800,
+      "technique": 2220,
+      "visual": 1860
+    },
+    "2": {
+      "performance": 1849,
+      "technique": 2280,
+      "visual": 1910
+    },
+    "3": {
+      "performance": 1901,
+      "technique": 2344,
+      "visual": 1963
+    },
+    "4": {
+      "performance": 1956,
+      "technique": 2412,
+      "visual": 2020
+    },
+    "5": {
+      "performance": 2014,
+      "technique": 2484,
+      "visual": 2080
+    },
+    "6": {
+      "performance": 2075,
+      "technique": 2560,
+      "visual": 2143
+    },
+    "7": {
+      "performance": 2140,
+      "technique": 2640,
+      "visual": 2210
+    },
+    "8": {
+      "performance": 2208,
+      "technique": 2724,
+      "visual": 2280
+    },
+    "9": {
+      "performance": 2279,
+      "technique": 2812,
+      "visual": 2354
+    },
+    "10": {
+      "performance": 2353,
+      "technique": 2904,
+      "visual": 2431
+    },
+    "11": {
+      "performance": 2431,
+      "technique": 3000,
+      "visual": 2511
+    },
+    "12": {
+      "performance": 2512,
+      "technique": 3100,
+      "visual": 2595
+    },
+    "13": {
+      "performance": 2596,
+      "technique": 3204,
+      "visual": 2682
+    },
+    "14": {
+      "performance": 2683,
+      "technique": 3312,
+      "visual": 2772
+    },
+    "15": {
+      "performance": 2773,
+      "technique": 3424,
+      "visual": 2866
+    },
+    "16": {
+      "performance": 2867,
+      "technique": 3540,
+      "visual": 2963
+    },
+    "17": {
+      "performance": 2964,
+      "technique": 3660,
+      "visual": 3063
+    },
+    "18": {
+      "performance": 3064,
+      "technique": 3784,
+      "visual": 3167
+    },
+    "19": {
+      "performance": 3167,
+      "technique": 3912,
+      "visual": 3274
+    },
+    "20": {
+      "performance": 3274,
+      "technique": 4044,
+      "visual": 3384
+    },
+    "21": {
+      "performance": 3384,
+      "technique": 4179,
+      "visual": 3498
+    },
+    "22": {
+      "performance": 3497,
+      "technique": 4318,
+      "visual": 3615
+    },
+    "23": {
+      "performance": 3613,
+      "technique": 4461,
+      "visual": 3735
+    },
+    "24": {
+      "performance": 3733,
+      "technique": 4608,
+      "visual": 3859
+    },
+    "25": {
+      "performance": 3856,
+      "technique": 4759,
+      "visual": 3986
+    },
+    "26": {
+      "performance": 3982,
+      "technique": 4914,
+      "visual": 4116
+    },
+    "27": {
+      "performance": 4111,
+      "technique": 5073,
+      "visual": 4250
+    },
+    "28": {
+      "performance": 4243,
+      "technique": 5236,
+      "visual": 4387
+    },
+    "29": {
+      "performance": 4379,
+      "technique": 5403,
+      "visual": 4527
+    },
+    "30": {
+      "performance": 4518,
+      "technique": 5574,
+      "visual": 4671
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

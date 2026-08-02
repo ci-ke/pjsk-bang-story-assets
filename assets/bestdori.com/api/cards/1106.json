@@ -1,0 +1,406 @@
+{
+  "characterId": 25,
+  "rarity": 3,
+  "attribute": "pure",
+  "levelLimit": 40,
+  "resourceSetName": "res025040",
+  "sdResourceName": "sd025040",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1801,
+        "episodeType": "standard",
+        "situationId": 1106,
+        "scenarioId": "episode1106",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "石橋は叩いて渡る主義",
+          "Err on the Side of Caution",
+          "雙重保險主義",
+          "谨小慎微主义",
+          "돌다리는 두드려보고 건너는 주의"
+        ],
+        "characterId": 25
+      },
+      {
+        "episodeId": 1802,
+        "episodeType": "memorial",
+        "situationId": 1106,
+        "scenarioId": "memorial1106",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 12,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "怖くないもの",
+          "I'm Not Scared",
+          "不害怕的事物",
+          "不可怕的东西",
+          "무섭지 않은 것"
+        ],
+        "characterId": 25
+      }
+    ]
+  },
+  "costumeId": 1047,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "狼狽乙女",
+    "Flustered Maiden",
+    "狼狽少女",
+    "慌张少女",
+    "당황 소녀"
+  ],
+  "releasedAt": [
+    "1611208800000",
+    "1642035600000",
+    "1624950000000",
+    "1611212400000",
+    "1611208800000"
+  ],
+  "skillName": [
+    "どこからか感じる気配",
+    "Unexplainable Sensation",
+    "來路不明的氣息",
+    "不知从何处感觉到的气息",
+    "어디선가 느껴지는 기척"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 3330,
+      "technique": 2871,
+      "visual": 2889
+    },
+    "2": {
+      "performance": 3373,
+      "technique": 2908,
+      "visual": 2927
+    },
+    "3": {
+      "performance": 3419,
+      "technique": 2947,
+      "visual": 2967
+    },
+    "4": {
+      "performance": 3467,
+      "technique": 2988,
+      "visual": 3008
+    },
+    "5": {
+      "performance": 3517,
+      "technique": 3031,
+      "visual": 3051
+    },
+    "6": {
+      "performance": 3569,
+      "technique": 3076,
+      "visual": 3096
+    },
+    "7": {
+      "performance": 3623,
+      "technique": 3123,
+      "visual": 3143
+    },
+    "8": {
+      "performance": 3679,
+      "technique": 3172,
+      "visual": 3192
+    },
+    "9": {
+      "performance": 3738,
+      "technique": 3222,
+      "visual": 3243
+    },
+    "10": {
+      "performance": 3799,
+      "technique": 3274,
+      "visual": 3296
+    },
+    "11": {
+      "performance": 3862,
+      "technique": 3328,
+      "visual": 3351
+    },
+    "12": {
+      "performance": 3927,
+      "technique": 3384,
+      "visual": 3407
+    },
+    "13": {
+      "performance": 3994,
+      "technique": 3442,
+      "visual": 3465
+    },
+    "14": {
+      "performance": 4063,
+      "technique": 3502,
+      "visual": 3525
+    },
+    "15": {
+      "performance": 4135,
+      "technique": 3564,
+      "visual": 3587
+    },
+    "16": {
+      "performance": 4209,
+      "technique": 3628,
+      "visual": 3651
+    },
+    "17": {
+      "performance": 4285,
+      "technique": 3693,
+      "visual": 3717
+    },
+    "18": {
+      "performance": 4363,
+      "technique": 3760,
+      "visual": 3785
+    },
+    "19": {
+      "performance": 4443,
+      "technique": 3829,
+      "visual": 3855
+    },
+    "20": {
+      "performance": 4525,
+      "technique": 3900,
+      "visual": 3926
+    },
+    "21": {
+      "performance": 4610,
+      "technique": 3973,
+      "visual": 3999
+    },
+    "22": {
+      "performance": 4697,
+      "technique": 4048,
+      "visual": 4074
+    },
+    "23": {
+      "performance": 4786,
+      "technique": 4125,
+      "visual": 4151
+    },
+    "24": {
+      "performance": 4877,
+      "technique": 4203,
+      "visual": 4230
+    },
+    "25": {
+      "performance": 4970,
+      "technique": 4283,
+      "visual": 4311
+    },
+    "26": {
+      "performance": 5065,
+      "technique": 4365,
+      "visual": 4394
+    },
+    "27": {
+      "performance": 5163,
+      "technique": 4449,
+      "visual": 4479
+    },
+    "28": {
+      "performance": 5263,
+      "technique": 4535,
+      "visual": 4565
+    },
+    "29": {
+      "performance": 5365,
+      "technique": 4623,
+      "visual": 4653
+    },
+    "30": {
+      "performance": 5469,
+      "technique": 4713,
+      "visual": 4743
+    },
+    "31": {
+      "performance": 5575,
+      "technique": 4805,
+      "visual": 4835
+    },
+    "32": {
+      "performance": 5683,
+      "technique": 4898,
+      "visual": 4929
+    },
+    "33": {
+      "performance": 5794,
+      "technique": 4993,
+      "visual": 5025
+    },
+    "34": {
+      "performance": 5907,
+      "technique": 5090,
+      "visual": 5123
+    },
+    "35": {
+      "performance": 6022,
+      "technique": 5189,
+      "visual": 5223
+    },
+    "36": {
+      "performance": 6139,
+      "technique": 5290,
+      "visual": 5325
+    },
+    "37": {
+      "performance": 6258,
+      "technique": 5393,
+      "visual": 5428
+    },
+    "38": {
+      "performance": 6379,
+      "technique": 5498,
+      "visual": 5533
+    },
+    "39": {
+      "performance": 6503,
+      "technique": 5604,
+      "visual": 5640
+    },
+    "40": {
+      "performance": 6629,
+      "technique": 5712,
+      "visual": 5749
+    },
+    "41": {
+      "performance": 6812,
+      "technique": 5869,
+      "visual": 5907
+    },
+    "42": {
+      "performance": 7027,
+      "technique": 6055,
+      "visual": 6094
+    },
+    "43": {
+      "performance": 7275,
+      "technique": 6269,
+      "visual": 6309
+    },
+    "44": {
+      "performance": 7556,
+      "technique": 6511,
+      "visual": 6552
+    },
+    "45": {
+      "performance": 7869,
+      "technique": 6781,
+      "visual": 6824
+    },
+    "46": {
+      "performance": 8215,
+      "technique": 7079,
+      "visual": 7124
+    },
+    "47": {
+      "performance": 8594,
+      "technique": 7406,
+      "visual": 7453
+    },
+    "48": {
+      "performance": 9005,
+      "technique": 7761,
+      "visual": 7810
+    },
+    "49": {
+      "performance": 9449,
+      "technique": 8144,
+      "visual": 8195
+    },
+    "50": {
+      "performance": 9926,
+      "technique": 8555,
+      "visual": 8609
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

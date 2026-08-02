@@ -1,0 +1,406 @@
+{
+  "characterId": 12,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res012057",
+  "sdResourceName": "sd012057",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 2617,
+        "episodeType": "standard",
+        "situationId": 1599,
+        "scenarioId": "episode1599",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "司書は待つ、扉の先",
+          "The Librarian behind the Door",
+          "圖書館長正等著，在門後",
+          "门后，图书管理员在等待",
+          "사서는 기다린다, 문 앞"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 2618,
+        "episodeType": "memorial",
+        "situationId": 1599,
+        "scenarioId": "memorial1599",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "儚い出会いに感謝を",
+          "Grateful for Fleeting Encounters",
+          "對虛幻的邂逅致上感謝",
+          "感谢梦幻的相遇",
+          "덧없는 만남에 감사를"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 1479,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "華麗なる魔術師",
+    "Graceful Mage",
+    "華麗的魔術師",
+    "华丽的魔术师",
+    "화려한 마술사"
+  ],
+  "releasedAt": [
+    "1660975200000",
+    "1684026000000",
+    "1676876400000",
+    "1683694800000",
+    "4122424800000"
+  ],
+  "skillName": [
+    "きまぐれな福音",
+    "Fickle Gospel",
+    "隨興的福音",
+    "无法预测的福音",
+    "변덕스러운 희소식"
+  ],
+  "skillId": 6,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2475,
+      "technique": 2637,
+      "visual": 3708
+    },
+    "2": {
+      "performance": 2508,
+      "technique": 2672,
+      "visual": 3757
+    },
+    "3": {
+      "performance": 2543,
+      "technique": 2709,
+      "visual": 3809
+    },
+    "4": {
+      "performance": 2579,
+      "technique": 2748,
+      "visual": 3863
+    },
+    "5": {
+      "performance": 2617,
+      "technique": 2788,
+      "visual": 3920
+    },
+    "6": {
+      "performance": 2656,
+      "technique": 2830,
+      "visual": 3979
+    },
+    "7": {
+      "performance": 2697,
+      "technique": 2874,
+      "visual": 4041
+    },
+    "8": {
+      "performance": 2740,
+      "technique": 2920,
+      "visual": 4105
+    },
+    "9": {
+      "performance": 2784,
+      "technique": 2967,
+      "visual": 4171
+    },
+    "10": {
+      "performance": 2830,
+      "technique": 3016,
+      "visual": 4240
+    },
+    "11": {
+      "performance": 2878,
+      "technique": 3067,
+      "visual": 4311
+    },
+    "12": {
+      "performance": 2927,
+      "technique": 3120,
+      "visual": 4385
+    },
+    "13": {
+      "performance": 2978,
+      "technique": 3174,
+      "visual": 4461
+    },
+    "14": {
+      "performance": 3031,
+      "technique": 3230,
+      "visual": 4540
+    },
+    "15": {
+      "performance": 3085,
+      "technique": 3288,
+      "visual": 4621
+    },
+    "16": {
+      "performance": 3141,
+      "technique": 3348,
+      "visual": 4705
+    },
+    "17": {
+      "performance": 3199,
+      "technique": 3409,
+      "visual": 4791
+    },
+    "18": {
+      "performance": 3258,
+      "technique": 3472,
+      "visual": 4880
+    },
+    "19": {
+      "performance": 3319,
+      "technique": 3537,
+      "visual": 4971
+    },
+    "20": {
+      "performance": 3381,
+      "technique": 3604,
+      "visual": 5065
+    },
+    "21": {
+      "performance": 3445,
+      "technique": 3672,
+      "visual": 5161
+    },
+    "22": {
+      "performance": 3511,
+      "technique": 3742,
+      "visual": 5259
+    },
+    "23": {
+      "performance": 3578,
+      "technique": 3814,
+      "visual": 5360
+    },
+    "24": {
+      "performance": 3647,
+      "technique": 3888,
+      "visual": 5463
+    },
+    "25": {
+      "performance": 3718,
+      "technique": 3963,
+      "visual": 5569
+    },
+    "26": {
+      "performance": 3790,
+      "technique": 4040,
+      "visual": 5677
+    },
+    "27": {
+      "performance": 3864,
+      "technique": 4119,
+      "visual": 5788
+    },
+    "28": {
+      "performance": 3940,
+      "technique": 4200,
+      "visual": 5901
+    },
+    "29": {
+      "performance": 4017,
+      "technique": 4282,
+      "visual": 6017
+    },
+    "30": {
+      "performance": 4096,
+      "technique": 4366,
+      "visual": 6135
+    },
+    "31": {
+      "performance": 4177,
+      "technique": 4452,
+      "visual": 6256
+    },
+    "32": {
+      "performance": 4259,
+      "technique": 4540,
+      "visual": 6379
+    },
+    "33": {
+      "performance": 4343,
+      "technique": 4629,
+      "visual": 6505
+    },
+    "34": {
+      "performance": 4428,
+      "technique": 4720,
+      "visual": 6633
+    },
+    "35": {
+      "performance": 4515,
+      "technique": 4813,
+      "visual": 6763
+    },
+    "36": {
+      "performance": 4604,
+      "technique": 4908,
+      "visual": 6896
+    },
+    "37": {
+      "performance": 4694,
+      "technique": 5004,
+      "visual": 7031
+    },
+    "38": {
+      "performance": 4786,
+      "technique": 5102,
+      "visual": 7169
+    },
+    "39": {
+      "performance": 4880,
+      "technique": 5202,
+      "visual": 7309
+    },
+    "40": {
+      "performance": 4975,
+      "technique": 5304,
+      "visual": 7452
+    },
+    "41": {
+      "performance": 5113,
+      "technique": 5452,
+      "visual": 7659
+    },
+    "42": {
+      "performance": 5276,
+      "technique": 5626,
+      "visual": 7904
+    },
+    "43": {
+      "performance": 5464,
+      "technique": 5826,
+      "visual": 8186
+    },
+    "44": {
+      "performance": 5677,
+      "technique": 6053,
+      "visual": 8505
+    },
+    "45": {
+      "performance": 5915,
+      "technique": 6306,
+      "visual": 8861
+    },
+    "46": {
+      "performance": 6177,
+      "technique": 6586,
+      "visual": 9254
+    },
+    "47": {
+      "performance": 6464,
+      "technique": 6892,
+      "visual": 9684
+    },
+    "48": {
+      "performance": 6776,
+      "technique": 7224,
+      "visual": 10151
+    },
+    "49": {
+      "performance": 7113,
+      "technique": 7583,
+      "visual": 10655
+    },
+    "50": {
+      "performance": 7475,
+      "technique": 7968,
+      "visual": 11197
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

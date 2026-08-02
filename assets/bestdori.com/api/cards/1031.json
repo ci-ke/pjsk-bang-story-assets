@@ -1,0 +1,229 @@
+{
+  "characterId": 33,
+  "rarity": 1,
+  "attribute": "pure",
+  "levelLimit": 20,
+  "resourceSetName": "res033005",
+  "sdResourceName": "sd033005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1653,
+        "episodeType": "standard",
+        "situationId": 1031,
+        "scenarioId": "episode1031",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 33
+      },
+      {
+        "episodeId": 1654,
+        "episodeType": "memorial",
+        "situationId": 1031,
+        "scenarioId": "memorial1031",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "初めてのバンド",
+          "First Band",
+          "第一次的樂團",
+          "第一次的乐队",
+          "첫 밴드"
+        ],
+        "characterId": 33
+      }
+    ]
+  },
+  "costumeId": 1640,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "狂犬ドラマー",
+    "Mad Dog Drummer",
+    "狂犬Drummer",
+    "狂犬鼓手",
+    "광견 드러머"
+  ],
+  "releasedAt": [
+    "1598680800000",
+    "1636419600000",
+    "1598684400000",
+    "1598684400000",
+    "1598680800000"
+  ],
+  "skillName": [
+    "お前、かわいいな",
+    "You're Pretty Cute",
+    "你，真是可愛",
+    "你、好可爱啊",
+    "너, 귀엽다"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1230,
+      "technique": 852,
+      "visual": 675
+    },
+    "2": {
+      "performance": 1282,
+      "technique": 888,
+      "visual": 704
+    },
+    "3": {
+      "performance": 1339,
+      "technique": 928,
+      "visual": 736
+    },
+    "4": {
+      "performance": 1402,
+      "technique": 971,
+      "visual": 770
+    },
+    "5": {
+      "performance": 1470,
+      "technique": 1018,
+      "visual": 807
+    },
+    "6": {
+      "performance": 1543,
+      "technique": 1069,
+      "visual": 847
+    },
+    "7": {
+      "performance": 1621,
+      "technique": 1123,
+      "visual": 890
+    },
+    "8": {
+      "performance": 1704,
+      "technique": 1181,
+      "visual": 936
+    },
+    "9": {
+      "performance": 1793,
+      "technique": 1242,
+      "visual": 985
+    },
+    "10": {
+      "performance": 1887,
+      "technique": 1307,
+      "visual": 1037
+    },
+    "11": {
+      "performance": 1986,
+      "technique": 1376,
+      "visual": 1091
+    },
+    "12": {
+      "performance": 2090,
+      "technique": 1448,
+      "visual": 1148
+    },
+    "13": {
+      "performance": 2199,
+      "technique": 1524,
+      "visual": 1208
+    },
+    "14": {
+      "performance": 2314,
+      "technique": 1603,
+      "visual": 1271
+    },
+    "15": {
+      "performance": 2434,
+      "technique": 1686,
+      "visual": 1337
+    },
+    "16": {
+      "performance": 2559,
+      "technique": 1773,
+      "visual": 1406
+    },
+    "17": {
+      "performance": 2689,
+      "technique": 1863,
+      "visual": 1477
+    },
+    "18": {
+      "performance": 2824,
+      "technique": 1957,
+      "visual": 1551
+    },
+    "19": {
+      "performance": 2965,
+      "technique": 2054,
+      "visual": 1628
+    },
+    "20": {
+      "performance": 3111,
+      "technique": 2155,
+      "visual": 1708
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

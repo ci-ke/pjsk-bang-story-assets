@@ -1,0 +1,288 @@
+{
+  "characterId": 2,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res002021",
+  "sdResourceName": "sd002021",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 887,
+        "episodeType": "standard",
+        "situationId": 555,
+        "scenarioId": "episode555",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "おたえの癒やし",
+          "O-Tae's Way of Relaxing",
+          "惠惠的療癒",
+          "惠惠的疗愈",
+          "오타에의 힐링"
+        ],
+        "characterId": 2
+      },
+      {
+        "episodeId": 888,
+        "episodeType": "memorial",
+        "situationId": 555,
+        "scenarioId": "memorial555",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "イメージソング",
+          "Image Song",
+          "形象曲",
+          "印象歌",
+          "이미지송"
+        ],
+        "characterId": 2
+      }
+    ]
+  },
+  "costumeId": 511,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "贈るエール",
+    "Cheering for You",
+    "送出的加油聲",
+    "送上声援",
+    "응원하기"
+  ],
+  "releasedAt": [
+    "1542780000000",
+    "1574298000000",
+    "1554188400000",
+    "1596517200000",
+    "1542780000000"
+  ],
+  "skillName": [
+    "エールをキミに",
+    "This Cheer's for You",
+    "幫你加油",
+    "为你送上声援",
+    "응원을 너에게"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2172,
+      "technique": 1872,
+      "visual": 2016
+    },
+    "2": {
+      "performance": 2230,
+      "technique": 1922,
+      "visual": 2070
+    },
+    "3": {
+      "performance": 2292,
+      "technique": 1975,
+      "visual": 2127
+    },
+    "4": {
+      "performance": 2357,
+      "technique": 2031,
+      "visual": 2188
+    },
+    "5": {
+      "performance": 2426,
+      "technique": 2091,
+      "visual": 2252
+    },
+    "6": {
+      "performance": 2499,
+      "technique": 2154,
+      "visual": 2320
+    },
+    "7": {
+      "performance": 2576,
+      "technique": 2220,
+      "visual": 2391
+    },
+    "8": {
+      "performance": 2657,
+      "technique": 2290,
+      "visual": 2466
+    },
+    "9": {
+      "performance": 2742,
+      "technique": 2363,
+      "visual": 2545
+    },
+    "10": {
+      "performance": 2831,
+      "technique": 2439,
+      "visual": 2627
+    },
+    "11": {
+      "performance": 2923,
+      "technique": 2519,
+      "visual": 2713
+    },
+    "12": {
+      "performance": 3019,
+      "technique": 2602,
+      "visual": 2802
+    },
+    "13": {
+      "performance": 3119,
+      "technique": 2688,
+      "visual": 2895
+    },
+    "14": {
+      "performance": 3223,
+      "technique": 2778,
+      "visual": 2991
+    },
+    "15": {
+      "performance": 3331,
+      "technique": 2871,
+      "visual": 3091
+    },
+    "16": {
+      "performance": 3443,
+      "technique": 2967,
+      "visual": 3195
+    },
+    "17": {
+      "performance": 3558,
+      "technique": 3066,
+      "visual": 3302
+    },
+    "18": {
+      "performance": 3677,
+      "technique": 3169,
+      "visual": 3413
+    },
+    "19": {
+      "performance": 3800,
+      "technique": 3275,
+      "visual": 3527
+    },
+    "20": {
+      "performance": 3927,
+      "technique": 3384,
+      "visual": 3645
+    },
+    "21": {
+      "performance": 4058,
+      "technique": 3497,
+      "visual": 3766
+    },
+    "22": {
+      "performance": 4193,
+      "technique": 3613,
+      "visual": 3891
+    },
+    "23": {
+      "performance": 4331,
+      "technique": 3732,
+      "visual": 4020
+    },
+    "24": {
+      "performance": 4473,
+      "technique": 3855,
+      "visual": 4152
+    },
+    "25": {
+      "performance": 4619,
+      "technique": 3981,
+      "visual": 4288
+    },
+    "26": {
+      "performance": 4769,
+      "technique": 4110,
+      "visual": 4427
+    },
+    "27": {
+      "performance": 4923,
+      "technique": 4243,
+      "visual": 4570
+    },
+    "28": {
+      "performance": 5081,
+      "technique": 4379,
+      "visual": 4716
+    },
+    "29": {
+      "performance": 5243,
+      "technique": 4518,
+      "visual": 4866
+    },
+    "30": {
+      "performance": 5408,
+      "technique": 4661,
+      "visual": 5020
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

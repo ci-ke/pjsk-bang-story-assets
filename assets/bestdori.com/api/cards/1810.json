@@ -1,0 +1,229 @@
+{
+  "characterId": 38,
+  "rarity": 1,
+  "attribute": "pure",
+  "levelLimit": 20,
+  "resourceSetName": "res038001",
+  "sdResourceName": "sd038001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3031,
+        "episodeType": "standard",
+        "situationId": 1810,
+        "scenarioId": "episode1810",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-introduction",
+          "自我介紹",
+          "自我介绍",
+          null
+        ],
+        "characterId": 38
+      },
+      {
+        "episodeId": 3032,
+        "episodeType": "memorial",
+        "situationId": 1810,
+        "scenarioId": "memorial1810",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "猫集会参加中",
+          "Joining Cats' Gathering",
+          "參加貓咪集會中",
+          "正在参加猫咪集会",
+          null
+        ],
+        "characterId": 38
+      }
+    ]
+  },
+  "costumeId": 1788,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ライク・ア・キャット",
+    "Like A Cat",
+    "Like A Cat",
+    "像猫一样",
+    null
+  ],
+  "releasedAt": [
+    "1694772000000",
+    "1726560000000",
+    "1708930800000",
+    "1712725200000",
+    null
+  ],
+  "skillName": [
+    "おもしれー女",
+    "Interesting Woman",
+    "有趣的女人",
+    "有趣的女人",
+    null
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 858,
+      "technique": 1161,
+      "visual": 738
+    },
+    "2": {
+      "performance": 894,
+      "technique": 1210,
+      "visual": 769
+    },
+    "3": {
+      "performance": 934,
+      "technique": 1264,
+      "visual": 803
+    },
+    "4": {
+      "performance": 978,
+      "technique": 1323,
+      "visual": 841
+    },
+    "5": {
+      "performance": 1025,
+      "technique": 1387,
+      "visual": 882
+    },
+    "6": {
+      "performance": 1076,
+      "technique": 1456,
+      "visual": 926
+    },
+    "7": {
+      "performance": 1131,
+      "technique": 1530,
+      "visual": 973
+    },
+    "8": {
+      "performance": 1189,
+      "technique": 1609,
+      "visual": 1023
+    },
+    "9": {
+      "performance": 1251,
+      "technique": 1693,
+      "visual": 1076
+    },
+    "10": {
+      "performance": 1316,
+      "technique": 1782,
+      "visual": 1132
+    },
+    "11": {
+      "performance": 1385,
+      "technique": 1875,
+      "visual": 1191
+    },
+    "12": {
+      "performance": 1458,
+      "technique": 1973,
+      "visual": 1254
+    },
+    "13": {
+      "performance": 1534,
+      "technique": 2076,
+      "visual": 1320
+    },
+    "14": {
+      "performance": 1614,
+      "technique": 2184,
+      "visual": 1389
+    },
+    "15": {
+      "performance": 1698,
+      "technique": 2297,
+      "visual": 1461
+    },
+    "16": {
+      "performance": 1785,
+      "technique": 2415,
+      "visual": 1536
+    },
+    "17": {
+      "performance": 1876,
+      "technique": 2538,
+      "visual": 1614
+    },
+    "18": {
+      "performance": 1971,
+      "technique": 2666,
+      "visual": 1695
+    },
+    "19": {
+      "performance": 2069,
+      "technique": 2799,
+      "visual": 1779
+    },
+    "20": {
+      "performance": 2171,
+      "technique": 2937,
+      "visual": 1866
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

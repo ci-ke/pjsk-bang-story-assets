@@ -1,0 +1,406 @@
+{
+  "characterId": 39,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res039003",
+  "sdResourceName": "sd039003",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3053,
+        "episodeType": "standard",
+        "situationId": 1821,
+        "scenarioId": "episode1821",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "言葉と叫びと向き合って",
+          "Facing Off with Words and Cries",
+          "和話語互相喊叫",
+          "直面话语和呐喊",
+          null
+        ],
+        "characterId": 39
+      },
+      {
+        "episodeId": 3054,
+        "episodeType": "memorial",
+        "situationId": 1821,
+        "scenarioId": "memorial1821",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "頼れるお姉さん",
+          "A Sister You Can Count on",
+          "可靠的姊姊",
+          "值得信任的姐姐",
+          null
+        ],
+        "characterId": 39
+      }
+    ]
+  },
+  "costumeId": 1794,
+  "gachaText": [
+    "私も昨日の話の続きが\nしたかったんだ",
+    "I also wanted to continue what I was talking yesterday.",
+    "我也想繼續討論\n昨天話題的後續",
+    "我也想继续聊\n昨天的话题",
+    null
+  ],
+  "prefix": [
+    "調停者は心静かに",
+    "The Calm Mediator",
+    "調停者需心靜",
+    "冷静的调停者",
+    null
+  ],
+  "releasedAt": [
+    "1694772000000",
+    "1726560000000",
+    "1708930800000",
+    "1712725200000",
+    null
+  ],
+  "skillName": [
+    "もう一度、一緒に",
+    "Together Once More",
+    "再一次，我們一起",
+    "再一次，一起……",
+    null
+  ],
+  "skillId": 11,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3393,
+      "technique": 2907,
+      "visual": 2880
+    },
+    "2": {
+      "performance": 3437,
+      "technique": 2945,
+      "visual": 2918
+    },
+    "3": {
+      "performance": 3483,
+      "technique": 2985,
+      "visual": 2957
+    },
+    "4": {
+      "performance": 3532,
+      "technique": 3027,
+      "visual": 2998
+    },
+    "5": {
+      "performance": 3583,
+      "technique": 3071,
+      "visual": 3041
+    },
+    "6": {
+      "performance": 3636,
+      "technique": 3116,
+      "visual": 3086
+    },
+    "7": {
+      "performance": 3691,
+      "technique": 3163,
+      "visual": 3133
+    },
+    "8": {
+      "performance": 3748,
+      "technique": 3212,
+      "visual": 3182
+    },
+    "9": {
+      "performance": 3808,
+      "technique": 3263,
+      "visual": 3233
+    },
+    "10": {
+      "performance": 3870,
+      "technique": 3316,
+      "visual": 3285
+    },
+    "11": {
+      "performance": 3934,
+      "technique": 3371,
+      "visual": 3339
+    },
+    "12": {
+      "performance": 4000,
+      "technique": 3428,
+      "visual": 3395
+    },
+    "13": {
+      "performance": 4068,
+      "technique": 3487,
+      "visual": 3453
+    },
+    "14": {
+      "performance": 4139,
+      "technique": 3548,
+      "visual": 3513
+    },
+    "15": {
+      "performance": 4212,
+      "technique": 3610,
+      "visual": 3575
+    },
+    "16": {
+      "performance": 4287,
+      "technique": 3674,
+      "visual": 3639
+    },
+    "17": {
+      "performance": 4364,
+      "technique": 3740,
+      "visual": 3705
+    },
+    "18": {
+      "performance": 4444,
+      "technique": 3808,
+      "visual": 3772
+    },
+    "19": {
+      "performance": 4526,
+      "technique": 3878,
+      "visual": 3841
+    },
+    "20": {
+      "performance": 4610,
+      "technique": 3950,
+      "visual": 3912
+    },
+    "21": {
+      "performance": 4696,
+      "technique": 4024,
+      "visual": 3985
+    },
+    "22": {
+      "performance": 4784,
+      "technique": 4100,
+      "visual": 4060
+    },
+    "23": {
+      "performance": 4875,
+      "technique": 4178,
+      "visual": 4137
+    },
+    "24": {
+      "performance": 4968,
+      "technique": 4257,
+      "visual": 4216
+    },
+    "25": {
+      "performance": 5063,
+      "technique": 4338,
+      "visual": 4297
+    },
+    "26": {
+      "performance": 5160,
+      "technique": 4421,
+      "visual": 4379
+    },
+    "27": {
+      "performance": 5259,
+      "technique": 4506,
+      "visual": 4463
+    },
+    "28": {
+      "performance": 5361,
+      "technique": 4593,
+      "visual": 4549
+    },
+    "29": {
+      "performance": 5465,
+      "technique": 4682,
+      "visual": 4637
+    },
+    "30": {
+      "performance": 5571,
+      "technique": 4773,
+      "visual": 4727
+    },
+    "31": {
+      "performance": 5679,
+      "technique": 4866,
+      "visual": 4819
+    },
+    "32": {
+      "performance": 5789,
+      "technique": 4961,
+      "visual": 4913
+    },
+    "33": {
+      "performance": 5902,
+      "technique": 5057,
+      "visual": 5009
+    },
+    "34": {
+      "performance": 6017,
+      "technique": 5155,
+      "visual": 5106
+    },
+    "35": {
+      "performance": 6134,
+      "technique": 5255,
+      "visual": 5205
+    },
+    "36": {
+      "performance": 6253,
+      "technique": 5357,
+      "visual": 5306
+    },
+    "37": {
+      "performance": 6374,
+      "technique": 5461,
+      "visual": 5409
+    },
+    "38": {
+      "performance": 6498,
+      "technique": 5567,
+      "visual": 5514
+    },
+    "39": {
+      "performance": 6624,
+      "technique": 5675,
+      "visual": 5621
+    },
+    "40": {
+      "performance": 6752,
+      "technique": 5785,
+      "visual": 5730
+    },
+    "41": {
+      "performance": 6938,
+      "technique": 5944,
+      "visual": 5888
+    },
+    "42": {
+      "performance": 7157,
+      "technique": 6132,
+      "visual": 6074
+    },
+    "43": {
+      "performance": 7410,
+      "technique": 6348,
+      "visual": 6288
+    },
+    "44": {
+      "performance": 7696,
+      "technique": 6593,
+      "visual": 6531
+    },
+    "45": {
+      "performance": 8015,
+      "technique": 6867,
+      "visual": 6802
+    },
+    "46": {
+      "performance": 8368,
+      "technique": 7169,
+      "visual": 7101
+    },
+    "47": {
+      "performance": 8754,
+      "technique": 7500,
+      "visual": 7429
+    },
+    "48": {
+      "performance": 9173,
+      "technique": 7859,
+      "visual": 7785
+    },
+    "49": {
+      "performance": 9625,
+      "technique": 8247,
+      "visual": 8169
+    },
+    "50": {
+      "performance": 10111,
+      "technique": 8663,
+      "visual": 8581
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

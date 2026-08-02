@@ -1,0 +1,14 @@
+[project]
+name = "pjsk-bang-story-assets"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "brotli>=1.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "brotli-stubs>=1.2.0",
+]

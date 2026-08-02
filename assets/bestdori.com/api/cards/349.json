@@ -1,0 +1,288 @@
+{
+  "characterId": 12,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res012014",
+  "sdResourceName": "sd012014",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 527,
+        "episodeType": "standard",
+        "situationId": 349,
+        "scenarioId": "episode349",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "マジシャンの特訓",
+          "A Magician's Training",
+          "魔術師的特訓",
+          "魔术师特训",
+          "마술사의 특훈"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 528,
+        "episodeType": "memorial",
+        "situationId": 349,
+        "scenarioId": "memorial349",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "儚いマジック",
+          "Fleeting Magic",
+          "虛幻的Magic",
+          "梦幻魔术",
+          "덧없는 마술"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 253,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "笑顔のマジック",
+    "The Magic of Smiles",
+    "笑容的魔術",
+    "笑容的魔法",
+    "웃는 얼굴의 매직"
+  ],
+  "releasedAt": [
+    "1516600800000",
+    "1547946000000",
+    "1516604400000",
+    "1578373200000",
+    "1516600800000"
+  ],
+  "skillName": [
+    "縦縞から……横縞！",
+    "From Vertical... to Horizontal!",
+    "從直條紋……橫條紋！",
+    "从竖条纹到……横条纹！",
+    "세로무늬에서…… 가로무늬!"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2148,
+      "technique": 2022,
+      "visual": 1890
+    },
+    "2": {
+      "performance": 2205,
+      "technique": 2076,
+      "visual": 1940
+    },
+    "3": {
+      "performance": 2266,
+      "technique": 2133,
+      "visual": 1994
+    },
+    "4": {
+      "performance": 2331,
+      "technique": 2194,
+      "visual": 2051
+    },
+    "5": {
+      "performance": 2400,
+      "technique": 2259,
+      "visual": 2111
+    },
+    "6": {
+      "performance": 2472,
+      "technique": 2327,
+      "visual": 2175
+    },
+    "7": {
+      "performance": 2548,
+      "technique": 2399,
+      "visual": 2242
+    },
+    "8": {
+      "performance": 2628,
+      "technique": 2474,
+      "visual": 2312
+    },
+    "9": {
+      "performance": 2712,
+      "technique": 2553,
+      "visual": 2386
+    },
+    "10": {
+      "performance": 2800,
+      "technique": 2635,
+      "visual": 2463
+    },
+    "11": {
+      "performance": 2891,
+      "technique": 2721,
+      "visual": 2543
+    },
+    "12": {
+      "performance": 2986,
+      "technique": 2811,
+      "visual": 2627
+    },
+    "13": {
+      "performance": 3085,
+      "technique": 2904,
+      "visual": 2714
+    },
+    "14": {
+      "performance": 3188,
+      "technique": 3001,
+      "visual": 2804
+    },
+    "15": {
+      "performance": 3295,
+      "technique": 3101,
+      "visual": 2898
+    },
+    "16": {
+      "performance": 3405,
+      "technique": 3205,
+      "visual": 2995
+    },
+    "17": {
+      "performance": 3519,
+      "technique": 3312,
+      "visual": 3095
+    },
+    "18": {
+      "performance": 3637,
+      "technique": 3423,
+      "visual": 3199
+    },
+    "19": {
+      "performance": 3759,
+      "technique": 3538,
+      "visual": 3306
+    },
+    "20": {
+      "performance": 3885,
+      "technique": 3656,
+      "visual": 3416
+    },
+    "21": {
+      "performance": 4014,
+      "technique": 3778,
+      "visual": 3530
+    },
+    "22": {
+      "performance": 4147,
+      "technique": 3903,
+      "visual": 3647
+    },
+    "23": {
+      "performance": 4284,
+      "technique": 4032,
+      "visual": 3768
+    },
+    "24": {
+      "performance": 4425,
+      "technique": 4165,
+      "visual": 3892
+    },
+    "25": {
+      "performance": 4570,
+      "technique": 4301,
+      "visual": 4019
+    },
+    "26": {
+      "performance": 4718,
+      "technique": 4441,
+      "visual": 4150
+    },
+    "27": {
+      "performance": 4870,
+      "technique": 4584,
+      "visual": 4284
+    },
+    "28": {
+      "performance": 5026,
+      "technique": 4731,
+      "visual": 4421
+    },
+    "29": {
+      "performance": 5186,
+      "technique": 4881,
+      "visual": 4562
+    },
+    "30": {
+      "performance": 5350,
+      "technique": 5035,
+      "visual": 4706
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

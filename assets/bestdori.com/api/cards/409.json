@@ -1,0 +1,406 @@
+{
+  "characterId": 6,
+  "rarity": 3,
+  "attribute": "happy",
+  "levelLimit": 40,
+  "resourceSetName": "res006018",
+  "sdResourceName": "sd006018",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 627,
+        "episodeType": "standard",
+        "situationId": 409,
+        "scenarioId": "episode409",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "流木の乾かし方",
+          "How to Dry Off Driftwood",
+          "漂流木的乾燥方式",
+          "干燥木材的方法",
+          "유목을 말리는 방법"
+        ],
+        "characterId": 6
+      },
+      {
+        "episodeId": 628,
+        "episodeType": "memorial",
+        "situationId": 409,
+        "scenarioId": "memorial409",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 9,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "蘭の撮った写真",
+          "The Picture Ran Took",
+          "蘭拍的照片",
+          "兰拍摄的照片",
+          "란이 찍은 사진"
+        ],
+        "characterId": 6
+      }
+    ]
+  },
+  "costumeId": 303,
+  "gachaText": [
+    "モカ、なんであたしタコなの？",
+    "Moca, why did I get the octopus?",
+    "摩卡，為什麼我是章魚啊？",
+    "摩卡，为什么我是章鱼？",
+    "모카, 어째서 내가 문어야?"
+  ],
+  "prefix": [
+    "たこのタオル",
+    "Octopus Towel",
+    "章魚的毛巾",
+    "章鱼毛巾",
+    "문어 타월"
+  ],
+  "releasedAt": [
+    "1521612000000",
+    "1553043600000",
+    "1521615600000",
+    "1582606800000",
+    "1521612000000"
+  ],
+  "skillName": [
+    "なんでタコ？",
+    "Why an Octopus?",
+    "為何章魚？",
+    "为什么是章鱼？",
+    "어째서 문어?"
+  ],
+  "skillId": 11,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 3348,
+      "technique": 3033,
+      "visual": 2799
+    },
+    "2": {
+      "performance": 3392,
+      "technique": 3073,
+      "visual": 2835
+    },
+    "3": {
+      "performance": 3438,
+      "technique": 3114,
+      "visual": 2873
+    },
+    "4": {
+      "performance": 3486,
+      "technique": 3157,
+      "visual": 2913
+    },
+    "5": {
+      "performance": 3536,
+      "technique": 3202,
+      "visual": 2955
+    },
+    "6": {
+      "performance": 3588,
+      "technique": 3249,
+      "visual": 2999
+    },
+    "7": {
+      "performance": 3643,
+      "technique": 3298,
+      "visual": 3045
+    },
+    "8": {
+      "performance": 3700,
+      "technique": 3349,
+      "visual": 3092
+    },
+    "9": {
+      "performance": 3759,
+      "technique": 3402,
+      "visual": 3141
+    },
+    "10": {
+      "performance": 3820,
+      "technique": 3457,
+      "visual": 3192
+    },
+    "11": {
+      "performance": 3883,
+      "technique": 3514,
+      "visual": 3245
+    },
+    "12": {
+      "performance": 3948,
+      "technique": 3573,
+      "visual": 3300
+    },
+    "13": {
+      "performance": 4016,
+      "technique": 3634,
+      "visual": 3356
+    },
+    "14": {
+      "performance": 4086,
+      "technique": 3697,
+      "visual": 3414
+    },
+    "15": {
+      "performance": 4158,
+      "technique": 3762,
+      "visual": 3474
+    },
+    "16": {
+      "performance": 4232,
+      "technique": 3829,
+      "visual": 3536
+    },
+    "17": {
+      "performance": 4308,
+      "technique": 3898,
+      "visual": 3600
+    },
+    "18": {
+      "performance": 4386,
+      "technique": 3969,
+      "visual": 3666
+    },
+    "19": {
+      "performance": 4467,
+      "technique": 4042,
+      "visual": 3733
+    },
+    "20": {
+      "performance": 4550,
+      "technique": 4117,
+      "visual": 3802
+    },
+    "21": {
+      "performance": 4635,
+      "technique": 4194,
+      "visual": 3873
+    },
+    "22": {
+      "performance": 4722,
+      "technique": 4273,
+      "visual": 3946
+    },
+    "23": {
+      "performance": 4811,
+      "technique": 4354,
+      "visual": 4021
+    },
+    "24": {
+      "performance": 4903,
+      "technique": 4437,
+      "visual": 4098
+    },
+    "25": {
+      "performance": 4997,
+      "technique": 4522,
+      "visual": 4176
+    },
+    "26": {
+      "performance": 5093,
+      "technique": 4609,
+      "visual": 4256
+    },
+    "27": {
+      "performance": 5191,
+      "technique": 4698,
+      "visual": 4338
+    },
+    "28": {
+      "performance": 5291,
+      "technique": 4789,
+      "visual": 4422
+    },
+    "29": {
+      "performance": 5393,
+      "technique": 4882,
+      "visual": 4508
+    },
+    "30": {
+      "performance": 5498,
+      "technique": 4977,
+      "visual": 4595
+    },
+    "31": {
+      "performance": 5605,
+      "technique": 5074,
+      "visual": 4684
+    },
+    "32": {
+      "performance": 5714,
+      "technique": 5173,
+      "visual": 4775
+    },
+    "33": {
+      "performance": 5825,
+      "technique": 5274,
+      "visual": 4868
+    },
+    "34": {
+      "performance": 5938,
+      "technique": 5377,
+      "visual": 4963
+    },
+    "35": {
+      "performance": 6053,
+      "technique": 5482,
+      "visual": 5060
+    },
+    "36": {
+      "performance": 6171,
+      "technique": 5589,
+      "visual": 5158
+    },
+    "37": {
+      "performance": 6291,
+      "technique": 5698,
+      "visual": 5258
+    },
+    "38": {
+      "performance": 6413,
+      "technique": 5809,
+      "visual": 5360
+    },
+    "39": {
+      "performance": 6537,
+      "technique": 5922,
+      "visual": 5464
+    },
+    "40": {
+      "performance": 6663,
+      "technique": 6036,
+      "visual": 5570
+    },
+    "41": {
+      "performance": 6847,
+      "technique": 6202,
+      "visual": 5723
+    },
+    "42": {
+      "performance": 7063,
+      "technique": 6398,
+      "visual": 5904
+    },
+    "43": {
+      "performance": 7312,
+      "technique": 6624,
+      "visual": 6112
+    },
+    "44": {
+      "performance": 7594,
+      "technique": 6880,
+      "visual": 6348
+    },
+    "45": {
+      "performance": 7909,
+      "technique": 7165,
+      "visual": 6611
+    },
+    "46": {
+      "performance": 8257,
+      "technique": 7480,
+      "visual": 6902
+    },
+    "47": {
+      "performance": 8638,
+      "technique": 7825,
+      "visual": 7220
+    },
+    "48": {
+      "performance": 9052,
+      "technique": 8200,
+      "visual": 7566
+    },
+    "49": {
+      "performance": 9498,
+      "technique": 8604,
+      "visual": 7939
+    },
+    "50": {
+      "performance": 9977,
+      "technique": 9038,
+      "visual": 8340
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

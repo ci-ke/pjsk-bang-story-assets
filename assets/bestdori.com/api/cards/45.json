@@ -1,0 +1,229 @@
+{
+  "characterId": 12,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res012001",
+  "sdResourceName": "sd012001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 89,
+        "episodeType": "standard",
+        "situationId": 45,
+        "scenarioId": "episode045",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 90,
+        "episodeType": "memorial",
+        "situationId": 45,
+        "scenarioId": "memorial045",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "演者としての姿勢",
+          "Performer's Posture",
+          "身為演出者的心態",
+          "作为演员的态度",
+          "연주자로서의 자세"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 1619,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "噂の王子様",
+    "Rumored Prince",
+    "傳說中的王子",
+    "传说中的王子殿下",
+    "소문의 왕자님"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "儚い……",
+    "Fleeting...",
+    "曇花一現……",
+    "虚无缥缈……",
+    "덧없구나……"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 1014,
+      "technique": 1086,
+      "visual": 894
+    },
+    "2": {
+      "performance": 1055,
+      "technique": 1130,
+      "visual": 930
+    },
+    "3": {
+      "performance": 1101,
+      "technique": 1179,
+      "visual": 970
+    },
+    "4": {
+      "performance": 1151,
+      "technique": 1232,
+      "visual": 1014
+    },
+    "5": {
+      "performance": 1205,
+      "technique": 1290,
+      "visual": 1061
+    },
+    "6": {
+      "performance": 1263,
+      "technique": 1352,
+      "visual": 1112
+    },
+    "7": {
+      "performance": 1325,
+      "technique": 1418,
+      "visual": 1167
+    },
+    "8": {
+      "performance": 1391,
+      "technique": 1489,
+      "visual": 1225
+    },
+    "9": {
+      "performance": 1461,
+      "technique": 1564,
+      "visual": 1287
+    },
+    "10": {
+      "performance": 1535,
+      "technique": 1644,
+      "visual": 1353
+    },
+    "11": {
+      "performance": 1613,
+      "technique": 1728,
+      "visual": 1422
+    },
+    "12": {
+      "performance": 1696,
+      "technique": 1816,
+      "visual": 1495
+    },
+    "13": {
+      "performance": 1783,
+      "technique": 1909,
+      "visual": 1571
+    },
+    "14": {
+      "performance": 1874,
+      "technique": 2006,
+      "visual": 1651
+    },
+    "15": {
+      "performance": 1969,
+      "technique": 2108,
+      "visual": 1735
+    },
+    "16": {
+      "performance": 2068,
+      "technique": 2214,
+      "visual": 1822
+    },
+    "17": {
+      "performance": 2171,
+      "technique": 2324,
+      "visual": 1913
+    },
+    "18": {
+      "performance": 2278,
+      "technique": 2439,
+      "visual": 2008
+    },
+    "19": {
+      "performance": 2389,
+      "technique": 2558,
+      "visual": 2106
+    },
+    "20": {
+      "performance": 2505,
+      "technique": 2682,
+      "visual": 2208
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

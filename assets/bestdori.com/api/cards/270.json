@@ -1,0 +1,288 @@
+{
+  "characterId": 20,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res020012",
+  "sdResourceName": "sd020012",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 429,
+        "episodeType": "standard",
+        "situationId": 270,
+        "scenarioId": "episode270",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "師匠のありがたいお言葉",
+          "Master's Words of Appreciation",
+          "來自師父的金玉良言",
+          "师傅的赠言",
+          "스승님의 귀하신 말씀"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 430,
+        "episodeType": "memorial",
+        "situationId": 270,
+        "scenarioId": "memorial270",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "くせ者クッキー",
+          "A Cookie for Ruffians",
+          "狡猾人餅乾",
+          "敌之曲奇",
+          "수리검 쿠키"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 351,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "パステルメイド",
+    "Pastel Maid",
+    "粉色系女僕",
+    "Pastel Maid",
+    "파스텔 메이드"
+  ],
+  "releasedAt": [
+    "1509429600000",
+    "1540947600000",
+    "1509433200000",
+    "1573534800000",
+    "1509429600000"
+  ],
+  "skillName": [
+    "師匠の教え",
+    "My Master's Teachings",
+    "師父的教誨",
+    "师傅的教诲",
+    "스승의 가르침"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1788,
+      "technique": 2208,
+      "visual": 1878
+    },
+    "2": {
+      "performance": 1836,
+      "technique": 2267,
+      "visual": 1928
+    },
+    "3": {
+      "performance": 1887,
+      "technique": 2330,
+      "visual": 1981
+    },
+    "4": {
+      "performance": 1941,
+      "technique": 2397,
+      "visual": 2038
+    },
+    "5": {
+      "performance": 1998,
+      "technique": 2467,
+      "visual": 2098
+    },
+    "6": {
+      "performance": 2058,
+      "technique": 2541,
+      "visual": 2161
+    },
+    "7": {
+      "performance": 2121,
+      "technique": 2619,
+      "visual": 2228
+    },
+    "8": {
+      "performance": 2188,
+      "technique": 2701,
+      "visual": 2298
+    },
+    "9": {
+      "performance": 2258,
+      "technique": 2787,
+      "visual": 2371
+    },
+    "10": {
+      "performance": 2331,
+      "technique": 2877,
+      "visual": 2448
+    },
+    "11": {
+      "performance": 2407,
+      "technique": 2971,
+      "visual": 2528
+    },
+    "12": {
+      "performance": 2486,
+      "technique": 3069,
+      "visual": 2611
+    },
+    "13": {
+      "performance": 2568,
+      "technique": 3171,
+      "visual": 2698
+    },
+    "14": {
+      "performance": 2654,
+      "technique": 3277,
+      "visual": 2788
+    },
+    "15": {
+      "performance": 2743,
+      "technique": 3387,
+      "visual": 2881
+    },
+    "16": {
+      "performance": 2835,
+      "technique": 3500,
+      "visual": 2977
+    },
+    "17": {
+      "performance": 2930,
+      "technique": 3617,
+      "visual": 3077
+    },
+    "18": {
+      "performance": 3028,
+      "technique": 3738,
+      "visual": 3180
+    },
+    "19": {
+      "performance": 3129,
+      "technique": 3863,
+      "visual": 3286
+    },
+    "20": {
+      "performance": 3234,
+      "technique": 3992,
+      "visual": 3396
+    },
+    "21": {
+      "performance": 3342,
+      "technique": 4125,
+      "visual": 3509
+    },
+    "22": {
+      "performance": 3453,
+      "technique": 4262,
+      "visual": 3625
+    },
+    "23": {
+      "performance": 3567,
+      "technique": 4403,
+      "visual": 3745
+    },
+    "24": {
+      "performance": 3684,
+      "technique": 4548,
+      "visual": 3868
+    },
+    "25": {
+      "performance": 3804,
+      "technique": 4697,
+      "visual": 3994
+    },
+    "26": {
+      "performance": 3928,
+      "technique": 4850,
+      "visual": 4124
+    },
+    "27": {
+      "performance": 4055,
+      "technique": 5006,
+      "visual": 4257
+    },
+    "28": {
+      "performance": 4185,
+      "technique": 5166,
+      "visual": 4393
+    },
+    "29": {
+      "performance": 4318,
+      "technique": 5330,
+      "visual": 4533
+    },
+    "30": {
+      "performance": 4454,
+      "technique": 5498,
+      "visual": 4676
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "characterId": 12,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res012010",
+  "sdResourceName": "sd012010",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 377,
+        "episodeType": "standard",
+        "situationId": 229,
+        "scenarioId": "episode229",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "テーマソングを作ろう",
+          "Let's Write a Song",
+          "做首主題曲吧",
+          "来创作主题曲吧",
+          "테마 송을 만들자"
+        ],
+        "characterId": 12
+      },
+      {
+        "episodeId": 378,
+        "episodeType": "memorial",
+        "situationId": 229,
+        "scenarioId": "memorial229",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ライブへの招待状",
+          "Invitation to the Show",
+          "LIVE邀請函",
+          "演唱会的邀请函",
+          "라이브로의 초대장"
+        ],
+        "characterId": 12
+      }
+    ]
+  },
+  "costumeId": 340,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "これも儚さ",
+    "This, Too, is Fleeting",
+    "這也是虛無飄渺",
+    "这也是梦幻",
+    "이것도 덧없다"
+  ],
+  "releasedAt": [
+    "1505196000000",
+    "1536714000000",
+    "1505199600000",
+    "1505199600000",
+    "1505196000000"
+  ],
+  "skillName": [
+    "激情の儚さ",
+    "The Transience of Passion",
+    "激情的飄渺",
+    "激情的梦幻",
+    "격정의 덧없음"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2184,
+      "technique": 1812,
+      "visual": 2058
+    },
+    "2": {
+      "performance": 2241,
+      "technique": 1860,
+      "visual": 2112
+    },
+    "3": {
+      "performance": 2302,
+      "technique": 1911,
+      "visual": 2170
+    },
+    "4": {
+      "performance": 2367,
+      "technique": 1965,
+      "visual": 2231
+    },
+    "5": {
+      "performance": 2436,
+      "technique": 2022,
+      "visual": 2296
+    },
+    "6": {
+      "performance": 2509,
+      "technique": 2082,
+      "visual": 2364
+    },
+    "7": {
+      "performance": 2585,
+      "technique": 2145,
+      "visual": 2436
+    },
+    "8": {
+      "performance": 2665,
+      "technique": 2212,
+      "visual": 2512
+    },
+    "9": {
+      "performance": 2749,
+      "technique": 2282,
+      "visual": 2591
+    },
+    "10": {
+      "performance": 2837,
+      "technique": 2355,
+      "visual": 2674
+    },
+    "11": {
+      "performance": 2929,
+      "technique": 2431,
+      "visual": 2760
+    },
+    "12": {
+      "performance": 3024,
+      "technique": 2510,
+      "visual": 2850
+    },
+    "13": {
+      "performance": 3123,
+      "technique": 2592,
+      "visual": 2944
+    },
+    "14": {
+      "performance": 3226,
+      "technique": 2678,
+      "visual": 3041
+    },
+    "15": {
+      "performance": 3333,
+      "technique": 2767,
+      "visual": 3142
+    },
+    "16": {
+      "performance": 3444,
+      "technique": 2859,
+      "visual": 3246
+    },
+    "17": {
+      "performance": 3559,
+      "technique": 2954,
+      "visual": 3354
+    },
+    "18": {
+      "performance": 3677,
+      "technique": 3052,
+      "visual": 3465
+    },
+    "19": {
+      "performance": 3799,
+      "technique": 3153,
+      "visual": 3580
+    },
+    "20": {
+      "performance": 3925,
+      "technique": 3258,
+      "visual": 3699
+    },
+    "21": {
+      "performance": 4055,
+      "technique": 3366,
+      "visual": 3821
+    },
+    "22": {
+      "performance": 4189,
+      "technique": 3477,
+      "visual": 3947
+    },
+    "23": {
+      "performance": 4326,
+      "technique": 3591,
+      "visual": 4076
+    },
+    "24": {
+      "performance": 4467,
+      "technique": 3708,
+      "visual": 4209
+    },
+    "25": {
+      "performance": 4612,
+      "technique": 3828,
+      "visual": 4346
+    },
+    "26": {
+      "performance": 4761,
+      "technique": 3952,
+      "visual": 4486
+    },
+    "27": {
+      "performance": 4914,
+      "technique": 4079,
+      "visual": 4630
+    },
+    "28": {
+      "performance": 5070,
+      "technique": 4209,
+      "visual": 4777
+    },
+    "29": {
+      "performance": 5230,
+      "technique": 4342,
+      "visual": 4928
+    },
+    "30": {
+      "performance": 5394,
+      "technique": 4478,
+      "visual": 5083
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

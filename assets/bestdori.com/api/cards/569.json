@@ -1,0 +1,406 @@
+{
+  "characterId": 20,
+  "rarity": 3,
+  "attribute": "cool",
+  "levelLimit": 40,
+  "resourceSetName": "res020027",
+  "sdResourceName": "sd020027",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 905,
+        "episodeType": "standard",
+        "situationId": 569,
+        "scenarioId": "episode569",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "活用法",
+          "Putting to Good Use",
+          "活用方法",
+          "使用方法",
+          "활용법"
+        ],
+        "characterId": 20
+      },
+      {
+        "episodeId": 906,
+        "episodeType": "memorial",
+        "situationId": 569,
+        "scenarioId": "memorial569",
+        "appendPerformance": 500,
+        "appendTechnique": 500,
+        "appendVisual": 500,
+        "releaseLevel": 50,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 1800,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1200,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "モッタイナイ",
+          "Such a Waste",
+          "浪費",
+          "太浪费了",
+          "「아깝다」"
+        ],
+        "characterId": 20
+      }
+    ]
+  },
+  "costumeId": 520,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "掘り出し物",
+    "A Lucky Find",
+    "偶然發現的珍品",
+    "偶然发现的珍品",
+    "우연히 발견한 진귀한 물건"
+  ],
+  "releasedAt": [
+    "1544421600000",
+    "1576026000000",
+    "1555830000000",
+    "1597726800000",
+    "1544421600000"
+  ],
+  "skillName": [
+    "粋ですねっ",
+    "Quite Refined, Isn't It?",
+    "真精緻呢",
+    "好精致呢",
+    "멋지네요"
+  ],
+  "skillId": 9,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 2979,
+      "technique": 3249,
+      "visual": 2862
+    },
+    "2": {
+      "performance": 3018,
+      "technique": 3291,
+      "visual": 2899
+    },
+    "3": {
+      "performance": 3059,
+      "technique": 3335,
+      "visual": 2938
+    },
+    "4": {
+      "performance": 3102,
+      "technique": 3382,
+      "visual": 2979
+    },
+    "5": {
+      "performance": 3147,
+      "technique": 3431,
+      "visual": 3022
+    },
+    "6": {
+      "performance": 3194,
+      "technique": 3482,
+      "visual": 3067
+    },
+    "7": {
+      "performance": 3242,
+      "technique": 3535,
+      "visual": 3114
+    },
+    "8": {
+      "performance": 3292,
+      "technique": 3590,
+      "visual": 3162
+    },
+    "9": {
+      "performance": 3344,
+      "technique": 3647,
+      "visual": 3212
+    },
+    "10": {
+      "performance": 3398,
+      "technique": 3706,
+      "visual": 3264
+    },
+    "11": {
+      "performance": 3454,
+      "technique": 3767,
+      "visual": 3318
+    },
+    "12": {
+      "performance": 3512,
+      "technique": 3830,
+      "visual": 3374
+    },
+    "13": {
+      "performance": 3572,
+      "technique": 3896,
+      "visual": 3432
+    },
+    "14": {
+      "performance": 3634,
+      "technique": 3964,
+      "visual": 3492
+    },
+    "15": {
+      "performance": 3698,
+      "technique": 4034,
+      "visual": 3553
+    },
+    "16": {
+      "performance": 3764,
+      "technique": 4106,
+      "visual": 3616
+    },
+    "17": {
+      "performance": 3832,
+      "technique": 4180,
+      "visual": 3681
+    },
+    "18": {
+      "performance": 3902,
+      "technique": 4256,
+      "visual": 3748
+    },
+    "19": {
+      "performance": 3974,
+      "technique": 4334,
+      "visual": 3817
+    },
+    "20": {
+      "performance": 4048,
+      "technique": 4414,
+      "visual": 3888
+    },
+    "21": {
+      "performance": 4124,
+      "technique": 4496,
+      "visual": 3961
+    },
+    "22": {
+      "performance": 4202,
+      "technique": 4581,
+      "visual": 4036
+    },
+    "23": {
+      "performance": 4281,
+      "technique": 4668,
+      "visual": 4112
+    },
+    "24": {
+      "performance": 4362,
+      "technique": 4757,
+      "visual": 4190
+    },
+    "25": {
+      "performance": 4445,
+      "technique": 4848,
+      "visual": 4270
+    },
+    "26": {
+      "performance": 4530,
+      "technique": 4941,
+      "visual": 4352
+    },
+    "27": {
+      "performance": 4617,
+      "technique": 5036,
+      "visual": 4436
+    },
+    "28": {
+      "performance": 4706,
+      "technique": 5133,
+      "visual": 4522
+    },
+    "29": {
+      "performance": 4797,
+      "technique": 5232,
+      "visual": 4610
+    },
+    "30": {
+      "performance": 4890,
+      "technique": 5334,
+      "visual": 4699
+    },
+    "31": {
+      "performance": 4985,
+      "technique": 5438,
+      "visual": 4790
+    },
+    "32": {
+      "performance": 5082,
+      "technique": 5544,
+      "visual": 4883
+    },
+    "33": {
+      "performance": 5181,
+      "technique": 5652,
+      "visual": 4978
+    },
+    "34": {
+      "performance": 5282,
+      "technique": 5762,
+      "visual": 5075
+    },
+    "35": {
+      "performance": 5385,
+      "technique": 5874,
+      "visual": 5174
+    },
+    "36": {
+      "performance": 5490,
+      "technique": 5988,
+      "visual": 5275
+    },
+    "37": {
+      "performance": 5597,
+      "technique": 6104,
+      "visual": 5377
+    },
+    "38": {
+      "performance": 5706,
+      "technique": 6222,
+      "visual": 5481
+    },
+    "39": {
+      "performance": 5816,
+      "technique": 6343,
+      "visual": 5587
+    },
+    "40": {
+      "performance": 5928,
+      "technique": 6466,
+      "visual": 5695
+    },
+    "41": {
+      "performance": 6091,
+      "technique": 6644,
+      "visual": 5852
+    },
+    "42": {
+      "performance": 6284,
+      "technique": 6854,
+      "visual": 6037
+    },
+    "43": {
+      "performance": 6506,
+      "technique": 7096,
+      "visual": 6250
+    },
+    "44": {
+      "performance": 6757,
+      "technique": 7370,
+      "visual": 6491
+    },
+    "45": {
+      "performance": 7037,
+      "technique": 7676,
+      "visual": 6760
+    },
+    "46": {
+      "performance": 7347,
+      "technique": 8014,
+      "visual": 7057
+    },
+    "47": {
+      "performance": 7686,
+      "technique": 8383,
+      "visual": 7383
+    },
+    "48": {
+      "performance": 8054,
+      "technique": 8784,
+      "visual": 7737
+    },
+    "49": {
+      "performance": 8451,
+      "technique": 9217,
+      "visual": 8119
+    },
+    "50": {
+      "performance": 8878,
+      "technique": 9682,
+      "visual": 8529
+    },
+    "episodes": [
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      },
+      {
+        "performance": 500,
+        "technique": 500,
+        "visual": 500
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 300,
+      "technique": 300,
+      "visual": 300
+    }
+  }
+}

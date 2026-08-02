@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "powerful",
+  "levelLimit": 30,
+  "resourceSetName": "res010002",
+  "sdResourceName": "sd010002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 75,
+        "episodeType": "standard",
+        "situationId": 38,
+        "scenarioId": "episode038",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 76,
+        "episodeType": "memorial",
+        "situationId": 38,
+        "scenarioId": "memorial038",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "帰ってこれる場所",
+          "Where I Call Home",
+          "能回來的地方",
+          "能够回来的归属之地",
+          "돌아올 수 있는 곳"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 35,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "練習の成果",
+    "Practice Pays Off",
+    "練習的成果",
+    "练习的成果",
+    "연습의 성과"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 2130,
+      "technique": 1860,
+      "visual": 2070
+    },
+    "2": {
+      "performance": 2186,
+      "technique": 1909,
+      "visual": 2124
+    },
+    "3": {
+      "performance": 2246,
+      "technique": 1961,
+      "visual": 2182
+    },
+    "4": {
+      "performance": 2309,
+      "technique": 2016,
+      "visual": 2244
+    },
+    "5": {
+      "performance": 2376,
+      "technique": 2075,
+      "visual": 2309
+    },
+    "6": {
+      "performance": 2447,
+      "technique": 2137,
+      "visual": 2378
+    },
+    "7": {
+      "performance": 2521,
+      "technique": 2202,
+      "visual": 2450
+    },
+    "8": {
+      "performance": 2599,
+      "technique": 2270,
+      "visual": 2526
+    },
+    "9": {
+      "performance": 2681,
+      "technique": 2342,
+      "visual": 2606
+    },
+    "10": {
+      "performance": 2767,
+      "technique": 2417,
+      "visual": 2689
+    },
+    "11": {
+      "performance": 2856,
+      "technique": 2495,
+      "visual": 2776
+    },
+    "12": {
+      "performance": 2949,
+      "technique": 2576,
+      "visual": 2866
+    },
+    "13": {
+      "performance": 3046,
+      "technique": 2661,
+      "visual": 2960
+    },
+    "14": {
+      "performance": 3147,
+      "technique": 2749,
+      "visual": 3058
+    },
+    "15": {
+      "performance": 3251,
+      "technique": 2840,
+      "visual": 3159
+    },
+    "16": {
+      "performance": 3359,
+      "technique": 2934,
+      "visual": 3264
+    },
+    "17": {
+      "performance": 3471,
+      "technique": 3032,
+      "visual": 3373
+    },
+    "18": {
+      "performance": 3586,
+      "technique": 3133,
+      "visual": 3485
+    },
+    "19": {
+      "performance": 3705,
+      "technique": 3237,
+      "visual": 3601
+    },
+    "20": {
+      "performance": 3828,
+      "technique": 3344,
+      "visual": 3720
+    },
+    "21": {
+      "performance": 3955,
+      "technique": 3455,
+      "visual": 3843
+    },
+    "22": {
+      "performance": 4085,
+      "technique": 3569,
+      "visual": 3970
+    },
+    "23": {
+      "performance": 4219,
+      "technique": 3686,
+      "visual": 4100
+    },
+    "24": {
+      "performance": 4357,
+      "technique": 3806,
+      "visual": 4234
+    },
+    "25": {
+      "performance": 4498,
+      "technique": 3930,
+      "visual": 4371
+    },
+    "26": {
+      "performance": 4643,
+      "technique": 4057,
+      "visual": 4512
+    },
+    "27": {
+      "performance": 4792,
+      "technique": 4187,
+      "visual": 4657
+    },
+    "28": {
+      "performance": 4945,
+      "technique": 4320,
+      "visual": 4805
+    },
+    "29": {
+      "performance": 5101,
+      "technique": 4456,
+      "visual": 4957
+    },
+    "30": {
+      "performance": 5261,
+      "technique": 4596,
+      "visual": 5113
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

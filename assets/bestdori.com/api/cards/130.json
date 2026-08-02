@@ -1,0 +1,288 @@
+{
+  "characterId": 8,
+  "rarity": 2,
+  "attribute": "cool",
+  "levelLimit": 30,
+  "resourceSetName": "res008005",
+  "sdResourceName": "sd008005",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 259,
+        "episodeType": "standard",
+        "situationId": 130,
+        "scenarioId": "episode130",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "私達の居場所！",
+          "Where We Belong",
+          "我們的容身之處！",
+          "我们的栖身之所！",
+          "우리가 있는 곳!"
+        ],
+        "characterId": 8
+      },
+      {
+        "episodeId": 260,
+        "episodeType": "memorial",
+        "situationId": 130,
+        "scenarioId": "memorial130",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "続いていく青春",
+          "Forever Young",
+          "持續下去的青春",
+          "永不完结的青春",
+          "이어져가는 청춘"
+        ],
+        "characterId": 8
+      }
+    ]
+  },
+  "costumeId": 319,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "懐かしい音源",
+    "Familiar Tune",
+    "令人懷念的音源",
+    "令人怀念的音源",
+    "그리운 음원"
+  ],
+  "releasedAt": [
+    "1494482400000",
+    "1526432400000",
+    "1494486000000",
+    "1494486000000",
+    "1494482400000"
+  ],
+  "skillName": [
+    "うふっ。うふふっ♪",
+    "Fufu. Ufufu♪",
+    "嗚呵。嗚呵呵♪",
+    "嗯哼。嗯哼哼♪",
+    "후훗. 후후훗♪"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1644,
+      "technique": 2046,
+      "visual": 2184
+    },
+    "2": {
+      "performance": 1688,
+      "technique": 2100,
+      "visual": 2242
+    },
+    "3": {
+      "performance": 1735,
+      "technique": 2158,
+      "visual": 2304
+    },
+    "4": {
+      "performance": 1785,
+      "technique": 2220,
+      "visual": 2370
+    },
+    "5": {
+      "performance": 1837,
+      "technique": 2285,
+      "visual": 2440
+    },
+    "6": {
+      "performance": 1892,
+      "technique": 2354,
+      "visual": 2514
+    },
+    "7": {
+      "performance": 1950,
+      "technique": 2427,
+      "visual": 2591
+    },
+    "8": {
+      "performance": 2011,
+      "technique": 2503,
+      "visual": 2672
+    },
+    "9": {
+      "performance": 2075,
+      "technique": 2583,
+      "visual": 2757
+    },
+    "10": {
+      "performance": 2142,
+      "technique": 2666,
+      "visual": 2846
+    },
+    "11": {
+      "performance": 2212,
+      "technique": 2753,
+      "visual": 2939
+    },
+    "12": {
+      "performance": 2285,
+      "technique": 2844,
+      "visual": 3036
+    },
+    "13": {
+      "performance": 2361,
+      "technique": 2938,
+      "visual": 3137
+    },
+    "14": {
+      "performance": 2440,
+      "technique": 3036,
+      "visual": 3241
+    },
+    "15": {
+      "performance": 2522,
+      "technique": 3138,
+      "visual": 3349
+    },
+    "16": {
+      "performance": 2606,
+      "technique": 3243,
+      "visual": 3461
+    },
+    "17": {
+      "performance": 2693,
+      "technique": 3352,
+      "visual": 3577
+    },
+    "18": {
+      "performance": 2783,
+      "technique": 3464,
+      "visual": 3697
+    },
+    "19": {
+      "performance": 2876,
+      "technique": 3580,
+      "visual": 3821
+    },
+    "20": {
+      "performance": 2972,
+      "technique": 3700,
+      "visual": 3949
+    },
+    "21": {
+      "performance": 3071,
+      "technique": 3823,
+      "visual": 4081
+    },
+    "22": {
+      "performance": 3173,
+      "technique": 3950,
+      "visual": 4216
+    },
+    "23": {
+      "performance": 3278,
+      "technique": 4080,
+      "visual": 4355
+    },
+    "24": {
+      "performance": 3386,
+      "technique": 4214,
+      "visual": 4498
+    },
+    "25": {
+      "performance": 3497,
+      "technique": 4352,
+      "visual": 4645
+    },
+    "26": {
+      "performance": 3611,
+      "technique": 4493,
+      "visual": 4796
+    },
+    "27": {
+      "performance": 3727,
+      "technique": 4638,
+      "visual": 4951
+    },
+    "28": {
+      "performance": 3846,
+      "technique": 4787,
+      "visual": 5110
+    },
+    "29": {
+      "performance": 3968,
+      "technique": 4939,
+      "visual": 5272
+    },
+    "30": {
+      "performance": 4093,
+      "technique": 5095,
+      "visual": 5438
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

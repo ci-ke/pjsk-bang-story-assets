@@ -1,0 +1,288 @@
+{
+  "characterId": 19,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res019008",
+  "sdResourceName": "sd019008",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 369,
+        "episodeType": "standard",
+        "situationId": 195,
+        "scenarioId": "episode195",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "儚い照明？",
+          "Fleeting Illumination?",
+          "飄渺的燈光？",
+          "梦幻照明？",
+          "덧없는 조명?"
+        ],
+        "characterId": 19
+      },
+      {
+        "episodeId": 370,
+        "episodeType": "memorial",
+        "situationId": 195,
+        "scenarioId": "memorial195",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "作る側、住人側",
+          "The Creator & the Inhabitants",
+          "創作立場、住民立場",
+          "制作方与使用方",
+          "만드는 쪽, 주인 쪽"
+        ],
+        "characterId": 19
+      }
+    ]
+  },
+  "costumeId": 339,
+  "gachaText": [
+    null,
+    null,
+    null,
+    "",
+    null
+  ],
+  "prefix": [
+    "二人のサポート",
+    "One Supporting Two",
+    "兩人的支援",
+    "两人的协助者",
+    "둘의 서포트"
+  ],
+  "releasedAt": [
+    "1504159200000",
+    "1535763600000",
+    "1504162800000",
+    "1504162800000",
+    "1504159200000"
+  ],
+  "skillName": [
+    "ガッチリ裏方！",
+    "Solid Stagehand!",
+    "完美的後台準備！",
+    "可靠的幕后！",
+    "빈틈없는 스태프"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1902,
+      "technique": 2238,
+      "visual": 1734
+    },
+    "2": {
+      "performance": 1953,
+      "technique": 2298,
+      "visual": 1780
+    },
+    "3": {
+      "performance": 2007,
+      "technique": 2362,
+      "visual": 1829
+    },
+    "4": {
+      "performance": 2064,
+      "technique": 2429,
+      "visual": 1881
+    },
+    "5": {
+      "performance": 2125,
+      "technique": 2500,
+      "visual": 1936
+    },
+    "6": {
+      "performance": 2189,
+      "technique": 2575,
+      "visual": 1994
+    },
+    "7": {
+      "performance": 2256,
+      "technique": 2654,
+      "visual": 2055
+    },
+    "8": {
+      "performance": 2327,
+      "technique": 2737,
+      "visual": 2120
+    },
+    "9": {
+      "performance": 2401,
+      "technique": 2824,
+      "visual": 2188
+    },
+    "10": {
+      "performance": 2479,
+      "technique": 2915,
+      "visual": 2259
+    },
+    "11": {
+      "performance": 2560,
+      "technique": 3010,
+      "visual": 2333
+    },
+    "12": {
+      "performance": 2644,
+      "technique": 3109,
+      "visual": 2410
+    },
+    "13": {
+      "performance": 2732,
+      "technique": 3212,
+      "visual": 2490
+    },
+    "14": {
+      "performance": 2823,
+      "technique": 3319,
+      "visual": 2573
+    },
+    "15": {
+      "performance": 2917,
+      "technique": 3430,
+      "visual": 2659
+    },
+    "16": {
+      "performance": 3015,
+      "technique": 3545,
+      "visual": 2748
+    },
+    "17": {
+      "performance": 3116,
+      "technique": 3664,
+      "visual": 2840
+    },
+    "18": {
+      "performance": 3220,
+      "technique": 3787,
+      "visual": 2935
+    },
+    "19": {
+      "performance": 3328,
+      "technique": 3914,
+      "visual": 3033
+    },
+    "20": {
+      "performance": 3439,
+      "technique": 4045,
+      "visual": 3134
+    },
+    "21": {
+      "performance": 3554,
+      "technique": 4180,
+      "visual": 3238
+    },
+    "22": {
+      "performance": 3672,
+      "technique": 4319,
+      "visual": 3346
+    },
+    "23": {
+      "performance": 3793,
+      "technique": 4462,
+      "visual": 3457
+    },
+    "24": {
+      "performance": 3918,
+      "technique": 4609,
+      "visual": 3571
+    },
+    "25": {
+      "performance": 4046,
+      "technique": 4760,
+      "visual": 3688
+    },
+    "26": {
+      "performance": 4177,
+      "technique": 4915,
+      "visual": 3808
+    },
+    "27": {
+      "performance": 4312,
+      "technique": 5074,
+      "visual": 3931
+    },
+    "28": {
+      "performance": 4450,
+      "technique": 5237,
+      "visual": 4057
+    },
+    "29": {
+      "performance": 4591,
+      "technique": 5403,
+      "visual": 4186
+    },
+    "30": {
+      "performance": 4736,
+      "technique": 5573,
+      "visual": 4318
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

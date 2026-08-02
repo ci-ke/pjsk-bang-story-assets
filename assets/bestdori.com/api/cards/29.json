@@ -1,0 +1,229 @@
+{
+  "characterId": 8,
+  "rarity": 1,
+  "attribute": "happy",
+  "levelLimit": 20,
+  "resourceSetName": "res008001",
+  "sdResourceName": "sd008001",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 57,
+        "episodeType": "standard",
+        "situationId": 29,
+        "scenarioId": "episode029",
+        "appendPerformance": 100,
+        "appendTechnique": 100,
+        "appendVisual": 100,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "自己紹介",
+          "Self-Introduction",
+          "自我介紹",
+          "自我介绍",
+          "자기소개"
+        ],
+        "characterId": 8
+      },
+      {
+        "episodeId": 58,
+        "episodeType": "memorial",
+        "situationId": 29,
+        "scenarioId": "memorial029",
+        "appendPerformance": 200,
+        "appendTechnique": 200,
+        "appendVisual": 200,
+        "releaseLevel": 20,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 50,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "幼なじみパワー炸裂！",
+          "Power Of Childhood Friendship!",
+          "兒時玩伴力量大爆炸！",
+          "青梅竹马之力炸裂！",
+          "소꿉친구 파워 폭발!"
+        ],
+        "characterId": 8
+      }
+    ]
+  },
+  "costumeId": 1615,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "みんなのリーダー！",
+    "Leader Of The Group!",
+    "大家的領袖！",
+    "大家的队长！",
+    "모두의 리더!"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "スマイルサウンド",
+    "Smiling Sound",
+    "微笑聲響",
+    "微笑之声",
+    "스마일 사운드"
+  ],
+  "skillId": 1,
+  "source": null,
+  "type": "initial",
+  "stat": {
+    "1": {
+      "performance": 966,
+      "technique": 816,
+      "visual": 1134
+    },
+    "2": {
+      "performance": 1006,
+      "technique": 850,
+      "visual": 1181
+    },
+    "3": {
+      "performance": 1050,
+      "technique": 887,
+      "visual": 1233
+    },
+    "4": {
+      "performance": 1098,
+      "technique": 927,
+      "visual": 1289
+    },
+    "5": {
+      "performance": 1150,
+      "technique": 971,
+      "visual": 1350
+    },
+    "6": {
+      "performance": 1206,
+      "technique": 1018,
+      "visual": 1416
+    },
+    "7": {
+      "performance": 1266,
+      "technique": 1069,
+      "visual": 1486
+    },
+    "8": {
+      "performance": 1330,
+      "technique": 1123,
+      "visual": 1561
+    },
+    "9": {
+      "performance": 1398,
+      "technique": 1180,
+      "visual": 1641
+    },
+    "10": {
+      "performance": 1470,
+      "technique": 1241,
+      "visual": 1725
+    },
+    "11": {
+      "performance": 1546,
+      "technique": 1305,
+      "visual": 1814
+    },
+    "12": {
+      "performance": 1626,
+      "technique": 1372,
+      "visual": 1908
+    },
+    "13": {
+      "performance": 1710,
+      "technique": 1443,
+      "visual": 2006
+    },
+    "14": {
+      "performance": 1798,
+      "technique": 1517,
+      "visual": 2109
+    },
+    "15": {
+      "performance": 1890,
+      "technique": 1594,
+      "visual": 2217
+    },
+    "16": {
+      "performance": 1986,
+      "technique": 1675,
+      "visual": 2329
+    },
+    "17": {
+      "performance": 2086,
+      "technique": 1759,
+      "visual": 2446
+    },
+    "18": {
+      "performance": 2190,
+      "technique": 1847,
+      "visual": 2568
+    },
+    "19": {
+      "performance": 2298,
+      "technique": 1938,
+      "visual": 2694
+    },
+    "20": {
+      "performance": 2410,
+      "technique": 2032,
+      "visual": 2825
+    },
+    "episodes": [
+      {
+        "performance": 100,
+        "technique": 100,
+        "visual": 100
+      },
+      {
+        "performance": 200,
+        "technique": 200,
+        "visual": 200
+      }
+    ]
+  }
+}

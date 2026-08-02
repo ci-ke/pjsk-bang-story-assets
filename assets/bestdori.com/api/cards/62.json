@@ -1,0 +1,288 @@
+{
+  "characterId": 16,
+  "rarity": 2,
+  "attribute": "pure",
+  "levelLimit": 30,
+  "resourceSetName": "res016002",
+  "sdResourceName": "sd016002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 123,
+        "episodeType": "standard",
+        "situationId": 62,
+        "scenarioId": "episode062",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 16
+      },
+      {
+        "episodeId": 124,
+        "episodeType": "memorial",
+        "situationId": 62,
+        "scenarioId": "memorial062",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 4,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 8,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "ザ・アイドル",
+          "Idol Among Idols",
+          "偶像中的偶像",
+          "正统偶像",
+          "The 아이돌"
+        ],
+        "characterId": 16
+      }
+    ]
+  },
+  "costumeId": 41,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "幼い頃の夢",
+    "Childhood Dream",
+    "小時候的夢想",
+    "儿时的梦想",
+    "어릴 적의 꿈"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1908,
+      "technique": 2292,
+      "visual": 1608
+    },
+    "2": {
+      "performance": 1959,
+      "technique": 2353,
+      "visual": 1651
+    },
+    "3": {
+      "performance": 2013,
+      "technique": 2418,
+      "visual": 1697
+    },
+    "4": {
+      "performance": 2071,
+      "technique": 2487,
+      "visual": 1745
+    },
+    "5": {
+      "performance": 2132,
+      "technique": 2560,
+      "visual": 1796
+    },
+    "6": {
+      "performance": 2196,
+      "technique": 2637,
+      "visual": 1850
+    },
+    "7": {
+      "performance": 2264,
+      "technique": 2718,
+      "visual": 1907
+    },
+    "8": {
+      "performance": 2335,
+      "technique": 2803,
+      "visual": 1967
+    },
+    "9": {
+      "performance": 2409,
+      "technique": 2892,
+      "visual": 2030
+    },
+    "10": {
+      "performance": 2487,
+      "technique": 2985,
+      "visual": 2096
+    },
+    "11": {
+      "performance": 2568,
+      "technique": 3082,
+      "visual": 2164
+    },
+    "12": {
+      "performance": 2653,
+      "technique": 3184,
+      "visual": 2235
+    },
+    "13": {
+      "performance": 2741,
+      "technique": 3290,
+      "visual": 2309
+    },
+    "14": {
+      "performance": 2832,
+      "technique": 3400,
+      "visual": 2386
+    },
+    "15": {
+      "performance": 2927,
+      "technique": 3514,
+      "visual": 2466
+    },
+    "16": {
+      "performance": 3025,
+      "technique": 3632,
+      "visual": 2549
+    },
+    "17": {
+      "performance": 3126,
+      "technique": 3754,
+      "visual": 2634
+    },
+    "18": {
+      "performance": 3231,
+      "technique": 3880,
+      "visual": 2722
+    },
+    "19": {
+      "performance": 3339,
+      "technique": 4010,
+      "visual": 2813
+    },
+    "20": {
+      "performance": 3451,
+      "technique": 4144,
+      "visual": 2907
+    },
+    "21": {
+      "performance": 3566,
+      "technique": 4282,
+      "visual": 3004
+    },
+    "22": {
+      "performance": 3684,
+      "technique": 4424,
+      "visual": 3104
+    },
+    "23": {
+      "performance": 3806,
+      "technique": 4570,
+      "visual": 3207
+    },
+    "24": {
+      "performance": 3931,
+      "technique": 4720,
+      "visual": 3312
+    },
+    "25": {
+      "performance": 4059,
+      "technique": 4874,
+      "visual": 3420
+    },
+    "26": {
+      "performance": 4191,
+      "technique": 5032,
+      "visual": 3531
+    },
+    "27": {
+      "performance": 4326,
+      "technique": 5194,
+      "visual": 3645
+    },
+    "28": {
+      "performance": 4465,
+      "technique": 5360,
+      "visual": 3762
+    },
+    "29": {
+      "performance": 4607,
+      "technique": 5530,
+      "visual": 3882
+    },
+    "30": {
+      "performance": 4752,
+      "technique": 5705,
+      "visual": 4004
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

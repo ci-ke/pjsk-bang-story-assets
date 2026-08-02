@@ -1,0 +1,288 @@
+{
+  "characterId": 13,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res013002",
+  "sdResourceName": "sd013002",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 99,
+        "episodeType": "standard",
+        "situationId": 50,
+        "scenarioId": "episode050",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "衣装について",
+          "About My Costume",
+          "關於服裝",
+          "关于服装",
+          "의상에 대해서"
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 100,
+        "episodeType": "memorial",
+        "situationId": 50,
+        "scenarioId": "memorial050",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "肩のひらひら",
+          "Shoulder Frillies",
+          "肩膀的飄飄",
+          "肩头的飘扬",
+          "어깨에 하늘하늘"
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 38,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "ステージ",
+    "Onstage",
+    "舞台",
+    "舞台",
+    "스테이지"
+  ],
+  "releasedAt": [
+    "1489626000000",
+    "1489658400000",
+    "1489629600000",
+    "1489629600000",
+    "1489626000000"
+  ],
+  "skillName": [
+    "ポジティブシンキング",
+    "Positive Thinking",
+    "正向思考",
+    "乐观思维",
+    "긍정적인 생각"
+  ],
+  "skillId": 2,
+  "source": null,
+  "type": "permanent",
+  "stat": {
+    "1": {
+      "performance": 1668,
+      "technique": 2532,
+      "visual": 1248
+    },
+    "2": {
+      "performance": 1714,
+      "technique": 2601,
+      "visual": 1282
+    },
+    "3": {
+      "performance": 1763,
+      "technique": 2675,
+      "visual": 1318
+    },
+    "4": {
+      "performance": 1815,
+      "technique": 2753,
+      "visual": 1357
+    },
+    "5": {
+      "performance": 1870,
+      "technique": 2836,
+      "visual": 1398
+    },
+    "6": {
+      "performance": 1928,
+      "technique": 2924,
+      "visual": 1441
+    },
+    "7": {
+      "performance": 1989,
+      "technique": 3016,
+      "visual": 1486
+    },
+    "8": {
+      "performance": 2053,
+      "technique": 3113,
+      "visual": 1534
+    },
+    "9": {
+      "performance": 2120,
+      "technique": 3214,
+      "visual": 1584
+    },
+    "10": {
+      "performance": 2190,
+      "technique": 3320,
+      "visual": 1636
+    },
+    "11": {
+      "performance": 2263,
+      "technique": 3431,
+      "visual": 1690
+    },
+    "12": {
+      "performance": 2339,
+      "technique": 3546,
+      "visual": 1747
+    },
+    "13": {
+      "performance": 2418,
+      "technique": 3666,
+      "visual": 1806
+    },
+    "14": {
+      "performance": 2500,
+      "technique": 3790,
+      "visual": 1867
+    },
+    "15": {
+      "performance": 2585,
+      "technique": 3919,
+      "visual": 1931
+    },
+    "16": {
+      "performance": 2673,
+      "technique": 4053,
+      "visual": 1997
+    },
+    "17": {
+      "performance": 2764,
+      "technique": 4191,
+      "visual": 2065
+    },
+    "18": {
+      "performance": 2858,
+      "technique": 4334,
+      "visual": 2135
+    },
+    "19": {
+      "performance": 2955,
+      "technique": 4481,
+      "visual": 2208
+    },
+    "20": {
+      "performance": 3055,
+      "technique": 4633,
+      "visual": 2283
+    },
+    "21": {
+      "performance": 3158,
+      "technique": 4790,
+      "visual": 2360
+    },
+    "22": {
+      "performance": 3264,
+      "technique": 4951,
+      "visual": 2439
+    },
+    "23": {
+      "performance": 3373,
+      "technique": 5117,
+      "visual": 2521
+    },
+    "24": {
+      "performance": 3485,
+      "technique": 5287,
+      "visual": 2605
+    },
+    "25": {
+      "performance": 3600,
+      "technique": 5462,
+      "visual": 2691
+    },
+    "26": {
+      "performance": 3718,
+      "technique": 5642,
+      "visual": 2780
+    },
+    "27": {
+      "performance": 3839,
+      "technique": 5826,
+      "visual": 2871
+    },
+    "28": {
+      "performance": 3963,
+      "technique": 6015,
+      "visual": 2964
+    },
+    "29": {
+      "performance": 4090,
+      "technique": 6208,
+      "visual": 3059
+    },
+    "30": {
+      "performance": 4220,
+      "technique": 6406,
+      "visual": 3157
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

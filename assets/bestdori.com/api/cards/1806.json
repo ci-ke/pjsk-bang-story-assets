@@ -1,0 +1,456 @@
+{
+  "characterId": 22,
+  "rarity": 5,
+  "attribute": "powerful",
+  "levelLimit": 50,
+  "resourceSetName": "res022070",
+  "sdResourceName": "sd022070",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3018,
+        "episodeType": "standard",
+        "situationId": 1806,
+        "scenarioId": "episode1806",
+        "appendPerformance": 250,
+        "appendTechnique": 250,
+        "appendVisual": 250,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 500,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 300,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "追憶：日向雨　前編",
+          "Recollections: Sunshower Pt. 1",
+          "追憶：太陽雨　前篇",
+          "追忆：太阳雨 前篇",
+          null
+        ],
+        "characterId": 22
+      },
+      {
+        "episodeId": 3019,
+        "episodeType": "memorial",
+        "situationId": 1806,
+        "scenarioId": "memorial1806",
+        "appendPerformance": 600,
+        "appendTechnique": 600,
+        "appendVisual": 600,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 3,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 7,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 11,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "追憶：日向雨　後編",
+          "Recollections: Sunshower Pt. 2",
+          "追憶：太陽雨　後篇",
+          "追忆：太阳雨 后篇",
+          null
+        ],
+        "characterId": 22
+      }
+    ]
+  },
+  "costumeId": 1784,
+  "gachaText": [
+    "『雨はずっと、嫌いだった』",
+    "I've always hated the rain.",
+    "『我一直，都很討厭下雨』",
+    "『我一直都很讨厌下雨』",
+    null
+  ],
+  "prefix": [
+    "雨雫と陽",
+    "Raindrops and the Sun",
+    "雨珠與陽光",
+    "雨滴与太阳",
+    null
+  ],
+  "releasedAt": [
+    "1694152800000",
+    "1713920400000",
+    "1706338800000",
+    "1711947600000",
+    null
+  ],
+  "skillName": [
+    "降り注ぎ、重なる記憶",
+    "Overlapping Memories",
+    "落下的，沉重記憶",
+    "倾泻而下、重合的记忆",
+    null
+  ],
+  "skillId": 69,
+  "source": null,
+  "type": "dreamfes",
+  "stat": {
+    "1": {
+      "performance": 3482,
+      "technique": 3683,
+      "visual": 3546
+    },
+    "2": {
+      "performance": 3518,
+      "technique": 3721,
+      "visual": 3583
+    },
+    "3": {
+      "performance": 3555,
+      "technique": 3760,
+      "visual": 3621
+    },
+    "4": {
+      "performance": 3594,
+      "technique": 3801,
+      "visual": 3660
+    },
+    "5": {
+      "performance": 3634,
+      "technique": 3844,
+      "visual": 3701
+    },
+    "6": {
+      "performance": 3676,
+      "technique": 3888,
+      "visual": 3743
+    },
+    "7": {
+      "performance": 3719,
+      "technique": 3934,
+      "visual": 3787
+    },
+    "8": {
+      "performance": 3764,
+      "technique": 3981,
+      "visual": 3832
+    },
+    "9": {
+      "performance": 3810,
+      "technique": 4030,
+      "visual": 3879
+    },
+    "10": {
+      "performance": 3857,
+      "technique": 4080,
+      "visual": 3927
+    },
+    "11": {
+      "performance": 3906,
+      "technique": 4132,
+      "visual": 3977
+    },
+    "12": {
+      "performance": 3956,
+      "technique": 4185,
+      "visual": 4028
+    },
+    "13": {
+      "performance": 4008,
+      "technique": 4240,
+      "visual": 4081
+    },
+    "14": {
+      "performance": 4061,
+      "technique": 4296,
+      "visual": 4135
+    },
+    "15": {
+      "performance": 4116,
+      "technique": 4354,
+      "visual": 4191
+    },
+    "16": {
+      "performance": 4172,
+      "technique": 4413,
+      "visual": 4248
+    },
+    "17": {
+      "performance": 4229,
+      "technique": 4474,
+      "visual": 4306
+    },
+    "18": {
+      "performance": 4288,
+      "technique": 4536,
+      "visual": 4366
+    },
+    "19": {
+      "performance": 4348,
+      "technique": 4600,
+      "visual": 4427
+    },
+    "20": {
+      "performance": 4410,
+      "technique": 4665,
+      "visual": 4490
+    },
+    "21": {
+      "performance": 4473,
+      "technique": 4732,
+      "visual": 4554
+    },
+    "22": {
+      "performance": 4538,
+      "technique": 4800,
+      "visual": 4620
+    },
+    "23": {
+      "performance": 4604,
+      "technique": 4870,
+      "visual": 4687
+    },
+    "24": {
+      "performance": 4671,
+      "technique": 4941,
+      "visual": 4756
+    },
+    "25": {
+      "performance": 4740,
+      "technique": 5014,
+      "visual": 4826
+    },
+    "26": {
+      "performance": 4810,
+      "technique": 5088,
+      "visual": 4898
+    },
+    "27": {
+      "performance": 4882,
+      "technique": 5164,
+      "visual": 4971
+    },
+    "28": {
+      "performance": 4955,
+      "technique": 5241,
+      "visual": 5046
+    },
+    "29": {
+      "performance": 5030,
+      "technique": 5320,
+      "visual": 5122
+    },
+    "30": {
+      "performance": 5106,
+      "technique": 5400,
+      "visual": 5199
+    },
+    "31": {
+      "performance": 5184,
+      "technique": 5482,
+      "visual": 5278
+    },
+    "32": {
+      "performance": 5263,
+      "technique": 5566,
+      "visual": 5358
+    },
+    "33": {
+      "performance": 5343,
+      "technique": 5651,
+      "visual": 5440
+    },
+    "34": {
+      "performance": 5425,
+      "technique": 5738,
+      "visual": 5523
+    },
+    "35": {
+      "performance": 5508,
+      "technique": 5826,
+      "visual": 5608
+    },
+    "36": {
+      "performance": 5593,
+      "technique": 5916,
+      "visual": 5694
+    },
+    "37": {
+      "performance": 5679,
+      "technique": 6007,
+      "visual": 5782
+    },
+    "38": {
+      "performance": 5767,
+      "technique": 6100,
+      "visual": 5871
+    },
+    "39": {
+      "performance": 5856,
+      "technique": 6194,
+      "visual": 5962
+    },
+    "40": {
+      "performance": 5946,
+      "technique": 6290,
+      "visual": 6054
+    },
+    "41": {
+      "performance": 6038,
+      "technique": 6387,
+      "visual": 6148
+    },
+    "42": {
+      "performance": 6131,
+      "technique": 6486,
+      "visual": 6243
+    },
+    "43": {
+      "performance": 6226,
+      "technique": 6586,
+      "visual": 6340
+    },
+    "44": {
+      "performance": 6322,
+      "technique": 6688,
+      "visual": 6438
+    },
+    "45": {
+      "performance": 6420,
+      "technique": 6791,
+      "visual": 6537
+    },
+    "46": {
+      "performance": 6519,
+      "technique": 6896,
+      "visual": 6638
+    },
+    "47": {
+      "performance": 6619,
+      "technique": 7002,
+      "visual": 6740
+    },
+    "48": {
+      "performance": 6721,
+      "technique": 7110,
+      "visual": 6844
+    },
+    "49": {
+      "performance": 6824,
+      "technique": 7219,
+      "visual": 6949
+    },
+    "50": {
+      "performance": 6929,
+      "technique": 7330,
+      "visual": 7056
+    },
+    "51": {
+      "performance": 7120,
+      "technique": 7532,
+      "visual": 7250
+    },
+    "52": {
+      "performance": 7345,
+      "technique": 7770,
+      "visual": 7479
+    },
+    "53": {
+      "performance": 7604,
+      "technique": 8044,
+      "visual": 7743
+    },
+    "54": {
+      "performance": 7897,
+      "technique": 8354,
+      "visual": 8042
+    },
+    "55": {
+      "performance": 8225,
+      "technique": 8701,
+      "visual": 8376
+    },
+    "56": {
+      "performance": 8587,
+      "technique": 9084,
+      "visual": 8744
+    },
+    "57": {
+      "performance": 8983,
+      "technique": 9503,
+      "visual": 9147
+    },
+    "58": {
+      "performance": 9413,
+      "technique": 9958,
+      "visual": 9585
+    },
+    "59": {
+      "performance": 9877,
+      "technique": 10449,
+      "visual": 10058
+    },
+    "60": {
+      "performance": 10376,
+      "technique": 10976,
+      "visual": 10566
+    },
+    "episodes": [
+      {
+        "performance": 250,
+        "technique": 250,
+        "visual": 250
+      },
+      {
+        "performance": 600,
+        "technique": 600,
+        "visual": 600
+      }
+    ],
+    "training": {
+      "levelLimit": 10,
+      "performance": 400,
+      "technique": 400,
+      "visual": 400
+    }
+  }
+}

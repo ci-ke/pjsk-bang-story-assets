@@ -1,0 +1,288 @@
+{
+  "characterId": 19,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res019026",
+  "sdResourceName": "sd019026",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1051,
+        "episodeType": "standard",
+        "situationId": 629,
+        "scenarioId": "episode629",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "野菜スティック",
+          "Veggie Sticks",
+          "蔬菜棒",
+          "蔬菜条",
+          "채소 스틱"
+        ],
+        "characterId": 19
+      },
+      {
+        "episodeId": 1052,
+        "episodeType": "memorial",
+        "situationId": 629,
+        "scenarioId": "memorial629",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "桜めぐり",
+          "Sakura Tour",
+          "櫻巡",
+          "赏樱",
+          "벚꽃 산책"
+        ],
+        "characterId": 19
+      }
+    ]
+  },
+  "costumeId": 580,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "感動のお花見",
+    "Moved by the Sakura",
+    "感動的賞花",
+    "令人感动的赏花",
+    "감동의 꽃놀이"
+  ],
+  "releasedAt": [
+    "1554012000000",
+    "1585702800000",
+    "1565247600000",
+    "1604379600000",
+    "1554012000000"
+  ],
+  "skillName": [
+    "ためになりますっ",
+    "Making Myself Useful",
+    "幫了大忙",
+    "有好处",
+    "도움이 될게요!"
+  ],
+  "skillId": 5,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1704,
+      "technique": 1866,
+      "visual": 2310
+    },
+    "2": {
+      "performance": 1750,
+      "technique": 1916,
+      "visual": 2372
+    },
+    "3": {
+      "performance": 1799,
+      "technique": 1970,
+      "visual": 2438
+    },
+    "4": {
+      "performance": 1851,
+      "technique": 2027,
+      "visual": 2509
+    },
+    "5": {
+      "performance": 1906,
+      "technique": 2087,
+      "visual": 2584
+    },
+    "6": {
+      "performance": 1964,
+      "technique": 2151,
+      "visual": 2663
+    },
+    "7": {
+      "performance": 2025,
+      "technique": 2218,
+      "visual": 2746
+    },
+    "8": {
+      "performance": 2089,
+      "technique": 2288,
+      "visual": 2833
+    },
+    "9": {
+      "performance": 2156,
+      "technique": 2362,
+      "visual": 2924
+    },
+    "10": {
+      "performance": 2226,
+      "technique": 2439,
+      "visual": 3019
+    },
+    "11": {
+      "performance": 2299,
+      "technique": 2519,
+      "visual": 3119
+    },
+    "12": {
+      "performance": 2375,
+      "technique": 2603,
+      "visual": 3223
+    },
+    "13": {
+      "performance": 2455,
+      "technique": 2690,
+      "visual": 3331
+    },
+    "14": {
+      "performance": 2538,
+      "technique": 2780,
+      "visual": 3443
+    },
+    "15": {
+      "performance": 2624,
+      "technique": 2874,
+      "visual": 3559
+    },
+    "16": {
+      "performance": 2713,
+      "technique": 2971,
+      "visual": 3679
+    },
+    "17": {
+      "performance": 2805,
+      "technique": 3072,
+      "visual": 3803
+    },
+    "18": {
+      "performance": 2900,
+      "technique": 3176,
+      "visual": 3932
+    },
+    "19": {
+      "performance": 2998,
+      "technique": 3283,
+      "visual": 4065
+    },
+    "20": {
+      "performance": 3099,
+      "technique": 3394,
+      "visual": 4202
+    },
+    "21": {
+      "performance": 3203,
+      "technique": 3508,
+      "visual": 4343
+    },
+    "22": {
+      "performance": 3310,
+      "technique": 3625,
+      "visual": 4488
+    },
+    "23": {
+      "performance": 3420,
+      "technique": 3746,
+      "visual": 4637
+    },
+    "24": {
+      "performance": 3533,
+      "technique": 3870,
+      "visual": 4790
+    },
+    "25": {
+      "performance": 3649,
+      "technique": 3997,
+      "visual": 4948
+    },
+    "26": {
+      "performance": 3768,
+      "technique": 4128,
+      "visual": 5110
+    },
+    "27": {
+      "performance": 3890,
+      "technique": 4262,
+      "visual": 5276
+    },
+    "28": {
+      "performance": 4015,
+      "technique": 4399,
+      "visual": 5446
+    },
+    "29": {
+      "performance": 4143,
+      "technique": 4540,
+      "visual": 5620
+    },
+    "30": {
+      "performance": 4275,
+      "technique": 4684,
+      "visual": 5798
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

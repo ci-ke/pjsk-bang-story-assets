@@ -1,0 +1,288 @@
+{
+  "characterId": 10,
+  "rarity": 2,
+  "attribute": "happy",
+  "levelLimit": 30,
+  "resourceSetName": "res010036",
+  "sdResourceName": "sd010036",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 1165,
+        "episodeType": "standard",
+        "situationId": 731,
+        "scenarioId": "episode731",
+        "appendPerformance": 150,
+        "appendTechnique": 150,
+        "appendVisual": 150,
+        "releaseLevel": 1,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 100,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 25,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "夏の人気メニュー",
+          "Popular Summer Menu Item",
+          "夏天的人氣菜單",
+          "夏天的人气菜单",
+          "여름 인기 메뉴"
+        ],
+        "characterId": 10
+      },
+      {
+        "episodeId": 1166,
+        "episodeType": "memorial",
+        "situationId": 731,
+        "scenarioId": "memorial731",
+        "appendPerformance": 300,
+        "appendTechnique": 300,
+        "appendVisual": 300,
+        "releaseLevel": 30,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 1,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 5,
+              "resourceType": "item",
+              "quantity": 150,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 50,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "一緒にいると",
+          "When We're Together",
+          "在一起的話",
+          "只要和她在一起",
+          "같이 있으면"
+        ],
+        "characterId": 10
+      }
+    ]
+  },
+  "costumeId": 682,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "幸せティータイム",
+    "A Joyful Tea Time",
+    "幸福的下午茶時間",
+    "幸福的下午茶时间",
+    "행복한 티 타임"
+  ],
+  "releasedAt": [
+    "1563688800000",
+    "1595379600000",
+    "1575010800000",
+    "1611637200000",
+    "1563688800000"
+  ],
+  "skillName": [
+    "ホッとできる時間",
+    "Time to Rest Easy",
+    "可以鬆口氣的時間",
+    "能够放松的时间",
+    "안심하는 시간"
+  ],
+  "skillId": 8,
+  "source": null,
+  "type": "event",
+  "stat": {
+    "1": {
+      "performance": 1992,
+      "technique": 2232,
+      "visual": 1836
+    },
+    "2": {
+      "performance": 2045,
+      "technique": 2291,
+      "visual": 1885
+    },
+    "3": {
+      "performance": 2102,
+      "technique": 2354,
+      "visual": 1937
+    },
+    "4": {
+      "performance": 2162,
+      "technique": 2421,
+      "visual": 1992
+    },
+    "5": {
+      "performance": 2226,
+      "technique": 2492,
+      "visual": 2051
+    },
+    "6": {
+      "performance": 2293,
+      "technique": 2567,
+      "visual": 2113
+    },
+    "7": {
+      "performance": 2364,
+      "technique": 2646,
+      "visual": 2178
+    },
+    "8": {
+      "performance": 2438,
+      "technique": 2729,
+      "visual": 2246
+    },
+    "9": {
+      "performance": 2516,
+      "technique": 2816,
+      "visual": 2318
+    },
+    "10": {
+      "performance": 2597,
+      "technique": 2907,
+      "visual": 2393
+    },
+    "11": {
+      "performance": 2682,
+      "technique": 3002,
+      "visual": 2471
+    },
+    "12": {
+      "performance": 2770,
+      "technique": 3101,
+      "visual": 2552
+    },
+    "13": {
+      "performance": 2862,
+      "technique": 3204,
+      "visual": 2637
+    },
+    "14": {
+      "performance": 2957,
+      "technique": 3311,
+      "visual": 2725
+    },
+    "15": {
+      "performance": 3056,
+      "technique": 3422,
+      "visual": 2816
+    },
+    "16": {
+      "performance": 3158,
+      "technique": 3537,
+      "visual": 2910
+    },
+    "17": {
+      "performance": 3264,
+      "technique": 3656,
+      "visual": 3008
+    },
+    "18": {
+      "performance": 3373,
+      "technique": 3779,
+      "visual": 3109
+    },
+    "19": {
+      "performance": 3486,
+      "technique": 3906,
+      "visual": 3213
+    },
+    "20": {
+      "performance": 3602,
+      "technique": 4036,
+      "visual": 3320
+    },
+    "21": {
+      "performance": 3722,
+      "technique": 4170,
+      "visual": 3431
+    },
+    "22": {
+      "performance": 3845,
+      "technique": 4308,
+      "visual": 3545
+    },
+    "23": {
+      "performance": 3972,
+      "technique": 4450,
+      "visual": 3662
+    },
+    "24": {
+      "performance": 4103,
+      "technique": 4596,
+      "visual": 3782
+    },
+    "25": {
+      "performance": 4237,
+      "technique": 4746,
+      "visual": 3906
+    },
+    "26": {
+      "performance": 4375,
+      "technique": 4900,
+      "visual": 4033
+    },
+    "27": {
+      "performance": 4516,
+      "technique": 5058,
+      "visual": 4163
+    },
+    "28": {
+      "performance": 4661,
+      "technique": 5220,
+      "visual": 4296
+    },
+    "29": {
+      "performance": 4809,
+      "technique": 5386,
+      "visual": 4433
+    },
+    "30": {
+      "performance": 4961,
+      "technique": 5556,
+      "visual": 4573
+    },
+    "episodes": [
+      {
+        "performance": 150,
+        "technique": 150,
+        "visual": 150
+      },
+      {
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    ]
+  }
+}

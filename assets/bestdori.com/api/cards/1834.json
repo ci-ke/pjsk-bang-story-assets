@@ -1,0 +1,436 @@
+{
+  "characterId": 13,
+  "rarity": 5,
+  "attribute": "cool",
+  "levelLimit": 60,
+  "resourceSetName": "res013066",
+  "sdResourceName": "sd013066",
+  "episodes": {
+    "entries": [
+      {
+        "episodeId": 3071,
+        "episodeType": "animation",
+        "situationId": 1834,
+        "appendPerformance": 0,
+        "appendTechnique": 0,
+        "appendVisual": 0,
+        "releaseLevel": 1,
+        "costs": {},
+        "rewards": {},
+        "title": [
+          "花と笑顔、ふわり",
+          "Flowers and Smiles",
+          "花與笑容，輕柔地",
+          "花朵与笑容，轻柔地绽放",
+          null
+        ],
+        "characterId": 13
+      },
+      {
+        "episodeId": 3072,
+        "episodeType": "memorial",
+        "situationId": 1834,
+        "scenarioId": "memorial1834",
+        "appendPerformance": 850,
+        "appendTechnique": 850,
+        "appendVisual": 850,
+        "releaseLevel": 60,
+        "costs": {
+          "entries": [
+            {
+              "resourceId": 2,
+              "resourceType": "item",
+              "quantity": 2400,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 6,
+              "resourceType": "item",
+              "quantity": 1600,
+              "lbBonus": 1
+            },
+            {
+              "resourceId": 10,
+              "resourceType": "item",
+              "quantity": 400,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "rewards": {
+          "entries": [
+            {
+              "resourceType": "star",
+              "quantity": 75,
+              "lbBonus": 1
+            }
+          ]
+        },
+        "title": [
+          "両手からあふれるほどの",
+          "An Armful",
+          "彷若從雙手中滿溢出的",
+          "两只手都拿不下",
+          null
+        ],
+        "characterId": 13
+      }
+    ]
+  },
+  "costumeId": 1807,
+  "gachaText": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "prefix": [
+    "花と笑顔、ふわり",
+    "Flowers, Smiles, and Fluff",
+    "花與笑容，輕柔地",
+    "花朵与笑容，轻柔地绽放",
+    null
+  ],
+  "releasedAt": [
+    "1695967200000",
+    "1732496400000",
+    "1709881200000",
+    "1713502800000",
+    null
+  ],
+  "skillName": [
+    "ありったけのかわいいをキミに",
+    "All the Cuteness in the World",
+    "將所有可愛獻給你",
+    "将一切可爱送给你",
+    null
+  ],
+  "skillId": 70,
+  "source": null,
+  "type": "kirafes",
+  "animation": {
+    "situationId": 1834,
+    "assetBundleName": "mov013001"
+  },
+  "stat": {
+    "1": {
+      "performance": 3546,
+      "technique": 3651,
+      "visual": 3514
+    },
+    "2": {
+      "performance": 3610,
+      "technique": 3717,
+      "visual": 3577
+    },
+    "3": {
+      "performance": 3676,
+      "technique": 3785,
+      "visual": 3643
+    },
+    "4": {
+      "performance": 3744,
+      "technique": 3855,
+      "visual": 3711
+    },
+    "5": {
+      "performance": 3814,
+      "technique": 3927,
+      "visual": 3781
+    },
+    "6": {
+      "performance": 3886,
+      "technique": 4002,
+      "visual": 3853
+    },
+    "7": {
+      "performance": 3961,
+      "technique": 4079,
+      "visual": 3927
+    },
+    "8": {
+      "performance": 4038,
+      "technique": 4158,
+      "visual": 4003
+    },
+    "9": {
+      "performance": 4117,
+      "technique": 4239,
+      "visual": 4081
+    },
+    "10": {
+      "performance": 4198,
+      "technique": 4322,
+      "visual": 4161
+    },
+    "11": {
+      "performance": 4281,
+      "technique": 4407,
+      "visual": 4243
+    },
+    "12": {
+      "performance": 4366,
+      "technique": 4495,
+      "visual": 4328
+    },
+    "13": {
+      "performance": 4453,
+      "technique": 4585,
+      "visual": 4415
+    },
+    "14": {
+      "performance": 4543,
+      "technique": 4677,
+      "visual": 4504
+    },
+    "15": {
+      "performance": 4635,
+      "technique": 4771,
+      "visual": 4595
+    },
+    "16": {
+      "performance": 4729,
+      "technique": 4867,
+      "visual": 4688
+    },
+    "17": {
+      "performance": 4825,
+      "technique": 4966,
+      "visual": 4783
+    },
+    "18": {
+      "performance": 4923,
+      "technique": 5067,
+      "visual": 4880
+    },
+    "19": {
+      "performance": 5023,
+      "technique": 5170,
+      "visual": 4979
+    },
+    "20": {
+      "performance": 5125,
+      "technique": 5275,
+      "visual": 5080
+    },
+    "21": {
+      "performance": 5229,
+      "technique": 5382,
+      "visual": 5184
+    },
+    "22": {
+      "performance": 5336,
+      "technique": 5492,
+      "visual": 5290
+    },
+    "23": {
+      "performance": 5445,
+      "technique": 5604,
+      "visual": 5398
+    },
+    "24": {
+      "performance": 5556,
+      "technique": 5718,
+      "visual": 5508
+    },
+    "25": {
+      "performance": 5669,
+      "technique": 5834,
+      "visual": 5620
+    },
+    "26": {
+      "performance": 5784,
+      "technique": 5952,
+      "visual": 5734
+    },
+    "27": {
+      "performance": 5901,
+      "technique": 6073,
+      "visual": 5850
+    },
+    "28": {
+      "performance": 6020,
+      "technique": 6196,
+      "visual": 5968
+    },
+    "29": {
+      "performance": 6142,
+      "technique": 6321,
+      "visual": 6089
+    },
+    "30": {
+      "performance": 6266,
+      "technique": 6448,
+      "visual": 6212
+    },
+    "31": {
+      "performance": 6392,
+      "technique": 6577,
+      "visual": 6337
+    },
+    "32": {
+      "performance": 6520,
+      "technique": 6708,
+      "visual": 6464
+    },
+    "33": {
+      "performance": 6650,
+      "technique": 6842,
+      "visual": 6593
+    },
+    "34": {
+      "performance": 6782,
+      "technique": 6978,
+      "visual": 6724
+    },
+    "35": {
+      "performance": 6916,
+      "technique": 7116,
+      "visual": 6857
+    },
+    "36": {
+      "performance": 7052,
+      "technique": 7256,
+      "visual": 6992
+    },
+    "37": {
+      "performance": 7191,
+      "technique": 7398,
+      "visual": 7129
+    },
+    "38": {
+      "performance": 7332,
+      "technique": 7543,
+      "visual": 7269
+    },
+    "39": {
+      "performance": 7475,
+      "technique": 7690,
+      "visual": 7411
+    },
+    "40": {
+      "performance": 7620,
+      "technique": 7839,
+      "visual": 7555
+    },
+    "41": {
+      "performance": 7767,
+      "technique": 7990,
+      "visual": 7701
+    },
+    "42": {
+      "performance": 7916,
+      "technique": 8143,
+      "visual": 7849
+    },
+    "43": {
+      "performance": 8067,
+      "technique": 8299,
+      "visual": 7999
+    },
+    "44": {
+      "performance": 8220,
+      "technique": 8457,
+      "visual": 8151
+    },
+    "45": {
+      "performance": 8376,
+      "technique": 8617,
+      "visual": 8305
+    },
+    "46": {
+      "performance": 8534,
+      "technique": 8779,
+      "visual": 8461
+    },
+    "47": {
+      "performance": 8694,
+      "technique": 8943,
+      "visual": 8620
+    },
+    "48": {
+      "performance": 8856,
+      "technique": 9110,
+      "visual": 8781
+    },
+    "49": {
+      "performance": 9020,
+      "technique": 9279,
+      "visual": 8944
+    },
+    "50": {
+      "performance": 9186,
+      "technique": 9450,
+      "visual": 9109
+    },
+    "51": {
+      "performance": 9354,
+      "technique": 9623,
+      "visual": 9276
+    },
+    "52": {
+      "performance": 9525,
+      "technique": 9798,
+      "visual": 9445
+    },
+    "53": {
+      "performance": 9698,
+      "technique": 9976,
+      "visual": 9616
+    },
+    "54": {
+      "performance": 9873,
+      "technique": 10156,
+      "visual": 9789
+    },
+    "55": {
+      "performance": 10050,
+      "technique": 10338,
+      "visual": 9964
+    },
+    "56": {
+      "performance": 10229,
+      "technique": 10522,
+      "visual": 10142
+    },
+    "57": {
+      "performance": 10410,
+      "technique": 10708,
+      "visual": 10322
+    },
+    "58": {
+      "performance": 10593,
+      "technique": 10896,
+      "visual": 10504
+    },
+    "59": {
+      "performance": 10778,
+      "technique": 11087,
+      "visual": 10688
+    },
+    "60": {
+      "performance": 10966,
+      "technique": 11280,
+      "visual": 10873
+    },
+    "episodes": [
+      {
+        "performance": 0,
+        "technique": 0,
+        "visual": 0
+      },
+      {
+        "performance": 850,
+        "technique": 850,
+        "visual": 850
+      }
+    ],
+    "training": {
+      "levelLimit": 0,
+      "performance": 0,
+      "technique": 0,
+      "visual": 0
+    }
+  }
+}

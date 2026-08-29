@@ -11,6 +11,7 @@ jobs:
     permissions:
       contents: write
     with:
-      run_command: "uv run --no-dev -m action.assets_pjsk full && uv run --no-dev -m action.assets_bang full"
+      run_command: "uv run --no-dev -m action.assets_pjsk full"
+      run_command_extra: "uv run --no-dev -m action.assets_bang full"
       commit_message: "Update full"
       

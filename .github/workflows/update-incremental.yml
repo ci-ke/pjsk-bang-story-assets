@@ -11,5 +11,6 @@ jobs:
     permissions:
       contents: write
     with:
-      run_command: "uv run --no-dev -m action.assets_pjsk incremental && uv run --no-dev -m action.assets_bang incremental"
+      run_command: "uv run --no-dev -m action.assets_pjsk incremental"
+      run_command_extra: "uv run --no-dev -m action.assets_bang incremental"
       commit_message: "Update incremental"

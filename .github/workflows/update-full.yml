@@ -2,6 +2,15 @@ name: Update Full
 
 on:
   workflow_dispatch:
+    inputs:
+      skip_run_command:
+        description: 'Skip pjsk'
+        type: boolean
+        default: false
+      skip_run_command_extra:
+        description: 'Skip bang'
+        type: boolean
+        default: false
   schedule:
     - cron: '0 0 * * 0'
 
@@ -14,4 +23,6 @@ jobs:
       run_command: "uv run --no-dev -m action.assets_pjsk full"
       run_command_extra: "uv run --no-dev -m action.assets_bang full"
       commit_message: "Update full"
+      skip_run_command: ${{ inputs.skip_run_command || false }}
+      skip_run_command_extra: ${{ inputs.skip_run_command_extra || false }}
       

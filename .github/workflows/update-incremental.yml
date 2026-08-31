@@ -2,6 +2,15 @@ name: Update Incremental
 
 on:
   workflow_dispatch:
+    inputs:
+      skip_run_command:
+        description: 'Skip pjsk'
+        type: boolean
+        default: false
+      skip_run_command_extra:
+        description: 'Skip bang'
+        type: boolean
+        default: false
   schedule:
     - cron: '0 0 * * 1-6'
 
@@ -14,3 +23,5 @@ jobs:
       run_command: "uv run --no-dev -m action.assets_pjsk incremental"
       run_command_extra: "uv run --no-dev -m action.assets_bang incremental"
       commit_message: "Update incremental"
+      skip_run_command: ${{ inputs.skip_run_command || false }}
+      skip_run_command_extra: ${{ inputs.skip_run_command_extra || false }}

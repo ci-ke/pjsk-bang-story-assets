@@ -107335,14 +107335,14 @@
     "resourceSetName": "res029042",
     "prefix": [
       "朝日に照らされた君は",
-      "You, Shining in the Morning Sun",
+      "You, Bathed in Morning Light",
       "被朝陽照耀的你",
       "被朝阳照亮的你",
       null
     ],
     "releasedAt": [
       "1768024800000",
-      null,
+      "1789779600000",
       "1782543600000",
       "1785128400000",
       null
@@ -107388,14 +107388,14 @@
     "resourceSetName": "res026052",
     "prefix": [
       "ずっと支えてくれた人",
-      "You, Who Has Always Supported Me",
+      "The One Who's Always Been There",
       "一直支持著我的人",
       "一直以来支持我的人",
       null
     ],
     "releasedAt": [
       "1768024800000",
-      null,
+      "1789779600000",
       "1782543600000",
       "1785128400000",
       null
@@ -107441,14 +107441,14 @@
     "resourceSetName": "res028045",
     "prefix": [
       "広町センサー発動！",
-      "Hiromachi Sensor Activated!",
+      "Hiromachi Sensors: Online!",
       "廣町感測器啟動！",
       "广町感应器启动！",
       null
     ],
     "releasedAt": [
       "1768024800000",
-      null,
+      "1789779600000",
       "1782543600000",
       "1785128400000",
       null
@@ -107489,7 +107489,7 @@
     ],
     "releasedAt": [
       "1768024800000",
-      null,
+      "1789779600000",
       "1782543600000",
       "1785128400000",
       null
@@ -107517,14 +107517,14 @@
     "resourceSetName": "res030044",
     "prefix": [
       "決意は音に乗り",
-      "Resolve Carried in My Sound",
+      "Resolve Carried on the Music",
       "決心乘著音樂而去",
       "决心寄于乐声",
       null
     ],
     "releasedAt": [
       "1768024800000",
-      null,
+      "1789779600000",
       "1782543600000",
       "1785128400000",
       null
@@ -114779,6 +114779,241 @@
         "performance": 11828,
         "technique": 10790,
         "visual": 9303
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2520": {
+    "characterId": 3,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res003082",
+    "prefix": [
+      "あたたかな手のひら",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1789797600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 87,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 4001,
+        "technique": 3154,
+        "visual": 3535
+      },
+      "60": {
+        "performance": 11923,
+        "technique": 9403,
+        "visual": 10533
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2521": {
+    "characterId": 1,
+    "rarity": 5,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res001101",
+    "prefix": [
+      "空からの贈り物",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1789797600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 68,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 4085,
+        "technique": 3472,
+        "visual": 3239
+      },
+      "60": {
+        "performance": 12173,
+        "technique": 10347,
+        "visual": 9646
+      },
+      "episodes": [
+        {
+          "performance": 250,
+          "technique": 250,
+          "visual": 250
+        },
+        {
+          "performance": 600,
+          "technique": 600,
+          "visual": 600
+        }
+      ],
+      "training": {
+        "levelLimit": 10,
+        "performance": 400,
+        "technique": 400,
+        "visual": 400
+      }
+    }
+  },
+  "2522": {
+    "characterId": 2,
+    "rarity": 3,
+    "attribute": "happy",
+    "levelLimit": 40,
+    "resourceSetName": "res002083",
+    "prefix": [
+      "街角うさぎ発見録",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1789797600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 9,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 2978,
+        "technique": 3764,
+        "visual": 3056
+      },
+      "50": {
+        "performance": 8874,
+        "technique": 11215,
+        "visual": 9114
+      },
+      "training": {
+        "levelLimit": 10,
+        "performance": 300,
+        "technique": 300,
+        "visual": 300
+      }
+    }
+  },
+  "2523": {
+    "characterId": 5,
+    "rarity": 2,
+    "attribute": "cool",
+    "levelLimit": 30,
+    "resourceSetName": "res005094",
+    "prefix": [
+      "フリル・ド・メロディ",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1789797600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 23,
+    "type": "event",
+    "stat": {
+      "1": {
+        "performance": 1884,
+        "technique": 2086,
+        "visual": 2439
+      },
+      "30": {
+        "performance": 4729,
+        "technique": 5236,
+        "visual": 6122
+      }
+    }
+  },
+  "2524": {
+    "characterId": 4,
+    "rarity": 4,
+    "attribute": "pure",
+    "levelLimit": 50,
+    "resourceSetName": "res004082",
+    "prefix": [
+      "特大エール！",
+      null,
+      null,
+      null,
+      null
+    ],
+    "releasedAt": [
+      "1789797600000",
+      null,
+      null,
+      null,
+      null
+    ],
+    "skillId": 61,
+    "type": "special",
+    "stat": {
+      "1": {
+        "performance": 3619,
+        "technique": 3709,
+        "visual": 2853
+      },
+      "60": {
+        "performance": 10786,
+        "technique": 11053,
+        "visual": 8502
       },
       "episodes": [
         {
